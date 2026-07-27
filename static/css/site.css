@@ -1,0 +1,490 @@
+/* Daily Dose of News — shared stylesheet.
+   Extracted from sample_markets_section.html and generalized into one system.
+   Palette: the "chill blue" scheme from CLAUDE.md (supersedes the terracotta in the spec doc).
+   Fonts are loaded via <link> in base.html; this file only references the families. */
+
+:root{
+  --bg:#F3F7FB;
+  --surface:#FFFFFF;
+  --text:#152532;
+  --secondary:#5E7285;
+  --hairline:#DCE6EF;
+  --accent:#2E6DA4;
+  --tint:#E5EEF6;
+  --tint-hover:#DAE7F2;
+  --up:#2E8B7B;
+  --down:#C15C4E;
+  --up-tint:#E9F4F1;
+  --up-border:#CBE4DD;
+  --down-tint:#F8EDEA;
+  --down-border:#EBD2CB;
+  /* Higher-contrast, near-black headline ink (headlines pop against the blue-grey bg). */
+  --headline:#0C1922;
+  /* Link ink is deliberately distinct from the partisan colors below so a hyperlink is
+     never confused with the Democratic-blue / Republican-red debate coloring. */
+  --link:#1F6FB2;
+  /* Partisan colors — used ONLY for the Debate columns + spectrum poles, never for links. */
+  --dem:#2B4C8C;
+  --dem-tint:#EAF0F8;
+  --rep:#B0432F;
+  --rep-tint:#F8ECE8;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --wrap:720px;
+}
+
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--bg);
+  color:var(--text);
+  font-family:var(--sans);
+  line-height:1.65;
+  -webkit-font-smoothing:antialiased;
+}
+
+/* ---- Top nav (scrolls away, NOT sticky) ----
+   Centered so that when the eight items wrap, both rows sit balanced under the
+   masthead instead of a couple of orphans hanging off the left edge. */
+nav.topnav{
+  max-width:var(--wrap);
+  margin:0 auto;
+  padding:18px 24px 0;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  column-gap:18px;
+  row-gap:8px;
+  font-family:var(--sans);
+  font-size:13px;
+  font-weight:500;
+  letter-spacing:.02em;
+}
+nav.topnav a{color:var(--secondary);text-decoration:none;padding-bottom:2px;}
+nav.topnav a:hover{color:var(--text);}
+nav.topnav a.active{color:var(--text);border-bottom:2px solid var(--accent);}
+
+/* ---- Masthead ----
+   Centered, broadsheet-style: wordmark over the page title over the dateline,
+   with the accent rule centered beneath — instead of a left-hugging stack. */
+header.masthead{
+  max-width:var(--wrap);
+  margin:0 auto;
+  padding:28px 24px 0;
+  text-align:center;
+}
+.wordmark{
+  font-family:var(--serif);
+  font-weight:700;
+  font-size:15px;
+  letter-spacing:.04em;
+  text-transform:uppercase;
+  color:var(--text);
+  text-decoration:none;
+}
+.section-title{
+  font-family:var(--serif);
+  font-weight:700;
+  font-size:40px;
+  line-height:1.1;
+  letter-spacing:-.015em;
+  color:var(--headline);
+  margin:10px 0 6px;
+  text-wrap:balance;   /* two-line titles wrap evenly instead of leaving an orphan word */
+}
+.dateline{
+  font-family:var(--sans);
+  font-size:13px;
+  color:var(--secondary);
+}
+.accent-rule{
+  height:2px;
+  background:var(--accent);
+  width:56px;
+  margin:16px auto 0;
+  border:0;
+}
+
+/* ---- Markets ticker ---- */
+.ticker{max-width:var(--wrap);margin:24px auto 0;padding:0 24px;}
+.ticker-head{
+  display:flex;justify-content:space-between;align-items:baseline;
+  gap:12px;margin-bottom:8px;
+}
+.ticker-label{
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--secondary);
+}
+.ticker-asof{font-family:var(--sans);font-size:11px;color:var(--secondary);}
+.ticker-strip{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:8px;
+  overflow:hidden;position:relative;
+  /* soft fade at both edges so the loop reads as a continuous tape */
+  -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 28px,#000 calc(100% - 28px),transparent 100%);
+  mask-image:linear-gradient(90deg,transparent 0,#000 28px,#000 calc(100% - 28px),transparent 100%);
+}
+.ticker-track{
+  display:flex;gap:0;white-space:nowrap;
+  animation:scroll 46s linear infinite;width:max-content;
+}
+.ticker-strip:hover .ticker-track{animation-play-state:paused;}
+@keyframes scroll{from{transform:translateX(0);}to{transform:translateX(-50%);}}
+.tick{
+  display:inline-flex;align-items:baseline;gap:8px;padding:12px 18px;
+  border-right:1px solid var(--hairline);font-family:var(--sans);font-size:13px;
+}
+.tick .sym{font-weight:600;color:var(--text);letter-spacing:.01em;}
+.tick .val{color:var(--secondary);font-variant-numeric:tabular-nums;}
+.tick .chg{font-weight:600;font-variant-numeric:tabular-nums;}
+/* 7-day sparkline riding along in each ticker chip (stroke = direction color). */
+.tick .spark{width:44px;height:14px;align-self:center;opacity:.85;}
+.up{color:var(--up);}
+.down{color:var(--down);}
+/* tiny direction arrows, generated so the data stays plain text */
+.chg.up::before{content:"\25B2";font-size:8px;margin-right:3px;vertical-align:1.5px;}
+.chg.down::before{content:"\25BC";font-size:8px;margin-right:3px;vertical-align:1.5px;}
+@media(prefers-reduced-motion:reduce){
+  .ticker-track{animation:none;flex-wrap:nowrap;overflow-x:auto;}
+}
+
+/* ---- Movers strip: direction-tinted pills under their own label ---- */
+.movers-wrap{max-width:var(--wrap);margin:18px auto 0;padding:0 24px;}
+.movers{display:flex;gap:8px;flex-wrap:wrap;}
+.mover{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:16px;
+  padding:6px 13px;font-family:var(--sans);font-size:12.5px;
+  display:flex;align-items:baseline;gap:7px;
+}
+.mover.up{background:var(--up-tint);border-color:var(--up-border);}
+.mover.down{background:var(--down-tint);border-color:var(--down-border);}
+.mover .sym{font-weight:600;letter-spacing:.02em;}
+.mover .chg{font-variant-numeric:tabular-nums;font-weight:600;}
+
+/* ---- Main + stories ---- */
+main{max-width:var(--wrap);margin:0 auto;padding:8px 24px 60px;}
+.lede-in{
+  font-family:var(--sans);font-size:13px;color:var(--secondary);margin:30px 0 6px;
+}
+article.card{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:8px;
+  padding:26px 28px;margin-top:18px;
+}
+/* Full-story hero photo (same visual language as the front-page lead hero;
+   margins mirror article.card padding so the image runs edge to edge). */
+.story-hero{margin:-26px -28px 16px;}
+.story-hero img{
+  display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;
+  border-radius:8px 8px 0 0;
+}
+.story-hero .img-credit{
+  font-family:var(--sans);font-size:11px;color:var(--secondary);
+  text-align:right;padding:6px 28px 0;
+}
+.beat-label{
+  display:inline-block;background:var(--tint);color:var(--accent);
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.07em;
+  text-transform:uppercase;padding:3px 9px;border-radius:4px;margin-bottom:12px;
+}
+h2.headline{
+  font-family:var(--serif);font-weight:700;font-size:27px;line-height:1.2;
+  letter-spacing:-.011em;color:var(--headline);margin:0 0 10px;
+}
+h2.headline a{color:inherit;text-decoration:none;}
+h2.headline a:hover{color:var(--accent);}
+.byline{
+  font-family:var(--sans);font-size:12px;color:var(--secondary);margin-bottom:14px;
+}
+.card p{font-family:var(--serif);font-size:17px;line-height:1.62;margin:0 0 14px;}
+.card p:last-of-type{margin-bottom:0;}
+.inline-move{
+  font-family:var(--sans);font-weight:600;font-variant-numeric:tabular-nums;font-size:15px;
+}
+.source-footer{
+  margin-top:18px;padding-top:13px;border-top:1px solid var(--hairline);
+  font-family:var(--sans);font-size:12px;color:var(--secondary);
+}
+.source-meta{text-align:center;}
+/* Quiet attribution line — the story above IS the complete read; outlet links are
+   small credits, deliberately not a "read the full story" call-to-action. */
+.source-links{
+  text-align:center;margin-top:8px;
+  font-family:var(--sans);font-size:12px;color:var(--secondary);
+}
+.source-links .source-label{font-weight:600;letter-spacing:.02em;}
+.source-links a{color:var(--secondary);text-decoration:underline;
+  text-decoration-color:var(--hairline);text-underline-offset:2px;}
+.source-links a:hover{color:var(--link);text-decoration-color:var(--link);}
+.source-links .sep{margin:0 5px;}
+/* "Read the study" — health-science stories cite the science, not just the reporter. */
+.primary-source{display:flex;justify-content:center;margin-top:12px;}
+.primary-source a{
+  font-family:var(--sans);font-size:12.5px;font-weight:600;
+  color:var(--link);text-decoration:none;
+}
+.primary-source a:hover{text-decoration:underline;}
+
+/* ---- Front-page teaser cards (digest; full story lives on the section page) ---- */
+.teaser-lede{
+  font-family:var(--serif);font-size:17px;line-height:1.6;color:var(--text);margin:0 0 4px;
+}
+.continue-read{display:flex;justify-content:center;margin-top:14px;}
+.continue-read a{
+  display:inline-flex;align-items:center;gap:7px;
+  font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.01em;
+  color:var(--link);text-decoration:none;
+}
+.continue-read a:hover{text-decoration:underline;}
+.continue-read .arrow{font-weight:700;}
+
+/* ---- Front page: single ranked list (pure cross-section significance) ----
+   Tiers: .lead = the day's most significant story, largest treatment;
+   .medium = the next few; .compact = the remainder. All are self-contained
+   briefs linking to the full story on the section page. */
+.front-list{margin-top:4px;}
+.front-item .kicker{
+  display:flex;align-items:baseline;gap:10px;margin-bottom:10px;
+}
+.section-kicker{
+  display:inline-block;background:var(--tint);color:var(--accent);
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.07em;
+  text-transform:uppercase;padding:3px 9px;border-radius:4px;text-decoration:none;
+}
+.section-kicker:hover{background:var(--tint-hover);}
+.front-item .kicker .beat{
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--secondary);
+}
+.front-item.lead{padding:32px 32px;}
+.front-item.lead h2.headline{font-size:34px;line-height:1.15;}
+.front-item.lead .teaser-lede{font-size:18px;}
+.front-item.medium h2.headline{font-size:24px;}
+.front-item.compact{padding:18px 22px;}
+.front-item.compact h2.headline{font-size:19px;margin-bottom:6px;}
+.front-item.compact .teaser-lede{font-size:15px;line-height:1.55;}
+.front-item.compact .kicker{margin-bottom:8px;}
+.front-item.compact .continue-read{margin-top:10px;justify-content:flex-start;}
+.front-item.compact .continue-read a{font-size:12px;}
+/* Real photos only (see CLAUDE.md / image policy): lead gets a full-bleed hero
+   with a visible credit; medium gets a small right thumbnail; compact stays text. */
+.front-hero{margin:-32px -32px 16px;}
+.front-hero img{
+  display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;
+  border-radius:8px 8px 0 0;
+}
+.front-hero .img-credit{
+  font-family:var(--sans);font-size:11px;color:var(--secondary);
+  text-align:right;padding:6px 32px 0;
+}
+.front-item.medium.has-image{overflow:hidden;}
+.front-thumb{
+  float:right;margin:0 0 10px 16px;
+}
+.front-thumb img{
+  display:block;width:112px;height:112px;object-fit:cover;
+  border-radius:6px;border:1px solid var(--hairline);
+}
+@media (max-width:520px){
+  .front-item.lead{padding:24px 20px;}
+  .front-item.lead h2.headline{font-size:27px;}
+  .front-item.medium h2.headline{font-size:21px;}
+  .front-hero{margin:-24px -20px 14px;}
+  .front-hero .img-credit{padding:6px 20px 0;}
+  .front-thumb img{width:84px;height:84px;}
+}
+
+/* ---- Footer / archive link ---- */
+.site-foot{
+  max-width:var(--wrap);margin:0 auto;padding:24px;
+  border-top:1px solid var(--hairline);
+  font-family:var(--sans);font-size:12px;color:var(--secondary);
+  display:flex;gap:18px;flex-wrap:wrap;
+}
+.site-foot a{color:var(--link);text-decoration:none;}
+.site-foot a:hover{text-decoration:underline;}
+
+/* ---- Contested spectrum bar (Politics + any two-sided story) ---- */
+.spectrum{margin:2px 0 18px;}
+.spectrum-poles{
+  display:flex;justify-content:space-between;
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--secondary);margin-bottom:6px;
+}
+.spectrum-poles .lib{color:var(--dem);}
+.spectrum-poles .con{color:var(--rep);}
+.spectrum-bar{
+  position:relative;height:8px;border-radius:5px;
+  background:linear-gradient(90deg,var(--dem) 0%,var(--tint) 50%,var(--rep) 100%);
+}
+.spectrum-marker{
+  position:absolute;top:-4px;width:3px;height:16px;border-radius:2px;
+  background:var(--text);transform:translateX(-50%);
+}
+.tilt-pill{
+  display:inline-block;margin-top:9px;
+  background:var(--tint);color:var(--accent);
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.04em;
+  padding:3px 10px;border-radius:12px;
+}
+
+/* ---- Politics ladder ---- */
+.rung{margin-top:20px;}
+.rung:first-of-type{margin-top:6px;}
+.rung-label{
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.08em;
+  text-transform:uppercase;color:var(--secondary);
+  display:flex;align-items:center;gap:7px;margin-bottom:8px;
+}
+.rung-label .mark{color:var(--accent);font-weight:700;}
+.rung p{font-family:var(--serif);font-size:17px;line-height:1.62;margin:0 0 12px;}
+.rung ul.facts{margin:0;padding-left:20px;}
+.rung ul.facts li{
+  font-family:var(--serif);font-size:17px;line-height:1.55;margin:0 0 8px;
+}
+.debate-cols{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+.debate-col{
+  border:1px solid var(--hairline);border-radius:8px;padding:14px 16px;
+  border-top-width:3px;
+}
+.debate-col.dem{background:var(--dem-tint);border-top-color:var(--dem);}
+.debate-col.rep{background:var(--rep-tint);border-top-color:var(--rep);}
+.debate-col h4{
+  font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.05em;
+  text-transform:uppercase;margin:0 0 8px;
+}
+.debate-col.dem h4{color:var(--dem);}
+.debate-col.rep h4{color:var(--rep);}
+.debate-col ul{margin:0;padding-left:18px;}
+.debate-col li{font-family:var(--serif);font-size:15px;line-height:1.5;margin:0 0 7px;}
+.steelman{
+  border-left:3px solid var(--accent);background:var(--tint);
+  padding:12px 16px;border-radius:0 6px 6px 0;margin-top:4px;
+}
+.steelman p{margin:0;font-size:16px;}
+@media (max-width:520px){
+  .debate-cols{grid-template-columns:1fr;}
+}
+
+.sample-banner{
+  max-width:var(--wrap);margin:16px auto 0;padding:8px 24px;
+  font-family:var(--sans);font-size:11.5px;color:var(--secondary);font-style:italic;
+}
+
+@media (max-width:520px){
+  .section-title{font-size:32px;}
+  h2.headline{font-size:22px;}
+  article.card{padding:22px 20px;}
+  .story-hero{margin:-22px -20px 14px;}
+  .story-hero .img-credit{padding:6px 20px 0;}
+}
+
+/* ---- Archive: the library ---- */
+/* Section-history tab pills (All · Politics · World · …) on every archive page. */
+.archive-tabs{
+  display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 20px;
+}
+.archive-tabs a{
+  display:inline-block;background:var(--tint);color:var(--accent);
+  font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:.03em;
+  padding:5px 12px;border-radius:14px;text-decoration:none;
+}
+.archive-tabs a:hover{background:var(--tint-hover);}
+.archive-tabs a.active{background:var(--accent);color:#fff;}
+/* Beat chips: a second, smaller pill row filtering one section's history by beat. */
+.beat-chips{margin-top:-8px;}
+.beat-chips a{font-size:11px;padding:4px 10px;background:transparent;border:1px solid var(--hairline);color:var(--secondary);}
+.beat-chips a:hover{background:var(--tint);color:var(--accent);}
+.beat-chips a.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+.beat-chips .chip-count{opacity:.7;font-weight:500;}
+/* Politics "coverage lean over time" strip on the section history. */
+.lean-strip{margin:18px 0 6px;}
+.lean-strip svg{display:block;width:100%;height:26px;}
+.lean-note{font-family:var(--sans);font-size:11px;color:var(--secondary);margin-top:2px;text-align:center;}
+/* Related-stories block at the foot of every story page. */
+.related{margin-top:8px;}
+/* Month headers group the day list; on section histories they carry the day link. */
+.archive-month{
+  font-family:var(--sans);font-size:13px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--secondary);
+  margin:26px 0 0;padding-bottom:6px;border-bottom:1px solid var(--hairline);
+}
+.archive-month a{color:inherit;text-decoration:none;}
+.archive-month a:hover{color:var(--accent);}
+/* Each day's lead headline — the reason to click through. */
+.archive-lead{
+  font-family:var(--serif);font-weight:600;font-size:17px;line-height:1.35;
+  color:var(--headline);margin:6px 0 4px;
+}
+/* Section-history timeline: one row per story, headline + beat tag. */
+.history-list{list-style:none;margin:12px 0 0;padding:0;}
+.history-story{
+  display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;
+  padding:9px 0;border-bottom:1px solid var(--hairline);
+}
+.history-story:last-child{border-bottom:none;}
+.history-headline{
+  font-family:var(--serif);font-weight:600;font-size:17px;line-height:1.35;
+  color:var(--headline);text-decoration:none;
+}
+.history-headline:hover{color:var(--accent);}
+.history-story .beat{
+  font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--secondary);
+}
+/* "Section history →" link beside the section-page lede. */
+.section-lede{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;}
+.history-link{
+  font-family:var(--sans);font-size:13px;font-weight:600;
+  color:var(--link);text-decoration:none;white-space:nowrap;
+}
+.history-link:hover{text-decoration:underline;}
+
+.archive-list{list-style:none;margin:22px 0 0;padding:0;}
+.archive-entry{
+  background:var(--surface);border:1px solid var(--hairline);border-radius:8px;
+  padding:18px 22px;margin-top:14px;
+}
+.archive-date{
+  font-family:var(--serif);font-weight:700;font-size:19px;color:var(--text);
+  text-decoration:none;
+}
+.archive-date:hover{color:var(--accent);}
+.archive-meta{
+  font-family:var(--sans);font-size:12.5px;color:var(--secondary);margin-top:6px;
+}
+.archive-section{color:var(--secondary);}
+.archive-empty{
+  font-family:var(--sans);font-size:14px;color:var(--secondary);margin-top:24px;
+}
+
+/* ---- Dark mode ----
+   Follows the reader's OS preference. Same chill-blue identity, inverted: deep
+   blue-slate surfaces, desaturated ink, accent/link lightened for contrast. Every
+   themed color routes through the variables above, so this block is the whole theme. */
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0F1720;
+    --surface:#17222E;
+    --text:#C7D4E0;
+    --secondary:#8CA1B4;
+    --hairline:#25374A;
+    --accent:#6FA8D6;
+    --tint:#1C2C3B;
+    --tint-hover:#23364A;
+    --up:#4FB3A0;
+    --down:#DB8A75;
+    --up-tint:#132B26;
+    --up-border:#1E4038;
+    --down-tint:#301F19;
+    --down-border:#482C23;
+    --headline:#EAF2F9;
+    --link:#7FB4E4;
+    --dem:#7C9BD6;
+    --dem-tint:#16233B;
+    --rep:#D08268;
+    --rep-tint:#33211B;
+  }
+  /* Photography reads too hot against dark surfaces at full brightness. */
+  .front-hero img,.front-thumb img,.story-hero img{filter:brightness(.92);}
+  /* Active pills keep white text on the (now lighter) accent. */
+  .archive-tabs a.active,.beat-chips a.active{color:#0F1720;}
+}
