@@ -4,14 +4,14 @@
    Fonts are loaded via <link> in base.html; this file only references the families. */
 
 :root{
-  --bg:#F3F7FB;
+  --bg:#FAF9F6;
   --surface:#FFFFFF;
-  --text:#152532;
-  --secondary:#5E7285;
-  --hairline:#DCE6EF;
-  --accent:#2E6DA4;
-  --tint:#E5EEF6;
-  --tint-hover:#DAE7F2;
+  --text:#1A1A1A;
+  --secondary:#6B6B6B;
+  --hairline:#E8E6E0;
+  --accent:#B8461E;
+  --tint:#F4EDE4;
+  --tint-hover:#EDE2D2;
   --up:#2E8B7B;
   --down:#C15C4E;
   --up-tint:#E9F4F1;
@@ -19,10 +19,10 @@
   --down-tint:#F8EDEA;
   --down-border:#EBD2CB;
   /* Higher-contrast, near-black headline ink (headlines pop against the blue-grey bg). */
-  --headline:#0C1922;
+  --headline:#171310;
   /* Link ink is deliberately distinct from the partisan colors below so a hyperlink is
      never confused with the Democratic-blue / Republican-red debate coloring. */
-  --link:#1F6FB2;
+  --link:#B8461E;
   /* Partisan colors — used ONLY for the Debate columns + spectrum poles, never for links. */
   --dem:#2B4C8C;
   --dem-tint:#EAF0F8;
@@ -179,6 +179,7 @@ article.card{
 .story-hero .img-credit{
   font-family:var(--sans);font-size:11px;color:var(--secondary);
   text-align:right;padding:6px 28px 0;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
 .beat-label{
   display:inline-block;background:var(--tint);color:var(--accent);
@@ -274,6 +275,7 @@ h2.headline a:hover{color:var(--accent);}
 .front-hero .img-credit{
   font-family:var(--sans);font-size:11px;color:var(--secondary);
   text-align:right;padding:6px 32px 0;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
 .front-item.medium.has-image{overflow:hidden;}
 .front-thumb{
@@ -462,22 +464,22 @@ h2.headline a:hover{color:var(--accent);}
    themed color routes through the variables above, so this block is the whole theme. */
 @media (prefers-color-scheme: dark){
   :root{
-    --bg:#0F1720;
-    --surface:#17222E;
-    --text:#C7D4E0;
-    --secondary:#8CA1B4;
-    --hairline:#25374A;
-    --accent:#6FA8D6;
-    --tint:#1C2C3B;
-    --tint-hover:#23364A;
+    --bg:#191512;
+    --surface:#221D18;
+    --text:#E8E1D7;
+    --secondary:#A79D8F;
+    --hairline:#3A322A;
+    --accent:#E07B4F;
+    --tint:#2C241D;
+    --tint-hover:#382E24;
     --up:#4FB3A0;
     --down:#DB8A75;
     --up-tint:#132B26;
     --up-border:#1E4038;
     --down-tint:#301F19;
     --down-border:#482C23;
-    --headline:#EAF2F9;
-    --link:#7FB4E4;
+    --headline:#F4EEE6;
+    --link:#E48A5F;
     --dem:#7C9BD6;
     --dem-tint:#16233B;
     --rep:#D08268;
@@ -486,5 +488,5 @@ h2.headline a:hover{color:var(--accent);}
   /* Photography reads too hot against dark surfaces at full brightness. */
   .front-hero img,.front-thumb img,.story-hero img{filter:brightness(.92);}
   /* Active pills keep white text on the (now lighter) accent. */
-  .archive-tabs a.active,.beat-chips a.active{color:#0F1720;}
+  .archive-tabs a.active,.beat-chips a.active{color:#1E1712;}
 }
