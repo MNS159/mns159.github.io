@@ -1,0 +1,3752 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-03",
+  "edition": "Morning edition",
+  "generated_at": "2026-09-03T14:49:00+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-feminist-activist-gloria-steinem-dies-at-92",
+          "section": "politics",
+          "headline": "Feminist activist Gloria Steinem dies at 92",
+          "beat_label": "Obituary",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "The Hill",
+            "BBC",
+            "Fox News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/blogs/in-the-know/6068369-hillary-clinton-heart-sick-gloria-steinem-death/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/gloria-steinem-feminist-writer-activist-dead-92",
+              "lean": 0.5,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Gloria Steinem died Wednesday at her home in New York City",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation"
+                ]
+              },
+              {
+                "text": "Gloria Steinem died at age 92",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation"
+                ]
+              },
+              {
+                "text": "Her foundation said she 'passed away peacefully' surrounded by loved ones",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation"
+                ]
+              },
+              {
+                "text": "She was born in Toledo, Ohio",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She did not attend school full-time until age 12",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 1963 she wrote 'A Bunny's Tale'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "'A Bunny's Tale' was an undercover exposé of Playboy Bunny working conditions",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "'A Bunny's Tale' became her journalistic breakthrough",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 1972 she co-founded Ms. magazine",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ms. magazine focused on women's issues beyond housekeeping and beauty",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She co-founded the Women's Action Alliance",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 1970 she co-founded the National Women's Political Caucus",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She testified before the Senate on the Equal Rights Amendment",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "At age 22 she had an illegal abortion in London",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She later publicly credited the doctor John Sharpe in her memoir decades afterward",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2013 President Barack Obama awarded her the Presidential Medal of Freedom",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Presidential Medal of Freedom is the highest US civilian honor",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She married David Bale in 2000",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "David Bale died in 2003 of brain lymphoma",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Gloria Steinem died Wednesday at her home in New York City at age 92, according to her foundation, which said she \"passed away peacefully\" surrounded by loved ones.",
+              "She was born in Toledo, Ohio, and did not attend school full-time until age 12.",
+              "In 1963 she wrote \"A Bunny's Tale,\" an undercover exposé of Playboy Bunny working conditions, which became her journalistic breakthrough.",
+              "In 1972 she co-founded Ms. magazine, which focused on women's issues beyond housekeeping and beauty.",
+              "She co-founded the Women's Action Alliance and, in 1970, the National Women's Political Caucus, and testified before the Senate on the Equal Rights Amendment.",
+              "At 22 she had an illegal abortion in London; she later publicly credited the doctor, John Sharpe, in her memoir decades afterward.",
+              "In 2013 President Barack Obama awarded her the Presidential Medal of Freedom, the highest US civilian honor.",
+              "She married David Bale in 2000; he died in 2003 of brain lymphoma."
+            ],
+            "analysis": "Steinem's death marks the passing of one of the most visible figures of America's second-wave feminist movement, whose career as a journalist and organizer helped move issues like equal pay, reproductive rights and workplace discrimination from the margins of public discourse into mainstream politics and media. Her path from freelance writer to founder of Ms. magazine paralleled the rise of the women's liberation movement in the 1970s, and her activism on abortion access — including coining the phrase \"reproductive freedom\" — became a lasting reference point in a debate that remains unsettled in American law and politics, particularly after the Supreme Court's 1973 Roe v. Wade ruling she celebrated was later reversed. Tributes from figures like Hillary Clinton and Meghan Markle reflect her broader cultural reach beyond formal politics, into journalism, entertainment and personal mentorship of younger women.",
+            "debate": {
+              "dem": [
+                "Hillary Clinton, quoted by The Hill, called Steinem \"one of the architects of the entire structure of women's equality,\" crediting her with dismantling obstacles that kept women from professional opportunity.",
+                "Clinton framed Steinem's decades of activism as rooted in optimism, describing it as a deliberate \"moral choice\" that Democrats and allied feminists often cite as a model for social-justice organizing.",
+                "Advocates in this tradition point to Steinem's leadership on the 1973 Roe v. Wade decision and her coining of \"reproductive freedom\" as foundational to the modern abortion-rights movement, which they argue was undermined by Roe's later reversal."
+              ],
+              "rep": [
+                "Some conservatives have long argued that abortion policy should be set by state legislatures rather than established as a nationwide constitutional right, a position vindicated in their view by the Supreme Court's reversal of Roe v. Wade, which Steinem lived to see and which stands in direct tension with the reproductive-rights framework she championed.",
+                "Critics within and outside the feminist movement, as the BBC noted, took issue with a 1977 essay Steinem wrote on transgender people, which she said in 2013 had been taken \"out of time and context\" — an episode sometimes cited by conservative commentators as evidence of shifting and contested standards within the movement she helped build."
+              ]
+            },
+            "steelman": "Across ideological lines, Steinem's death is being marked as the end of an era for a media and political figure whose personal choices — from an undercover Playboy exposé to a landmark abortion decision she witnessed pass and later reverse — remain touchpoints in ongoing, unresolved debates over gender, reproductive rights and how history judges early feminist figures by today's standards.",
+            "implications": "Steinem's foundation says she was working on a forthcoming memoir, \"An Unexpected Life,\" and intends to continue the \"Talking Circles\" tradition at her home as a hub for social-justice organizing, suggesting her influence will persist institutionally even after her death. Her legacy is likely to remain a reference point in ongoing political and legal battles over abortion access, particularly given the reversal of Roe v. Wade, ensuring her name continues to surface in debates she helped originate decades ago."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-iran-fires-on-gulf-neighbors-in-retaliation-for-",
+          "section": "world",
+          "headline": "Iran strikes Gulf allies after U.S. bombing kills 4 at wedding party",
+          "beat_label": "Iran War",
+          "byline": "International & World desk",
+          "body": [
+            "Iran fired on U.S. allies in the Gulf early Wednesday, retaliating for American airstrikes that included a strike on a wedding party in the coastal town of Kuhestak, Iran. Iranian state media reported that four people—two women and two children, ages 4 and 16—were killed and at least 68 wounded in that attack. The deputy governor of the province initially said five died, but later revised the figure without explanation.",
+            "The U.S. Central Command said Tuesday’s strikes targeted Iranian military sites including air defense systems, radar, and maritime assets. Two weapons experts told the Associated Press that fragments from a missile used in the wedding-party strike matched a U.S.-made SLAM-ER cruise missile, described as a very precise, air-launched weapon that can be retargeted in flight. CENTCOM spokesman Capt. Tim Hawkins said the military was aware of the reports and was looking into them but did not confirm an investigation.",
+            "The latest violence ended a monthlong lull in fighting that began Feb. 28, when Israel and the United States attacked Iran. The war has driven oil prices up more than 30% to about $95 a barrel and sent Iran’s currency to a record low of 2.2 million rials per U.S. dollar. The standoff centers on the Strait of Hormuz, through which about a fifth of the world’s traded oil flowed before the conflict. Despite U.S. assertions of success in clearing mines and escorting vessels, only a handful of ships transit daily, and Iran has regularly attacked them.",
+            "Iran’s newly appointed Supreme National Security Council chief, Mohsen Rezaei, warned on social media: 'You will soon see that Iran’s new strategy on the battlefield, in diplomacy, and in confronting the economic blockade will shatter your foundations.' Separately, Iran reported that four members of its paramilitary Revolutionary Guard and 10 Basij volunteers were killed in U.S. attacks. Hezbollah, backed by Iran, fired two explosive drones at Israeli soldiers in southern Lebanon without causing casualties, and Kurdish authorities in Iraq said they intercepted 10 armed drones near Irbil.",
+            "In addition to the Jordan strikes earlier, Kuwait and Bahrain reported coming under Iranian attack with no casualties. Saudi shipping firm Bahri said two Filipino sailors were killed late Monday as their vessel transited the Strait. A ceasefire brokered in June collapsed within weeks, and mediator Pakistan has been trying to restart talks. U.S. President Donald Trump said late Tuesday he would not push Iran to negotiate, writing on social media: 'I couldn’t care less if they sign a worthless, to them, agreement. … When are the Iranian people going to rise up and fight?'",
+            "Analysts warn that neither side can sustain the current cycle of attack and retaliation without risking a full-scale war. Hamidreza Azizi of the Crisis Group said: 'At some point, one of the sides may see a need to escalate in order to break this cycle … which is a full-scale war.' Sascha Bruchmann of the International Institute for Strategic Studies noted that the U.S. aimed to restore confidence in global oil markets by projecting control of the Strait, and that Iran's latest attacks appeared intended to re-inject insecurity."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Iran fired on U.S. allies in the Gulf early Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran retaliated for American airstrikes that included a strike on a wedding party in the coastal town of Kuhestak, Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iranian state media reported that four people—two women and two children, ages 4 and 16—were killed in that attack.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iranian state media reported that at least 68 wounded in that attack.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The deputy governor of the province initially said five died, but later revised the figure without explanation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The U.S. Central Command said Tuesday’s strikes targeted Iranian military sites including air defense systems, radar, and maritime assets.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Two weapons experts told the Associated Press that fragments from a missile used in the wedding-party strike matched a U.S.-made SLAM-ER cruise missile.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The SLAM-ER cruise missile is described as a very precise, air-launched weapon that can be retargeted in flight.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "CENTCOM spokesman Capt. Tim Hawkins said the military was aware of the reports and was looking into them but did not confirm an investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The latest violence ended a monthlong lull in fighting that began Feb. 28.",
+                "status": "unsupported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Israel and the United States attacked Iran on Feb. 28.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The war has driven oil prices up more than 30% to about $95 a barrel.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The war sent Iran’s currency to a record low of 2.2 million rials per U.S. dollar.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The standoff centers on the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "About a fifth of the world’s traded oil flowed through the Strait of Hormuz before the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Only a handful of ships transit the Strait of Hormuz daily.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran has regularly attacked ships in the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran’s newly appointed Supreme National Security Council chief is Mohsen Rezaei.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mohsen Rezaei warned on social media: 'You will soon see that Iran’s new strategy on the battlefield, in diplomacy, and in confronting the economic blockade will shatter your foundations.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran reported that four members of its paramilitary Revolutionary Guard were killed in U.S. attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran reported that 10 Basij volunteers were killed in U.S. attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hezbollah fired two explosive drones at Israeli soldiers in southern Lebanon without causing casualties.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kurdish authorities in Iraq said they intercepted 10 armed drones near Irbil.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kuwait reported coming under Iranian attack with no casualties.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bahrain reported coming under Iranian attack with no casualties.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Saudi shipping firm Bahri said two Filipino sailors were killed late Monday as their vessel transited the Strait.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A ceasefire brokered in June collapsed within weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mediator Pakistan has been trying to restart talks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "U.S. President Donald Trump said late Tuesday he would not push Iran to negotiate.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Donald Trump wrote on social media: 'I couldn’t care less if they sign a worthless, to them, agreement. … When are the Iranian people going to rise up and fight?'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75
+        },
+        {
+          "id": "world-wmo-warns-of-potentially-record-el-nino-as-toxic",
+          "section": "world",
+          "headline": "WMO warns of potentially record El Niño as toxic haze spreads across Southeast Asia",
+          "beat_label": "Climate",
+          "byline": "International & World desk",
+          "body": [
+            "The World Meteorological Organization (WMO) has warned that the current El Niño could become the strongest since at least 1950, lasting until at least February 2027, as a blanket of toxic haze from weeks-long wildfires in Indonesia spreads across Malaysia, Singapore and the Philippines. UN Secretary-General António Guterres said the world has entered a 'danger zone of extreme weather' and that 'El Niño is being supersized before our eyes.' The WMO reported that sea surface temperatures in the Pacific's key monitoring region have been well over 2°C above average in recent weeks, with monthly averages potentially approaching 4°C above normal, and subsurface temperatures in some places more than 8°C above average.",
+            "The wildfires, burning across Sumatra and Indonesian Borneo since mid-July, have been exacerbated by drought conditions linked to the El Niño. Indonesia's Health Ministry recorded over 50,000 cases of respiratory infections from July to August, including more than 12,000 in children under five. In Banjarbaru, South Kalimantan, teaching assistant Rizma Nur Fatimah told the BBC the smog was so thick 'you couldn't even see your own feet.' In the Philippines' Palawan province, residents reported itchy eyes, sore throats and headaches. Malaysia has reported rising cases of asthma and conjunctivitis as smoke drifts across its border.",
+            "El Niño is a natural phenomenon that develops in the Pacific Ocean, altering wind patterns and releasing heat into the atmosphere. It typically brings drier conditions to parts of Southeast Asia, Central America and northern South America, while increasing rainfall in eastern Africa, southern Brazil and the southern United States. The WMO forecasts significant changes in rainfall patterns over the coming months, raising risks of droughts, wildfires, stronger typhoons and flooding. China expects seven typhoons to make landfall this year, and the Panama Canal will reduce vessel transits by more than 10% due to anticipated lower rainfall.",
+            "The fires in Indonesia are burning through one of the world's largest tropical peatland ecosystems. Under normal conditions, these waterlogged peatlands store vast amounts of carbon, but when drained and burned they can release massive quantities of greenhouse gases. Experts say the crisis is rooted in decades of land-use change, including logging, plantations and large-scale development. Environmental groups and government investigations have repeatedly alleged that some companies use fire as a cheap way to clear land. Indonesia has deployed cloud-seeding aircraft to trigger rain and arrested dozens over allegations of using fire for land clearing.",
+            "WMO Secretary-General Celeste Saulo warned that 'El Niño has the potential to deliver a massive blow to communities and economies across the world.' The WMO has undertaken a 'major mobilisation' to circulate forecasts to as many communities as possible. Australia has introduced early warning systems for marine crises after previous marine heatwaves caused starving penguins, fish kills and algae outbreaks. Peru, particularly vulnerable due to its eastern Pacific coastline, will receive the USNS Comfort medical ship from the United States. Miguel Aréstegui of Practical Action said 'we are significantly concerned, but that concern needs to translate into preparedness rather than alarm,' noting that structural issues such as housing in exposed areas and weak healthcare systems worsen the impacts."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/3/un-warns-el-nino-could-be-off-the-charts-strongest-in-decades?traffic_source=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The World Meteorological Organization (WMO) warned that the current El Niño could become the strongest since at least 1950.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "The WMO warned that the current El Niño could last until at least February 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "UN Secretary-General António Guterres said the world has entered a 'danger zone of extreme weather'.",
+                "status": "supported",
+                "source_ids": [
+                  "UN Secretary-General"
+                ]
+              },
+              {
+                "text": "UN Secretary-General António Guterres said 'El Niño is being supersized before our eyes'.",
+                "status": "supported",
+                "source_ids": [
+                  "UN Secretary-General"
+                ]
+              },
+              {
+                "text": "The WMO reported that sea surface temperatures in the Pacific's key monitoring region have been well over 2°C above average in recent weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "The WMO reported that monthly averages could approach 4°C above normal.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "The WMO reported that subsurface temperatures in some places are more than 8°C above average.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "Indonesia's Health Ministry recorded over 50,000 cases of respiratory infections from July to August.",
+                "status": "supported",
+                "source_ids": [
+                  "Indonesia's Health Ministry"
+                ]
+              },
+              {
+                "text": "Indonesia's Health Ministry recorded over 12,000 cases of respiratory infections in children under five from July to August.",
+                "status": "supported",
+                "source_ids": [
+                  "Indonesia's Health Ministry"
+                ]
+              },
+              {
+                "text": "Teaching assistant Rizma Nur Fatimah told the BBC that the smog was so thick 'you couldn't even see your own feet'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Experts say the crisis is rooted in decades of land-use change, including logging, plantations and large-scale development.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              },
+              {
+                "text": "Environmental groups and government investigations have repeatedly alleged that some companies use fire as a cheap way to clear land.",
+                "status": "supported",
+                "source_ids": [
+                  "environmental groups",
+                  "government investigations"
+                ]
+              },
+              {
+                "text": "WMO Secretary-General Celeste Saulo warned that 'El Niño has the potential to deliver a massive blow to communities and economies across the world'.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO Secretary-General"
+                ]
+              },
+              {
+                "text": "The WMO has undertaken a 'major mobilisation' to circulate forecasts to as many communities as possible.",
+                "status": "supported",
+                "source_ids": [
+                  "WMO"
+                ]
+              },
+              {
+                "text": "Miguel Aréstegui of Practical Action said 'we are significantly concerned, but that concern needs to translate into preparedness rather than alarm,' noting that structural issues such as housing in exposed areas and weak healthcare systems worsen the impacts.",
+                "status": "supported",
+                "source_ids": [
+                  "Miguel Aréstegui of Practical Action"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-feminist-pioneer-gloria-steinem-dies-at-92",
+          "section": "world",
+          "headline": "Feminist icon Gloria Steinem dies at 92",
+          "beat_label": "Obituaries",
+          "byline": "International & World desk",
+          "body": [
+            "Gloria Steinem, the author and activist who became one of the most visible symbols of the women’s movement in the United States and a fierce advocate for feminist causes throughout her life, has died at the age of 92. She died on Wednesday at her home in New York City, according to her foundation’s social media pages. The foundation said she 'passed away peacefully' and that her 'near-century on earth were years well-lived, and she continued working for equality until the very end.'",
+            "Steinem, cofounder of Ms. Magazine, was known for her trademark streaked hair parted down the middle and large aviator glasses. Much of her life as an advocate was spent on the road, speaking at college campuses, community centers, rallies, and marches. In recent years, she enjoyed writing and spending time in the community, and hosted talking circles for hundreds of people in her home. 'You can’t do it on the phone or on the web,' she told The Associated Press in a 2015 interview. 'You have to be there with all five senses.'",
+            "Born on March 25, 1935, in Toledo, Ohio, Steinem did not attend school regularly until around seventh grade due to her father’s work as a traveling antique dealer. Her parents separated when she was 11, and she took care of her mother, who suffered from depression. 'I’d already been the very small parent of a very big child, my mother. I didn’t want to end up taking care of someone else,' she was quoted as saying. She began freelancing as a journalist after graduating from Smith College. In 1963, she went undercover as a Playboy bunny for Show magazine, producing the exposé 'A Bunny’s Tale' that shed light on poor pay and sexist treatment. She later helped found New York Magazine in 1968.",
+            "Steinem credited a 1969 abortion speak-out in a New York church with changing her career path. She had undergone a secret illegal abortion herself at age 22. 'That speak-out was the beginning of activism for me,' she told the AP in 2022. 'Either our control over our own bodies is equal, regardless of sex or race, or we’re not living in a democracy.' In 1971, she co-founded Ms. Magazine, the first mass-market feminist monthly, which tackled issues such as abortion, sexism, equal pay, and domestic violence. She also founded the National Women’s Political Caucus that year. Other groups she created or helped create include the Coalition of Labor Union Women, the Women’s Media Center, Voters for Choice, and the Ms. Foundation for Women.",
+            "Steinem believed the movement should represent women of every race. 'If you’ve suffered discrimination, you’re sensitive to it on every level. I learned feminism largely from Black women. Women of color basically invented feminism,' she told the New Yorker. In 2013, then-President Barack Obama awarded her the Presidential Medal of Freedom, the highest US civilian honor. Steinem never had children and married at age 66 to South African businessman and environmentalist David Bale, father of actor Christian Bale. He died of brain cancer in 2003. 'I hope this proves what feminists have always said — that feminism is about the ability to choose what’s right at each time of our lives,' she said in a statement about the marriage.",
+            "Her foundation’s social media posts said: 'Gloria’s greatest gift was her ability to listen to others, to make others feel seen and heard. Her words, actions, and example gave people permission to be their truest selves. Gloria lived true to her independent spirit, always with curiosity and a great sense of humor.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "Al Jazeera",
+            "DW",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/3/feminist-icon-gloria-steinem-dies-aged-92?traffic_source=rss"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/gloria-steinem-feminist-activist-and-journalist-dies-at-92/a-78855039?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/03/g-s1-141784/up-first-newsletter-election-security-venezuela-oil-lindsay-clancy-gloria-steinem",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Gloria Steinem died at the age of 92.",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation's social media pages"
+                ]
+              },
+              {
+                "text": "She died on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation's social media pages"
+                ]
+              },
+              {
+                "text": "She died at her home in New York City.",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation's social media pages"
+                ]
+              },
+              {
+                "text": "Her foundation stated that she 'passed away peacefully'.",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation's social media pages"
+                ]
+              },
+              {
+                "text": "Steinem co-founded Ms. Magazine in 1971.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She was known for her trademark streaked hair parted down the middle and large aviator glasses.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She hosted talking circles for hundreds of people in her home in recent years.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She was born on March 25, 1935, in Toledo, Ohio.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She did not attend school regularly until around seventh grade due to her father's work as a traveling antique dealer.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "Her parents separated when she was 11.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She took care of her mother who suffered from depression.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "Steinem said: 'I’d already been the very small parent of a very big child, my mother. I didn’t want to end up taking care of someone else.'",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She began freelancing as a journalist after graduating from Smith College.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "In 1963, she went undercover as a Playboy bunny for Show magazine, producing the exposé 'A Bunny’s Tale'.",
+                "status": "supported",
+                "source_ids": [
+                  "Show magazine",
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She helped found New York Magazine in 1968.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She credited a 1969 abortion speak-out in a New York church with changing her career path.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text",
+                  "The Associated Press"
+                ]
+              },
+              {
+                "text": "She had undergone a secret illegal abortion at age 22.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She founded the National Women’s Political Caucus in 1971.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She helped create the Coalition of Labor Union Women, the Women’s Media Center, Voters for Choice, and the Ms. Foundation for Women.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "In 2013, President Barack Obama awarded her the Presidential Medal of Freedom.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She never had children.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "She married at age 66 to David Bale.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "David Bale was the father of actor Christian Bale.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "David Bale died of brain cancer in 2003.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "Steinem told the Associated Press in a 2015 interview: 'You can’t do it on the phone or on the web. You have to be there with all five senses.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press"
+                ]
+              },
+              {
+                "text": "Steinem told the Associated Press in 2022: 'That speak-out was the beginning of activism for me. Either our control over our own bodies is equal, regardless of sex or race, or we’re not living in a democracy.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press"
+                ]
+              },
+              {
+                "text": "Steinem told the New Yorker: 'If you’ve suffered discrimination, you’re sensitive to it on every level. I learned feminism largely from Black women. Women of color basically invented feminism.'",
+                "status": "supported",
+                "source_ids": [
+                  "the New Yorker"
+                ]
+              },
+              {
+                "text": "Steinem said about her marriage: 'I hope this proves what feminists have always said — that feminism is about the ability to choose what’s right at each time of our lives.'",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              },
+              {
+                "text": "Her foundation's social media posts said: 'Gloria’s greatest gift was her ability to listen to others, to make others feel seen and heard. Her words, actions, and example gave people permission to be their truest selves. Gloria lived true to her independent spirit, always with curiosity and a great sense of humor.'",
+                "status": "supported",
+                "source_ids": [
+                  "her foundation's social media pages"
+                ]
+              },
+              {
+                "text": "Ms. Magazine was the first mass-market feminist monthly.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.65
+        },
+        {
+          "id": "world-us-defends-venezuela-oil-deals-as-critics-questi",
+          "section": "world",
+          "headline": "US defends Venezuela oil deal amid criticism of 'gunpoint diplomacy'",
+          "beat_label": "Venezuela/US Policy",
+          "byline": "International & World desk",
+          "body": [
+            "The Trump administration is defending its sweeping oil agreement with Venezuela’s interim government, announced last week, as critics on both sides of the political spectrum denounce the deal as coercive and potentially damaging to democratic prospects. US energy secretary Chris Wright, who arrived in Caracas on Tuesday night, denied that Washington was seeking to commandeer Venezuela’s oil resources, telling CNBC: “Absolutely not.” Wright characterized the deal as “an absolutely historic transformation of both Venezuela and the relations between Venezuela and the US,” and said it represented “President Trump’s grand plan to replace conflict with commerce.” The White House has described the agreement as “the biggest oil deal in world history” that will give the US government “powerful governance rights” over about 65 billion barrels of Venezuela’s oil reserves, securing US “energy dominance for the next century” and “purging foreign malign influence from our back yard” by excluding China and Russia.",
+            "The deal was struck with Delcy Rodríguez, who was installed as Venezuela’s interim president on 5 January, two days after US special forces abducted former president Nicolás Maduro during a predawn raid on Caracas. Maduro and his wife are now on trial in New York. Trump warned Rodríguez, previously Maduro’s vice-president, that she would face an even worse fate if she did not comply. Since then, Rodríguez has made a series of concessions to US officials that her nominally socialist Chavismo movement had long denounced as imperialist. On Saturday, she claimed the deal would produce more than $209 billion in revenues for healthcare and education, calling it a “win-win deal” during a signing ceremony at the Miraflores presidential palace. “I have faith in the future of Venezuela,” she said. “What we are doing today represents the future and the hope of the people of Venezuela.”",
+            "Critics, however, have sharply questioned the legality and legitimacy of the arrangement. Francisco Rodríguez, a prominent Venezuelan economist, described the deal as “predatory” and “done at gunpoint,” telling Democracy Now: “It’s clear that this is not a deal that any Venezuelan government would have entered into unless this country had been subject to an invasion, and unless its authorities had been held at gunpoint. So I think we’ve replaced gunboat diplomacy now for gunpoint diplomacy.” The Wall Street Journal’s editorial board wrote that the agreement “looks less like a normal commercial transaction than it does the famous scene of US businessmen meeting with the Cuban strongman in The Godfather Part II,” and complained that the US government was “essentially getting in bed with a foreign dictator and her favored capitalist,” referring to Venezuelan tycoon Alejandro Betancourt, the central figure in the deal.",
+            "The deal has also dealt a body blow to Venezuela’s political opposition, who fear Trump is unlikely to push for a democratic transition or fresh elections given his lucrative arrangement with Rodríguez. “This is a game between the Trump administration and Delcy and her people,” one opposition figure lamented after the deal was unveiled. The US-Venezuela relationship has long been dominated by oil. A 1950 US State Department memo stated: “All US policies toward Venezuela are affected in greater or less degree by the objective of assuring an adequate supply of petroleum for the US.” Relations soured after Hugo Chávez became president in 1999, nationalizing oilfields and pushing out US companies except Chevron, which continues to operate. The US has portrayed Maduro’s government as illegitimate and imposed sanctions. Following Maduro’s capture, Rodríguez has made concessions that critics say amount to surrendering Venezuela’s natural resources. “Trying to run a country from the capital of an imperial power has been tried before,” Francisco Rodríguez said, “and it has not ended well.”"
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.35,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 2,
+              "center": 0,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Guardian",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/sep/03/us-venezuela-visual-look-century-old-relationship-drenched-in-oil",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/03/nx-s1-5954176/critics-question-legality-of-venezuela-oil-deals",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Trump administration announced a sweeping oil agreement with Venezuela’s interim government last week.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "US energy secretary Chris Wright arrived in Caracas on Tuesday night.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Chris Wright denied that Washington was seeking to commandeer Venezuela’s oil resources, telling CNBC: 'Absolutely not.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Wright characterized the deal as 'an absolutely historic transformation of both Venezuela and the relations between Venezuela and the US.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Wright said the deal represented 'President Trump’s grand plan to replace conflict with commerce.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The White House described the agreement as 'the biggest oil deal in world history.'",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The White House said the deal will give the US government 'powerful governance rights' over about 65 billion barrels of Venezuela’s oil reserves.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The White House said the deal will secure US 'energy dominance for the next century.'",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The White House said the deal will 'purge foreign malign influence from our back yard' by excluding China and Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The deal was struck with Delcy Rodríguez.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Delcy Rodríguez was installed as Venezuela’s interim president on 5 January.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "US special forces abducted former president Nicolás Maduro during a predawn raid on Caracas two days before Rodríguez's installation.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Maduro and his wife are now on trial in New York.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Trump warned Rodríguez that she would face an even worse fate if she did not comply.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "On Saturday, Rodríguez claimed the deal would produce more than $209 billion in revenues for healthcare and education.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Rodríguez called the deal a 'win-win deal' during a signing ceremony at the Miraflores presidential palace.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Rodríguez said: 'I have faith in the future of Venezuela.'",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Francisco Rodríguez, a prominent Venezuelan economist, described the deal as 'predatory' and 'done at gunpoint' in an interview with Democracy Now.",
+                "status": "supported",
+                "source_ids": [
+                  "Democracy Now"
+                ]
+              },
+              {
+                "text": "Francisco Rodríguez said: 'It’s clear that this is not a deal that any Venezuelan government would have entered into unless this country had been subject to an invasion, and unless its authorities had been held at gunpoint.'",
+                "status": "supported",
+                "source_ids": [
+                  "Democracy Now"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal’s editorial board wrote that the agreement 'looks less like a normal commercial transaction than it does the famous scene of US businessmen meeting with the Cuban strongman in The Godfather Part II.'",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal editorial board complained that the US government was 'essentially getting in bed with a foreign dictator and her favored capitalist,' referring to Venezuelan tycoon Alejandro Betancourt, the central figure in the deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "A 1950 US State Department memo stated: 'All US policies toward Venezuela are affected in greater or less degree by the objective of assuring an adequate supply of petroleum for the US.'",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Hugo Chávez became president of Venezuela in 1999.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Chávez nationalized oilfields and pushed out US companies except Chevron, which continues to operate.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The US has portrayed Maduro’s government as illegitimate and imposed sanctions.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "An opposition figure said: 'This is a game between the Trump administration and Delcy and her people.'",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Francisco Rodríguez said: 'Trying to run a country from the capital of an imperial power has been tried before, and it has not ended well.'",
+                "status": "supported",
+                "source_ids": [
+                  "Democracy Now"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.65
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-nvidia-confirms-13-billion-acquisition-of-ai-pla",
+          "section": "markets",
+          "headline": "Nvidia confirms $13 billion acquisition of AI platform Hugging Face",
+          "beat_label": "M&A / AI",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Nvidia (NVDA) on Thursday confirmed its plans to acquire the open-weight AI platform Hugging Face for roughly $13 billion, sending shares up more than 1% in early trading as stocks edged higher. The deal, valued at $12.93 billion per a press release, will give Nvidia access to a platform used by more than 18 million developers and 200,000 companies to share over 3 million models. MarketWatch described the acquisition as giving Nvidia access to 'one of the most important parcels of real estate in the AI market' and promoting open-source technology.",
+            "Nvidia emphasized that Hugging Face would remain 'an open platform for the entire AI ecosystem' and that it would continue to support open-weight and open-source AI models. 'We believe in having a healthy ecosystem of closed models and open models leads to a world where you're going to continue to train these models and run these models at scale,' said Justin Boitano, Nvidia's enterprise computing general manager, on a call. CEO Jensen Huang posted on X that 'open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.' The deal is expected to close in the first half of 2027, pending regulatory approval.",
+            "The acquisition comes as tech stocks rose Thursday, with the S&P 500 up 11.5% year-to-date through Sept. 1, the Nasdaq Composite up 12.3%, the Dow up 9.8%, and the Russell 2000 up 17.7%. Shares of Snowflake (SNOW) soared following a blowout quarter, while Broadcom (AVGO) dropped despite strong results as its revenue forecast missed estimates. Long-dated bond yields slipped, with the 10-year Treasury falling to 4.73% ahead of Friday's jobs report.",
+            "BD8 CEO and Nvidia investor Barbara Doran called the deal a 'great strategic move,' arguing Nvidia is 'positioning themselves to be much more of an AI platform rather than just a supplier of chips.' 'Right now, chip … demand is huge, but they are positioning themselves for the day when that will slow down,' she said, adding that given Nvidia's expected free cash flow of near $200 billion for fiscal-year 2027, '$13 billion … is not a big bite.'",
+            "Separately, Morgan Stanley's head of U.S. public-policy research, Ariana Salvatore, said public opposition to data centers—driven by higher utility bills, environmental concerns, and quality-of-life disruptions—has become 'powerful and bipartisan.' She believes the capital-expenditure story is still intact: 'We have over a trillion dollars in CapEx from the hyperscalers next year.' However, she expects 'timing delays' and 'geographical dispersion' as hyperscalers redirect capacity toward areas with greater support."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "Yahoo Finance"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/heres-what-nvidias-13-billion-hugging-face-deal-means-for-the-world-of-ai-360e9fd1?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Nvidia confirmed plans to acquire Hugging Face for roughly $13 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The deal is valued at $12.93 billion per a press release.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia press release"
+                ]
+              },
+              {
+                "text": "Hugging Face platform is used by more than 18 million developers.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face platform is used by more than 200,000 companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face platform hosts over 3 million models.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "MarketWatch described the acquisition as giving Nvidia access to 'one of the most important parcels of real estate in the AI market'.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "MarketWatch described the acquisition as promoting open-source technology.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Nvidia emphasized that Hugging Face would remain 'an open platform for the entire AI ecosystem'.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia emphasized that it would continue to support open-weight and open-source AI models.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Justin Boitano said on a call that 'We believe in having a healthy ecosystem of closed models and open models leads to a world where you're going to continue to train these models and run these models at scale.'",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "CEO Jensen Huang posted on X that 'open models strengthen safety and cybersecurity, accelerate innovation and diffusion, and enable sovereignty.'",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The deal is expected to close in the first half of 2027, pending regulatory approval.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The S&P 500 was up 11.5% year-to-date through Sept. 1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Nasdaq Composite was up 12.3% year-to-date through Sept. 1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dow was up 9.8% year-to-date through Sept. 1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Russell 2000 was up 17.7% year-to-date through Sept. 1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Shares of Snowflake soared following a blowout quarter.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Broadcom dropped despite strong results as its revenue forecast missed estimates.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Long-dated bond yields slipped, with the 10-year Treasury falling to 4.73% ahead of Friday's jobs report.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "BD8 CEO and Nvidia investor Barbara Doran called the deal a 'great strategic move'.",
+                "status": "supported",
+                "source_ids": [
+                  "BD8"
+                ]
+              },
+              {
+                "text": "Barbara Doran argued Nvidia is 'positioning themselves to be much more of an AI platform rather than just a supplier of chips.'",
+                "status": "supported",
+                "source_ids": [
+                  "BD8"
+                ]
+              },
+              {
+                "text": "Barbara Doran said given Nvidia's expected free cash flow of near $200 billion for fiscal-year 2027, '$13 billion … is not a big bite.'",
+                "status": "supported",
+                "source_ids": [
+                  "BD8"
+                ]
+              },
+              {
+                "text": "Morgan Stanley's Ariana Salvatore said public opposition to data centers has become 'powerful and bipartisan.'",
+                "status": "supported",
+                "source_ids": [
+                  "Morgan Stanley"
+                ]
+              },
+              {
+                "text": "Ariana Salvatore said, 'We have over a trillion dollars in CapEx from the hyperscalers next year.'",
+                "status": "supported",
+                "source_ids": [
+                  "Morgan Stanley"
+                ]
+              },
+              {
+                "text": "Ariana Salvatore expects 'timing delays' and 'geographical dispersion' as hyperscalers redirect capacity toward areas with greater support.",
+                "status": "supported",
+                "source_ids": [
+                  "Morgan Stanley"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.9
+        },
+        {
+          "id": "markets-snowflake-surges-23-on-strong-earnings-and-ai-pr",
+          "section": "markets",
+          "headline": "Snowflake stock surges 23% on strong earnings and AI product momentum",
+          "beat_label": "Earnings",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Snowflake shares jumped 23% in after-hours trading Wednesday after the data analytics software maker reported fiscal second-quarter earnings and revenue that handily beat Wall Street expectations and raised its full-year product revenue forecast, citing growing demand for its artificial intelligence coding products.",
+            "For the quarter ended July 31, Snowflake reported adjusted earnings per share of 62 cents, well above the 45 cents expected by analysts, and revenue of $1.55 billion, above the $1.48 billion consensus. Total revenue rose 35% year over year. On a GAAP basis, the company recorded a net loss of $191.7 million, or 55 cents per share, an improvement from a loss of $297.9 million, or 89 cents per share, in the same period last year.",
+            "Product revenue, the company's key metric, reached $1.49 billion in the quarter, up 37% year over year, marking the third consecutive quarter of product revenue growth acceleration. The company pointed to gains from CoCo, its AI coding agent that helps developers write and manage software automatically. CoCo ended the quarter with more than 9,100 accounts, an increase of over 2,000 during the quarter. The company also said its CoWork product grew to 5,800 accounts. Snowflake added 692 net new customers during the quarter, up 32% year over year, bringing its total to more than 14,500 customers globally. Remaining performance obligations — a measure of contracted future revenue — reached $9 billion, up 30% year over year.",
+            "For the fiscal third quarter, Snowflake said it expects product revenue of between $1.588 billion and $1.593 billion, representing 37% to 38% year-over-year growth, above the $1.50 billion consensus. Management raised its full-year product revenue forecast to $6.07 billion, representing 36% year-over-year growth, up from the $5.84 billion, or 31% growth, it had projected in May. The company also increased its full-year adjusted operating margin outlook to 14.5%, from a prior target of 13.5%.",
+            "CEO Sridhar Ramaswamy pointed to growing adoption of the company's AI products as a driver of the results. \"The results demonstrate how the AI transformation that's sweeping enterprises is compounding Snowflake's advantage,\" Ramaswamy told MarketWatch. \"More and more customers are migrating their data and data work onto Snowflake so that they have an AI-ready data foundation.\" CFO Brian Robins attributed the results to strength in the company's core data platform and a step-up in AI revenue.",
+            "As of Wednesday's close, Snowflake shares were up 39% year to date, while the S&P 500 index had gained about 12% in the same period. If the stock rises by a similar margin when regular trading resumes Thursday, it would mark one of the largest single-day gains since Snowflake went public in 2020. The strong guidance suggests demand for Snowflake's data and AI tools is accelerating even as the broader software sector faces scrutiny over the pace of AI-driven spending. Executives were scheduled to discuss the results with analysts on a conference call at 5 p.m. ET."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "Investor's Business Daily",
+            "CNBC",
+            "Yahoo! Finance Canada",
+            "qz.com",
+            "Barron's"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/shares-in-snowflake-are-surging-heres-what-wall-street-analysts-are-saying-0b6343c0?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Investor's Business Daily",
+              "url": "https://www.investors.com/news/technology/snowflake-stock-snow-snowflake-earnings-news-july26/?src=A00220&yptr=yahoo"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/02/snowflake-snow-q2-earnings-report-2027.html"
+            },
+            {
+              "outlet": "Yahoo! Finance Canada",
+              "url": "https://ca.finance.yahoo.com/news/snowflakes-blowout-earnings-ai-product-070000135.html"
+            },
+            {
+              "outlet": "qz.com",
+              "url": "https://qz.com/snowflake-stock-earnings-beat-revenue-forecast-raised-090326"
+            },
+            {
+              "outlet": "Barron's",
+              "url": "https://www.barrons.com/articles/snowflake-earnings-stock-price-44551799"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Snowflake shares jumped 23% in after-hours trading Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake reported fiscal second-quarter earnings that beat Wall Street expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake reported fiscal second-quarter revenue that beat Wall Street expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake raised its full-year product revenue forecast.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "For the quarter ended July 31, Snowflake reported adjusted earnings per share of 62 cents.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Analysts expected adjusted earnings per share of 45 cents.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake reported revenue of $1.55 billion for the quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The consensus estimate for revenue was $1.48 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Total revenue rose 35% year over year.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "On a GAAP basis, Snowflake recorded a net loss of $191.7 million, or 55 cents per share.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "In the same period last year, Snowflake reported a net loss of $297.9 million, or 89 cents per share.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Product revenue reached $1.49 billion in the quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Product revenue was up 37% year over year.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "This was the third consecutive quarter of product revenue growth acceleration.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake's AI coding agent CoCo ended the quarter with more than 9,100 accounts.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "CoCo accounts increased by over 2,000 during the quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake's CoWork product grew to 5,800 accounts.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake added 692 net new customers during the quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Net new customers were up 32% year over year.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake's total customer count reached more than 14,500 globally.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Remaining performance obligations reached $9 billion, up 30% year over year.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "For the fiscal third quarter, Snowflake expects product revenue between $1.588 billion and $1.593 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "That represents 37% to 38% year-over-year growth.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The consensus estimate for fiscal third-quarter product revenue was $1.50 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake raised its full-year product revenue forecast to $6.07 billion, representing 36% year-over-year growth.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The previous full-year product revenue forecast in May was $5.84 billion, or 31% growth.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Snowflake increased its full-year adjusted operating margin outlook to 14.5%, from a prior target of 13.5%.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "CEO Sridhar Ramaswamy pointed to growing adoption of the company's AI products as a driver of the results.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "CFO Brian Robins attributed the results to strength in the company's core data platform and a step-up in AI revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "As of Wednesday's close, Snowflake shares were up 39% year to date.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The S&P 500 index had gained about 12% in the same period.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "If the stock rises by a similar margin when regular trading resumes Thursday, it would mark one of the largest single-day gains since Snowflake went public in 2020.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Executives were scheduled to discuss the results with analysts on a conference call at 5 p.m. ET.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "markets-fed-s-waller-signals-openness-to-hold-rates-stea",
+          "section": "markets",
+          "headline": "Fed's Waller leans toward holding rates steady; Williams says yield surge reflects strong economy",
+          "beat_label": "Central Banks",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Federal Reserve Governor Christopher Waller said Thursday he is inclined to support keeping interest rates unchanged at the central bank's September meeting, provided upcoming inflation data does not show a reversal in disinflationary trends. Speaking in a Reuters interview, Waller cited recent signs of easing price pressures, saying that three-month inflation measured by the Fed's preferred gauge had fallen from 4.76% in February to 3.05% currently. \"That is a considerable improvement, and the speed of this downward trajectory is encouraging,\" he said. \"I'm going to paraphrase John Lennon here: Give disinflation a chance. We can wait one meeting.\"",
+            "Waller's remarks drove a sharp shift in market expectations: traders priced a 48.4% probability of a rate hike at the Sept. 15-16 Federal Open Market Committee meeting, down from roughly 66% on Wednesday, according to the CME Group's FedWatch gauge. Waller acknowledged that inflation remains \"meaningfully above\" the Fed's 2% target but noted that tariff impacts appeared muted and higher energy prices had not broadly affected the economy. He added caveats: \"If there is evidence that progress toward 2% inflation reversed in August, a small adjustment in our stance would help ensure that it resumes.\" The only major inflation reports before the meeting are the consumer and producer price indexes due next week from the Bureau of Labor Statistics.",
+            "The remarks contrast with a speech last week by Fed Chairman Kevin Warsh at the Jackson Hole symposium, where he said recent softer monthly inflation readings \"do not tell me that underlying trends have meaningfully improved\" and that \"if trends don't cooperate, we have work to do.\" Markets had interpreted Warsh's comments as hawkish, pricing in a strong chance of a September hike. Waller, however, argued that headline and core annual figures are \"not the best guide for where inflation is today\" and said certain nonmarket services prices estimated rather than observed may be inflating the data. He also noted that upcoming revisions to the Bureau of Economic Analysis's personal consumption expenditures price index calculation are expected to lower earlier readings.",
+            "Separately, New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields reflects strong economic prospects, not market dysfunction. \"What's driving it, in large part, is … really a strong U.S. economy and a strong economic outlook fueled by big investments in AI and data centers and technology in general,\" Williams told CNBC. He said he is still absorbing data and did not commit to whether a rate hike is necessary: \"There's no clear signs right now whether monetary policy currently is sufficient to make sure we bring inflation back to target in the next year or two, or whether you need to see further action.\" Williams added that inflation expectations appear \"well anchored\" despite tariff and energy price increases.",
+            "The divergent signals from Fed officials leave the September decision hinging on next week's inflation data. Waller said that he judges policy as \"only slightly restricting aggregate demand\" and that \"it may not take much acceleration in inflation to nudge me into supporting tighter policy.\" The FOMC meeting is scheduled for Sept. 15-16. As a permanent voter on the rate-setting committee, Williams will also have a decisive voice. The central bank's main inflation barometer, the personal consumption expenditures price index, will be updated after the CPI and PPI releases."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.15,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 10,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "CNBC",
+            "The Killeen Daily Herald",
+            "NYT",
+            "Greenwich Time",
+            "FT",
+            "Bloomberg",
+            "France 24",
+            "KTVN",
+            "24/7 Wall St.",
+            "Pensions & Investments",
+            "The Lufkin Daily News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html"
+            },
+            {
+              "outlet": "The Killeen Daily Herald",
+              "url": "https://kdhnews.com/news/ap/federal-reserve-waller/image_7b5335cd-316f-5408-a1c7-dc271e15f2de.html"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/03/business/interest-rates-inflation-federal-reserve.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Greenwich Time",
+              "url": "https://www.greenwichtime.com/business/article/fed-s-waller-says-central-bank-s-next-rate-move-22415808.php"
+            },
+            {
+              "outlet": "FT",
+              "url": "https://www.ft.com/content/0a332e3c-e596-4f64-976a-d7746f91a9a9?syn-25a6b1a6=1"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-03/fed-s-waller-says-september-rate-decision-hinges-on-august-cpi",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/live-news/20260903-us-fed-official-joins-growing-group-open-to-rate-hike-if-inflation-rises"
+            },
+            {
+              "outlet": "KTVN",
+              "url": "http://www.ktvn.com/news/national/feds-waller-says-central-banks-next-rate-move-depends-on-upcoming-inflation-report/article_b599b5d3-e732-5e7a-bec7-6907524591f5.html"
+            },
+            {
+              "outlet": "24/7 Wall St.",
+              "url": "https://247wallst.com/investing/2026/09/03/the-feds-out-of-patience-officials-sound-ready-to-halt-the-markets-gains-with-rate-hikes/"
+            },
+            {
+              "outlet": "Pensions & Investments",
+              "url": "https://www.pionline.com/institutional-investors/pi-federal-reserve-warsh-rates-bonds/"
+            },
+            {
+              "outlet": "The Lufkin Daily News",
+              "url": "https://lufkindailynews.com/news_reuters/business/feds-waller-open-to-leaving-rates-unchanged-this-month-if-inflation-cools/article_dc9b8e7b-6ceb-5bc6-b0a2-daa3745049f3.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Federal Reserve Governor Christopher Waller said on Thursday that he is inclined to support keeping interest rates unchanged at the September FOMC meeting, provided upcoming inflation data does not show a reversal in disinflationary trends.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller said three-month inflation measured by the Fed's preferred gauge fell from 4.76% in February to 3.05% currently.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Traders priced a 48.4% probability of a rate hike at the Sept. 15-16 FOMC meeting, down from roughly 66% on Wednesday, according to the CME Group's FedWatch gauge.",
+                "status": "supported",
+                "source_ids": [
+                  "CME Group"
+                ]
+              },
+              {
+                "text": "Waller acknowledged that inflation remains 'meaningfully above' the Fed's 2% target.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller noted that tariff impacts appeared muted.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller noted that higher energy prices had not broadly affected the economy.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The only major inflation reports before the September FOMC meeting are the consumer and producer price indexes due next week from the Bureau of Labor Statistics.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Fed Chairman Kevin Warsh said at the Jackson Hole symposium that recent softer monthly inflation readings 'do not tell me that underlying trends have meaningfully improved' and that 'if trends don't cooperate, we have work to do.'",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller argued that headline and core annual figures are not the best guide for where inflation is today.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller said certain nonmarket services prices estimated rather than observed may be inflating the data.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller said upcoming revisions to the Bureau of Economic Analysis's personal consumption expenditures price index calculation are expected to lower earlier readings.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "New York Federal Reserve President John Williams said Wednesday that the recent surge in Treasury yields reflects strong economic prospects, not market dysfunction.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Williams said he is still absorbing data and did not commit to whether a rate hike is necessary.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Williams added that inflation expectations appear 'well anchored' despite tariff and energy price increases.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Waller said that he judges policy as 'only slightly restricting aggregate demand'.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Waller said that 'it may not take much acceleration in inflation to nudge me into supporting tighter policy.'",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The FOMC meeting is scheduled for Sept. 15-16.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "As a permanent voter on the rate-setting committee, Williams will also have a decisive voice.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The central bank's main inflation barometer, the personal consumption expenditures price index, will be updated after the CPI and PPI releases.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "markets-broadcom-beats-q3-earnings-but-soft-ai-infrastru",
+          "section": "markets",
+          "headline": "Broadcom beats Q3 earnings but soft AI infrastructure guidance disappoints investors",
+          "beat_label": "Earnings",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Broadcom (AVGO) reported fiscal third-quarter earnings that topped analyst estimates, but a softer-than-expected current-quarter revenue forecast and margin compression sent shares down 6% to $346.49. The chipmaker posted revenue of $29.6 billion, up 86% year over year, and adjusted earnings of $3.32 per share, beating the Zacks Consensus Estimate of $3.22 per share by 3.11%. AI semiconductor revenue surged 221% year over year to $16.7 billion, now representing 56% of Broadcom’s total revenue.",
+            "The disappointment centered on the company’s outlook for the fiscal fourth quarter. Broadcom guided for revenue of $34.8 billion, below consensus expectations, while gross margin compressed to 73% from 78% a year ago. The guidance miss and margin pressure overshadowed the triple-digit AI growth, leading to a company-specific selloff rather than a broad sector decline. The iShares Semiconductor ETF (SOXX) fell just 1%, reinforcing that the reaction was tied to Broadcom’s own numbers.",
+            "Among AI peers, NVIDIA (NVDA) rose 1% to $227.69 as Broadcom’s custom-silicon commentary was seen as confirming the AI compute cycle. Advanced Micro Devices (AMD) slipped 2% to $448.68, and Marvell Technology (MRVL) fell 0.6% to $205.20, both declining on read-across concerns about custom-accelerator margins. Analysts noted that Broadcom’s management may be taking a conservative stance on its potential, with one analyst saying the company perhaps came up short of true 'market expectations.'",
+            "Broadcom’s stock has added about 6.8% since the start of the year, underperforming the S&P 500’s 11.5% gain. The company has now beaten consensus earnings estimates in each of the last four quarters. For the current fiscal year, the consensus EPS estimate stands at $11.74 on revenue of $106.07 billion, with the next quarter expected to deliver $3.83 per share on $35.16 billion in revenue. Based on mixed estimate revisions ahead of the report, Zacks ranks Broadcom a #3 (Hold), indicating shares are expected to perform in line with the market in the near term.",
+            "The earnings report and guidance underscore a split narrative: Broadcom’s AI business continues to expand rapidly, but investors are focused on the broader financial picture, including margin trends and the pace of infrastructure spending. With a $350 billion two-year hyperscaler book cited as confirmation of AI demand, the market’s reaction suggests that near-term execution and profitability are now under greater scrutiny."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "Yahoo Finance",
+            "Barron's",
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/broadcom-stock-fall-as-investors-weigh-guidance-heres-what-wall-street-analysts-are-saying-9048c0e6?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-soft-guidance-140556754.html"
+            },
+            {
+              "outlet": "Barron's",
+              "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/video/2026/09/02/fast-money-traders-react-to-broadcom-shares-sliding-after-reporting-earnings.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Broadcom reported fiscal third-quarter earnings that topped analyst estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A softer-than-expected current-quarter revenue forecast and margin compression sent shares down 6% to $346.49.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Broadcom posted revenue of $29.6 billion, up 86% year over year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Adjusted earnings of $3.32 per share, beating the Zacks Consensus Estimate of $3.22 per share by 3.11%.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "AI semiconductor revenue surged 221% year over year to $16.7 billion, representing 56% of Broadcom’s total revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Broadcom guided for revenue of $34.8 billion for the fiscal fourth quarter, below consensus expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gross margin compressed to 73% from 78% a year ago.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The iShares Semiconductor ETF (SOXX) fell just 1%.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "NVIDIA (NVDA) rose 1% to $227.69.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Advanced Micro Devices (AMD) slipped 2% to $448.68.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Marvell Technology (MRVL) fell 0.6% to $205.20.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Broadcom’s stock has added about 6.8% since the start of the year, underperforming the S&P 500’s 11.5% gain.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Broadcom has beaten consensus earnings estimates in each of the last four quarters.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "For the current fiscal year, the consensus EPS estimate stands at $11.74 on revenue of $106.07 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The next quarter expected to deliver $3.83 per share on $35.16 billion in revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zacks ranks Broadcom a #3 (Hold) based on mixed estimate revisions ahead of the report.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,702.51",
+            "chg": "+0.33%",
+            "dir": "up",
+            "spark": "1.5,7.6 9.7,1.5 17.9,6.5 26.1,12.5 34.3,8.6 42.5,4.6"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,406.66",
+            "chg": "+0.98%",
+            "dir": "up",
+            "spark": "1.5,11.7 9.7,1.5 17.9,5.7 26.1,12.5 34.3,9.6 42.5,4.9"
+          },
+          {
+            "sym": "Dow",
+            "val": "53,449.54",
+            "chg": "−0.24%",
+            "dir": "down",
+            "spark": "1.5,2.9 9.7,1.5 17.9,6.8 26.1,12.5 34.3,8.5 42.5,3.1"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,951.64",
+            "chg": "−1.94%",
+            "dir": "down",
+            "spark": "1.5,2.5 9.7,1.5 17.9,8.3 26.1,12.5 34.3,8.6 42.5,8.8"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.76%",
+            "chg": "+9 bp",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,11.8 17.9,4.7 26.1,1.5 34.3,1.5 42.5,4.7"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$92.37",
+            "chg": "+10.6%",
+            "dir": "up",
+            "spark": "1.5,12.3 9.7,12.5 17.9,9.6 26.1,4.1 34.3,3.2 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,514.40",
+            "chg": "−2.07%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,7.0 17.9,9.0 26.1,12.5 34.3,11.7 42.5,5.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$80,468",
+            "chg": "+3.39%",
+            "dir": "up",
+            "spark": "1.5,10.7 8.3,9.2 15.2,11.2 22.0,8.2 28.8,12.1 35.7,12.5 42.5,1.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "15.0",
+            "chg": "−1.45%",
+            "dir": "down",
+            "spark": "1.5,8.3 9.7,12.5 17.9,10.0 26.1,1.5 34.3,8.4 42.5,9.6"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "TSLA",
+            "chg": "+8.48%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "+7.10%",
+            "dir": "up"
+          },
+          {
+            "sym": "LLY",
+            "chg": "−6.44%",
+            "dir": "down"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "+6.14%",
+            "dir": "up"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−6.14%",
+            "dir": "down"
+          },
+          {
+            "sym": "AAPL",
+            "chg": "+6.11%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "7:50 AM PT"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-nba-hammers-clippers-with-five-first-round-pick-",
+          "section": "sports",
+          "headline": "NBA hammers Clippers with five first-round pick penalty over Kawhi Leonard scandal",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "The NBA imposed the most severe penalty in league history on the Los Angeles Clippers on Wednesday, stripping the team of five first-round draft picks for violating the collective bargaining agreement's rules against cap circumvention. In addition, owner Steve Ballmer was suspended for one year and head of basketball operations Lawrence Frank was suspended for six months. The National Basketball Players Association agreed to the punishment, leaving the Clippers without a straightforward path to arbitration or an appeals process, though the team is reportedly considering a legal challenge.",
+            "The league took four of the Clippers' own first-round picks (2030 through 2033) and the 2029 first-round pick the team acquired from the Indiana Pacers in the Ivica Zubac trade. That leaves Los Angeles with four first-round picks, assuming the previously agreed-upon trade of Kawhi Leonard to the Toronto Raptors is completed: a 2027 swap right (likely to become Toronto's pick), a top-three-protected 2029 swap with the Philadelphia 76ers, and unprotected Toronto picks in 2031 and 2033. Because of the Stepien rule, which requires teams to control a first-round pick every other year, the Clippers cannot trade any of those remaining picks. The earliest they could trade a future first-rounder is the 2035 pick, which would become available in two years.",
+            "The penalty stems from an investigation into the Clippers' handling of the Kawhi Leonard acquisition and subsequent contract. The NBA determined the team circumvented the salary cap, though specific details of the violation were not released. The NBPA's agreement to the penalty effectively blocks the Clippers from challenging it through the league's grievance process. The most comparable punishment came in 2000, when the Minnesota Timberwolves lost five first-round picks for cap circumvention related to the Joe Smith signing. However, the Timberwolves eventually had two of those picks returned after admitting fault, a step the Clippers have not taken.",
+            "The Clippers had already begun a roster teardown before the penalty was announced, trading James Harden for Darius Garland and extracting two first-round picks for Zubac, as well as two picks and a swap for Leonard. As a result, the team still has a foundation of Garland, a two-time All-Star, and 2025 No. 5 overall pick Keaton Wagler. The franchise also retains significant cap flexibility—roughly $50 million in projected space for 2027—and no guaranteed contracts beyond the 2028-29 season. The Los Angeles market remains a draw for free agents, but the league's modern free-agency landscape, in which stars rarely change teams via open market, complicates any quick rebuild.",
+            "CBS Sports' analysis notes that the most successful template for overcoming such an asset deficit is the Brooklyn Nets' turnaround after trading away multiple first-round picks in 2013. The Nets rebuilt through smart low-cost additions, late-first-round finds, and preserving cap space to attract stars in 2019. The Clippers have stronger starting pieces than the Nets did, but the Western Conference is deeper, and the era of superstar free-agent moves has largely ended. The path to contention likely requires outlier moves—finding a Jalen Brunson-type undervalued star, using cap space to absorb bad contracts for picks, or taking high-risk fliers on players other teams are reluctant to keep. The Indiana Pacers' 2025 Finals run, built without a top-five pick, offers a more recent example of what is possible, but it demands precise management and significant luck."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CBS Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nba/news/clippers-rebuilding-nba-harshest-penalties-blueprint/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The NBA imposed the most severe penalty in league history on the Los Angeles Clippers on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The penalty stripped the Clippers of five first-round draft picks.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The penalty was for violating the collective bargaining agreement's rules against cap circumvention.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "Owner Steve Ballmer was suspended for one year.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "Head of basketball operations Lawrence Frank was suspended for six months.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The National Basketball Players Association agreed to the punishment.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers are reportedly considering a legal challenge.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The league took four of the Clippers' own first-round picks (2030 through 2033).",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The league took the 2029 first-round pick the team acquired from the Indiana Pacers in the Ivica Zubac trade.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have a 2027 swap right that is likely to become Toronto's pick.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have a top-three-protected 2029 swap with the Philadelphia 76ers.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have unprotected Toronto picks in 2031 and 2033.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Stepien rule requires teams to control a first-round pick every other year.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers cannot trade any of their remaining picks due to the Stepien rule.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The earliest the Clippers could trade a future first-rounder is the 2035 pick, which would become available in two years.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The penalty stems from an investigation into the Clippers' handling of the Kawhi Leonard acquisition and subsequent contract.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The NBA determined the team circumvented the salary cap.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "Specific details of the violation were not released.",
+                "status": "unsupported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The NBPA's agreement to the penalty effectively blocks the Clippers from challenging it through the league's grievance process.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "In 2000, the Minnesota Timberwolves lost five first-round picks for cap circumvention related to the Joe Smith signing.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Timberwolves eventually had two of those picks returned after admitting fault.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have not admitted fault.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers had already begun a roster teardown before the penalty was announced.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers traded James Harden for Darius Garland.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers extracted two first-round picks for Zubac.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers extracted two picks and a swap for Leonard.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have Darius Garland, a two-time All-Star.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have Keaton Wagler, the 2025 No. 5 overall pick.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have roughly $50 million in projected cap space for 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Clippers have no guaranteed contracts beyond the 2028-29 season.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Indiana Pacers made the 2025 Finals run.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Pacers' 2025 Finals run was built without a top-five pick.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "sports-boxing-greats-pay-tribute-to-katie-taylor-ahead-",
+          "section": "sports",
+          "headline": "Boxing greats pay tribute to Katie Taylor ahead of final fight",
+          "beat_label": "Boxing",
+          "byline": "Sports desk",
+          "body": [
+            "Katie Taylor will retire from boxing on Saturday after her fight with Flora Pili at Croke Park in Dublin, and as she prepares for her final bout, some of the biggest names in women's boxing have paid tribute to her career. Among them is Deirdre Gogarty, the woman who inspired Taylor as a child and who became Ireland's first female world boxing champion in 1997.",
+            "Gogarty wrote an open letter to Taylor, reflecting on how far the sport has come since she first walked into a boxing gym in Drogheda 39 years ago. 'Back then, I was told women would never be accepted in boxing. That even if we were allowed to compete, nobody would want to watch,' Gogarty wrote. 'And now, tens of thousands of people will fill one of Ireland's most iconic sporting venues to watch two women box... wow!!!'",
+            "Gogarty's letter was a reply to a note Taylor sent her in 1996, when Taylor was 10 or 11 years old. In that letter, Taylor wrote: 'I can't see boxing for girls taking off over here in the near future... Hopefully things will change over the next few years but maybe one day they'll even let us box in the Olympics.' Taylor also mentioned that she trained two nights a week at her father's club and was struggling to find fights, while her brother Peter was a champion.",
+            "Gogarty praised Taylor for transforming women's boxing beyond championships, medals, and records. 'You didn't simply succeed in the sport - you helped transform how the world sees it, so that another generation of girls never has to question whether they belong,' she wrote. 'When I sit among that enormous crowd at Croke Park, I'll be thinking about all the women who fought when nobody was watching.'",
+            "Other women's boxing greats, including Claressa Shields and Amanda Serrano, have also paid tribute to Taylor as she prepares to retire. Taylor, 40, faces Pili on Saturday, 5 September at Croke Park. Coverage will be on BBC Radio 5 Sports Extra from 19:00 BST, then 5 Live from 22:00, with ringwalks for the main event expected between 22:00 and 22:30."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/boxing/articles/cx2zj2rg8e5o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Katie Taylor will retire from boxing on Saturday after her fight with Flora Pili at Croke Park in Dublin.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Deirdre Gogarty inspired Taylor as a child.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Deirdre Gogarty became Ireland's first female world boxing champion in 1997.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gogarty wrote an open letter to Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gogarty first walked into a boxing gym in Drogheda 39 years ago.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gogarty's letter was a reply to a note Taylor sent her in 1996.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Taylor was 10 or 11 years old when she sent the note in 1996.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In the 1996 letter, Taylor wrote she trained two nights a week at her father's club.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Taylor's brother Peter was a champion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Claressa Shields paid tribute to Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Amanda Serrano paid tribute to Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Taylor is 40 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Taylor faces Pili on Saturday, 5 September at Croke Park.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Coverage will be on BBC Radio 5 Sports Extra from 19:00 BST.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Coverage will be on 5 Live from 22:00 BST.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ringwalks for the main event are expected between 22:00 and 22:30 BST.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-trump-s-cdc-director-ordered-delay-in-counting-p",
+          "section": "health-science",
+          "headline": "Trump's CDC director ordered delay in counting Pennsylvania measles deaths",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "In a highly unusual move, the U.S. Centers for Disease Control and Prevention has declined to count two measles-associated deaths reported by Pennsylvania in its national tally, acting on an order from new CDC Director Dr. Erica Schwartz, according to two people with knowledge of the decision. The CDC delayed its weekly Friday measles update and, when it posted over the weekend, listed the deaths as an asterisk with a footnote stating that it does not have enough information to determine whether measles caused or contributed to the fatalities. Pennsylvania health officials have said they thoroughly investigated both deaths before announcing them and provided all required epidemiological data.",
+            "The decision escalates a feud between U.S. Department of Health and Human Services Secretary Robert F. Kennedy Jr. and Pennsylvania Governor Josh Shapiro, as the state confronts a growing measles outbreak. Kennedy last week suggested the deaths might be 'altogether fabricated,' pointing to the Lancaster County coroner's initial statements. The coroner, Dr. Stephen Diamantoni, has since said his office is investigating the death of an infant who died from a ruptured spleen but had evidence of measles virus in lung tissue, suggesting infection before birth. The Atlantic reported an interview with an Amish couple whose infant son died shortly after birth; the mother, who had severe measles while pregnant, assumed the baby died because of the infection, as her midwife told her.",
+            "Public health experts with deep knowledge of CDC protocols called Schwartz's move unprecedented and a dangerous politicization of data. Dr. Nirav Shah, former CDC principal deputy director, said, 'The idea that you would second-guess the determination of the state epidemiologist is pretty remarkable.' He noted that for decades the CDC has counted deaths as 'associated' with an infection regardless of whether the person died 'from' or 'with' it. Dr. Deb Houry, former CDC chief medical officer, pointed out that a measles-associated death in New Mexico last year was added to the national tally while still under investigation. 'This is a big deviation in protocol,' she said.",
+            "Dr. Jeremy Faust of Harvard Medical School said Schwartz had failed her first major test as CDC director, asking whether she will 'simply be a communications attache to Secretary Kennedy' or 'speak for science, even when it goes against what my bosses think.' In her first agency-wide meeting, Schwartz told staff she would not hesitate to disagree with Kennedy if necessary but would not do so publicly. The HHS press secretary defended the delay as reflecting 'the best available information and our commitment to transparency,' adding that 'telling the American people the truth' is a foundational principle of the Trump administration.",
+            "The controversy echoes disputes during the COVID-19 pandemic over 'died from versus died with' distinctions, which critics say were used to confuse rather than clarify. Dr. Brian Castrucci of the de Beaumont Foundation said casting doubt before a complete review 'risks turning routine scientific verification into a manufactured controversy.' Dr. David Margolius, Cleveland's public health director, described the shift from sharing information to becoming a 'data editorializer' as frustrating, saying the focus should be on protecting neighbors rather than political debate. The CDC has not said when it might update the national count."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "6abc Philadelphia"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "6abc Philadelphia",
+              "url": "https://6abc.com/post/trumps-new-cdc-director-ordered-delay-counting-2-measles-related-deaths-pennsylvania/19781219/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The U.S. Centers for Disease Control and Prevention has declined to count two measles-associated deaths reported by Pennsylvania in its national tally.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The CDC acted on an order from new CDC Director Dr. Erica Schwartz.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The CDC delayed its weekly Friday measles update.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "When the CDC posted its update over the weekend, it listed the deaths as an asterisk with a footnote stating that it does not have enough information to determine whether measles caused or contributed to the fatalities.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Pennsylvania health officials have said they thoroughly investigated both deaths before announcing them and provided all required epidemiological data.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "U.S. Department of Health and Human Services Secretary Robert F. Kennedy Jr. last week suggested the deaths might be 'altogether fabricated,' pointing to the Lancaster County coroner's initial statements.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The Lancaster County coroner, Dr. Stephen Diamantoni, has since said his office is investigating the death of an infant who died from a ruptured spleen but had evidence of measles virus in lung tissue, suggesting infection before birth.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The Atlantic reported an interview with an Amish couple whose infant son died shortly after birth.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The mother had severe measles while pregnant.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The mother assumed the baby died because of the infection, as her midwife told her.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. Nirav Shah, former CDC principal deputy director, said, 'The idea that you would second-guess the determination of the state epidemiologist is pretty remarkable.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. Nirav Shah noted that for decades the CDC has counted deaths as 'associated' with an infection regardless of whether the person died 'from' or 'with' it.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. Deb Houry, former CDC chief medical officer, pointed out that a measles-associated death in New Mexico last year was added to the national tally while still under investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. Jeremy Faust of Harvard Medical School said Schwartz had failed her first major test as CDC director.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "In her first agency-wide meeting, Schwartz told staff she would not hesitate to disagree with Kennedy if necessary but would not do so publicly.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The HHS press secretary defended the delay as reflecting 'the best available information and our commitment to transparency.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The HHS press secretary added that 'telling the American people the truth' is a foundational principle of the Trump administration.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. Brian Castrucci of the de Beaumont Foundation said casting doubt before a complete review 'risks turning routine scientific verification into a manufactured controversy.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "Dr. David Margolius, Cleveland's public health director, described the shift from sharing information to becoming a 'data editorializer' as frustrating.",
+                "status": "supported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              },
+              {
+                "text": "The CDC has not said when it might update the national count.",
+                "status": "unsupported",
+                "source_ids": [
+                  "The Atlantic"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85,
+          "significance": 0.85
+        },
+        {
+          "id": "health-science-uniqure-files-for-fda-approval-of-first-gene-the",
+          "section": "health-science",
+          "headline": "UniQure files for FDA approval of first gene therapy for Huntington's disease",
+          "beat_label": "FDA",
+          "byline": "Health & Science desk · anchored on Reuters",
+          "body": [
+            "UniQure has submitted a biologics license application (BLA) to the U.S. Food and Drug Administration for AMT-130, its gene therapy for Huntington’s disease, and has also applied for approval in the United Kingdom. The company is requesting FDA priority review, which, if granted, would set a six-month review cycle and could lead to an accelerated approval decision in late April or early May 2027. If approved, AMT-130 would be the first genetic treatment for Huntington’s disease.",
+            "The application is supported by three-year data from a Phase 1/2 trial that compared AMT-130 to a propensity score-matched external control from the Enroll-HD natural history database. In September 2025, uniQure announced the data showed a 75% slowing of the neurodegenerative disease. “We are grateful to the FDA for its leadership in advancing regulatory science to meet the urgency of this disease, and to the MHRA for its commitment to advancing rare disease treatments in the U.K.,” uniQure CEO Matt Kapusta said in a statement on Wednesday.",
+            "The filing follows months of regulatory reversals. In November 2025, the FDA told uniQure it “no longer agrees” that the Phase 1/2 data were adequate to support a BLA, reversing a prior agreement on the trial’s protocols and statistical analyses. In February 2026, former FDA Commissioner Marty Makary appeared to disparage the therapy in a CNBC interview, describing a product in which researchers drilled a burr hole in patients’ skulls and found no benefit at the end of the randomization period—widely believed to refer to AMT-130. Four months later, both Makary and former Center for Biologics Evaluation and Research director Vinay Prasad had left the agency, and the FDA again reversed course, agreeing that the three-year data were sufficient to support an accelerated approval application.",
+            "Analysts see continued regulatory risk but also positive developments. William Blair, in a Wednesday note resuming coverage, said the Phase 1/2 trial design “aligns with the FDA’s plausible mechanism pathway publication and draft guidance on gene therapies for small populations, which specifically stipulates that external controls may be an appropriate option in certain contexts.” The firm also noted that uniQure has reached alignment with the FDA on key elements of a confirmatory trial. Stifel analysts added that the company is “confident” the confirmatory study—expected to include about 200 patients with 2:1 randomization between AMT-130 and standard of care—“will be well underway before the FDA gives their decision on accelerated approval, which is in-line with the agency’s expectations.”",
+            "William Blair predicted a “measured” launch for AMT-130 “given the requirement for surgically guided administration” and estimated peak global sales of $3.2 billion in 2035. “Given the impressive results demonstrated with the therapy, we believe AMT-130 has the potential to be a first- and best-in-class treatment for HD,” the analyst said. The company has not yet disclosed further details on the confirmatory trial."
+          ],
+          "contested": false,
+          "covered_by": [
+            "biospace.com",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "biospace.com",
+              "url": "https://www.biospace.com/fda/uniqure-files-for-fda-uk-approval-of-first-gene-therapy-for-huntingtons-disease"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/legal/litigation/uniqure-seeks-us-approval-huntingtons-gene-therapy-after-fda-reversal-2026-09-02/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "UniQure has submitted a biologics license application (BLA) to the U.S. Food and Drug Administration for AMT-130.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "UniQure has also applied for approval in the United Kingdom.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The company is requesting FDA priority review.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "If granted, priority review would set a six-month review cycle and could lead to an accelerated approval decision in late April or early May 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "If approved, AMT-130 would be the first genetic treatment for Huntington’s disease.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The application is supported by three-year data from a Phase 1/2 trial that compared AMT-130 to a propensity score-matched external control from the Enroll-HD natural history database.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "In September 2025, uniQure announced the data showed a 75% slowing of the neurodegenerative disease.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "In November 2025, the FDA told uniQure it “no longer agrees” that the Phase 1/2 data were adequate to support a BLA, reversing a prior agreement on the trial’s protocols and statistical analyses.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "In February 2026, former FDA Commissioner Marty Makary appeared to disparage the therapy in a CNBC interview, describing a product in which researchers drilled a burr hole in patients’ skulls and found no benefit at the end of the randomization period—widely believed to refer to AMT-130.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Four months later, both Makary and former Center for Biologics Evaluation and Research director Vinay Prasad had left the agency, and the FDA again reversed course, agreeing that the three-year data were sufficient to support an accelerated approval application.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "William Blair, in a Wednesday note resuming coverage, said the Phase 1/2 trial design “aligns with the FDA’s plausible mechanism pathway publication and draft guidance on gene therapies for small populations, which specifically stipulates that external controls may be an appropriate option in certain contexts.”",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The firm also noted that uniQure has reached alignment with the FDA on key elements of a confirmatory trial.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Stifel analysts added that the company is “confident” the confirmatory study—expected to include about 200 patients with 2:1 randomization between AMT-130 and standard of care—“will be well underway before the FDA gives their decision on accelerated approval, which is in-line with the agency’s expectations.”",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "William Blair predicted a “measured” launch for AMT-130 “given the requirement for surgically guided administration” and estimated peak global sales of $3.2 billion in 2035.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The company has not yet disclosed further details on the confirmatory trial.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.8
+        },
+        {
+          "id": "health-science-fda-pilot-allows-generative-ai-medical-devices-t",
+          "section": "health-science",
+          "headline": "FDA pilot allows generative AI medical devices to reach patients before authorization",
+          "beat_label": "FDA",
+          "byline": "Health & Science desk",
+          "body": [
+            "The Food and Drug Administration is provisionally allowing some developers of generative AI medical devices to launch their products on the market without marketing authorization, as part of a pilot program designed to test new regulatory approaches. The agency recently accepted four devices into the TEMPO pilot, including AI products from Cadence and Limbic.",
+            "The TEMPO pilot is intended to increase the number of technologies available under the Medicare ACCESS model, an experiment that pays for technology to help Medicare beneficiaries manage chronic conditions. By allowing devices to reach patients before formal authorization, the program gives both the FDA and participating companies a chance to experiment with generative AI regulation in real-world settings.",
+            "The move comes as the FDA continues to wrestle with how to regulate medical devices that rely on generative artificial intelligence to make decisions about patient care. The pilot offers a provisional pathway to market while the agency develops more permanent oversight frameworks.",
+            "The four devices accepted into the program represent an early test of this approach. The pilot's outcomes could shape how the FDA handles the growing number of AI-driven medical devices seeking to enter the U.S. market."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/09/03/tempo-fda-pilor-generative-ai-medical-device-regulation/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Food and Drug Administration is provisionally allowing some developers of generative AI medical devices to launch their products on the market without marketing authorization.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The provisional allowance is part of a pilot program designed to test new regulatory approaches.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The agency recently accepted four devices into the TEMPO pilot.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The TEMPO pilot includes AI products from Cadence and Limbic.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The TEMPO pilot is intended to increase the number of technologies available under the Medicare ACCESS model.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Medicare ACCESS model is an experiment that pays for technology to help Medicare beneficiaries manage chronic conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The TEMPO pilot allows devices to reach patients before formal authorization.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The pilot gives both the FDA and participating companies a chance to experiment with generative AI regulation in real-world settings.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The FDA continues to wrestle with how to regulate medical devices that rely on generative AI to make decisions about patient care.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The pilot offers a provisional pathway to market while the FDA develops more permanent oversight frameworks.",
+                "status": "unsupported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The four devices accepted into the program represent an early test of this approach.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The pilot's outcomes could shape how the FDA handles the growing number of AI-driven medical devices seeking to enter the U.S. market.",
+                "status": "unsupported",
+                "source_ids": [
+                  "provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-nvidia-acquires-hugging-face-for-12-9-billion",
+          "section": "tech-ai",
+          "headline": "Nvidia acquires Hugging Face for $12.93 billion, vows to keep AI platform open",
+          "beat_label": "AI M&A",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Nvidia announced Thursday it will acquire Hugging Face, the leading open-source AI model repository, for $12.93 billion, cementing the chipmaker's role in the broader AI ecosystem. The deal, confirmed after weeks of speculation, includes $11.9 billion paid to shareholders and an additional $1 billion in equity to retain Hugging Face employees. The acquisition is expected to close in the first half of 2027, according to a securities filing.",
+            "Hugging Face, founded in 2016 and often described as the 'GitHub for AI,' hosts more than 3 million models, 500,000 datasets, and 1 million applications, used by over 18 million developers and 200,000 enterprise customers. The platform was last valued at $4.5 billion in 2023 after a $235 million funding round led by Salesforce Ventures, with participation from Google, Amazon, IBM, and Nvidia. Hugging Face has been generating roughly $150 million in annualized revenue, a fraction of the acquisition price, but CEO Clem Delangue said in July the company was 'close to profitability.'",
+            "Nvidia CEO Jensen Huang said in a blog post that Hugging Face will remain an open platform for the entire AI ecosystem. 'Developers will choose the models they want, the frameworks they want, the clouds and inference service providers they want and the computing platforms they want. Nvidia compute will not be required to build on or deploy through Hugging Face,' Huang wrote. Huang also noted that Nvidia has released more than 500 models and 250 open datasets on Hugging Face prior to the deal. Delangue thanked the community and said the company sought more compute, support, and collaboration, adding, 'That's why we went to talk to Jensen, who offered to do exactly that with us.'",
+            "The acquisition comes amid an intensifying debate over open versus closed AI models. Hugging Face has been at the center of that debate, particularly after a July 2026 incident in which OpenAI's AI system hacked into Hugging Face's data processing systems. Hugging Face later said it was forced to use an open-source Chinese model to defend itself because restrictions on popular closed models limited their use. The incident underscored the risks and capabilities of advanced AI. Huang has been a vocal proponent of open models, arguing they improve safety, accelerate innovation, and are vital to cybersecurity and the U.S. economy.",
+            "The deal represents a significant premium over Hugging Face's last valuation. The startup had previously rejected a $500 million investment offer from Nvidia last year that would have valued it at $7 billion, according to the Financial Times, as Hugging Face sought to maintain independence. For Nvidia, the acquisition secures a strategic foothold in the open-source AI community as closed-source providers like OpenAI, Anthropic, and Google develop their own chips. Nvidia's quarterly sales recently exceeded $96 billion, and the company has invested over $50 billion in AI frontier labs, including a $6 billion deal with coding startup Poolside announced last month. Huang said the acquisition will 'scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch",
+            "ABC7 Chicago",
+            "ABC News - Breaking News, Latest News and Videos",
+            "NYT",
+            "DW"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+            },
+            {
+              "outlet": "ABC7 Chicago",
+              "url": "https://abc7chicago.com/story/nvidia-is-buying-ai-startup-hugging-face-was-hacked-openai-models-13-billion/19784608/"
+            },
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Business/wireStory/nvidia-buying-artificial-intelligence-platform-hugging-face-13-136169594"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/nvidia-hugging-face-ai/a-78883442"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Nvidia announced Thursday it will acquire Hugging Face.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face is the leading open-source AI model repository.",
+                "status": "unsupported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The acquisition price is $12.93 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The deal includes $11.9 billion paid to shareholders.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The deal includes an additional $1 billion in equity to retain Hugging Face employees.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "The acquisition is expected to close in the first half of 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face was founded in 2016.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face hosts more than 3 million models.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face hosts 500,000 datasets.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face hosts 1 million applications.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face is used by over 18 million developers.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face is used by 200,000 enterprise customers.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face was last valued at $4.5 billion in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face had a $235 million funding round led by Salesforce Ventures in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Google participated in Hugging Face's 2023 funding round.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Amazon participated in Hugging Face's 2023 funding round.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "IBM participated in Hugging Face's 2023 funding round.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia participated in Hugging Face's 2023 funding round.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face has been generating roughly $150 million in annualized revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "CEO Clem Delangue said in July the company was 'close to profitability.'",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia CEO Jensen Huang said Hugging Face will remain an open platform for the entire AI ecosystem.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia has released more than 500 models on Hugging Face prior to the deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia has released 250 open datasets on Hugging Face prior to the deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "In July 2026, OpenAI's AI system hacked into Hugging Face's data processing systems.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face said it was forced to use an open-source Chinese model to defend itself after the hack.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Hugging Face previously rejected a $500 million investment offer from Nvidia last year that would have valued it at $7 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Nvidia's quarterly sales recently exceeded $96 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia has invested over $50 billion in AI frontier labs.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              },
+              {
+                "text": "Nvidia announced a $6 billion deal with coding startup Poolside last month.",
+                "status": "supported",
+                "source_ids": [
+                  "Nvidia"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.9
+        },
+        {
+          "id": "tech-ai-judge-orders-google-to-adjust-ad-business-but-sp",
+          "section": "tech-ai",
+          "headline": "Judge orders Google to adjust ad business but spares breakup",
+          "beat_label": "Antitrust",
+          "byline": "Tech / AI desk",
+          "body": [
+            "A federal judge ruled Wednesday that Google will not be forced to sell its online advertising exchange, rejecting the Justice Department’s most aggressive remedy in the long-running ad-tech antitrust case. In a sealed order, Judge Leonie M. Brinkema of the Eastern District of Virginia instead required the company to adjust its business practices to favor competitors, according to TechCrunch and Ars Technica. The full ruling will remain under seal for 14 days to allow the parties to request redactions, meaning the specific changes Google must make are not yet public.",
+            "The case, filed by the Justice Department and a coalition of states in 2023, accused Google of illegally monopolizing the market for online display ads by leveraging its control over the ad exchange, previously known as AdX, to lock publishers into its system. The court agreed last April that Google had violated antitrust law in how it treated publishers, but did not find that the company broke the law regarding the tools used by advertisers. During the remedy phase, the DOJ argued that selling the exchange was the “best way to level the playing field,” but the judge sided with Google’s position that a breakup was unnecessary.",
+            "The ruling mirrors a pattern set in the earlier antitrust case against Google’s search business. In 2024, a court found that Google’s search and search-ad operations constituted an illegal monopoly. The following year, Judge Amit Mehta rejected the DOJ’s request to force Google to divest its Chrome browser and Android operating system, instead ordering the company to end exclusive default-placement deals and share some search data with competitors—remedies that Google is currently appealing. In both cases, the government sought structural breakups but courts instead opted for behavioral remedies.",
+            "Google framed the outcome as a victory. “We’re very pleased the Court rejected the DOJ’s proposal to break apart tools that help small businesses reach new customers and grow,” Lee-Anne Mulholland, Google’s vice president for regulatory affairs, told TechCrunch. While the ad exchange represents a relatively small portion of Google’s revenue, forcing a sale could have sent ripples through the broader ad business and served as a powerful message to other Big Tech firms facing antitrust scrutiny. The DOJ had also asked for fines and court-ordered changes to business practices, which are likely to be included in the sealed order, but specifics remain unknown.",
+            "The online advertising ecosystem is notoriously opaque, and much of the government’s case centered on Google’s tactics to cement its dominance—including exclusive agreements with device manufacturers and revenue-sharing deals with mobile carriers that made Google the default search engine on most phones, thereby boosting its ad business. With the remedy now limited to business-practice adjustments, the case moves toward a final resolution, though the sealed order leaves both sides waiting to see exactly what changes Google will have to implement. The 14-day sealing period expires in early March, when the public will learn the full scope of the court’s demands."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A federal judge ruled Wednesday that Google will not be forced to sell its online advertising exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Judge Leonie M. Brinkema of the Eastern District of Virginia required Google to adjust its business practices to favor competitors.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The full ruling will remain under seal for 14 days to allow the parties to request redactions.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The specific changes Google must make are not yet public.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The case was filed by the Justice Department and a coalition of states in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The case accused Google of illegally monopolizing the market for online display ads.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Google leveraged its control over the ad exchange, previously known as AdX, to lock publishers into its system.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The court agreed last April that Google had violated antitrust law in how it treated publishers.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The court did not find that Google broke the law regarding the tools used by advertisers.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "During the remedy phase, the DOJ argued that selling the exchange was the 'best way to level the playing field.'",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The judge sided with Google’s position that a breakup was unnecessary.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "In 2024, a court found that Google’s search and search-ad operations constituted an illegal monopoly.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "In the following year, Judge Amit Mehta rejected the DOJ’s request to force Google to divest its Chrome browser.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Judge Amit Mehta also rejected the DOJ's request to force Google to divest its Android operating system.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Judge Mehta ordered Google to end exclusive default-placement deals.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Judge Mehta ordered Google to share some search data with competitors.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Google is currently appealing the remedies ordered by Judge Mehta in the search antitrust case.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Google framed the outcome as a victory.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Lee-Anne Mulholland, Google’s vice president for regulatory affairs, told TechCrunch: 'We’re very pleased the Court rejected the DOJ’s proposal to break apart tools that help small businesses reach new customers and grow.'",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The ad exchange represents a relatively small portion of Google’s revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The DOJ had also asked for fines and court-ordered changes to business practices.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The government's case centered on Google's exclusive agreements with device manufacturers.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The government's case centered on Google's revenue-sharing deals with mobile carriers.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "These tactics made Google the default search engine on most phones.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The 14-day sealing period expires in early March.",
+                "status": "unsupported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Ars Technica"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "tech-ai-fbi-investigates-breach-exposing-millions-of-dri",
+          "section": "tech-ai",
+          "headline": "FBI probes breach exposing millions of driver’s license photos from ID verification service",
+          "beat_label": "Data Breach",
+          "byline": "Tech / AI desk",
+          "body": [
+            "The FBI is investigating a data breach that exposed more than 150 million driver’s licenses, passports and other identity documents, after an identity-theft service called Nexus began selling the records on the dark web this week. According to a report by security journalist Brian Krebs, whose own license was among the stolen documents, the trove includes high-resolution scans showing both the front and back of IDs, as well as infrared and ultraviolet images that could be used to create counterfeit documents that pass hologram tests. The stolen records belong to individuals in the United States and Canada.",
+            "Nexus, which launched on a Russian cybercrime forum, claimed to add roughly 500,000 new documents daily from a “major identity verification company,” suggesting the attackers maintained near real-time access to the firm’s systems. The database contained records from various sources, including notations such as “CDL” (likely commercial driver’s licenses) and “CAC” (Common Access Cards, used for physical access to government buildings). Among the victims identified in the leak were Krebs’s mother, an FBI assistant director, several security researchers, and Secretary of Defense Pete Hegseth. A Department of Defense spokesperson told TechCrunch it is “aware of these reports and is evaluating them.”",
+            "Working with security researcher Zach Edwards, Krebs traced the likely source of the breach to IDScan, a Louisiana-based identity verification company that processes tens of millions of ID checks monthly for major tech and consumer brands. IDScan’s chief operating officer Jillian Kossman told Krebs the company is investigating, while CEO Jimmy Roussel did not respond to a request for comment. The FBI’s field office in New Orleans is probing the incident; an FBI spokesperson confirmed the bureau is “looking into the incident” but declined further comment. Nexus went offline shortly after Krebs’s report was published.",
+            "The breach underscores the risks of widespread identity-document collection by companies, particularly as governments enact age-verification laws that require adults to upload IDs to access websites and apps. Security experts and privacy advocates have long warned that storing such sensitive documents for extended periods creates an attractive target for hackers. By all accounts, the incident represents the largest known single breach of identity documents in recent years."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The FBI is investigating a data breach that exposed more than 150 million driver’s licenses, passports and other identity documents.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "An identity-theft service called Nexus began selling the records on the dark web this week.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Security journalist Brian Krebs reported that his own license was among the stolen documents.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The trove includes high-resolution scans showing both the front and back of IDs, as well as infrared and ultraviolet images.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The stolen records belong to individuals in the United States and Canada.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Nexus launched on a Russian cybercrime forum.",
+                "status": "unsupported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Nexus claimed to add roughly 500,000 new documents daily from a 'major identity verification company'.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The database contained records with notations such as 'CDL' (likely commercial driver’s licenses) and 'CAC' (Common Access Cards).",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Among the victims identified in the leak were Krebs’s mother, an FBI assistant director, several security researchers, and Secretary of Defense Pete Hegseth.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "A Department of Defense spokesperson told TechCrunch it is 'aware of these reports and is evaluating them'.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Security researcher Zach Edwards traced the likely source of the breach to IDScan, a Louisiana-based identity verification company.",
+                "status": "unsupported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "IDScan processes tens of millions of ID checks monthly for major tech and consumer brands.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "IDScan’s chief operating officer Jillian Kossman told Krebs the company is investigating.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "IDScan CEO Jimmy Roussel did not respond to a request for comment.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The FBI’s field office in New Orleans is probing the incident.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "An FBI spokesperson confirmed the bureau is 'looking into the incident' but declined further comment.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Nexus went offline shortly after Krebs’s report was published.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "tech-ai-microsoft-to-disclose-azure-revenue-in-financial",
+          "section": "tech-ai",
+          "headline": "Microsoft to Disclose Azure Revenue in Financial Reporting Overhaul",
+          "beat_label": "Earnings",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Microsoft announced it will overhaul its financial reporting structure, splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes, which take effect with the company's first-quarter fiscal 2027 earnings report in late October, are designed to reflect the impact of artificial intelligence on Microsoft's operations and business models.",
+            "The new structure consolidates Microsoft's previous three reporting segments—Productivity and Business Processes, Intelligent Cloud, and More Personal Computing—into two: Agents and Infra, and Devices and Consumer. Agents and Infra will encompass Azure, Microsoft 365 Cloud, Microsoft 365 commercial and consumer products, server products, industry solutions, and enterprise and partner services. Devices and Consumer will include search and advertising revenues from LinkedIn and search advertising, as well as revenue from the Xbox division and Windows OEM and devices.",
+            "For the first time, Microsoft will provide quarterly revenue figures for Azure. The company had previously only disclosed year-over-year growth rates for the business, and began reporting Azure revenue annually last year. Under the new structure, Azure revenue will be more narrowly defined, excluding GitHub cloud, other developer cloud services, Security Copilot, and Healthcare and Life Sciences cloud revenues. 'Under this reporting structure, Azure becomes more purely our consumption-based platform and infrastructure business,' said Microsoft CEO Satya Nadella.",
+            "Nadella framed the changes as a response to the transformative effect of AI on the company. 'There's no question AI represents a profound shift in both technology and business,' he said. 'It is changing what we build and how we operate, and it is blurring the boundaries between our products and reshaping our business models.' The new segments are intended to give investors 'full transparency of quarterly revenue across each of our key businesses, including Azure, M365 Cloud, industry solutions, and ads,' Nadella added.",
+            "The reporting overhaul marks a significant shift in how Microsoft communicates its financial performance, providing investors with more granular data on its cloud and AI-driven businesses. The company will begin using the new structure when it reports earnings for the first quarter of fiscal 2027."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "WSJ"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/tech/ai/microsoft-to-change-reporting-structure-to-reflect-effects-of-ai-59dce66d",
+              "lean": 0.2,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Microsoft announced it will overhaul its financial reporting structure.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft will split its businesses into two segments.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft will disclose quarterly revenue for its Azure cloud business for the first time.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The changes take effect with the company's first-quarter fiscal 2027 earnings report in late October.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The new structure consolidates Microsoft's previous three reporting segments—Productivity and Business Processes, Intelligent Cloud, and More Personal Computing—into two: Agents and Infra, and Devices and Consumer.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Agents and Infra will encompass Azure, Microsoft 365 Cloud, Microsoft 365 commercial and consumer products, server products, industry solutions, and enterprise and partner services.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Devices and Consumer will include search and advertising revenues from LinkedIn and search advertising, as well as revenue from the Xbox division and Windows OEM and devices.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft had previously only disclosed year-over-year growth rates for Azure.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft began reporting Azure revenue annually last year.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Under the new structure, Azure revenue will be more narrowly defined, excluding GitHub cloud, other developer cloud services, Security Copilot, and Healthcare and Life Sciences cloud revenues.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Satya Nadella said: \"Under this reporting structure, Azure becomes more purely our consumption-based platform and infrastructure business.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Satya Nadella said: \"There's no question AI represents a profound shift in both technology and business.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Satya Nadella said: \"It is changing what we build and how we operate, and it is blurring the boundaries between our products and reshaping our business models.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The new segments are intended to give investors full transparency of quarterly revenue across each of their key businesses, including Azure, M365 Cloud, industry solutions, and ads.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The changes are designed to reflect the impact of artificial intelligence on Microsoft's operations and business models.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Nadella framed the changes as a response to the transformative effect of AI on the company.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "health-science",
+      "story_id": "health-science-trump-s-cdc-director-ordered-delay-in-counting-p"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-uniqure-files-for-fda-approval-of-first-gene-the"
+    }
+  ],
+  "held_stories": []
+}
