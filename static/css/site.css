@@ -1,6 +1,6 @@
 /* Daily Dose of News — shared stylesheet.
    Extracted from sample_markets_section.html and generalized into one system.
-   Palette: the "chill blue" scheme from CLAUDE.md (supersedes the terracotta in the spec doc).
+   Palette: warm paper, editorial ink, and restrained terracotta accents.
    Fonts are loaded via <link> in base.html; this file only references the families. */
 
 :root{
@@ -30,11 +30,14 @@
   --rep-tint:#F8ECE8;
   --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
   --sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
-  --wrap:720px;
+  --wrap:1040px;
+  --copy-wrap:720px;
+  --content-wrap:840px;
 }
 
 *{box-sizing:border-box;}
 html,body{margin:0;padding:0;}
+html{scroll-behavior:smooth;}
 body{
   background:var(--bg);
   color:var(--text);
@@ -43,26 +46,42 @@ body{
   -webkit-font-smoothing:antialiased;
 }
 
-/* ---- Top nav (scrolls away, NOT sticky) ----
-   Centered so that when the eight items wrap, both rows sit balanced under the
-   masthead instead of a couple of orphans hanging off the left edge. */
+/* ---- Accessible, single-line section rail ---- */
+.skip-link{
+  position:fixed;left:16px;top:8px;z-index:100;
+  background:var(--headline);color:var(--surface);padding:9px 13px;border-radius:6px;
+  font:600 13px/1 var(--sans);text-decoration:none;transform:translateY(-160%);
+}
+.skip-link:focus{transform:translateY(0);}
+.nav-shell{
+  position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--bg) 94%,transparent);
+  border-bottom:1px solid var(--hairline);backdrop-filter:blur(12px);
+}
 nav.topnav{
   max-width:var(--wrap);
   margin:0 auto;
-  padding:18px 24px 0;
+  padding:0 24px;
   display:flex;
-  flex-wrap:wrap;
+  flex-wrap:nowrap;
   justify-content:center;
-  column-gap:18px;
-  row-gap:8px;
+  gap:20px;
+  overflow-x:auto;
+  overscroll-behavior-x:contain;
+  scrollbar-width:none;
+  white-space:nowrap;
   font-family:var(--sans);
   font-size:13px;
   font-weight:500;
   letter-spacing:.02em;
 }
-nav.topnav a{color:var(--secondary);text-decoration:none;padding-bottom:2px;}
+nav.topnav::-webkit-scrollbar{display:none;}
+nav.topnav a{
+  color:var(--secondary);text-decoration:none;min-height:46px;padding:0 1px;
+  display:inline-flex;align-items:center;flex:0 0 auto;border-bottom:2px solid transparent;
+}
 nav.topnav a:hover{color:var(--text);}
 nav.topnav a.active{color:var(--text);border-bottom:2px solid var(--accent);}
+a:focus-visible{outline:3px solid color-mix(in srgb,var(--accent) 40%,transparent);outline-offset:3px;border-radius:3px;}
 
 /* ---- Masthead ----
    Centered, broadsheet-style: wordmark over the page title over the dateline,
@@ -70,7 +89,7 @@ nav.topnav a.active{color:var(--text);border-bottom:2px solid var(--accent);}
 header.masthead{
   max-width:var(--wrap);
   margin:0 auto;
-  padding:28px 24px 0;
+  padding:20px 24px 0;
   text-align:center;
 }
 .wordmark{
@@ -85,11 +104,11 @@ header.masthead{
 .section-title{
   font-family:var(--serif);
   font-weight:700;
-  font-size:40px;
+  font-size:38px;
   line-height:1.1;
   letter-spacing:-.015em;
   color:var(--headline);
-  margin:10px 0 6px;
+  margin:8px 0 5px;
   text-wrap:balance;   /* two-line titles wrap evenly instead of leaving an orphan word */
 }
 .dateline{
@@ -101,7 +120,7 @@ header.masthead{
   height:2px;
   background:var(--accent);
   width:56px;
-  margin:16px auto 0;
+  margin:13px auto 0;
   border:0;
 }
 
@@ -161,20 +180,22 @@ header.masthead{
 .mover .chg{font-variant-numeric:tabular-nums;font-weight:600;}
 
 /* ---- Main + stories ---- */
-main{max-width:var(--wrap);margin:0 auto;padding:8px 24px 60px;}
+main{max-width:var(--wrap);margin:0 auto;padding:6px 24px 64px;}
+main.article-main{max-width:var(--copy-wrap);}
+main.content-main{max-width:var(--content-wrap);}
 .lede-in{
-  font-family:var(--sans);font-size:13px;color:var(--secondary);margin:30px 0 6px;
+  font-family:var(--sans);font-size:13px;color:var(--secondary);margin:22px 0 10px;
 }
 article.card{
   background:var(--surface);border:1px solid var(--hairline);border-radius:8px;
   padding:26px 28px;margin-top:18px;
+  box-shadow:0 1px 0 color-mix(in srgb,var(--headline) 4%,transparent);
 }
-/* Full-story hero photo (same visual language as the front-page lead hero;
-   margins mirror article.card padding so the image runs edge to edge). */
-.story-hero{margin:-26px -28px 16px;}
+/* Article headline precedes the image in source and visual order. */
+.story-hero{margin:18px -28px 22px;}
 .story-hero img{
   display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;
-  border-radius:8px 8px 0 0;
+  border-radius:0;
 }
 .story-hero .img-credit{
   font-family:var(--sans);font-size:11px;color:var(--secondary);
@@ -186,12 +207,13 @@ article.card{
   font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.07em;
   text-transform:uppercase;padding:3px 9px;border-radius:4px;margin-bottom:12px;
 }
-h2.headline{
+.headline{
   font-family:var(--serif);font-weight:700;font-size:27px;line-height:1.2;
   letter-spacing:-.011em;color:var(--headline);margin:0 0 10px;
 }
-h2.headline a{color:inherit;text-decoration:none;}
-h2.headline a:hover{color:var(--accent);}
+.headline a{color:inherit;text-decoration:none;}
+.headline a:hover{color:var(--accent);}
+h1.headline{font-size:42px;line-height:1.08;letter-spacing:-.022em;text-wrap:balance;}
 .byline{
   font-family:var(--sans);font-size:12px;color:var(--secondary);margin-bottom:14px;
 }
@@ -237,11 +259,12 @@ h2.headline a:hover{color:var(--accent);}
 .continue-read a:hover{text-decoration:underline;}
 .continue-read .arrow{font-weight:700;}
 
-/* ---- Front page: single ranked list (pure cross-section significance) ----
+/* ---- Front page: ranked editorial grid ----
    Tiers: .lead = the day's most significant story, largest treatment;
    .medium = the next few; .compact = the remainder. All are self-contained
    briefs linking to the full story on the section page. */
-.front-list{margin-top:4px;}
+.front-list{margin-top:4px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;}
+.front-list .front-item{margin-top:0;min-width:0;}
 .front-item .kicker{
   display:flex;align-items:baseline;gap:10px;margin-bottom:10px;
 }
@@ -255,43 +278,40 @@ h2.headline a:hover{color:var(--accent);}
   font-family:var(--sans);font-size:11px;font-weight:600;letter-spacing:.06em;
   text-transform:uppercase;color:var(--secondary);
 }
-.front-item.lead{padding:32px 32px;}
+.front-item.lead{
+  grid-column:1/-1;padding:0;display:grid;
+  grid-template-columns:minmax(0,3fr) minmax(300px,2fr);overflow:hidden;
+}
+.front-item.lead:not(.has-image){display:block;padding:32px;}
+.front-item.lead .front-copy{padding:34px 34px 30px;align-self:center;}
 .front-item.lead h2.headline{font-size:34px;line-height:1.15;}
 .front-item.lead .teaser-lede{font-size:18px;}
 .front-item.medium h2.headline{font-size:24px;}
+.front-item.medium.has-image{
+  display:grid;grid-template-columns:minmax(0,1fr) 112px;gap:18px;align-items:start;
+}
+.front-item.medium .front-copy{min-width:0;}
 .front-item.compact{padding:18px 22px;}
 .front-item.compact h2.headline{font-size:19px;margin-bottom:6px;}
 .front-item.compact .teaser-lede{font-size:15px;line-height:1.55;}
 .front-item.compact .kicker{margin-bottom:8px;}
 .front-item.compact .continue-read{margin-top:10px;justify-content:flex-start;}
 .front-item.compact .continue-read a{font-size:12px;}
-/* Real photos only (see CLAUDE.md / image policy): lead gets a full-bleed hero
-   with a visible credit; medium gets a small right thumbnail; compact stays text. */
-.front-hero{margin:-32px -32px 16px;}
+/* Real photos only: lead gets a responsive side image; medium a compact thumbnail. */
+.front-hero{margin:0;display:flex;flex-direction:column;min-width:0;background:var(--tint);}
 .front-hero img{
-  display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;
-  border-radius:8px 8px 0 0;
+  display:block;width:100%;height:100%;min-height:300px;object-fit:cover;flex:1;
+  border-radius:0;
 }
 .front-hero .img-credit{
   font-family:var(--sans);font-size:11px;color:var(--secondary);
-  text-align:right;padding:6px 32px 0;
+  text-align:right;padding:6px 10px;
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
 }
-.front-item.medium.has-image{overflow:hidden;}
-.front-thumb{
-  float:right;margin:0 0 10px 16px;
-}
+.front-thumb{margin:2px 0 0;}
 .front-thumb img{
   display:block;width:112px;height:112px;object-fit:cover;
   border-radius:6px;border:1px solid var(--hairline);
-}
-@media (max-width:520px){
-  .front-item.lead{padding:24px 20px;}
-  .front-item.lead h2.headline{font-size:27px;}
-  .front-item.medium h2.headline{font-size:21px;}
-  .front-hero{margin:-24px -20px 14px;}
-  .front-hero .img-credit{padding:6px 20px 0;}
-  .front-thumb img{width:84px;height:84px;}
 }
 
 /* ---- Footer / archive link ---- */
@@ -349,12 +369,12 @@ h2.headline a:hover{color:var(--accent);}
 }
 .debate-col.dem{background:var(--dem-tint);border-top-color:var(--dem);}
 .debate-col.rep{background:var(--rep-tint);border-top-color:var(--rep);}
-.debate-col h4{
+.debate-col h3{
   font-family:var(--sans);font-size:12px;font-weight:700;letter-spacing:.05em;
   text-transform:uppercase;margin:0 0 8px;
 }
-.debate-col.dem h4{color:var(--dem);}
-.debate-col.rep h4{color:var(--rep);}
+.debate-col.dem h3{color:var(--dem);}
+.debate-col.rep h3{color:var(--rep);}
 .debate-col ul{margin:0;padding-left:18px;}
 .debate-col li{font-family:var(--serif);font-size:15px;line-height:1.5;margin:0 0 7px;}
 .steelman{
@@ -371,12 +391,29 @@ h2.headline a:hover{color:var(--accent);}
   font-family:var(--sans);font-size:11.5px;color:var(--secondary);font-style:italic;
 }
 
-@media (max-width:520px){
-  .section-title{font-size:32px;}
-  h2.headline{font-size:22px;}
+@media (max-width:760px){
+  nav.topnav{justify-content:flex-start;padding:0 18px;gap:18px;}
+  header.masthead{padding:18px 18px 0;}
+  main{padding:5px 18px 52px;}
+  .section-title{font-size:30px;}
+  .front-list{grid-template-columns:1fr;gap:14px;}
+  .front-item.lead{grid-column:auto;grid-template-columns:1fr;}
+  .front-item.lead .front-copy{padding:24px 20px 20px;order:1;}
+  .front-item.lead .front-hero{order:2;}
+  .front-item.lead h2.headline{font-size:28px;}
+  .front-hero img{min-height:0;aspect-ratio:16/9;}
+  .front-item.medium h2.headline{font-size:22px;}
+  .front-item.compact h2.headline{font-size:20px;}
+  h1.headline{font-size:32px;line-height:1.12;}
   article.card{padding:22px 20px;}
-  .story-hero{margin:-22px -20px 14px;}
+  .front-item.lead{padding:0;}
+  .story-hero{margin:16px -20px 20px;}
   .story-hero .img-credit{padding:6px 20px 0;}
+}
+
+@media (max-width:420px){
+  .front-item.medium.has-image{grid-template-columns:minmax(0,1fr) 84px;gap:12px;}
+  .front-thumb img{width:84px;height:84px;}
 }
 
 /* ---- Archive: the library ---- */
@@ -459,8 +496,7 @@ h2.headline a:hover{color:var(--accent);}
 }
 
 /* ---- Dark mode ----
-   Follows the reader's OS preference. Same chill-blue identity, inverted: deep
-   blue-slate surfaces, desaturated ink, accent/link lightened for contrast. Every
+   Follows the reader's OS preference. Warm near-black surfaces and light ink; every
    themed color routes through the variables above, so this block is the whole theme. */
 @media (prefers-color-scheme: dark){
   :root{

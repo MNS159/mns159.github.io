@@ -1,0 +1,3281 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-07",
+  "edition": "Morning edition",
+  "generated_at": "2026-09-07T14:39:41+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-trump-administration-makes-third-supreme-court-a",
+          "section": "politics",
+          "headline": "Trump administration makes third Supreme Court appeal to restrict mail-in voting",
+          "beat_label": "Voting Rights",
+          "byline": "Politics desk · anchored on AP",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.08,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 2,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "Fox News",
+            "CNN",
+            "AP",
+            "SCOTUSblog",
+            "democracydocket.com",
+            "The Guardian"
+          ],
+          "anchored_on": [
+            "AP"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/trump-admin-mail-ballot-fight-lands-back-supreme-court",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/09/07/us/video/white-house-makes-new-appeal-to-restrict-mail-in-voting-cnc",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/trump-mail-voting-executive-order-lawsuit-65067233db6ebda8dedcdc3f6714a96c",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "SCOTUSblog",
+              "url": "https://www.scotusblog.com/2026/09/trump-administration-again-appeals-mail-in-ballot-dispute-to-the-supreme-court/"
+            },
+            {
+              "outlet": "democracydocket.com",
+              "url": "https://www.democracydocket.com/news-alerts/justice-department-asks-supreme-court-to-lift-block-on-usps-mail-voting-restrictions/"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Trump administration filed a new appeal with the Supreme Court on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The appeal asks the Supreme Court to stay a preliminary injunction issued Friday by U.S. District Judge Indira Talwani in Boston.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This is the third time in under six weeks that the administration has asked the Supreme Court to intervene in this dispute.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This is the second time since the prior Thursday that the administration has asked the Supreme Court to intervene in this dispute.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Talwani's injunction blocks the U.S. Postal Service from enforcing several requirements of a rule tied to President Trump's March executive order on mail-in voting.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The blocked requirements include required envelope logos, automation standards, unique barcodes, and state submission of envelope designs and recipient lists.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer's filing states that ballots have already begun mailing in North Carolina.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer's filing states that Alabama is set to begin mailing ballots on September 9.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer's filing states that at least five more states are set to begin mailing ballots the week of September 13.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A group of 23 states led by California, plus Washington, D.C., sued in federal court in Boston to challenge the executive order's implementation.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A group of 12 states led by Alabama joined the case on the administration's side.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "In late August, the Supreme Court allowed the administration's plan to move forward on procedural grounds.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Supreme Court ruled it was too soon for courts to consider the states' challenge, without ruling on the legality of the restrictions themselves.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Nearly one-third of U.S. voters cast ballots by mail, according to the reporting.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The ACLU's Sophia Lin Lakin, director of its Voting Rights Project, said the Postal Service rule is unconstitutional and unlawful.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The dispute centers on a March executive order from President Trump directing federal agencies, including the U.S. Postal Service, to impose new requirements on mail-in ballots.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "President Trump has falsely blamed mail voting for his 2020 loss.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The rule requires ballot envelopes to meet specific Postal Service design and tracking standards.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The rule requires states to share voter lists with USPS.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The rule does not itself decide who is eligible to vote or how ballots are counted; those functions remain with state and local officials.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The case has bounced between a Massachusetts federal court, the 1st Circuit Court of Appeals, and the Supreme Court multiple times since July.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The Supreme Court has so far ruled only on procedural timing — allowing the administration to begin implementation without addressing whether the restrictions are constitutional.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Mail ballots are already being printed and mailed in some states.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Any further delay or last-minute change could create administrative confusion just weeks before the midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The midterms will decide control of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Democratic-led states and voting rights groups challenging the rule argue the changes are unconstitutional.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions",
+                  "AP",
+                  "SCOTUSblog"
+                ]
+              },
+              {
+                "text": "The ACLU's Sophia Lin Lakin said the rule 'has no purpose other than to create chaos, undermine election integrity, and rob eligible voters of their essential right to make their voices heard.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "The ACLU's Sophia Lin Lakin argued there is no evidence states could comply without disenfranchising mail voters.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Election officials cited by AP contend there is not enough time before November to revise their systems to comply with the new Postal Service directives.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions",
+                  "AP"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer, representing the Trump administration, argues the rule is 'a lawful and modest exercise of rulemaking authority delegated by Congress to the Postal Service.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer argues the rule 'regulates the U.S. Mail, not federal elections.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer contends the restrictions are needed to address the risk that federal mail could be used to 'perpetrate voter fraud.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer contends that voter fraud dilutes lawful votes and undermines public confidence in elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer argues that leaving the injunction in place creates 'confusion and chaos' by making Postal Service and state compliance voluntary rather than mandatory.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Solicitor General John Sauer argues that a stay would remove uncertainty and require immediate compliance.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Both sides agree that timing is central to the dispute.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The administration warns that once mailed, ballot envelopes cannot be retrieved.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "Challengers argue there isn't enough time for states to comply with the new requirements before the November election.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The Supreme Court's response to this third appeal could determine whether new Postal Service mail-ballot requirements apply nationwide for the November midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The Supreme Court's response could potentially affect how millions of the roughly one-third of voters who use mail ballots receive and return them.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "Control of Congress is at stake in the November midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "The Trump administration filed a new appeal with the Supreme Court on Sunday, asking it to stay a preliminary injunction issued Friday by U.S. District Judge Indira Talwani in Boston.",
+              "This is the third time in under six weeks — and the second time since the prior Thursday — that the administration has asked the Supreme Court to intervene in this dispute.",
+              "Talwani's injunction blocks the U.S. Postal Service from enforcing several requirements of a rule tied to President Trump's March executive order on mail-in voting, including required envelope logos, automation standards, unique barcodes, and state submission of envelope designs and recipient lists.",
+              "Solicitor General John Sauer's filing states that ballots have already begun mailing in North Carolina, with Alabama set to begin September 9 and at least five more states the week of September 13.",
+              "A group of 23 states led by California, plus Washington, D.C., sued in federal court in Boston to challenge the executive order's implementation; a group of 12 states led by Alabama joined the case on the administration's side.",
+              "In late August, the Supreme Court allowed the administration's plan to move forward on procedural grounds, ruling it was too soon for courts to consider the states' challenge, without ruling on the legality of the restrictions themselves.",
+              "Nearly one-third of U.S. voters cast ballots by mail, according to the reporting.",
+              "The ACLU's Sophia Lin Lakin, director of its Voting Rights Project, said the Postal Service rule is unconstitutional and unlawful."
+            ],
+            "analysis": "This dispute centers on a March executive order from President Trump directing federal agencies, including the U.S. Postal Service, to impose new requirements on mail-in ballots — part of a broader push he has made since falsely blaming mail voting for his 2020 loss. The rule requires ballot envelopes to meet specific Postal Service design and tracking standards and requires states to share voter lists with USPS, but does not itself decide who is eligible to vote or how ballots are counted; those functions remain with state and local officials. The case has bounced between a Massachusetts federal court, the 1st Circuit Court of Appeals, and the Supreme Court multiple times since July, with the Supreme Court so far ruling only on procedural timing — allowing the administration to begin implementation without addressing whether the restrictions are constitutional. The renewed appeal comes at a critical logistical moment: because mail ballots are already being printed and mailed in some states, any further delay or last-minute change could create administrative confusion just weeks before the midterms, which will decide control of Congress.",
+            "debate": {
+              "dem": [
+                "Democratic-led states and voting rights groups challenging the rule argue the changes are unconstitutional, per AP and SCOTUSblog.",
+                "The ACLU's Sophia Lin Lakin said the rule 'has no purpose other than to create chaos, undermine election integrity, and rob eligible voters of their essential right to make their voices heard,' and argued there is no evidence states could comply without disenfranchising mail voters.",
+                "Election officials cited by AP contend there is not enough time before November to revise their systems to comply with the new Postal Service directives."
+              ],
+              "rep": [
+                "Solicitor General John Sauer, representing the Trump administration, argues the rule is 'a lawful and modest exercise of rulemaking authority delegated by Congress to the Postal Service' that 'regulates the U.S. Mail, not federal elections.'",
+                "Sauer contends the restrictions are needed to address the risk that federal mail could be used to 'perpetrate voter fraud,' which he says dilutes lawful votes and undermines public confidence in elections.",
+                "Sauer argues that leaving the injunction in place creates 'confusion and chaos' by making Postal Service and state compliance voluntary rather than mandatory, and that a stay would remove uncertainty and require immediate compliance."
+              ]
+            },
+            "steelman": "Both sides agree that timing is central to the dispute: the administration warns that once mailed, ballot envelopes cannot be retrieved, while challengers argue there isn't enough time for states to comply with the new requirements before the November election.",
+            "implications": "The Supreme Court's response to this third appeal could determine whether new Postal Service mail-ballot requirements apply nationwide for the November midterms, potentially affecting how millions of the roughly one-third of voters who use mail ballots receive and return them, with control of Congress at stake."
+          },
+          "interestingness": 0.9,
+          "significance": 0.78,
+          "image": {
+            "url": "static/img/2026-09-07/politics-trump-administration-makes-third-supreme-court-a.jpg",
+            "alt": "Photograph of United States Postal Service facility",
+            "credit": "Photo: ajay_suresh / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 563
+          }
+        },
+        {
+          "id": "politics-us-envoys-hold-talks-in-kyiv-after-moscow-meetin",
+          "section": "politics",
+          "headline": "US envoys hold talks in Kyiv after Moscow meeting; progress seen as limited",
+          "beat_label": "Ukraine War",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.03,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 2,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "BBC",
+            "Fox News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6074505-witkoff-kushner-confident-ukraine-war-talks/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/kushner-witkoff-set-kyiv-talks-after-putin-meeting-us-push-peace",
+              "lean": 0.5,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Witkoff and Kushner met with Russian President Vladimir Putin in Moscow on Saturday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Witkoff-Kushner meeting with Putin lasted more than three hours.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Witkoff-Kushner meeting with Putin took place behind closed doors.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "No breakthrough was announced from the Witkoff-Kushner meeting with Putin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Putin's foreign policy adviser Yuri Ushakov called the Moscow talks 'constructive, frank and useful'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ushakov said the sides also discussed potential joint US-Russia economic projects.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Sunday, Witkoff and Kushner traveled to Kyiv by train.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Witkoff and Kushner met President Volodymyr Zelenskyy in Kyiv.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both sides described the Witkoff-Kushner-Zelenskyy talks as 'substantive'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "European security advisers joined later sessions of the talks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The UK's Jonathan Powell was among the European security advisers who joined later sessions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said any agreement must include security guarantees.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said any agreement must include a 'dignified post-war peace'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy did not indicate willingness to cede Ukrainian-held territory in Donetsk or Luhansk.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Putin ordered a 72-hour pause on airstrikes on Kyiv.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pause on airstrikes on Kyiv was intended to cover the envoys' visit.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said he would keep Russian airspace clear for the envoys' travel.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's State Emergency Service reported overnight strikes killed one person.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's State Emergency Service reported overnight strikes injured at least ten others.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The overnight strikes reported by Ukraine's State Emergency Service occurred in regions including Zaporizhzhia and Khmelnytskyi.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's air force said it downed 82 of 108 Russian drones.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's air force said it downed six Russian missiles.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia reported one death from a Ukrainian drone strike in Belgorod.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia said Ukrainian drones hit oil facilities near Rostov-on-Don.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "CIA Director John Ratcliffe recently met with Russian intelligence officials in Moscow.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Few details of the Ratcliffe meeting with Russian intelligence officials have been disclosed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The talks mark the first Witkoff-Kushner trip to Moscow since January.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The talks mark the first time either envoy has set foot in Ukraine since Russia's February 2022 full-scale invasion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Diplomatic momentum had stalled for months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "U.S. attention shifted to the separate Iran conflict.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia has grown more assertive militarily and diplomatically.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The renewed push comes against a backdrop of a largely frozen front line.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There is intensified air and drone warfare on both sides.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Black Sea shipping attacks have raised fears of global grain shortages.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "NATO is concerned over suspected Russian sabotage and cyberattacks in Europe.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The core obstacle remains unchanged from earlier rounds of diplomacy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia demands territorial concessions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia demands limits on Ukraine's military.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia demands a bar on NATO membership.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine insists on security guarantees.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine insists on no loss of sovereign territory.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia's demands clash with Ukraine's insistence on security guarantees and no loss of sovereign territory.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both sides used symbolic gestures, such as the temporary halt in strikes on Kyiv, to signal goodwill.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Fighting continued elsewhere throughout the negotiations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Washington and Moscow publicly characterized their respective talks as constructive or substantive.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Washington and Kyiv publicly characterized their respective talks as constructive or substantive.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Fundamental disagreements over territory and security guarantees remain unresolved.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Violence continued on both sides even during the negotiating window.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Symbolic progress has yet to translate into concrete concessions from either combatant.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both sides have signaled openness to further engagement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The signaled openness includes a possible revival of trilateral U.S.-Russia-Ukraine talks involving European partners.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A White House official said next steps are expected to be announced in coming weeks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia is pressing its territorial and military demands.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine is refusing to cede ground.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Neither side has yet shown readiness to make significant compromise.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Any settlement will likely require significant compromise.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A prolonged winter of fighting is possible even as diplomacy continues.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "Witkoff and Kushner met with Russian President Vladimir Putin in Moscow on Saturday for more than three hours behind closed doors, with no announced breakthrough.",
+              "Putin's foreign policy adviser Yuri Ushakov called the Moscow talks \"constructive, frank and useful\" and said the sides also discussed potential joint US-Russia economic projects.",
+              "On Sunday, Witkoff and Kushner traveled to Kyiv by train and met President Volodymyr Zelenskyy; both sides described the talks as \"substantive,\" and European security advisers, including the UK's Jonathan Powell, joined later sessions.",
+              "Zelenskyy said any agreement must include security guarantees and a \"dignified post-war peace,\" and he did not indicate willingness to cede Ukrainian-held territory in Donetsk or Luhansk.",
+              "Putin ordered a 72-hour pause on airstrikes on Kyiv to cover the envoys' visit, and Zelenskyy said he would keep Russian airspace clear for their travel.",
+              "Despite the pause, Ukraine's State Emergency Service reported overnight strikes killed one person and injured at least ten others in regions including Zaporizhzhia and Khmelnytskyi; Ukraine's air force said it downed 82 of 108 Russian drones and six missiles.",
+              "Russia reported one death from a Ukrainian drone strike in Belgorod and said Ukrainian drones also hit oil facilities near Rostov-on-Don.",
+              "CIA Director John Ratcliffe recently met with Russian intelligence officials in Moscow, though few details of that meeting have been disclosed."
+            ],
+            "analysis": "The talks mark the first Witkoff-Kushner trip to Moscow since January and the first time either envoy has set foot in Ukraine since Russia's February 2022 full-scale invasion. Diplomatic momentum had stalled for months as U.S. attention shifted to the separate Iran conflict, even as Russia has grown more assertive militarily and diplomatically. The renewed push comes against a backdrop of a largely frozen front line, intensified air and drone warfare on both sides, Black Sea shipping attacks raising fears of global grain shortages, and NATO concern over suspected Russian sabotage and cyberattacks in Europe.\n\nThe core obstacle remains unchanged from earlier rounds of diplomacy: Russia's demands—territorial concessions, limits on Ukraine's military, and a bar on NATO membership—clash with Ukraine's insistence on security guarantees and no loss of sovereign territory. Both sides used symbolic gestures, such as the temporary halt in strikes on Kyiv, to signal goodwill, but fighting continued elsewhere throughout the negotiations, underscoring the gap between diplomatic rhetoric and battlefield reality.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Despite both Washington and Moscow, and both Washington and Kyiv, publicly characterizing their respective talks as constructive or substantive, the fundamental disagreements over territory and security guarantees remain unresolved, and violence continued on both sides even during the negotiating window—suggesting symbolic progress has yet to translate into concrete concessions from either combatant.",
+            "implications": "Both sides have signaled openness to further engagement, including a possible revival of trilateral U.S.-Russia-Ukraine talks involving European partners, with a White House official saying next steps are expected to be announced in coming weeks. But with Russia pressing its territorial and military demands and Ukraine refusing to cede ground, any settlement will likely require significant compromise that neither side has yet shown readiness to make, leaving open the possibility of a prolonged winter of fighting even as diplomacy continues."
+          },
+          "interestingness": 0.8
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-far-right-afd-wins-state-election-in-saxony-anha",
+          "section": "world",
+          "headline": "Germany's far-right AfD wins Saxony-Anhalt state election, seeks to form government",
+          "beat_label": "German Politics",
+          "byline": "International & World desk",
+          "body": [
+            "Germany's far-right Alternative for Germany (AfD) won a historic victory in Sunday's state election in Saxony-Anhalt, taking 43.8% of the vote and falling three seats short of an outright majority, and is now seeking support from other parties to form a government. Preliminary results give the party 39 seats in the 83-seat state parliament, short of the 42 needed to govern alone. No far-right party has controlled a German state since World War Two, and a breakthrough would give the AfD authority over policing and local education in one of Germany's smallest states, home to 2.1 million people. The party's state branch is assessed by domestic intelligence as “right-wing extremist” — a label rejected by state leader Ulrich Siegmund, 35 — and German authorities have described parts of the party as anti-democratic.",
+            "The defeated conservative premier, Sven Schulze of the Christian Democratic Union (CDU), said the mandate to govern “now lies with the AfD”. Siegmund told a news conference on Monday that the party had won a “clear mandate to govern”, telling supporters overnight: “This isn't just about Saxony-Anhalt. It's a signal for the whole of Germany — a self-confident signal.” He said consultations with other parties were initiated on Sunday night and could take days or weeks: “We reach out to everybody first, we will have consultations and then we'll see whether there are individual parliamentary groups or MPs who would be willing to help us.” Beatrix von Storch, the AfD's deputy parliamentary leader, told the BBC that “democracy demands” parties talk to one another: “You cannot say I do not accept the vote of the people.” Most German parties refuse to work with the AfD, but von Storch said the party was speaking to individual members of the CDU group — the largest party in the state's outgoing coalition and in Germany's national government — because they were “very, very unhappy with their own party”. The CDU's share of the vote nearly halved, to 17.2%.",
+            "With no majority, several paths are possible. One floated option is an informal arrangement under which the left-wing populist BSW — set to win five seats, tough on immigration and supportive of importing Russian gas — gives tacit backing to a minority AfD government. A CDU-led minority coalition appears very unlikely, and Siegmund has raised the prospect of another election, saying he does not want to compromise on his policy goals. Von Storch warned that if parties refuse to work with the AfD, “then we might end up in severe chaos and maybe we have a new election.” The AfD's plans for Saxony-Anhalt include segregating child refugees into special classes and setting up a task force to help detain and deport migrants who no longer have the right to be in the state. Its national policy of “remigration” is widely understood to mean mass deportations of migrants, although the party says it refers to deporting criminals and those in the country illegally.",
+            "Chancellor Friedrich Merz said he was “deeply shocked”, calling the result “seismic... not just in the country but also in my own political party and I take that very seriously”. Describing the CDU's performance as its worst “in years, if not decades”, he said there could be no return to “business as usual” and that Germany needed “profound reforms” while the CDU had to “reach people at an emotional level”. Analysts and commentators called the outcome “a socio-political earthquake” and “a watershed moment for Germany” in a country where the Nazi past still looms large. The result intensifies pressure on Merz's already beleaguered centrist coalition in Berlin and may prove to be the nail in the political coffin of the deeply unpopular chancellor, who had promised to slash the AfD's popularity; the AfD now leads national opinion polls ahead of the ruling conservatives and the Social Democrats, with its strength concentrated in the east. The party also won the 2024 state election in neighbouring Thuringia but failed to secure enough seats to take power. Merz said upcoming regional elections in Mecklenburg-Western Pomerania and Berlin could have “increasing significance”. The vote weakens and distracts Germany, the EU's most powerful player, as Europe confronts Russian aggression, US tariff pressure and the economic threat from China.",
+            "The result drew immediate international attention. US President Donald Trump posted a screenshot of the projected results on Truth Social, and Russian presidential envoy Kirill Dmitriev, who took a screenshot of Trump's post, praised a “historic win for the pragmatic AfD”. Dmitriev declared Germany's government “discredited” and Chancellor Merz “humiliated”, comparing him to former UK Prime Minister Keir Starmer, who felt forced to resign this summer; he had earlier called the AfD “the party of hope and reason, co-operation truth and hope for Germany”. US Vice-President JD Vance endorsed the party ahead of last year's German federal election, a move criticised in Germany as political interference. Polish Prime Minister Donald Tusk responded that “in Poland only idiots and traitors can rejoice at the triumph of the AfD”, while Spain's Vox leader, Santiago Abascal, called the victory “a great hope for Germany and for Europe” and France's Europe Minister, Benjamin Haddad, said “this is a serious moment in Europe, seeing the far-right win in a regional election in Germany”. The AfD's anti-immigration, “Germany for Germans” message tracks closely with Trump's agenda, and the party borrows from his playbook, but European politicians rarely mention the US president on the campaign trail given his unpopularity with voters. The AfD is staunchly pro-Russia: it opposes military aid to Ukraine, wants to halt sanctions on Moscow and resume purchases of cheaper Russian energy. Germany is the largest single donor to Ukraine, and the UK has provided Kyiv with missiles used to strike inside Russian territory — steps that have deeply angered Moscow — while German industry suffered a major economic blow after the country halted Russian energy imports following Russia's 2022 full-scale invasion.",
+            "The result also deepens a longer-term political realignment. Saxony-Anhalt is Germany's poorest region, in the former Communist east that remains far poorer than the west despite German spending of between €2.3tn and €3tn to integrate it after the 1989 fall of the Berlin Wall; observers note widespread “Ostalgie” — nostalgia for comparatively more stable Communist times. Von Storch said AfD supporters fear “losing our economy” and “losing our inner security” and are turning away from conservative parties because they are not being listened to, telling critics to “wake up and realise what happened in several other European states... The conservative parties will disappear from the landscape as it happened in Italy, as it's about to happen in the UK, as it might also happen in France.” The EU is watching closely, with ballots expected in France, Italy, Spain and Poland over the next 12 months and Brussels fearing gains by “extreme” parties, particularly on the right. European hard-right parties share anti-immigration platforms and nationalist messaging but differ in tone and programme; France's National Rally under Marine Le Pen expelled the AfD from its European Parliament grouping two years ago for being too “radical”. The AfD rejects the “far-right” label, as do allied parties across Europe."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/is-the-afds-ulrich-siegmund-germanys-most-dangerous?traffic_source=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Germany's far-right Alternative for Germany (AfD) won the state election in Saxony-Anhalt.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD took 43.8% of the vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD fell three seats short of an outright majority.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD is seeking support from other parties to form a government.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Preliminary results give the party 39 seats in the 83-seat state parliament.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "42 seats are needed to govern alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "No far-right party has controlled a German state since World War Two.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "A breakthrough would give the AfD authority over policing and local education.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Saxony-Anhalt is home to 2.1 million people.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The party's state branch is assessed by domestic intelligence as 'right-wing extremist'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Ulrich Siegmund, 35, rejects that label.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "German authorities have described parts of the party as anti-democratic.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Sven Schulze said the mandate to govern 'now lies with the AfD'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund told a news conference on Monday that the party had won a 'clear mandate to govern'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund told supporters overnight: 'This isn't just about Saxony-Anhalt. It's a signal for the whole of Germany — a self-confident signal.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund said consultations with other parties were initiated on Sunday night.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Consultations could take days or weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund said 'We reach out to everybody first, we will have consultations and then we'll see whether there are individual parliamentary groups or MPs who would be willing to help us.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Beatrix von Storch told the BBC that 'democracy demands' parties talk to one another.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Von Storch said 'You cannot say I do not accept the vote of the people.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Most German parties refuse to work with the AfD.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch said the party was speaking to individual members of the CDU group.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "CDU is the largest party in the state's outgoing coalition and in Germany's national government.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch said CDU members were 'very, very unhappy with their own party'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "CDU's share of the vote nearly halved, to 17.2%.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "BSW is set to win five seats.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "BSW is tough on immigration and supportive of importing Russian gas.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "One floated option is an informal arrangement where BSW gives tacit backing to a minority AfD government.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund raised the prospect of another election.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Siegmund said he does not want to compromise on his policy goals.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch warned that if parties refuse to work with the AfD, then we might end up in severe chaos and maybe have a new election.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The AfD's plans for Saxony-Anhalt include segregating child refugees into special classes.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The AfD's plans include setting up a task force to help detain and deport migrants who no longer have the right to be in the state.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Its national policy of 'remigration' is widely understood to mean mass deportations of migrants.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The party says it refers to deporting criminals and those in the country illegally.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Friedrich Merz said he was 'deeply shocked'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz called the result 'seismic... not just in the country but also in my own political party and I take that very seriously'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz described CDU's performance as its worst 'in years, if not decades'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz said there could be no return to 'business as usual'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz said Germany needed 'profound reforms'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz said CDU had to 'reach people at an emotional level'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Analysts and commentators called the outcome 'a socio-political earthquake'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Analysts and commentators called it 'a watershed moment for Germany'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Nazi past still looms large in Germany.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The result intensifies pressure on Merz's centrist coalition.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz had promised to slash the AfD's popularity.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The AfD now leads national opinion polls ahead of the ruling conservatives and the Social Democrats.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD's strength is concentrated in the east.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The party won the 2024 state election in Thuringia.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The party failed to secure enough seats to take power in Thuringia.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Merz said upcoming regional elections in Mecklenburg-Western Pomerania and Berlin could have 'increasing significance'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Germany is the EU's most powerful player.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Europe confronts Russian aggression.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Europe confronts US tariff pressure.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Europe confronts economic threat from China.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Donald Trump posted a screenshot of the projected results on Truth Social.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Kirill Dmitriev took a screenshot of Trump's post.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Dmitriev praised a 'historic win for the pragmatic AfD'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Dmitriev declared Germany's government 'discredited'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Dmitriev declared Chancellor Merz 'humiliated'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Dmitriev compared Merz to former UK Prime Minister Keir Starmer.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Starmer felt forced to resign this summer.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Dmitriev had earlier called the AfD 'the party of hope and reason, co-operation truth and hope for Germany'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "JD Vance endorsed the party ahead of last year's German federal election.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "That move was criticised in Germany as political interference.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Donald Tusk said 'in Poland only idiots and traitors can rejoice at the triumph of the AfD'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Santiago Abascal called the victory 'a great hope for Germany and for Europe'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Benjamin Haddad said 'this is a serious moment in Europe, seeing the far-right win in a regional election in Germany'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD's anti-immigration 'Germany for Germans' message tracks closely with Trump's agenda.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The party borrows from Trump's playbook.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "European politicians rarely mention the US president on the campaign trail due to his unpopularity.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD is staunchly pro-Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD opposes military aid to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD wants to halt sanctions on Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "AfD wants to resume purchases of cheaper Russian energy.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Germany is the largest single donor to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "UK has provided Kyiv with missiles used to strike inside Russian territory.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Those steps have deeply angered Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "German industry suffered a major economic blow after halting Russian energy imports.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Russia's full-scale invasion occurred in 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Saxony-Anhalt is Germany's poorest region.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The former Communist east remains far poorer than the west.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "German spending to integrate it after the 1989 fall of the Berlin Wall was between €2.3tn and €3tn.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Observers note widespread 'Ostalgie'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch said AfD supporters fear 'losing our economy' and 'losing our inner security'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch said they are turning away from conservative parties because they are not being listened to.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Von Storch told critics to 'wake up and realise what happened in several other European states... The conservative parties will disappear from the landscape as it happened in Italy, as it's about to happen in the UK, as it might also happen in France.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Ballots are expected in France, Italy, Spain and Poland over the next 12 months.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Brussels fears gains by extreme parties, particularly on the right.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "European hard-right parties share anti-immigration platforms and nationalist messaging.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "France's National Rally expelled the AfD from its European Parliament grouping two years ago for being too 'radical'.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The AfD rejects the 'far-right' label.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Allied parties across Europe also reject that label.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.9,
+          "significance": 0.8,
+          "image": {
+            "url": "static/img/2026-09-07/world-far-right-afd-wins-state-election-in-saxony-anha.jpg",
+            "alt": "Photograph of Landtag of Saxony-Anhalt building",
+            "credit": "Photo: W. Bulach / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 667
+          }
+        },
+        {
+          "id": "world-israeli-strikes-kill-12-in-southern-lebanon-ceas",
+          "section": "world",
+          "headline": "Israeli strikes kill 12 in southern Lebanon, ceasefire at risk",
+          "beat_label": "Middle East Conflict",
+          "byline": "International & World desk",
+          "body": [
+            "Israeli air strikes on the southern Lebanese village of Kfar Roummane have killed at least 12 people, the Lebanese health ministry said, as Lebanese President Joseph Aoun warned that the “dangerous escalation” was jeopardising the US-brokered ceasefire that took effect in June. The strikes overnight and on Sunday targeted a residential building and a vehicle carrying paramedics, bringing the total number of people killed in Israeli attacks across southern Lebanon over the past three days to at least 27, according to the ministry.",
+            "The first strike shortly after midnight destroyed a three-storey residential building near the Shuyuiya roundabout in Kfar Roummane, killing 11 people, including two children and four women, and injuring eight others, among them three children and a paramedic from the Islamic Health Association, an emergency service linked to Hezbollah. The second strike hit a vehicle carrying paramedics from the Islamic Risala Scout Association, an emergency service affiliated with the Amal movement, killing one paramedic and injuring two others. The health ministry said the death toll “serves as further irrefutable evidence of the grave violations of international humanitarian law committed by the Israeli occupation, targeting medics and children”.",
+            "The Israel Defense Forces (IDF) said it struck “several Hezbollah terrorist infrastructure sites across southern Lebanon” overnight in retaliation for two explosive drones launched by Hezbollah fighters towards Israeli troops operating on the Ali al-Taher ridge, inside the Israeli-declared “security zone” just south of Kfar Roummane. The IDF added that it struck “several terrorists who were identified transferring weapons in the area of Kfar Roummane, in order to remove the threat they posed to IDF soldiers” and that “the claim that several uninvolved individuals were harmed as a result of the strikes is being reviewed”. Separately on Sunday, the IDF said it struck the Nabatieh area and killed several Hezbollah fighters following a drone attack; the Lebanese health ministry reported 11 people killed in Israeli strikes across the south that day, including nine in Nabatieh al-Fawqa and two women in Arab Salim.",
+            "A resident of Kfar Roummane, Sara Moallaem, 35, told the BBC she had been asleep with her five children when she heard the explosions and moved them to a safe room. Some of those killed were distant relatives of her husband, she said, insisting they were civilians with no affiliation to Hezbollah. “During the day, it is almost normal, people going back and forth. But as it comes near the night, things escalate, and now my children are afraid and I am packing now for the sixth or seventh time. It is terrible,” she said. “Now that they are targeting civilians, I don’t want to weep for my children.” Large numbers of residents have again been fleeing areas near the strip of territory occupied by Israeli troops.",
+            "Lebanese President Joseph Aoun said the escalation was jeopardising the ceasefire agreement between Lebanon, Israel and the US, which calls for Hezbollah to disarm, Israeli forces to withdraw gradually from southern Lebanon, and the Lebanese army to deploy across the area. He urged the international community to put pressure on Israel to stop the attacks. Hezbollah has rejected the framework, saying the provisions linking Israel’s withdrawal to the group’s disarmament cross “all red lines”. There was no immediate comment from Hezbollah on the latest strikes, but on Sunday the group’s member of parliament Ali Ammar declared that “the language of resistance is the only language that is effective against the Israeli enemy”.",
+            "The conflict began on 2 March, when Hezbollah – which is supported by Iran – launched rockets into Israel in retaliation for a strike that killed Iran’s supreme leader. Israel responded with a bombing campaign across Lebanon and an invasion of a significant part of the country’s south. At least 4,362 people have been killed in Lebanon during the conflict, including 395 women and 259 children, according to the health ministry, whose figures do not differentiate between combatants and civilians. Israeli authorities say 40 Israeli soldiers and four civilians have been killed."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.1,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "France 24"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-israeli-strike-hits-next-to-lebanese-reporter?traffic_source=rss"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/middle-east/20260907-middle-east-live-israel-army-orders-evacuation-of-zone-in-south-lebanon-ahead-of-strikes"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Israeli air strikes on Kfar Roummane killed at least 12 people.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Lebanese health ministry reported the death toll.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Lebanese President Joseph Aoun warned that the escalation was jeopardising the US-brokered ceasefire that took effect in June.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The strikes targeted a residential building and a vehicle carrying paramedics.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The total number of people killed in Israeli attacks across southern Lebanon over the past three days is at least 27, according to the health ministry.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The first strike shortly after midnight destroyed a three-storey residential building near the Shuyuiya roundabout in Kfar Roummane.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The first strike killed 11 people, including two children and four women.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The first strike injured eight others, among them three children and a paramedic from the Islamic Health Association.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Islamic Health Association is an emergency service linked to Hezbollah.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The second strike hit a vehicle carrying paramedics from the Islamic Risala Scout Association.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Islamic Risala Scout Association is an emergency service affiliated with the Amal movement.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The second strike killed one paramedic and injured two others.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The health ministry said the death toll is irrefutable evidence of grave violations of international humanitarian law by the Israeli occupation.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The IDF said it struck several Hezbollah terrorist infrastructure sites across southern Lebanon overnight.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The IDF said the strikes were in retaliation for two explosive drones launched by Hezbollah fighters towards Israeli troops on the Ali al-Taher ridge.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The IDF said it struck several terrorists transferring weapons in Kfar Roummane.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The IDF said the claim that several uninvolved individuals were harmed is being reviewed.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The IDF said it struck the Nabatieh area and killed several Hezbollah fighters following a drone attack.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Lebanese health ministry reported 11 people killed in Israeli strikes that day, including nine in Nabatieh al-Fawqa and two women in Arab Salim.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A resident Sara Moallaem told the BBC she was asleep with five children when she heard explosions and moved them to a safe room.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "She said some killed were distant relatives of her husband.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "She insisted they were civilians with no affiliation to Hezbollah.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "She said she is packing for the sixth or seventh time.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Large numbers of residents have been fleeing areas near the strip occupied by Israeli troops.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "President Aoun said the escalation jeopardised the ceasefire agreement between Lebanon, Israel and the US.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The ceasefire calls for Hezbollah to disarm, Israeli forces to withdraw gradually, and Lebanese army to deploy.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Aoun urged the international community to pressure Israel.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hezbollah has rejected the framework, saying provisions cross all red lines.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "There was no immediate comment from Hezbollah on the latest strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hezbollah MP Ali Ammar declared that the language of resistance is effective against Israel.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The conflict began on 2 March.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hezbollah launched rockets into Israel in retaliation for a strike that killed Iran’s supreme leader.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Israel responded with a bombing campaign and invasion.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "At least 4,362 people killed in Lebanon during conflict, including 395 women and 259 children, according to health ministry.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Health ministry figures do not differentiate between combatants and civilians.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Israeli authorities say 40 Israeli soldiers and four civilians have been killed.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hezbollah is supported by Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Israel declared a security zone south of Kfar Roummane.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Israeli troops occupy a strip of territory in southern Lebanon.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-us-envoys-leave-kyiv-without-breakthrough-after-",
+          "section": "world",
+          "headline": "US Envoys Leave Kyiv Without Breakthrough After Moscow Talks",
+          "beat_label": "Ukraine Diplomacy",
+          "byline": "International & World desk",
+          "body": [
+            "U.S. envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv on Sunday during their first official visit to Ukraine, but made no breakthrough toward ending Russia’s war. The visit came one day after the envoys met with Russian President Vladimir Putin in Moscow. Putin had declared a three-day ceasefire to ensure the envoys' safety. The envoys traveled to Kyiv by train from Poland, as Ukraine’s airspace remains closed due to the conflict. Ukraine’s rail operator announced their departure from Kyiv early on Monday.",
+            "At a joint press conference outside the presidential palace, Witkoff and Kushner described the talks in Moscow and Kyiv as substantive and said new ideas were on the table, though they did not provide details. Kushner acknowledged the challenge, saying the U.S. was working \"behind the scenes\" to create the conditions for a possible deal. \"It’s a very, very hard problem, but we’re going to try,\" he said. Asked whether the war could end by winter, Kushner responded: \"I think if we can achieve that, it'd be an incredible thing. It doesn't mean that we'll - we will achieve it, but it's an effort that's very important to try.\" Witkoff said earlier that both sides would need to compromise, adding: \"We think we have the ingredients to get to that place … and we look forward to continuing this as long as it takes.\"",
+            "Zelenskyy held three rounds of talks with the envoys, the final one joined by national security advisers from the United Kingdom, France and Germany. He said the talks focused on military aid, including Patriot missile systems and other weapons Ukraine will need in the coming months. Zelenskyy said Kyiv was seeking \"serious volumes\" of U.S. support, with backing from its European partners. \"If the war drags on until winter — and that is how things currently look — we will need a 'winter package',\" he said, covering air defense and energy infrastructure. Zelenskyy also said Russia had intensified strikes on Ukrainian cities before Russia’s State Duma election later this month, calling the attacks deliberate \"terror\" against civilians. He expressed gratitude for the presence of European representatives, saying: \"Here we are all on the same side.\"",
+            "The envoys’ trip followed talks with Putin in Moscow on Saturday. Kremlin foreign policy adviser Yuri Ushakov described the Moscow talks as constructive, frank, and useful but did not discuss specific outcomes. Ushakov said the talks also focused on economic issues and potentially large Russia-U.S. projects. A White House official said the envoys had \"discussed substantive plans which will be announced in the coming weeks.\" The Kremlin said the Americans had \"put forward a number of ideas on possible routes to a settlement,\" without elaborating. Witkoff said he was hopeful a new round of U.S.-mediated Ukraine-Russia talks would be announced \"in short order.\"",
+            "The war has escalated in recent months, with Putin seeking the complete conquest of the Donbas region and Russian drones targeting the Ukrainian capital. Ukraine has focused its drone attacks on Russia’s energy sector and targeted online retailers deep inside Russia. Zelenskyy’s chief of staff, Kyrylo Budanov, told The New York Times last weekend that he did not expect the fighting to end before spring 2027 and predicted further Russian strategic air strikes on Ukraine this winter. Zelenskyy reiterated his calls for security guarantees from the U.S. to prevent Russia from invading again after a peace deal. He said the issue of territory remains so complex that it can only be worked out through direct talks with leaders — himself, Putin, and possibly Trump and/or European leaders. The sides agreed to hold a follow-up meeting involving Ukraine, the U.S. and Europe, with a location still to be set.",
+            "The visit was significant symbolically. Zelenskyy had pushed hard for the trip, and the envoys’ train was called the Peace Express. The fact that they were in Kyiv meant that Russia did not bomb the capital, which the Russians had been doing 24/7 before this weekend. Zelenskyy noted that Kushner and Witkoff had done even more than Patriot air defense systems to protect the city. \"Please,\" he said, \"come more often so maybe our people can live a little.\""
+          ],
+          "contested": false,
+          "covered_by": [
+            "DW",
+            "NPR",
+            "NYT",
+            "The Guardian",
+            "Semafor",
+            "today.com",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/07/nx-s1-5959692/kushner-and-witkoff-visit-ukraine-with-hopes-of-restarting-peace-talks-with-russia",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-zelensky-witkoff-kushner-russia-putin.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/sep/07/ukraine-war-briefing-us-envoys-leave-kyiv-no-breakthrough",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Semafor",
+              "url": "https://www.semafor.com/article/09/07/2026/us-push-for-russia-ukraine-talks-yields-little-hope"
+            },
+            {
+              "outlet": "today.com",
+              "url": "https://www.today.com/video/jared-kushner-defends-record-amid-new-russia-ukraine-talks-269432389649"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "U.S. envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The visit was the envoys' first official visit to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The talks made no breakthrough toward ending Russia’s war.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The visit came one day after the envoys met with Russian President Vladimir Putin in Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Putin had declared a three-day ceasefire to ensure the envoys' safety.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The envoys traveled to Kyiv by train from Poland.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukraine’s airspace remains closed due to the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukraine’s rail operator announced their departure from Kyiv early on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "At a joint press conference outside the presidential palace, Witkoff and Kushner described the talks in Moscow and Kyiv as substantive.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Witkoff and Kushner said new ideas were on the table.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Witkoff and Kushner did not provide details on the new ideas.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kushner acknowledged the challenge, saying the U.S. was working 'behind the scenes' to create the conditions for a possible deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kushner said: 'It’s a very, very hard problem, but we’re going to try.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kushner responded to a question about whether the war could end by winter: 'I think if we can achieve that, it'd be an incredible thing. It doesn't mean that we'll - we will achieve it, but it's an effort that's very important to try.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Witkoff said earlier that both sides would need to compromise.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Witkoff said: 'We think we have the ingredients to get to that place … and we look forward to continuing this as long as it takes.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy held three rounds of talks with the envoys.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The final round of talks was joined by national security advisers from the United Kingdom, France and Germany.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the talks focused on military aid, including Patriot missile systems and other weapons Ukraine will need in the coming months.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Kyiv was seeking 'serious volumes' of U.S. support, with backing from its European partners.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: 'If the war drags on until winter — and that is how things currently look — we will need a \"winter package\"' covering air defense and energy infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Russia had intensified strikes on Ukrainian cities before Russia’s State Duma election later this month.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy called the attacks deliberate 'terror' against civilians.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy expressed gratitude for the presence of European representatives, saying: 'Here we are all on the same side.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The envoys’ trip followed talks with Putin in Moscow on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kremlin foreign policy adviser Yuri Ushakov described the Moscow talks as constructive, frank, and useful.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ushakov did not discuss specific outcomes of the Moscow talks.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ushakov said the talks also focused on economic issues and potentially large Russia-U.S. projects.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "A White House official said the envoys had 'discussed substantive plans which will be announced in the coming weeks.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Kremlin said the Americans had 'put forward a number of ideas on possible routes to a settlement,' without elaborating.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Witkoff said he was hopeful a new round of U.S.-mediated Ukraine-Russia talks would be announced 'in short order.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The war has escalated in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Putin is seeking the complete conquest of the Donbas region.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Russian drones are targeting the Ukrainian capital.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukraine has focused its drone attacks on Russia’s energy sector.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukraine has targeted online retailers deep inside Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy’s chief of staff, Kyrylo Budanov, told The New York Times last weekend that he did not expect the fighting to end before spring 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Budanov predicted further Russian strategic air strikes on Ukraine this winter.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy reiterated his calls for security guarantees from the U.S. to prevent Russia from invading again after a peace deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the issue of territory remains so complex that it can only be worked out through direct talks with leaders — himself, Putin, and possibly Trump and/or European leaders.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The sides agreed to hold a follow-up meeting involving Ukraine, the U.S. and Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "A location for the follow-up meeting has still to be set.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The visit was significant symbolically.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy had pushed hard for the trip.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The envoys’ train was called the Peace Express.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The fact that they were in Kyiv meant that Russia did not bomb the capital.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Russians had been bombing the capital 24/7 before this weekend.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy noted that Kushner and Witkoff had done even more than Patriot air defense systems to protect the city.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: 'Please, come more often so maybe our people can live a little.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-china-to-inject-54bn-into-banks-and-insurers-to-",
+          "section": "world",
+          "headline": "China to inject $54bn into state banks and insurers to shore up economy",
+          "beat_label": "China Economy",
+          "byline": "International & World desk",
+          "body": [
+            "China is injecting 360 billion yuan ($53.6bn; £39.7bn) into eight state-owned banks and insurance companies, the finance ministry announced on Sunday, in the latest effort to bolster the financial system and revive the slowing economy. The cash injection, reported by state news agency Xinhua, will go to three large lenders—including the Industrial and Commercial Bank of China and the Agricultural Bank of China—and five insurers, among them China Life Insurance, China Taiping Insurance Group, and the People's Insurance Company of China. The move is intended to enhance the institutions' operating capabilities, risk resistance, and ability to serve the real economy, according to Xinhua.",
+            "The capital will be raised through private placements of A-shares to the finance ministry and other state entities, including the China National Tobacco Corporation. The Agricultural Bank of China plans to raise up to 160 billion yuan, the Industrial and Commercial Bank of China up to 100 billion yuan, and China Life Insurance 35 billion yuan; the People's Insurance Company of China aims to raise up to 15 billion yuan. The lenders said proceeds would be used entirely to replenish cash reserves, helping them sustain credit expansion, while insurers said the injection would strengthen their ability to withstand risk.",
+            "China's economy has faced mounting headwinds, including a prolonged property market slump, a shrinking workforce, trade tensions with the West, the impact of the Iran war on oil prices, and an ongoing technology rivalry with the United States. Official GDP figures released in July showed the economy grew 4.3% in the second quarter, below Beijing's annual target of around 5% and down from 5% in the first quarter. In March, the government cut its growth target to a range of 4.5%–5%, its lowest since 1991, a move analysts said gave Beijing room to acknowledge pre-existing weakness.",
+            "President Xi Jinping has long regarded financial stability as key to national security. State media Global Times said the injection would give banks and financial institutions more resources to channel credit into the real economy while strengthening their ability to withstand external shocks amid global financial uncertainty. The plan was first announced at the annual parliamentary meeting in March, extending a financing tool used to bolster other big state banks last year. The insurance sector, in particular, has struggled with eroding profitability due to persistently low interest rates, with numerous small and mid-sized insurers reporting deteriorating solvency ratios.",
+            "China Life Insurance said the capital injection was 'an important step by the country to enhance the financial sector’s ability to serve the real economy and promote the high-quality development of the financial and insurance industries.' The initiative is also expected to position state insurers to help regulators manage smaller, higher-risk insurance companies. The cash infusion comes as Beijing leans on state banks to support growth despite weak loan demand, and as it aims to reshape the economy in the face of long-term challenges such as an aging population and a shrinking workforce."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "China is injecting 360 billion yuan ($53.6bn; £39.7bn) into eight state-owned banks and insurance companies.",
+                "status": "supported",
+                "source_ids": [
+                  "finance ministry"
+                ]
+              },
+              {
+                "text": "The finance ministry announced the injection on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The injection is the latest effort to bolster the financial system and revive the slowing economy.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The cash injection was reported by state news agency Xinhua.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The cash injection will go to three large lenders, including the Industrial and Commercial Bank of China and the Agricultural Bank of China.",
+                "status": "supported",
+                "source_ids": [
+                  "Xinhua"
+                ]
+              },
+              {
+                "text": "The cash injection will go to five insurers, among them China Life Insurance, China Taiping Insurance Group, and the People's Insurance Company of China.",
+                "status": "supported",
+                "source_ids": [
+                  "Xinhua"
+                ]
+              },
+              {
+                "text": "According to Xinhua, the move is intended to enhance the institutions' operating capabilities, risk resistance, and ability to serve the real economy.",
+                "status": "supported",
+                "source_ids": [
+                  "Xinhua"
+                ]
+              },
+              {
+                "text": "The capital will be raised through private placements of A-shares to the finance ministry and other state entities, including the China National Tobacco Corporation.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Agricultural Bank of China plans to raise up to 160 billion yuan.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Industrial and Commercial Bank of China plans to raise up to 100 billion yuan.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China Life Insurance plans to raise 35 billion yuan.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The People's Insurance Company of China aims to raise up to 15 billion yuan.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The lenders said proceeds would be used entirely to replenish cash reserves.",
+                "status": "supported",
+                "source_ids": [
+                  "lenders"
+                ]
+              },
+              {
+                "text": "The lenders said proceeds would help them sustain credit expansion.",
+                "status": "supported",
+                "source_ids": [
+                  "lenders"
+                ]
+              },
+              {
+                "text": "The insurers said the injection would strengthen their ability to withstand risk.",
+                "status": "supported",
+                "source_ids": [
+                  "insurers"
+                ]
+              },
+              {
+                "text": "China's economy has faced a prolonged property market slump.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China's economy has faced a shrinking workforce.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China's economy has faced trade tensions with the West.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China's economy has faced the impact of the Iran war on oil prices.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China's economy has faced an ongoing technology rivalry with the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Official GDP figures released in July showed the economy grew 4.3% in the second quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "That growth was below Beijing's annual target of around 5%.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "That growth was down from 5% in the first quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "In March, the government cut its growth target to a range of 4.5%–5%.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "That target is the lowest since 1991.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Analysts said the move gave Beijing room to acknowledge pre-existing weakness.",
+                "status": "supported",
+                "source_ids": [
+                  "analysts"
+                ]
+              },
+              {
+                "text": "President Xi Jinping has long regarded financial stability as key to national security.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "State media Global Times said the injection would give banks and financial institutions more resources to channel credit into the real economy while strengthening their ability to withstand external shocks amid global financial uncertainty.",
+                "status": "supported",
+                "source_ids": [
+                  "Global Times"
+                ]
+              },
+              {
+                "text": "The plan was first announced at the annual parliamentary meeting in March.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The plan extends a financing tool used to bolster other big state banks last year.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The insurance sector has struggled with eroding profitability due to persistently low interest rates.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Numerous small and mid-sized insurers have reported deteriorating solvency ratios.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "China Life Insurance said the capital injection was 'an important step by the country to enhance the financial sector’s ability to serve the real economy and promote the high-quality development of the financial and insurance industries.'",
+                "status": "supported",
+                "source_ids": [
+                  "China Life Insurance"
+                ]
+              },
+              {
+                "text": "The initiative is expected to position state insurers to help regulators manage smaller, higher-risk insurance companies.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Beijing leans on state banks to support growth despite weak loan demand.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Beijing aims to reshape the economy in the face of long-term challenges such as an aging population and a shrinking workforce.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,718.60",
+            "chg": "+0.56%",
+            "dir": "up",
+            "spark": "1.5,3.1 8.3,4.9 15.2,7.3 22.0,12.5 28.8,9.2 35.7,1.5 42.5,4.3"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,506.99",
+            "chg": "+1.44%",
+            "dir": "up",
+            "spark": "1.5,2.5 8.3,5.6 15.2,6.3 22.0,12.5 28.8,9.8 35.7,1.5 42.5,3.3"
+          },
+          {
+            "sym": "Dow",
+            "val": "53,414.25",
+            "chg": "−0.09%",
+            "dir": "down",
+            "spark": "1.5,2.9 8.3,3.0 15.2,7.5 22.0,12.5 28.8,9.0 35.7,1.5 42.5,4.8"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,975.65",
+            "chg": "−1.01%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,6.4 15.2,8.3 22.0,12.5 28.8,8.6 35.7,6.9 42.5,6.0"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.78%",
+            "chg": "+11 bp",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,8.2 15.2,4.9 22.0,1.5 28.8,1.5 35.7,4.5 42.5,2.6"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$91.48",
+            "chg": "+6.67%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,3.9 17.9,2.4 26.1,1.8 34.3,1.5 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,476.60",
+            "chg": "+1.03%",
+            "dir": "up",
+            "spark": "1.5,6.1 9.7,12.5 17.9,11.1 26.1,1.5 34.3,6.2 42.5,2.7"
+          },
+          {
+            "sym": "BTC",
+            "val": "$79,025",
+            "chg": "+2.09%",
+            "dir": "up",
+            "spark": "1.5,12.2 8.3,12.5 15.2,1.5 22.0,5.9 28.8,5.5 35.7,4.1 42.5,7.7"
+          },
+          {
+            "sym": "VIX",
+            "val": "15.2",
+            "chg": "+5.41%",
+            "dir": "up",
+            "spark": "1.5,11.9 8.3,9.2 15.2,1.5 22.0,7.7 28.8,12.5 35.7,11.4 42.5,7.7"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "NVDA",
+            "chg": "+9.87%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "+7.05%",
+            "dir": "up"
+          },
+          {
+            "sym": "COST",
+            "chg": "−4.22%",
+            "dir": "down"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−3.94%",
+            "dir": "down"
+          },
+          {
+            "sym": "DIS",
+            "chg": "−3.94%",
+            "dir": "down"
+          },
+          {
+            "sym": "LLY",
+            "chg": "−3.37%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "10:43 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-red-star-belgrade-fans-display-mladic-tifo-befor",
+          "section": "sports",
+          "headline": "Red Star Belgrade fans display tifo of war criminal Mladic before derby",
+          "beat_label": "Football",
+          "byline": "Sports desk",
+          "body": [
+            "Red Star Belgrade fans unveiled a tifo of war criminal Ratko Mladic before their derby win over Partizan Belgrade on Sunday night. Mladic, who died in a United Nations prison in August, was given a life sentence in 2017 for genocide, war crimes and crimes against humanity. He and his troops were responsible for the systematic killing of the non-Serb population of Bosnia-Herzegovina during the wars in the former Yugoslavia between 1992 and 1995. He oversaw the massacre of 8,000 men and boys at Srebrenica and a siege of the capital Sarajevo in which more than 10,000 people died.",
+            "Red Star have already been fined 90,000 euros (£77,000) this season by Uefa after their fans unveiled a banner commemorating Mladic in a Europa League play-off against Czech side FC Viktoria Plzen last month. Red Star's social media accounts published a video of the tifo and the two teams observing a minute's silence for Mladic, alongside a saluting emoji. The official X account of Bosnia-Herzegovina's national team replied with an obscenity.",
+            "After initially enjoying the protection of Serb president Slobodan Milosevic, who would later die while on trial for genocide himself, Mladic spent more than a decade on the run, eventually being found hiding out in a remote farmhouse. However, he remains a celebrated figure for some in Serbia with thousands gathering at a church in Belgrade for his funeral on Monday."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/c209n1y58neo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Red Star Belgrade fans unveiled a tifo of war criminal Ratko Mladic before their derby win over Partizan Belgrade on Sunday night.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Mladic died in a United Nations prison in August.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Mladic was given a life sentence in 2017 for genocide, war crimes and crimes against humanity.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "He and his troops were responsible for the systematic killing of the non-Serb population of Bosnia-Herzegovina during the wars in the former Yugoslavia between 1992 and 1995.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "He oversaw the massacre of 8,000 men and boys at Srebrenica.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "He oversaw a siege of the capital Sarajevo in which more than 10,000 people died.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Red Star have been fined 90,000 euros (£77,000) this season by Uefa.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The fine was after their fans unveiled a banner commemorating Mladic in a Europa League play-off against Czech side FC Viktoria Plzen last month.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Red Star's social media accounts published a video of the tifo and the two teams observing a minute's silence for Mladic, alongside a saluting emoji.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The official X account of Bosnia-Herzegovina's national team replied with an obscenity.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Mladic initially enjoyed the protection of Serb president Slobodan Milosevic.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Slobodan Milosevic died while on trial for genocide.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Mladic spent more than a decade on the run.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Mladic was eventually found hiding out in a remote farmhouse.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Thousands gathered at a church in Belgrade for his funeral on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-ai-designed-drug-shows-potential-to-reverse-biol",
+          "section": "health-science",
+          "headline": "AI-designed drug reverses biological age in phase 2 trial, six proteomic clocks agree",
+          "beat_label": "Biotechnology",
+          "byline": "Health & Science desk",
+          "body": [
+            "An AI-designed drug candidate, rentosertib, reversed predicted biological age in patients with idiopathic pulmonary fibrosis (IPF), according to a study published Monday in Nature Biotechnology. Analyzing longitudinal serum proteomic data from 42 participants in a Phase IIa trial, six independently developed proteomic aging clocks—including ProtAge, OrganAge, and PAC from groups at Harvard, Oxford, Peking University, and Insilico Medicine—consistently indicated a reduction in biological age among treated patients. The peak effect, observed at week 4 in the 30 mg twice-daily group, corresponded to approximately 3–4 years of reversal, with one clock showing up to 6 years.",
+            "The study, led by Insilico Medicine in collaboration with Harvard Medical School, Stanford University, the Broad Institute, RWTH Aachen University, Peking University, and Westlake University, marks the first clinical evaluation of a de novo AI-designed drug targeting an AI-discovered target with dual relevance to aging and disease. Rentosertib targets TNIK, a protein implicated in aging and fibrosis, and was designed using Insilico's generative chemistry platform, Chemistry42. The program advanced from target identification to preclinical candidate in about 18 months. The Phase IIa trial (NCT05938920) had previously met its primary safety endpoint and showed a dose-dependent trend in lung function, with the 60 mg once-daily group experiencing a mean improvement in forced vital capacity (FVC) of +98.4 mL versus a decline of –20.3 mL in the placebo group.",
+            "Mechanistically, the drug acted as a senomorphic agent, suppressing key drivers of cellular senescence—including EREG, ESM1, IGFBP4, ITGA2, MMP10, MMP13, and SPP1—and downregulating growth-factor signaling pathways such as RTK–PI3K and RAS–ERK, while modulating antioxidant and cholesterol metabolism. Importantly, the study found that the dose producing the strongest age-reversal signal differed from that yielding the greatest lung-function improvement, indicating that the geroprotective effect was not merely a downstream consequence of treating the disease. This systemic impact was further validated by comparing patient proteomic profiles with 55,319 UK Biobank records, showing that rentosertib directly reversed typical age-related protein-expression trajectories.",
+            "The study provides a scalable blueprint for embedding geroscience endpoints into standard disease trials. The authors propose a stepwise framework: collecting aging and senescence biomarkers prospectively as exploratory endpoints, and ultimately pursuing biomarker qualification under the FDA’s Biomarker Qualification Program and the FDA–NIH BEST framework. All data have been deposited at the China National Center for Bioinformation (accession OMIX008341), and the pipeline code is open-source on GitHub.",
+            "\"Six proteomic clocks from six independent groups, applied to the same 42 patients, all reported a younger biological age in the treated arms. What convinces me is not the size of the effect but the agreement, because these models share neither their features nor their training data,\" said Michael Levitt, PhD, 2013 Nobel laureate in Chemistry. \"This trial cannot yet separate slower aging from a treated lung, and the authors say so plainly. The experiment in healthy volunteers is the one I want to see next.\"",
+            "Insilico Medicine founder and CEO Alex Zhavoronkov, the study’s first author, will present the findings on September 8, 2026, at the Nature conference \"Redefining Healthcare in the Age of AI\" at Sorbonne University in Paris. Rentosertib has advanced to Phase III trials for IPF. Insilico reported total revenue of approximately $106 million in the first half of 2026, a 287% year-over-year increase, and achieved its first profitable half-year with an adjusted net profit exceeding $51 million. The company has nominated nine development candidates within nine months of 2026 and maintains a pipeline of over 40 drug programs, the majority of which target dual-purpose aging and disease mechanisms."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Nature",
+            "Insilico Medicine",
+            "NYT"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Nature",
+              "url": "https://www.nature.com/articles/s41587-026-03286-y"
+            },
+            {
+              "outlet": "Insilico Medicine",
+              "url": "https://insilico.com/news/rnt0709261-rentosertib-proteomic-aging-clocks"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/07/science/ai-generated-drug-longevity.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Rentosertib is an AI-designed drug candidate.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Rentosertib reversed predicted biological age in patients with idiopathic pulmonary fibrosis (IPF).",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The study was published Monday in Nature Biotechnology.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The study analyzed longitudinal serum proteomic data from 42 participants in a Phase IIa trial.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Six independently developed proteomic aging clocks—including ProtAge, OrganAge, and PAC from groups at Harvard, Oxford, Peking University, and Insilico Medicine—consistently indicated a reduction in biological age among treated patients.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The peak effect was observed at week 4 in the 30 mg twice-daily group.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The peak effect corresponded to approximately 3–4 years of reversal.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "One clock showed up to 6 years of reversal.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The study was led by Insilico Medicine in collaboration with Harvard Medical School, Stanford University, the Broad Institute, RWTH Aachen University, Peking University, and Westlake University.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The study marks the first clinical evaluation of a de novo AI-designed drug targeting an AI-discovered target with dual relevance to aging and disease.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Rentosertib targets TNIK, a protein implicated in aging and fibrosis.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Rentosertib was designed using Insilico's generative chemistry platform, Chemistry42.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The program advanced from target identification to preclinical candidate in about 18 months.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The Phase IIa trial (NCT05938920) had previously met its primary safety endpoint.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The trial showed a dose-dependent trend in lung function.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The 60 mg once-daily group experienced a mean improvement in forced vital capacity (FVC) of +98.4 mL versus a decline of –20.3 mL in the placebo group.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Mechanistically, the drug acted as a senomorphic agent.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "It suppressed key drivers of cellular senescence—including EREG, ESM1, IGFBP4, ITGA2, MMP10, MMP13, and SPP1.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "It downregulated growth-factor signaling pathways such as RTK–PI3K and RAS–ERK.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "It modulated antioxidant and cholesterol metabolism.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The study found that the dose producing the strongest age-reversal signal differed from that yielding the greatest lung-function improvement.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "This indicated that the geroprotective effect was not merely a downstream consequence of treating the disease.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "This systemic impact was further validated by comparing patient proteomic profiles with 55,319 UK Biobank records.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "It showed that rentosertib directly reversed typical age-related protein-expression trajectories.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The study provides a scalable blueprint for embedding geroscience endpoints into standard disease trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The authors propose a stepwise framework: collecting aging and senescence biomarkers prospectively as exploratory endpoints.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Ultimately pursuing biomarker qualification under the FDA’s Biomarker Qualification Program and the FDA–NIH BEST framework.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "All data have been deposited at the China National Center for Bioinformation (accession OMIX008341).",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "The pipeline code is open-source on GitHub.",
+                "status": "supported",
+                "source_ids": [
+                  "Nature Biotechnology"
+                ]
+              },
+              {
+                "text": "Alex Zhavoronkov is the study's first author.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Michael Levitt said: 'Six proteomic clocks from six independent groups, applied to the same 42 patients, all reported a younger biological age in the treated arms.'",
+                "status": "supported",
+                "source_ids": [
+                  "Michael Levitt"
+                ]
+              },
+              {
+                "text": "Michael Levitt said: 'What convinces me is not the size of the effect but the agreement, because these models share neither their features nor their training data.'",
+                "status": "supported",
+                "source_ids": [
+                  "Michael Levitt"
+                ]
+              },
+              {
+                "text": "Michael Levitt said: 'This trial cannot yet separate slower aging from a treated lung, and the authors say so plainly. The experiment in healthy volunteers is the one I want to see next.'",
+                "status": "supported",
+                "source_ids": [
+                  "Michael Levitt"
+                ]
+              },
+              {
+                "text": "Insilico Medicine founder and CEO Alex Zhavoronkov will present the findings on September 8, 2026, at the Nature conference 'Redefining Healthcare in the Age of AI' at Sorbonne University in Paris.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Rentosertib has advanced to Phase III trials for IPF.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Insilico reported total revenue of approximately $106 million in the first half of 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              },
+              {
+                "text": "That revenue is a 287% year-over-year increase.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              },
+              {
+                "text": "Insilico achieved its first profitable half-year with an adjusted net profit exceeding $51 million.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              },
+              {
+                "text": "The company has nominated nine development candidates within nine months of 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              },
+              {
+                "text": "Insilico maintains a pipeline of over 40 drug programs.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              },
+              {
+                "text": "The majority of those programs target dual-purpose aging and disease mechanisms.",
+                "status": "supported",
+                "source_ids": [
+                  "Insilico Medicine"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85,
+          "significance": 0.75,
+          "primary_source": "https://doi.org/10.1038/s41587-026-03286-y"
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-seattle-times-and-newsday-sue-openai-and-microso",
+          "section": "tech-ai",
+          "headline": "Seattle Times and Newsday sue OpenAI and Microsoft for copyright infringement",
+          "beat_label": "AI Copyright",
+          "byline": "Tech / AI desk",
+          "body": [
+            "The Seattle Times and Newsday have filed a copyright infringement lawsuit against OpenAI and Microsoft. The publishers are seeking the destruction of any copies of their works held by the companies, along with training datasets and AI models that incorporate them.",
+            "The lawsuit positions the two news organizations as the latest plaintiffs to take OpenAI to court over similar claims, joining The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica. The suit also names Microsoft as a defendant because its Copilot assistant is built on OpenAI's technology.",
+            "The Seattle Times and Newsday join a group of nearly 400 local newspapers that recently sued the two companies, arguing that chatbots reduce the need for readers to visit their websites for reporting and answers, costing them valuable subscription revenue.",
+            "OpenAI and Microsoft did not immediately respond to a request for comment on the lawsuit."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Seattle Times and Newsday have filed a copyright infringement lawsuit against OpenAI and Microsoft.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The publishers are seeking the destruction of any copies of their works held by the companies.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The publishers are seeking destruction of training datasets and AI models that incorporate their works.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The lawsuit positions the two news organizations as the latest plaintiffs to take OpenAI to court over similar claims.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The lawsuit joins The New York Times, Ziff Davis, Merriam-Webster, and Encyclopedia Britannica as plaintiffs.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The suit names Microsoft as a defendant because its Copilot assistant is built on OpenAI's technology.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Seattle Times and Newsday join a group of nearly 400 local newspapers that recently sued the two companies.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The group of nearly 400 local newspapers argued that chatbots reduce the need for readers to visit their websites for reporting and answers, costing them valuable subscription revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "OpenAI and Microsoft did not immediately respond to a request for comment on the lawsuit.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-far-right-afd-wins-state-election-in-saxony-anha"
+    },
+    {
+      "section": "politics",
+      "story_id": "politics-trump-administration-makes-third-supreme-court-a"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-ai-designed-drug-shows-potential-to-reverse-biol"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Investigation launched after cargo plane crash at Miami airport kills five",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Armed man arrested in attempted attack on Ohio Democratic gubernatorial candidate Amy Acton",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Iran plans to announce 'restricted zone' near Strait of Hormuz as tensions rise",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Iran airs footage of missile strikes on US warships, announces restricted zone in Strait of Hormuz",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Oil Prices Climb After Houthi Attack on Saudi Aramco Refinery; Hormuz Tensions Weigh",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Antonelli wins Italian GP in 'walk on water' drive; Russell's title hopes fade",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Fury claims Joshua fight collapsing, calls out Usyk for November",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Genetically modified pig kidneys keep patients alive long enough to receive human transplants",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Novo Nordisk halts two cardiovascular trials of anti-inflammatory drug ziltivekimab",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
