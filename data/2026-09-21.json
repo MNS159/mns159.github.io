@@ -1,0 +1,3308 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-21",
+  "edition": "Morning edition",
+  "generated_at": "2026-09-21T16:12:22+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-banned-outlets-sue-trump-tv-networks-pull-white-",
+          "section": "politics",
+          "headline": "Banned outlets sue Trump; TV networks pull White House pool in solidarity",
+          "beat_label": "White House / Media",
+          "byline": "Politics desk · anchored on Reuters",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.15,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 5,
+              "center": 7,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "BBC",
+            "NYT",
+            "CNBC",
+            "PBS",
+            "Politico",
+            "WSJ",
+            "Reuters",
+            "The Guardian",
+            "CNN",
+            "Axios",
+            "CBS News"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6101796-vance-defends-trump-media-ban/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/21/business/media/trump-white-house-ban-lawsuit-cnn-politico-msnow.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/politics/cnn-ms-now-politico-say-theyve-notified-trump-theyre-suing-over-denied-white-house-access",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Politico",
+              "url": "https://www.politico.com/news/2026/09/21/news-outlets-trump-banned-from-white-house-announce-lawsuit-01085995",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/business/media/cnn-removed-from-white-house-tv-press-pool-after-trump-ban-931f86c7",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/cnn-ms-now-politico-file-lawsuit-against-trump-administration-over-white-house-2026-09-21/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/sep/21/white-house-news-organization-ban-lawsuit",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/09/20/media/cnn-trump-white-house-pool-ban",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Axios",
+              "url": "https://www.axios.com/2026/09/21/trump-media-ban-tv-networks-cnn-ms-now-politico",
+              "lean": -0.1,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/news/cnn-ms-now-politico-lawsuit-white-house-access-trump/",
+              "lean": -0.2,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "CNN, MS NOW (formerly MSNBC) and Politico were barred from White House access after President Trump announced the ban on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "President Trump cited what he called unfair and negative coverage as the reason for the ban.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Reporters from the three outlets were denied entry to the White House starting Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Their credentials were confiscated despite holding permanent press passes.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "On Monday, CNN, MS NOW and Politico filed a joint lawsuit in federal court in Washington, D.C.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The lawsuit alleges violations of their First Amendment and Fifth Amendment rights.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The lawsuit's lead attorney is Theodore J. Boutrous of Gibson Dunn.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Theodore J. Boutrous also represented NPR in a separate case against a Trump executive order on public media funding.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "President Trump responded on Truth Social, saying the action was not an assault on the free press but on what he called 'FAKE NEWS.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Major TV networks in the White House video pool — Fox News, ABC News, CBS News, NBC News and CNN — issued a joint statement announcing they would suspend pool coverage of the president.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News",
+                  "ABC News",
+                  "CBS News",
+                  "NBC News",
+                  "CNN"
+                ]
+              },
+              {
+                "text": "Fox News Washington Bureau Chief Bryan Boughton confirmed in a memo that no replacement pool would be put in place.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "NPR Editor in Chief Tommy Evans issued a statement Sunday condemning the ban as a First Amendment violation.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "A 1977 U.S. Court of Appeals ruling still in effect requires the government to provide due process, including a clear explanation from the Secret Service, before barring journalists or revoking White House press passes.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The dispute centers on long-standing legal and practical arrangements governing press access to the White House, including the multi-decade-old television 'pool' system that outlets like CNN, ABC, CBS, NBC and Fox use to share the cost and logistics of covering presidential events.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Courts have previously distinguished between the government's discretion over initial press access and its inability to revoke access already granted based on the content of a journalist's reporting.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "This principle was established in a 1977 appellate ruling and reinforced in cases like CNN's Jim Acosta credential dispute during Trump's first term.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "This lawsuit is the latest in a broader pattern of confrontations between the Trump administration and news organizations, including federal funding cuts to public media, Justice Department pursuit of reporters' records, the Pentagon's expulsion of outlets including NPR, and FCC investigations into major networks.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Both the administration and the news organizations frame this as a matter of principle rather than personality.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Trump and Vance describe it as the White House exercising discretion over who gets special access.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The outlets and their television-industry allies describe it as an unconstitutional attempt to punish disfavored coverage.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "Courts have previously said the distinction between denying access in the first place and barring already-credentialed journalists for their reporting matters legally.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The lawsuit will likely test how courts apply existing precedent — particularly the 1977 due-process ruling and past cases like Acosta's — to a coordinated ban on three outlets rather than a single reporter.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The television networks' suspension of pool coverage removes a decades-old mechanism for sharing footage of presidential events.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              },
+              {
+                "text": "The suspension of pool coverage potentially affects how the public sees real-time coverage of Trump's activities, including his UN trip, until the dispute is resolved through litigation or negotiation.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN",
+                  "MS NOW",
+                  "Politico"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "CNN, MS NOW (formerly MSNBC) and Politico were barred from White House access after President Trump announced the ban on Friday, citing what he called unfair and negative coverage.",
+              "Reporters from the three outlets were denied entry to the White House starting Saturday, and their credentials were confiscated despite holding permanent press passes.",
+              "On Monday, CNN, MS NOW and Politico filed a joint lawsuit in federal court in Washington, D.C., alleging violations of their First Amendment and Fifth Amendment rights.",
+              "The lawsuit's lead attorney is Theodore J. Boutrous of Gibson Dunn, who also represented NPR in a separate case against a Trump executive order on public media funding.",
+              "President Trump responded on Truth Social, saying the action was not an assault on the free press but on what he called 'FAKE NEWS.'",
+              "Major TV networks in the White House video pool — Fox News, ABC News, CBS News, NBC News and CNN — issued a joint statement announcing they would suspend pool coverage of the president, with Fox News Washington Bureau Chief Bryan Boughton confirming in a memo that no replacement pool would be put in place.",
+              "NPR Editor in Chief Tommy Evans issued a statement Sunday condemning the ban as a First Amendment violation.",
+              "A 1977 U.S. Court of Appeals ruling still in effect requires the government to provide due process, including a clear explanation from the Secret Service, before barring journalists or revoking White House press passes."
+            ],
+            "analysis": "The dispute centers on long-standing legal and practical arrangements governing press access to the White House, including the multi-decade-old television 'pool' system that outlets like CNN, ABC, CBS, NBC and Fox use to share the cost and logistics of covering presidential events. Courts have previously distinguished between the government's discretion over initial press access and its inability to revoke access already granted based on the content of a journalist's reporting — a principle established in a 1977 appellate ruling and reinforced in cases like CNN's Jim Acosta credential dispute during Trump's first term. This lawsuit is the latest in a broader pattern of confrontations between the Trump administration and news organizations, including federal funding cuts to public media, Justice Department pursuit of reporters' records, the Pentagon's expulsion of outlets including NPR, and FCC investigations into major networks.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Both the administration and the news organizations frame this as a matter of principle rather than personality: Trump and Vance describe it as the White House exercising discretion over who gets special access, while the outlets and their television-industry allies describe it as an unconstitutional attempt to punish disfavored coverage — a distinction courts have previously said matters legally, since barring already-credentialed journalists for their reporting differs from denying access in the first place.",
+            "implications": "The lawsuit will likely test how courts apply existing precedent — particularly the 1977 due-process ruling and past cases like Acosta's — to a coordinated ban on three outlets rather than a single reporter. The television networks' suspension of pool coverage removes a decades-old mechanism for sharing footage of presidential events, potentially affecting how the public sees real-time coverage of Trump's activities, including his UN trip, until the dispute is resolved through litigation or negotiation."
+          },
+          "interestingness": 0.85,
+          "significance": 0.84
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-ukraine-launches-largest-drone-attack-on-moscow-",
+          "section": "world",
+          "headline": "Ukraine launches largest drone attack on Moscow as Russia concludes elections",
+          "beat_label": "Russia-Ukraine War",
+          "byline": "International & World desk · anchored on AP",
+          "body": [
+            "Ukraine fired what Moscow described as its largest ever drone attack on the Russian capital and surrounding region on Sunday, the third and final day of tightly controlled parliamentary elections in Russia. Moscow Mayor Sergei Sobyanin said 450 drones heading for the city had been shot down in what he called “the most massive” attack. At least two people were killed and 20 injured, according to the region's governor, Andrei Vorobyev.",
+            "The attack hit the Moscow oil refinery, which supplies more than a third of the region’s fuel, and a residential building where a 44-year-old woman was killed. An elderly man died after a private house was hit in the Orekhovo-Zuevo district. Ukrainian President Volodymyr Zelensky confirmed Kyiv had struck a “key” Russian oil facility and a logistics site, saying the strikes represented “billions of dollars that sustain the war machine.” Ukrainian defense officials said three key units at the refinery were damaged. Moscow’s airports Sheremetyevo and Vnukovo imposed temporary restrictions on flights, though both resumed operations by Sunday morning.",
+            "The attack came as Russia held a parliamentary election for the 450-seat State Duma, the first since its full-scale invasion of Ukraine in 2022. With more than 71 percent of ballots counted, President Vladimir Putin’s United Russia party was set to win 57.5 percent of the vote, data from the Central Election Commission showed. All parties on the ballot have broadly pledged loyalty to Putin; the liberal Yabloko party, the only registered party opposed to the war, was barred from standing. Sobyanin said the drone attack was “an attempt to disrupt” the vote. Russian state media reported that an election official was among two people killed by a drone in a Moscow-held part of Kherson.",
+            "Ukraine also reported deadly Russian strikes over the weekend. In the Kyiv region, a mother and her two young children were killed in an attack on the city of Fastiv, and a child injured in another attack near Kyiv died in hospital. In the Sumy region, four people were killed when a drone hit their car. Zelensky said Russia struck a monastery in the Kherson region, killing one clergy member and injuring four others. On Monday, a Russian drone struck a home in Ukraine’s Kharkiv region, killing a 45-year-old woman and seriously injuring her 13-year-old son. Zelensky said Russia struck 10 regions overnight, calling the attacks “vicious” and accusing Moscow of signaling it is “ready to expand the war.”",
+            "President Donald Trump called Monday for an end to the war, posting on Truth Social that “Russia has unfortunately lost control of its Diesel Oil Industry” due to Ukraine’s attacks on its refineries. “This ridiculous and never ending War with Ukraine must be ended,” he wrote. He is scheduled to meet Zelensky in New York on the sidelines of the United Nations General Assembly. Zelensky said the meeting “could change a lot” and that “there is diplomatic momentum.” The two leaders agreed on the meeting after a phone conversation, Zelensky said. The Trump administration signed a sanctions bill on Friday that allows the president to impose 100 percent tariffs on major purchasers of Russian oil and gas, including China and India."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.13,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 4,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "CNBC",
+            "NYT",
+            "nypost.com",
+            "AP"
+          ],
+          "anchored_on": [
+            "AP"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/21/russia-election-putin-moscow-attack-ukraine.html"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/20/world/europe/moscow-russia-ukraine.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "nypost.com",
+              "url": "https://nypost.com/2026/09/21/us-news/trump-says-russia-lost-control-of-its-diesel-oil-industry-after-ukraine-drone-attacks-calls-for-end-to-war/"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/ukraine-russia-war-drones-moscow-5f7889d027c0247ca2c2c64425b9ffa9",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Ukraine fired what Moscow described as its largest ever drone attack on the Russian capital and surrounding region on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The attack occurred on the third and final day of tightly controlled parliamentary elections in Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Moscow Mayor Sergei Sobyanin said 450 drones heading for the city had been shot down.",
+                "status": "supported",
+                "source_ids": [
+                  "Moscow Mayor Sergei Sobyanin"
+                ]
+              },
+              {
+                "text": "Sobyanin called the attack 'the most massive'.",
+                "status": "supported",
+                "source_ids": [
+                  "Moscow Mayor Sergei Sobyanin"
+                ]
+              },
+              {
+                "text": "At least two people were killed and 20 injured, according to the region's governor, Andrei Vorobyev.",
+                "status": "supported",
+                "source_ids": [
+                  "Andrei Vorobyev"
+                ]
+              },
+              {
+                "text": "The attack hit the Moscow oil refinery, which supplies more than a third of the region’s fuel.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The attack hit a residential building where a 44-year-old woman was killed.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "An elderly man died after a private house was hit in the Orekhovo-Zuevo district.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky confirmed Kyiv had struck a 'key' Russian oil facility and a logistics site.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky said the strikes represented 'billions of dollars that sustain the war machine'.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Ukrainian defense officials said three key units at the refinery were damaged.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian defense officials"
+                ]
+              },
+              {
+                "text": "Moscow’s airports Sheremetyevo and Vnukovo imposed temporary restrictions on flights.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Both airports resumed operations by Sunday morning.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The attack came as Russia held a parliamentary election for the 450-seat State Duma.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "This was the first parliamentary election since Russia's full-scale invasion of Ukraine in 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "With more than 71 percent of ballots counted, President Vladimir Putin’s United Russia party was set to win 57.5 percent of the vote, data from the Central Election Commission showed.",
+                "status": "supported",
+                "source_ids": [
+                  "Central Election Commission"
+                ]
+              },
+              {
+                "text": "All parties on the ballot have broadly pledged loyalty to Putin.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The liberal Yabloko party, the only registered party opposed to the war, was barred from standing.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Sobyanin said the drone attack was 'an attempt to disrupt' the vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Moscow Mayor Sergei Sobyanin"
+                ]
+              },
+              {
+                "text": "Russian state media reported that an election official was among two people killed by a drone in a Moscow-held part of Kherson.",
+                "status": "supported",
+                "source_ids": [
+                  "Russian state media"
+                ]
+              },
+              {
+                "text": "In the Kyiv region, a mother and her two young children were killed in an attack on the city of Fastiv.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "A child injured in another attack near Kyiv died in hospital.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "In the Sumy region, four people were killed when a drone hit their car.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Zelensky said Russia struck a monastery in the Kherson region, killing one clergy member and injuring four others.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "On Monday, a Russian drone struck a home in Ukraine’s Kharkiv region, killing a 45-year-old woman and seriously injuring her 13-year-old son.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Zelensky said Russia struck 10 regions overnight.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky called the attacks 'vicious' and accused Moscow of signaling it is 'ready to expand the war.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "President Donald Trump called Monday for an end to the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Trump posted on Truth Social that 'Russia has unfortunately lost control of its Diesel Oil Industry' due to Ukraine’s attacks on its refineries.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Trump wrote 'This ridiculous and never ending War with Ukraine must be ended.'",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Trump is scheduled to meet Zelensky in New York on the sidelines of the United Nations General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Zelensky said the meeting 'could change a lot' and that 'there is diplomatic momentum.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The two leaders agreed on the meeting after a phone conversation, Zelensky said.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The Trump administration signed a sanctions bill on Friday that allows the president to impose 100 percent tariffs on major purchasers of Russian oil and gas, including China and India.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85
+        },
+        {
+          "id": "world-putin-consolidates-power-as-pro-kremlin-party-wi",
+          "section": "world",
+          "headline": "Putin consolidates power as pro-Kremlin party wins election amid Ukraine war",
+          "beat_label": "Russia-Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "Russia's ruling United Russia party won a record 355 seats in the 450-seat State Duma in parliamentary elections, according to preliminary figures, consolidating President Vladimir Putin's grip on power in the first such vote since the 2022 full-scale invasion of Ukraine. The result gives United Russia a super-majority larger than its previous record of 343 seats set in 2016.",
+            "The new parliament will include 49 deputies who took part in the war against Ukraine, according to United Russia's general secretary Vladimir Yakushev, who initially said 86 veterans were likely elected before revising the number. Putin's spokesman Dmitry Peskov said the vote demonstrated \"the highest level of consolidation within Russian society around the head of state.\" Other parties that support the conflict also won seats: the Communists came second with 40 seats, the ultra-nationalist LDPR won 25, and the New People party won 20.",
+            "The elections were widely criticized. Russia's supreme court last month banned the only party opposing the war, Yabloko, from participating, leaving liberal voters with no option to express discontent. Internal criticism of the conflict is banned, and anti-war bloggers have been arrested and jailed. Local politician Boris Nadezhdin, who previously ran on a peace ticket, was barred from September's elections and accused of being a \"foreign agent.\" In Chechnya, leader Ramzan Kadyrov, a Putin ally, was re-elected and said to have won more than 99% of the votes.",
+            "Western governments denounced the polls, held in Russian-occupied areas of Ukraine, as a \"sham.\" The European Union issued a statement declaring the elections \"non-applicable on Ukrainian territory.\" EU top diplomat Kaja Kallas called the vote \"another major setback for Russian democracy,\" writing on X: \"The Kremlin silenced dissent and shut out international election monitors. The veneer of democracy is all that remains.\"",
+            "Russia's elections chief, Ella Pamfilova, said United Russia won a resounding victory with 57.83%, with 95% of ballots counted, up from the 49.8% it won in the last parliamentary election, in 2021. She praised voters for resisting \"psychological pressure.\"",
+            "The elections came amid speculation that Putin may announce a large mobilization campaign this autumn to inject fresh momentum into Russia's bogged-down military campaign. Ukraine's President Volodymyr Zelenskyy has suggested the Kremlin wants to recruit another 300,000 troops. Russia has escalated its bombardment, striking Kyiv and other cities with attack drones; overnight, Zelenskyy described a \"brutal, targeted attack\" on Zaporizhzhia that damaged a nine-storey residential building, a university building, a shopping centre, and a boiler house, injuring five people, while a woman was killed in a drone strike in the Kharkiv region. Russia has also intensified its offensive in Ukraine's eastern Donbas region, targeting Kramatorsk and Sloviansk, without breaking through, while Ukrainian commanders reported a counteroffensive near Lyman. Zelenskyy said: \"Russia is not scaling back its escalatory actions and is signalling a readiness to expand the war. All this is happening against the backdrop of global stability already having been shattered by this war. We must continue to pressure the aggressor to bring this war to an end.\""
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.35,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 2,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Guardian",
+            "consilium.europa.eu"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/sep/21/putin-consolidates-grip-russia-ukraine-war-veterans-elected-duma",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "consilium.europa.eu",
+              "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/21/russiaukraine-statement-by-the-high-representative-on-behalf-of-the-eu-on-russian-state-duma-elections-held-on-18-20-september-2026-and-their-non-applicability-on-ukrainian-territory/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "United Russia won 355 seats in the 450-seat State Duma.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The 355 seats is according to preliminary figures.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This was the first parliamentary election since the 2022 full-scale invasion of Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The previous record was 343 seats set in 2016.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "United Russia's general secretary Vladimir Yakushev said the new parliament will include 49 deputies who took part in the war against Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Yakushev initially said 86 veterans were likely elected before revising the number.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Putin's spokesman Dmitry Peskov said the vote demonstrated \"the highest level of consolidation within Russian society around the head of state.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Communists came second with 40 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The LDPR won 25 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The New People party won 20 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The elections were widely criticized.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russia's supreme court last month banned the only party opposing the war, Yabloko, from participating.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The ban left liberal voters with no option to express discontent.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Internal criticism of the conflict is banned.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anti-war bloggers have been arrested and jailed.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Local politician Boris Nadezhdin was barred from September's elections.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "He was accused of being a \"foreign agent.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In Chechnya, leader Ramzan Kadyrov was re-elected.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kadyrov was said to have won more than 99% of the votes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Western governments denounced the polls as a \"sham.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The European Union issued a statement declaring the elections \"non-applicable on Ukrainian territory.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "EU top diplomat Kaja Kallas called the vote \"another major setback for Russian democracy.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas wrote on X: \"The Kremlin silenced dissent and shut out international election monitors.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ella Pamfilova said United Russia won 57.83%.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She said 95% of ballots were counted.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The previous election in 2021 United Russia won 49.8%.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She praised voters for resisting \"psychological pressure.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "There is speculation that Putin may announce a large mobilization campaign this autumn.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukraine's President Volodymyr Zelenskyy suggested the Kremlin wants to recruit another 300,000 troops.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russia has escalated its bombardment, striking Kyiv and other cities with attack drones.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy described a \"brutal, targeted attack\" on Zaporizhzhia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The attack damaged a nine-storey residential building, a university building, a shopping centre, and a boiler house.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The attack injured five people.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A woman was killed in a drone strike in the Kharkiv region.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russia has intensified its offensive in Ukraine's eastern Donbas region.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "They are targeting Kramatorsk and Sloviansk.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "They have not broken through.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian commanders reported a counteroffensive near Lyman.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: \"Russia is not scaling back its escalatory actions and is signalling a readiness to expand the war.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: \"All this is happening against the backdrop of global stability already having been shattered by this war.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: \"We must continue to pressure the aggressor to bring this war to an end.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The polls were held in Russian-occupied areas of Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-yemenis-flee-across-red-sea-as-houthi-saudi-war-",
+          "section": "world",
+          "headline": "Yemenis flee across Red Sea as Houthi-Saudi war escalates",
+          "beat_label": "Yemen Conflict",
+          "byline": "International & World desk",
+          "body": [
+            "More than 3,000 Yemeni refugees have arrived in Djibouti in recent days, fleeing an escalation of fighting between Houthi forces and a Saudi-backed coalition along Yemen's Red Sea coast, according to the United Nations. The UN estimates that over 120,000 Yemenis have been displaced by the surge in hostilities. Refugees are crossing the narrow Bab al-Mandab strait by boat and then traveling by truck and on foot to camps such as Markazi in Obock, northern Djibouti, which is jointly administered by the government and the UN.",
+            "The Houthis, who already control most of Yemen's populated areas, recently launched a rapid advance down the coast toward the Bab al-Mandab strait, a strategic maritime chokepoint where the Red Sea meets the Gulf of Aden. Saudi Arabia, which backs the internationally recognized government of Yemen, has responded with hundreds of airstrikes along the coastal plain where the Houthis are now digging in. The Houthis have also launched hundreds of drones and missiles at cities and infrastructure in southwestern Saudi Arabia.",
+            "Refugees interviewed at Markazi camp said they fled because of the bombing, regardless of which side was responsible. Ibrahim Issa, a 50-year-old fisherman from the coastal town of Dhubab, said he used his own boat to bring his family and several goats to Djibouti. 'When the sound of the planes start, and the kids hear the planes, they begin shouting and screaming,' he said. 'As parents it is our responsibility, what can you do when you see this? That is why we fled, to save them.' Qassim Abraham Abssy, a 100-year-old former fisherman, said: 'It was the planes. The sounds of the planes, boom! That's what made us flee, for the sake of our children.'",
+            "Djibouti, a tiny former French colony, has said it will not involve itself in the war. It is one of the most militarized nations in Africa, hosting a large US base at Camp Lemonnier and a major Chinese base, its largest military presence on the Indian Ocean. Some refugees have been in Djibouti since 2015. Mohammed Abdullarim, a former tour guide from Aden who fled that year, said: 'Most of the people here are in the worst condition, inside the tents here. I am very touched, I'm crying for these people, for my people, for their suffering.'",
+            "Yemen has been wracked by a civil war that has killed tens of thousands and displaced millions since 2014. A shaky UN-brokered truce between the Saudis and the Houthis in 2022 has broken down in recent months, with the two sides trading missiles, drones and airstrikes. Refugees said they would return only if peace is restored. Aisha Abdulkadir Mohammed, wife of Qassim Abssy, said: 'We are willing to go back in peace if peace returns to our country, and we are praying to God that peace does return. All we need is peace, even for our children's future, they get safety first, then food, water and an education.'"
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "NYT"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/09/21/world/middleeast/yemen-houthis-saudi-war.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "More than 3,000 Yemeni refugees have arrived in Djibouti in recent days.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "The refugees fled an escalation of fighting between Houthi forces and a Saudi-backed coalition along Yemen's Red Sea coast.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "The UN estimates that over 120,000 Yemenis have been displaced by the surge in hostilities.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "Refugees are crossing the Bab al-Mandab strait by boat and then traveling by truck and on foot to camps such as Markazi in Obock, northern Djibouti.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "Markazi camp is jointly administered by the government and the UN.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "The Houthis control most of Yemen's populated areas.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The Houthis recently launched a rapid advance down the coast toward the Bab al-Mandab strait.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The Bab al-Mandab strait is a strategic maritime chokepoint where the Red Sea meets the Gulf of Aden.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Saudi Arabia backs the internationally recognized government of Yemen.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Saudi Arabia has responded with hundreds of airstrikes along the coastal plain where the Houthis are now digging in.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The Houthis have launched hundreds of drones and missiles at cities and infrastructure in southwestern Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Refugees interviewed at Markazi camp said they fled because of the bombing, regardless of which side was responsible.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Ibrahim Issa, a 50-year-old fisherman from the coastal town of Dhubab, said he used his own boat to bring his family and several goats to Djibouti.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Ibrahim Issa said: 'When the sound of the planes start, and the kids hear the planes, they begin shouting and screaming.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Ibrahim Issa said: 'As parents it is our responsibility, what can you do when you see this? That is why we fled, to save them.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Qassim Abraham Abssy, a 100-year-old former fisherman, said: 'It was the planes. The sounds of the planes, boom! That's what made us flee, for the sake of our children.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Djibouti has said it will not involve itself in the war.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Djibouti is one of the most militarized nations in Africa.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Djibouti hosts a large US base at Camp Lemonnier.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Djibouti hosts a major Chinese base, its largest military presence on the Indian Ocean.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Some refugees have been in Djibouti since 2015.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Mohammed Abdullarim, a former tour guide from Aden, fled to Djibouti in 2015.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Mohammed Abdullarim said: 'Most of the people here are in the worst condition, inside the tents here. I am very touched, I'm crying for these people, for my people, for their suffering.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Yemen has been wracked by a civil war that has killed tens of thousands and displaced millions since 2014.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "A UN-brokered truce between the Saudis and the Houthis in 2022 has broken down in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The two sides have been trading missiles, drones and airstrikes.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Refugees said they would return only if peace is restored.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Aisha Abdulkadir Mohammed, wife of Qassim Abssy, said: 'We are willing to go back in peace if peace returns to our country, and we are praying to God that peace does return.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Aisha Abdulkadir Mohammed said: 'All we need is peace, even for our children's future, they get safety first, then food, water and an education.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.65
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-amd-hits-1-trillion-market-cap-for-the-first-tim",
+          "section": "markets",
+          "headline": "AMD hits $1 trillion market cap for the first time",
+          "beat_label": "Earnings",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Advanced Micro Devices shares surged 9% on Monday, pushing the stock to a record high and topping a $1 trillion market capitalization for the first time. The chipmaker's shares hit an intraday high of $613.92, boosting the company's value just above the trillion-dollar mark and making AMD the 14th U.S. company to reach that milestone.",
+            "The move extends a five-day winning streak during which AMD shares have gained about 24%. The recent rally has been a welcome sight for investors, who saw the stock fall last month even after the company reported second-quarter earnings that beat expectations. AMD reported revenue of $11.54 billion in Q2, up 50% from $7.69 billion a year earlier, with its artificial intelligence chips at the heart of that growth. The company's Data Center unit posted sales of $6.7 billion, up 107% year over year.",
+            "AMD is having a blockbuster year, with shares up more than 180%. Despite that gain, it remains well behind AI chip leader Nvidia, which boasts a market cap of about $5.4 trillion.",
+            "The AI buildout that has fueled the surge in chip names this year shows few signs of slowing, despite public backlash against data centers and concerns about the underlying safety of large language models. AMD CEO Lisa Su said last month on the company's earnings call that it expected to double data center sales in 2027. Last week, Nvidia CEO Jensen Huang offered another look at silicon demand, saying he expected his company to double the number of chips it sells next year."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/amd-hits-with-a-major-milestone-as-ai-stocks-blaze-higher-7bb366df?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/21/amd-stock-1-trillion-value.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Advanced Micro Devices shares surged 9% on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The surge pushed AMD's stock to a record high.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's market capitalization topped $1 trillion for the first time.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's shares hit an intraday high of $613.92.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD became the 14th U.S. company to reach a $1 trillion market capitalization.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD shares have gained about 24% over a five-day winning streak.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's stock fell last month after the company reported second-quarter earnings that beat expectations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD reported revenue of $11.54 billion in Q2.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's Q2 revenue was up 50% from $7.69 billion a year earlier.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's artificial intelligence chips were at the heart of that growth.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's Data Center unit posted sales of $6.7 billion in Q2.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD's Data Center unit sales were up 107% year over year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD shares are up more than 180% this year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Nvidia has a market cap of about $5.4 trillion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD remains well behind AI chip leader Nvidia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The AI buildout that has fueled the surge in chip names this year shows few signs of slowing.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There is public backlash against data centers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There are concerns about the underlying safety of large language models.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AMD CEO Lisa Su said last month on the company's earnings call that it expected to double data center sales in 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Last week, Nvidia CEO Jensen Huang said he expected his company to double the number of chips it sells next year.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.614,
+          "image": {
+            "url": "static/img/2026-09-21/markets-amd-hits-1-trillion-market-cap-for-the-first-tim.jpg",
+            "alt": "Photograph of AMD headquarters building",
+            "credit": "Photo: Coolcaesar / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 739
+          }
+        },
+        {
+          "id": "markets-oura-files-for-ipo-nvidia-s-huang-pushes-back-on",
+          "section": "markets",
+          "headline": "Oura files for IPO; Nvidia's Huang pushes back on AI doomsday talk",
+          "beat_label": "Tech",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Health tracking ring maker Oura on Monday publicly filed paperwork for its initial public offering, seeking to raise upward of $2.2 billion. The company plans to sell 50 million shares priced between $40 and $44 apiece, according to the filing.",
+            "Oura's revenue in the nine months ending June 30 reached $1.2 billion, up from $697 million in the same period last year. The company posted a net loss of $924 million for that span. Oura said it sold 4.1 million Oura Rings during the period, up from 1.8 million in the same period last year.",
+            "In a separate development, Nvidia (NVDA) CEO Jensen Huang pushed back against AI doomsday talk during an interview with CBS News on Sunday. The interview follows an essay by Anthropic CEO Dario Amodei calling for a slowdown in the development of frontier AI systems.",
+            "Huang called fears that AI will kill all humans \"completely false,\" saying \"it is not grounded on facts; it's not grounded on science.\" He also acknowledged that AI researchers' concerns about building safe products are not wrong."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Finance"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-oura-files-ipo-paperwork-nvidias-huang-pushes-back-on-ai-doomsday-talk-144918730.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Oura publicly filed paperwork for its initial public offering on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura is seeking to raise upward of $2.2 billion in its IPO.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura plans to sell 50 million shares in its IPO.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO shares are priced between $40 and $44 apiece.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura's revenue in the nine months ending June 30 reached $1.2 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura's revenue in the nine months ending June 30 was up from $697 million in the same period last year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura posted a net loss of $924 million for the nine months ending June 30.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura sold 4.1 million Oura Rings during the nine months ending June 30.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oura sold 4.1 million Oura Rings during the period, up from 1.8 million in the same period last year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia CEO Jensen Huang pushed back against AI doomsday talk during an interview with CBS News on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The interview follows an essay by Anthropic CEO Dario Amodei calling for a slowdown in the development of frontier AI systems.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang called fears that AI will kill all humans 'completely false.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang said the fear that AI will kill all humans 'is not grounded on facts; it's not grounded on science.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang acknowledged that AI researchers' concerns about building safe products are not wrong.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "markets-fed-official-says-inflation-response-may-need-to",
+          "section": "markets",
+          "headline": "Fed official says inflation fight will be 'painful' as persistent supply shocks force rate hikes",
+          "beat_label": "Central Banks",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Austan Goolsbee, president of the Federal Reserve Bank of Chicago, said Monday that the central bank may have to inflict economic pain in the form of higher unemployment to combat stubbornly high inflation. In a speech in London, Goolsbee said the Fed faces a series of persistent supply shocks—including higher oil prices from the Iran war and tariffs—that have driven up inflation, leaving the central bank little choice but to raise borrowing costs.",
+            "“The only way to bring inflation down is to raise rates and narrow the gap between supply and demand,” Goolsbee said in prepared remarks. “Forcing inflation back to target in the short run means pushing employment below target. ... In the short run, supply shocks force a difficult trade-off” between the Fed's goals of low inflation and maximum employment. He later told reporters, “It’s going to be painful. It would necessarily be painful.”",
+            "Goolsbee's comments contrast with remarks made last Wednesday by Fed Chairman Kevin Warsh after the Fed lifted its key interest rate for the first time in three years, to about 3.9%. “I don’t believe that we need to do harm to the labor markets to achieve our objective,” Warsh said.",
+            "The Fed generally fights inflation by raising interest rates to cool borrowing and spending, and such rate hikes have historically slowed growth and even led to recessions. However, in 2022-2023, the Fed sharply raised rates and inflation declined without a significant rise in unemployment or an economic slowdown. Goolsbee argued that because supply shocks are persistent rather than temporary, the central bank cannot simply wait for them to fade, as it typically would, and must instead reduce consumer and business demand to align with reduced supply—bringing inflation back to the Fed's 2% target.",
+            "The divergence between Goolsbee and Warsh highlights an internal debate over the costs of disinflation. Goolsbee's warning suggests the Fed may need to accept a weaker labor market to achieve price stability, while Warsh has expressed confidence that the central bank can meet its inflation goal without damaging employment."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 5,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "FT",
+            "ABC News - Breaking News, Latest News and Videos",
+            "Reuters",
+            "Bloomberg",
+            "Ottumwa Courier"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "FT",
+              "url": "https://www.ft.com/content/e173bec6-352b-4b51-b3a4-382a9229bc86?syn-25a6b1a6=1"
+            },
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Business/wireStory/federal-reserve-official-fighting-inflation-painful-136621124"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/feds-goolsbee-strong-demand-may-be-adding-us-inflation-no-ambiguity-how-fed-2026-09-21/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-21/fed-s-goolsbee-says-road-to-2-inflation-may-not-be-painless",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Ottumwa Courier",
+              "url": "https://www.ottumwacourier.com/news/business/federal-reserve-official-says-fighting-inflation-likely-to-be-painful/article_4fc4cce1-1625-5488-a758-43b9eb2a80ea.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Austan Goolsbee is president of the Federal Reserve Bank of Chicago.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said Monday that the central bank may have to inflict economic pain in the form of higher unemployment to combat stubbornly high inflation.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee made the remarks in a speech in London.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said the Fed faces a series of persistent supply shocks, including higher oil prices from the Iran war and tariffs, that have driven up inflation.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said the central bank has little choice but to raise borrowing costs.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said in prepared remarks: 'The only way to bring inflation down is to raise rates and narrow the gap between supply and demand.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said: 'Forcing inflation back to target in the short run means pushing employment below target.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee said: 'In the short run, supply shocks force a difficult trade-off' between the Fed's goals of low inflation and maximum employment.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee later told reporters, 'It’s going to be painful. It would necessarily be painful.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Fed Chairman Kevin Warsh made remarks last Wednesday after the Fed lifted its key interest rate for the first time in three years, to about 3.9%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Warsh said: 'I don’t believe that we need to do harm to the labor markets to achieve our objective.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Fed generally fights inflation by raising interest rates to cool borrowing and spending.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Such rate hikes have historically slowed growth and even led to recessions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In 2022-2023, the Fed sharply raised rates and inflation declined without a significant rise in unemployment or an economic slowdown.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee argued that because supply shocks are persistent rather than temporary, the central bank cannot simply wait for them to fade, as it typically would.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee argued that the central bank must instead reduce consumer and business demand to align with reduced supply, bringing inflation back to the Fed's 2% target.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The divergence between Goolsbee and Warsh highlights an internal debate over the costs of disinflation.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Goolsbee's warning suggests the Fed may need to accept a weaker labor market to achieve price stability.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Warsh has expressed confidence that the central bank can meet its inflation goal without damaging employment.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,745.31",
+            "chg": "+2.02%",
+            "dir": "up",
+            "spark": "1.5,6.5 8.3,8.6 15.2,10.6 22.0,12.5 28.8,7.6 35.7,6.9 42.5,1.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "27,011.48",
+            "chg": "+3.56%",
+            "dir": "up",
+            "spark": "1.5,8.7 8.3,10.3 15.2,12.5 22.0,12.5 28.8,7.8 35.7,6.7 42.5,1.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,968.88",
+            "chg": "−0.18%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,3.0 15.2,6.3 22.0,12.5 28.8,9.4 35.7,10.3 42.5,7.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,879.34",
+            "chg": "−0.40%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,4.4 15.2,9.7 22.0,12.5 28.8,8.6 35.7,12.1 42.5,7.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.97%",
+            "chg": "-1 bp",
+            "dir": "down",
+            "spark": "1.5,7.3 8.3,9.9 15.2,3.4 22.0,1.5 28.8,12.5 35.7,3.0 42.5,8.8"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$91.95",
+            "chg": "−9.31%",
+            "dir": "down",
+            "spark": "1.5,5.0 9.7,1.5 17.9,4.2 26.1,4.6 34.3,5.9 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,388.50",
+            "chg": "+0.84%",
+            "dir": "up",
+            "spark": "1.5,10.2 9.7,12.5 17.9,6.0 26.1,4.5 34.3,1.5 42.5,5.8"
+          },
+          {
+            "sym": "BTC",
+            "val": "$85,723",
+            "chg": "+13.4%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,11.9 15.2,11.6 22.0,6.7 28.8,6.4 35.7,6.5 42.5,1.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "14.9",
+            "chg": "−6.00%",
+            "dir": "down",
+            "spark": "1.5,8.6 8.3,3.8 15.2,3.4 22.0,1.5 28.8,10.1 35.7,12.5 42.5,12.2"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "+21.4%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "+12.3%",
+            "dir": "up"
+          },
+          {
+            "sym": "GOOGL",
+            "chg": "+7.23%",
+            "dir": "up"
+          },
+          {
+            "sym": "XOM",
+            "chg": "−4.07%",
+            "dir": "down"
+          },
+          {
+            "sym": "AAPL",
+            "chg": "+3.68%",
+            "dir": "up"
+          },
+          {
+            "sym": "UNH",
+            "chg": "−3.50%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "12:14 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-commanders-qb-jayden-daniels-dislocates-elbow-qu",
+          "section": "sports",
+          "headline": "Commanders QB Jayden Daniels Dislocates Left Elbow; Quinn to Provide Update Monday",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "Washington Commanders quarterback Jayden Daniels suffered a dislocated left elbow during Sunday's game against the Dallas Cowboys, head coach Dan Quinn confirmed after the game. X-rays showed no fracture, and the team plans further imaging once back in Virginia to determine the severity of the injury. Quinn is scheduled to provide an update on Daniels' condition Monday afternoon.",
+            "The injury occurred when an offensive lineman stepped on Daniels' foot, causing him to brace himself with his left arm. His elbow folded inward on the play. Daniels was able to throw the ball away but could not leave the field under his own power and was later carted off. It is the same elbow Daniels injured last season.",
+            "Daniels, 25, has been frequently sidelined during his NFL career despite playing all 17 games and the playoffs as a rookie in 2024. In 2025, he missed Weeks 3–4 (knee), Week 8 (hamstring), Weeks 10–13 (left elbow), and Weeks 15–18 (left elbow). In 2026, he had appeared in one game, completing 52.9 percent of his passes for 164 yards and two touchdowns before the injury.",
+            "Quinn said Sunday evening, 'Man, we're bummed for him. I thought he was, like, really playing his (expletive) off. … I was just disheartened for him. Like, I know what he's gone through.'",
+            "NFL Network analyst Michael Robinson, a former Pro Bowl fullback, said Sunday night: 'I think some of it is bad luck. But we know Jayden Daniels, he's a slimmer-bodied individual, alright? He's also a quarterback that will take off. He's also a quarterback that he's an ultimate competitor. If I'm Jayden, I would really look at in the offseason putting on a just a little bit of weight. This is still tackle football, this is still a physical game.'",
+            "Daniels, the No. 2 overall pick in the 2024 NFL Draft, won the Heisman Trophy at LSU in 2023. He signed a four-year, $37,746,650 contract with a $24,272,108 signing bonus and carries an $8,578,784 cap figure for 2025. The contract includes a fifth-year option the team can exercise in 2028."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports",
+            "NFLTradeRumors.co"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/jayden-daniels-injury-commanders-coach-153753428.html"
+            },
+            {
+              "outlet": "NFLTradeRumors.co",
+              "url": "https://nfltraderumors.co/tests-confirm-dislocated-elbow-for-commanders-qb-jayden-daniels/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Jayden Daniels suffered a dislocated left elbow during Sunday's game against the Dallas Cowboys.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Head coach Dan Quinn confirmed the injury after the game.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "X-rays showed no fracture.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The team plans further imaging once back in Virginia to determine the severity of the injury.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Quinn is scheduled to provide an update on Daniels' condition Monday afternoon.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The injury occurred when an offensive lineman stepped on Daniels' foot.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "This caused Daniels to brace himself with his left arm.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "His elbow folded inward on the play.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels was able to throw the ball away.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels could not leave the field under his own power.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels was later carted off.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "It is the same elbow Daniels injured last season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels is 25 years old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels has been frequently sidelined during his NFL career.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels played all 17 games and the playoffs as a rookie in 2024.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2025, Daniels missed Weeks 3–4 (knee).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2025, Daniels missed Week 8 (hamstring).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2025, Daniels missed Weeks 10–13 (left elbow).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2025, Daniels missed Weeks 15–18 (left elbow).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2026, Daniels had appeared in one game before the injury.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In that 2026 game, Daniels completed 52.9 percent of his passes for 164 yards and two touchdowns.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Quinn said Sunday evening: 'Man, we're bummed for him. I thought he was, like, really playing his (expletive) off. … I was just disheartened for him. Like, I know what he's gone through.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "NFL Network analyst Michael Robinson, a former Pro Bowl fullback, said Sunday night: 'I think some of it is bad luck. But we know Jayden Daniels, he's a slimmer-bodied individual, alright? He's also a quarterback that will take off. He's also a quarterback that he's an ultimate competitor. If I'm Jayden, I would really look at in the offseason putting on a just a little bit of weight. This is still tackle football, this is still a physical game.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels was the No. 2 overall pick in the 2024 NFL Draft.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels won the Heisman Trophy at LSU in 2023.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Daniels signed a four-year, $37,746,650 contract.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The contract includes a $24,272,108 signing bonus.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The contract carries an $8,578,784 cap figure for 2025.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The contract includes a fifth-year option the team can exercise in 2028.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "sports-caleb-williams-hamstring-injury-not-serious-bear",
+          "section": "sports",
+          "headline": "Caleb Williams hamstring injury not serious; Bears QB status updated",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "Chicago Bears quarterback Caleb Williams suffered a right hamstring injury during a first-down scramble in the fourth quarter of the team's 9-3 loss to the Minnesota Vikings on Sunday. The 24-year-old reached for the back of his leg before sliding to the ground in pain, received medical attention on the field, and was eventually carted to the locker room while flashing a thumbs-up to the crowd. He was ruled out for the remainder of the game.",
+            "Initial reports indicate optimism that the injury is not serious. According to Mike Florio of Pro Football Talk, the early diagnosis is a Grade 1 hamstring strain, the mildest grade. Williams is scheduled to undergo an MRI on Monday to determine the full extent of the injury. Bears coach Ben Johnson told reporters after the game that Williams was in \"good spirits\" and expressed relief that the knee was not involved. \"I'm actually happy it's nothing with the knee,\" Johnson said. \"That was my first inclination. But yeah, the hamstring could be pretty damaging as well. So we'll see how bad it is tomorrow and we'll go from there.\"",
+            "Even with a Grade 1 strain, Williams could miss at least one game. The Bears are scheduled to play the Philadelphia Eagles on Monday Night Football in Week 3. Hamstring injuries can be tricky for mobile quarterbacks, and the team may opt for caution to avoid re-aggravation. If Williams is unable to play, backup Tyson Bagent will start. Bagent, 26, replaced Williams on Sunday and completed 5 of 9 passes for 54 yards. He joined the Bears as an undrafted free agent in 2023 and has started four games in his career, completing 66.4% of his passes for 917 yards, three touchdowns and six interceptions. The Bears signed him to a two-year, $10 million extension in 2025 to be the long-term backup.",
+            "Behind Bagent on the depth chart is veteran Case Keenum, 38, who has 66 career starts and is best known for leading the Vikings to an NFC championship game appearance in 2017. The Bears also have practice-squad quarterback John Moss, an undrafted free agent out of Louisville, who could be called up for additional depth. Williams has started all 36 games (including playoffs) since being drafted No. 1 overall in 2024. This is his first significant NFL injury.",
+            "The injury occurred on a non-contact play as Williams took a bootleg dropback and outran Vikings linebacker Andrew Van Ginkel to the edge. Several reporters noted that Williams walked through the locker room after the game without crutches and with only a slight limp, a positive sign. The MRI results Monday will provide a more concrete timeline for his return."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports",
+            "CBS Sports",
+            "NFLTradeRumors.co"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/long-caleb-williams-injury-return-154656061.html"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nfl/news/caleb-williams-jayden-daniels-injured-week-2-outlook/"
+            },
+            {
+              "outlet": "NFLTradeRumors.co",
+              "url": "https://nfltraderumors.co/report-optimism-caleb-williams-hamstring-injury-isnt-serious/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Chicago Bears quarterback Caleb Williams suffered a right hamstring injury during a first-down scramble in the fourth quarter of the team's 9-3 loss to the Minnesota Vikings on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams is 24 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams reached for the back of his leg before sliding to the ground in pain.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams received medical attention on the field.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams was carted to the locker room while flashing a thumbs-up to the crowd.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams was ruled out for the remainder of the game.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Initial reports indicate optimism that the injury is not serious.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to Mike Florio of Pro Football Talk, the early diagnosis is a Grade 1 hamstring strain, the mildest grade.",
+                "status": "supported",
+                "source_ids": [
+                  "Pro Football Talk"
+                ]
+              },
+              {
+                "text": "Williams is scheduled to undergo an MRI on Monday to determine the full extent of the injury.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bears coach Ben Johnson told reporters after the game that Williams was in 'good spirits'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ben Johnson expressed relief that the knee was not involved.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ben Johnson said: 'I'm actually happy it's nothing with the knee. That was my first inclination. But yeah, the hamstring could be pretty damaging as well. So we'll see how bad it is tomorrow and we'll go from there.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Even with a Grade 1 strain, Williams could miss at least one game.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Bears are scheduled to play the Philadelphia Eagles on Monday Night Football in Week 3.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hamstring injuries can be tricky for mobile quarterbacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The team may opt for caution to avoid re-aggravation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "If Williams is unable to play, backup Tyson Bagent will start.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bagent, 26, replaced Williams on Sunday and completed 5 of 9 passes for 54 yards.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bagent joined the Bears as an undrafted free agent in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bagent has started four games in his career, completing 66.4% of his passes for 917 yards, three touchdowns and six interceptions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Bears signed Bagent to a two-year, $10 million extension in 2025 to be the long-term backup.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Behind Bagent on the depth chart is veteran Case Keenum, 38, who has 66 career starts.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Keenum is best known for leading the Vikings to an NFC championship game appearance in 2017.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Bears have practice-squad quarterback John Moss, an undrafted free agent out of Louisville.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "John Moss could be called up for additional depth.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Williams has started all 36 games (including playoffs) since being drafted No. 1 overall in 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This is Williams's first significant NFL injury.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The injury occurred on a non-contact play as Williams took a bootleg dropback and outran Vikings linebacker Andrew Van Ginkel to the edge.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Several reporters noted that Williams walked through the locker room after the game without crutches and with only a slight limp.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The MRI results Monday will provide a more concrete timeline for his return.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-brewers-chourio-makes-mlb-history-before-turning",
+          "section": "sports",
+          "headline": "Brewers' Chourio makes MLB history before turning 23",
+          "beat_label": "MLB",
+          "byline": "Sports desk",
+          "body": [
+            "Milwaukee Brewers outfielder Jackson Chourio has become the first player in Major League Baseball history to record three 20-home run, 20-stolen base seasons before turning 23 years old. The 22-year-old achieved the milestone in his third big-league season, a feat confirmed by MLB's Sarah Langs on social media. The Brewers entered Sunday with the best record in baseball, and Chourio has been a central figure in that success.",
+            "Chourio debuted at age 20 in 2024 as the No. 2 prospect in baseball and signed an eight-year, $82 million extension with the Brewers before ever playing a major league game. He posted 21 home runs, 79 RBIs and 22 steals in 148 games as a rookie, followed by 21 homers and 21 steals in 2025. This season, despite missing the first month after fracturing his hand during the World Baseball Classic, he has 24 home runs, 70 RBIs and an .825 OPS over 121 games, along with 21 stolen bases, 27 doubles and 89 runs scored. His 125 OPS+ and 4.4 wins above replacement are also career bests.",
+            "Chourio has also played Gold Glove-caliber defense in left field. Among MLB left fielders this season, he ranks third in home runs and runs, seventh in RBIs, and fourth in both OPS and batting average. He joins Julio Rodríguez and Bobby Witt Jr. as the only players to produce 20-20 seasons in each of their first three big-league campaigns, but Chourio is the only one to accomplish that before his 23rd birthday.",
+            "In 12 career postseason games, Chourio has been elite, slashing .341/.362/.682 with four home runs, tying him for the most postseason home runs in Brewers franchise history. His October production underscores his value as a cornerstone player for Milwaukee.",
+            "\"Jackson Chourio is the first player in MLB history with three 20-HR/20-SB seasons before turning 23 years old,\" Langs wrote. Now 22, Chourio is younger than most top National League Rookie of the Year candidates yet is already in his third season and making history. With his continued improvement—including a 25% above-average offensive output (125 OPS+)—he has the potential to win a Most Valuable Player Award later in his career, according to Sports Illustrated."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports",
+            "Miami Herald",
+            "Sports Illustrated"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/brewers-jackson-chourio-makes-mlb-013745464.html"
+            },
+            {
+              "outlet": "Miami Herald",
+              "url": "https://www.miamiherald.com/sports/article317322073.html"
+            },
+            {
+              "outlet": "Sports Illustrated",
+              "url": "https://www.si.com/mlb/brewers/onsi/brewers-jackson-chourio-just-pulled-off-mlb-first-before-turning-23-pat3"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Milwaukee Brewers outfielder Jackson Chourio has become the first player in Major League Baseball history to record three 20-home run, 20-stolen base seasons before turning 23 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio is 22 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio achieved the milestone in his third big-league season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The feat was confirmed by MLB's Sarah Langs on social media.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Brewers entered Sunday with the best record in baseball.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio debuted at age 20 in 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio was the No. 2 prospect in baseball at the time of his debut.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio signed an eight-year, $82 million extension with the Brewers before ever playing a major league game.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio posted 21 home runs, 79 RBIs and 22 steals in 148 games as a rookie.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio posted 21 homers and 21 steals in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio missed the first month of the current season after fracturing his hand during the World Baseball Classic.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This season, Chourio has 24 home runs, 70 RBIs and an .825 OPS over 121 games.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This season, Chourio has 21 stolen bases, 27 doubles and 89 runs scored.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio's 125 OPS+ is a career best.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio's 4.4 wins above replacement is a career best.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio has played Gold Glove-caliber defense in left field.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Among MLB left fielders this season, Chourio ranks third in home runs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Among MLB left fielders this season, Chourio ranks third in runs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Among MLB left fielders this season, Chourio ranks seventh in RBIs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Among MLB left fielders this season, Chourio ranks fourth in OPS.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Among MLB left fielders this season, Chourio ranks fourth in batting average.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio joins Julio Rodríguez and Bobby Witt Jr. as the only players to produce 20-20 seasons in each of their first three big-league campaigns.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio is the only player to produce 20-20 seasons in each of his first three big-league campaigns before his 23rd birthday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 12 career postseason games, Chourio has slashed .341/.362/.682 with four home runs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio's four postseason home runs tie him for the most in Brewers franchise history.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sarah Langs wrote: 'Jackson Chourio is the first player in MLB history with three 20-HR/20-SB seasons before turning 23 years old.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio is younger than most top National League Rookie of the Year candidates.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio is already in his third season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chourio has a 25% above-average offensive output (125 OPS+).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to Sports Illustrated, Chourio has the potential to win a Most Valuable Player Award later in his career.",
+                "status": "supported",
+                "source_ids": [
+                  "Sports Illustrated"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-radiopharma-firms-itm-and-telix-merge-after-fda-",
+          "section": "health-science",
+          "headline": "Radiopharma firms ITM and Telix merge after FDA rejection",
+          "beat_label": "Pharma Business",
+          "byline": "Health & Science desk",
+          "body": [
+            "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals, two leading companies in the radiopharmaceuticals field, are merging in a deal worth at least $1.65 billion, following a surprise FDA rejection for one of the firms. Under the agreement, Telix will acquire all shares of privately held ITM, with the potential for an additional $700 million payment to ITM shareholders if the company’s lead drug meets regulatory and sales milestones.",
+            "The merger creates another well-resourced company in the radiopharmaceutical sector, which is currently dominated by Novartis. These medicines work by delivering radioactive isotopes directly to cancer cells. Novartis supercharged the field with the launch of its two such treatments in 2018 and 2022.",
+            "The deal comes after one of the companies received an unexpected rejection from the U.S. Food and Drug Administration, though the source material does not specify which firm or which drug was affected."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "ITM Isotope Technologies Munich SE and Telix Pharmaceuticals are merging.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The deal is worth at least $1.65 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The merger follows a surprise FDA rejection for one of the firms.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Telix will acquire all shares of privately held ITM under the agreement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There is a potential additional $700 million payment to ITM shareholders.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The additional payment is contingent on ITM's lead drug meeting regulatory and sales milestones.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The merger creates another well-resourced company in the radiopharmaceutical sector.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Novartis currently dominates the radiopharmaceutical sector.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Radiopharmaceutical medicines work by delivering radioactive isotopes directly to cancer cells.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Novartis launched two radiopharmaceutical treatments, one in 2018 and another in 2022.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "One of the merging companies received an unexpected rejection from the U.S. Food and Drug Administration.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "health-science-nasa-powers-up-roman-space-telescope-s-300-megap",
+          "section": "health-science",
+          "headline": "NASA Powers Up Roman Space Telescope's 300-Megapixel Camera",
+          "beat_label": "Space Science",
+          "byline": "Health & Science desk",
+          "body": [
+            "NASA has successfully powered up the 300-megapixel infrared camera aboard its Nancy Grace Roman Space Telescope, a major milestone as the observatory continues its months-long commissioning process on its way to a destination roughly one million miles from Earth. The Wide Field Instrument (WFI) is designed to survey enormous areas of the sky with the sharp detail of the Hubble Space Telescope, with a single image covering an area larger than the apparent size of a full moon. The telescope's planet-hunting Coronagraph Instrument also completed an early checkout of its digital, electronic, and mechanical systems after being activated earlier this month.",
+            "Before engineers could switch on the WFI, the instrument spent 10 days drying out and undergoing decontamination, with its detectors kept at minus 85 degrees Fahrenheit (minus 65 Celsius). On the morning of September 11, the team shut off the instrument heater and allowed the WFI to cool to minus 225 degrees Fahrenheit (minus 143 degrees Celsius), at which point they activated the 18 infrared detectors, which together have a light-sensitive area roughly the size of a laptop screen. Later that evening, the team turned on the instrument's calibration system, and the following morning engineers began sending test data through the WFI and transmitting it back to Earth.",
+            "On Saturday evening, engineers tested the element wheel, which contains filters, prisms, and other optical components that control which wavelengths of light reach the detectors and can separate light from cosmic objects into individual colors. This marked the first time the mechanism had been tested without gravity. By Sunday morning, the team was testing the WFI's focusing mechanism, which will be critical for keeping the hundreds of thousands of images Roman is expected to capture properly focused. Throughout these tests, the detectors continued cooling toward their final operating temperature of about minus 300 degrees Fahrenheit (minus 183 degrees Celsius). The results showed that the Wide Field Instrument is functioning as expected.",
+            "Roman's Coronagraph Instrument is built to demonstrate advanced technology for directly imaging planets orbiting other stars, combining optics, masks, self-flexing mirrors, and sensors designed to suppress the overwhelming glare of a star and detect the much fainter light reflected by nearby planets. Scientists and engineers at the Coronagraph Commanding Center at Caltech/IPAC in Pasadena, California, verified that they can communicate with every major part of the instrument, including its software, thermal controls, mechanisms, cameras, and avionics. The test confirmed that ground teams can remotely control movable mechanisms that position its masks, color filters, lenses, and prisms. Engineers also verified that the coronagraph's thermal system can warm the hardware to its operating temperature of about 72 degrees Fahrenheit (22 degrees Celsius).",
+            "With the exception of its detectors, the coronagraph is designed to operate near room temperature, making the system easier to test and helping preserve the material properties required by its deformable mirrors. Eric Cady, an optical engineer leading commissioning efforts for the Roman Coronagraph at NASA's Jet Propulsion Laboratory in Southern California, said the team has been decontaminating: sitting idle with detectors warm so that any water or trace chemicals stuck to the surface will tend to leave. He said this will continue for 30 days, with occasional stops to do other early calibration activities. Josh Schlieder, the Wide Field Instrument scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland, said, \"After years of effort to build and test the instrument on the ground, we now have confirmation that it is operational in space. This is a huge milestone for the team at Goddard, our industry teams at BAE Systems, Inc. and Teledyne, and our science centers. There is much to do, but we are on our way to groundbreaking science.\"",
+            "Scientists plan to use Roman's enormous surveys to learn more about planets beyond our solar system, investigate mysteries such as dark energy, and study how matter is arranged throughout the universe. The expansive and detailed observations are also expected to create a valuable dataset for many additional scientific studies. Roman remains on schedule to release its first science images by early 2027."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "NASA has successfully powered up the 300-megapixel infrared camera aboard its Nancy Grace Roman Space Telescope.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The power-up is a major milestone as the observatory continues its months-long commissioning process.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The observatory is on its way to a destination roughly one million miles from Earth.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The Wide Field Instrument (WFI) is designed to survey enormous areas of the sky with the sharp detail of the Hubble Space Telescope.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "A single image from WFI covers an area larger than the apparent size of a full moon.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The telescope's planet-hunting Coronagraph Instrument completed an early checkout of its digital, electronic, and mechanical systems after being activated earlier this month.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Before engineers could switch on the WFI, the instrument spent 10 days drying out and undergoing decontamination.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "During decontamination, its detectors were kept at minus 85 degrees Fahrenheit (minus 65 Celsius).",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "On the morning of September 11, the team shut off the instrument heater and allowed the WFI to cool to minus 225 degrees Fahrenheit (minus 143 degrees Celsius).",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "At that point they activated the 18 infrared detectors.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The detectors together have a light-sensitive area roughly the size of a laptop screen.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Later that evening, the team turned on the instrument's calibration system.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The following morning engineers began sending test data through the WFI and transmitting it back to Earth.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "On Saturday evening, engineers tested the element wheel.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The element wheel contains filters, prisms, and other optical components that control which wavelengths of light reach the detectors and can separate light from cosmic objects into individual colors.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "This marked the first time the mechanism had been tested without gravity.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "By Sunday morning, the team was testing the WFI's focusing mechanism.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The focusing mechanism will be critical for keeping the hundreds of thousands of images Roman is expected to capture properly focused.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Throughout these tests, the detectors continued cooling toward their final operating temperature of about minus 300 degrees Fahrenheit (minus 183 degrees Celsius).",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The results showed that the Wide Field Instrument is functioning as expected.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Roman's Coronagraph Instrument is built to demonstrate advanced technology for directly imaging planets orbiting other stars.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "It combines optics, masks, self-flexing mirrors, and sensors designed to suppress the overwhelming glare of a star and detect the much fainter light reflected by nearby planets.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Scientists and engineers at the Coronagraph Commanding Center at Caltech/IPAC in Pasadena, California, verified that they can communicate with every major part of the instrument, including its software, thermal controls, mechanisms, cameras, and avionics.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The test confirmed that ground teams can remotely control movable mechanisms that position its masks, color filters, lenses, and prisms.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Engineers also verified that the coronagraph's thermal system can warm the hardware to its operating temperature of about 72 degrees Fahrenheit (22 degrees Celsius).",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "With the exception of its detectors, the coronagraph is designed to operate near room temperature.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "This makes the system easier to test and helps preserve the material properties required by its deformable mirrors.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Eric Cady, an optical engineer leading commissioning efforts for the Roman Coronagraph at NASA's Jet Propulsion Laboratory in Southern California, said the team has been decontaminating: sitting idle with detectors warm so that any water or trace chemicals stuck to the surface will tend to leave.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Eric Cady said this will continue for 30 days, with occasional stops to do other early calibration activities.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Josh Schlieder, the Wide Field Instrument scientist at NASA's Goddard Space Flight Center in Greenbelt, Maryland, said that after years of effort to build and test the instrument on the ground, they now have confirmation that it is operational in space.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Josh Schlieder said that this is a huge milestone for the team at Goddard, their industry teams at BAE Systems, Inc. and Teledyne, and their science centers.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Josh Schlieder said that there is much to do but they are on their way to groundbreaking science.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Scientists plan to use Roman's enormous surveys to learn more about planets beyond our solar system, investigate mysteries such as dark energy, and study how matter is arranged throughout the universe.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "The expansive and detailed observations are also expected to create a valuable dataset for many additional scientific studies.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              },
+              {
+                "text": "Roman remains on schedule to release its first science images by early 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-google-launches-googlebook-laptops-with-deep-gem",
+          "section": "tech-ai",
+          "headline": "Google launches Googlebook laptops with deep Gemini integration",
+          "beat_label": "Product Launch",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Google and five hardware partners announced the first laptops under the new Googlebook banner, Android-powered machines positioned as premium alternatives to Chromebooks with deep Gemini AI integration. The five models from Acer, Asus, Dell, HP, and Lenovo are available for preorder starting today and arrive in stores on October 4, with starting prices ranging from $899 to $1,299—putting them in the same territory as the MacBook Air and high-end Windows laptops. Each Googlebook comes with 12 months of Google AI Pro with 5TB of cloud storage, plus three-month trials of YouTube Premium, Adobe Photoshop, and CapCut, and Google is promising up to 10 years of updates.",
+            "The hardware across the lineup is decidedly upmarket compared to typical Chromebooks. The machines feature metal builds, the Glowbar—an illuminated bar on the lid that currently lights up on boot and can display battery level, with Google saying it will release an API for developers to add more features. Google says buyers can expect 16GB of RAM (with 32GB upgrades on some models) and either a Snapdragon X Elite or an Intel Core Ultra Series 3 (Panther Lake) chip, both with an NPU capable of 45 TOPS of on-device AI performance. All designs are fanless, and Google says to expect up to 14 hours of video playback and 16 hours of web browsing.",
+            "The five models offer distinct trade-offs. The Acer Googlebook 14 is the only convertible 2-in-1, starting at $899 with an Intel Core Ultra 5 or Core Ultra 7, 16GB of RAM, 256 or 512GB of storage, a 14-inch 2.8K OLED touch display, and up to 16 hours of battery life—though Acer's Kelly Odle said in a comment to The Verge that $899 is an “initial launch price available for a limited time,” and that Acer plans to “reevaluate pricing over time based on component supplies and other market pressures.” The Asus Googlebook 14 starts at $1,299, is the lightest at 2.2 pounds, and is one of only two with an HDMI port. The Dell XPS Googlebook starts at $1,199, closely resembles the XPS 13 but with a light gold “shimmer” colorway and a fingerprint reader, and is the thinnest at 12.7mm, though it has only two USB-C ports. The HP Googlebook 14 starts at $1,299 and includes both facial recognition and a fingerprint reader, plus the highest storage capacity at up to 1TB. The Lenovo Googlebook 15 starts at $1,299, has the largest display at 15.3 inches, is the only one with a white satin-finish chassis, and Lenovo is also launching a matching AI mouse with a Glowbar.",
+            "The Googlebook project represents a strategic pivot for Google, which has dominated phones and tablets with Android but struggled to make Chromebooks competitive with macOS or Windows. Rick Osterloh, Google's head of hardware and devices, greenlit the project in part because he saw it as “the ultimate focusing move” for Google, which has long built and maintained two operating systems. The idea, according to Prajakta Gudadhe, Google's VP of engineering for laptops and tablets, was to bring the best of ChromeOS—excellent multitasking, multi-window support, fast boot times, and easy updates—to Android, which had finally matured into a truly cross-platform OS. “The key thing that had changed was just the rapid pace of evolution that Android itself has gone under,” Gudadhe said, noting that Android now serves multiple form factors from phones to wearables to TVs to autos, requiring a more modular stack.",
+            "The launch is also a bet on AI as a reason to buy a high-end laptop. Osterloh said high-end PCs, which have the power to run AI models for coding, dictation, and more, have been a surprise winner of the AI revolution so far, and that “laptops are one of those resonant form factors… an established category that’s incredibly useful for productivity and apps, and it’s going to be really hard to replace that.” The project began in earnest a couple of years ago, though rumors of a ChromeOS-Android merger have circulated for over a decade, and Google previously tried to bring Android apps to ChromeOS and explored the Fuchsia OS before settling on this approach. Google's commitment to building premium hardware marks a departure from then-CEO Eric Schmidt's generation-old argument that the future was “disposable” hardware, reflecting Google's growing belief that devices matter more than ever—and that a good laptop is worth paying for.",
+            "Ongoing shortages of RAM and other components have been driving up prices on other laptops, like Apple's MacBook Neo, and Acer's comments suggest price hikes aren't out of the question for the Googlebook 14 either. The first Googlebooks are available from several OEMs that have been making Chromebooks over the years, but with only one model under $1,000, the pricing signals a clear departure from Chromebook territory. Google's partners are now selling the devices that were first revealed at Google I/O earlier this year, and the company is betting that the combination of Android's app ecosystem, AI capabilities, and premium hardware will finally give it a credible challenger in the laptop market."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "The Verge",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
+            },
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Google and five hardware partners announced the first laptops under the new Googlebook banner.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Googlebook laptops are Android-powered machines positioned as premium alternatives to Chromebooks with deep Gemini AI integration.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The five models are from Acer, Asus, Dell, HP, and Lenovo.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The five models are available for preorder starting today.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The five models arrive in stores on October 4.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Starting prices range from $899 to $1,299.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Each Googlebook comes with 12 months of Google AI Pro with 5TB of cloud storage.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Each Googlebook comes with three-month trials of YouTube Premium, Adobe Photoshop, and CapCut.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google is promising up to 10 years of updates.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The machines feature metal builds.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The machines feature the Glowbar, an illuminated bar on the lid that currently lights up on boot and can display battery level.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google says it will release an API for developers to add more features to the Glowbar.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google says buyers can expect 16GB of RAM (with 32GB upgrades on some models).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google says buyers can expect either a Snapdragon X Elite or an Intel Core Ultra Series 3 (Panther Lake) chip.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both chips have an NPU capable of 45 TOPS of on-device AI performance.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "All designs are fanless.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google says to expect up to 14 hours of video playback.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google says to expect up to 16 hours of web browsing.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Acer Googlebook 14 is the only convertible 2-in-1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Acer Googlebook 14 starts at $899.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Acer Googlebook 14 has an Intel Core Ultra 5 or Core Ultra 7, 16GB of RAM, 256 or 512GB of storage, a 14-inch 2.8K OLED touch display, and up to 16 hours of battery life.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Acer's Kelly Odle said in a comment to The Verge that $899 is an 'initial launch price available for a limited time.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Acer's Kelly Odle said in a comment to The Verge that Acer plans to 'reevaluate pricing over time based on component supplies and other market pressures.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Asus Googlebook 14 starts at $1,299.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Asus Googlebook 14 is the lightest at 2.2 pounds.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Asus Googlebook 14 is one of only two with an HDMI port.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dell XPS Googlebook starts at $1,199.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dell XPS Googlebook closely resembles the XPS 13 but with a light gold 'shimmer' colorway and a fingerprint reader.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dell XPS Googlebook is the thinnest at 12.7mm.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dell XPS Googlebook has only two USB-C ports.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The HP Googlebook 14 starts at $1,299.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The HP Googlebook 14 includes both facial recognition and a fingerprint reader.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The HP Googlebook 14 has the highest storage capacity at up to 1TB.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Lenovo Googlebook 15 starts at $1,299.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Lenovo Googlebook 15 has the largest display at 15.3 inches.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Lenovo Googlebook 15 is the only one with a white satin-finish chassis.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lenovo is also launching a matching AI mouse with a Glowbar.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Googlebook project represents a strategic pivot for Google.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google has dominated phones and tablets with Android but struggled to make Chromebooks competitive with macOS or Windows.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rick Osterloh, Google's head of hardware and devices, greenlit the project in part because he saw it as 'the ultimate focusing move' for Google.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google has long built and maintained two operating systems.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The idea, according to Prajakta Gudadhe, Google's VP of engineering for laptops and tablets, was to bring the best of ChromeOS to Android.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Prajakta Gudadhe said, 'The key thing that had changed was just the rapid pace of evolution that Android itself has gone under.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Prajakta Gudadhe noted that Android now serves multiple form factors from phones to wearables to TVs to autos, requiring a more modular stack.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The launch is also a bet on AI as a reason to buy a high-end laptop.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rick Osterloh said high-end PCs have been a surprise winner of the AI revolution so far.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rick Osterloh said, 'laptops are one of those resonant form factors… an established category that’s incredibly useful for productivity and apps, and it’s going to be really hard to replace that.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The project began in earnest a couple of years ago.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rumors of a ChromeOS-Android merger have circulated for over a decade.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google previously tried to bring Android apps to ChromeOS.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google explored the Fuchsia OS before settling on this approach.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google's commitment to building premium hardware marks a departure from then-CEO Eric Schmidt's generation-old argument that the future was 'disposable' hardware.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ongoing shortages of RAM and other components have been driving up prices on other laptops, like Apple's MacBook Neo.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Acer's comments suggest price hikes aren't out of the question for the Googlebook 14.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The first Googlebooks are available from several OEMs that have been making Chromebooks over the years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Only one model is under $1,000.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pricing signals a clear departure from Chromebook territory.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google's partners are now selling the devices that were first revealed at Google I/O earlier this year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google is betting that the combination of Android's app ecosystem, AI capabilities, and premium hardware will finally give it a credible challenger in the laptop market.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "politics",
+      "story_id": "politics-banned-outlets-sue-trump-tv-networks-pull-white-"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-amd-hits-1-trillion-market-cap-for-the-first-tim"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "world",
+      "headline": "US issues Middle East travel alerts after Houthi missile attack on Saudi Arabia",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Trump repeats debunked vaccine-autism claim, says he will 'demand' drug companies split combined shots",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "FDA approves Lilly's breast cancer combination therapy",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "RFK Jr.'s MAHA movement tested in Iowa governor's race",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Lawsuit alleges Anthropic, OpenAI, SpaceXAI and Google made illegal AI slowdown agreement",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
