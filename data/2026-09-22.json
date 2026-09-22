@@ -1,0 +1,2981 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-22",
+  "edition": "Morning edition",
+  "generated_at": "2026-09-22T14:16:32+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": []
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-world-leaders-gather-for-un-general-assembly-as-",
+          "section": "world",
+          "headline": "World leaders gather for UN General Assembly as wars in Iran, Ukraine, Yemen dominate",
+          "beat_label": "UNGA",
+          "byline": "International & World desk",
+          "body": [
+            "Nearly 130 world leaders gathered in New York on Tuesday for the 81st UN General Assembly High-Level Week under the theme 'Restoring trust, managing transformation'. UN Secretary-General António Guterres opened the session, warning that 'the fault lines in our world are widening' due to geopolitical conflicts, the climate crisis, and the rapid development of artificial intelligence, and called for a world built on 'interdependence'.",
+            "The US-Israel war on Iran dominates discussions. Iranian President Masoud Pezeshkian, heading to New York, accused the US of 'doing everything they can to block every possible route to force our nation to surrender' and vowed to highlight US 'oppression'. Foreign Minister Abbas Araghchi said the UN has lost trust because of its 'ineffectiveness in establishing international peace and security'. Iran demands a return to the memorandum of understanding signed with the US in June to reopen the Strait of Hormuz and has communicated seven conditions for reopening, including an end to the war on all fronts, the release of frozen assets, and the lifting of the blockade on Iranian ports. Iran also warned it could abandon the Nuclear Non-Proliferation Treaty depending on future US actions.",
+            "US President Donald Trump, who launched the war on Iran with Israel on February 28, is set to meet representatives from Gulf Arab states (Saudi Arabia, UAE, Qatar, Oman, Kuwait, Bahrain) to discuss the conflict. Trump said he would 'probably be open' to meeting Pezeshkian, but Iran's IRNA news service dismissed this as a 'new propaganda game'. Trump also plans to meet Chinese leader Xi Jinping in Washington on Wednesday. Israeli Prime Minister Benjamin Netanyahu, who launched the war alongside the US, will be in New York for less than 24 hours but is not expected to meet Trump; his speech Thursday is expected to draw protests both inside and outside the UN.",
+            "The conflict in Yemen has reignited, with the Iran-aligned Houthis capturing the port city of Mokha. At least six people, including two children and a woman, were killed in airstrikes Tuesday in Mokha. The Gulf Cooperation Council called on Iran to halt attacks on Arab states and allow free transit through the Strait of Hormuz and the Bab el-Mandeb Strait. The foreign ministers of Canada, France, Germany, Italy, Japan, the UK, and the US called on Iran to stop supporting the Houthis, warning their actions constitute a 'dangerous pattern of escalation' that risks exacerbating the conflict, undermining trade, and creating global economic instability.",
+            "Other conflicts on the agenda include Russia's war on Ukraine, Israel's wars with Hamas in Gaza and Hezbollah in Lebanon. Guterres also warned about unregulated AI, saying 'killer robots must have no place in our future' and that 'life and death decisions must never be surrendered to machines'. He noted that governments with the greatest AI capabilities, China and the US, have the greatest responsibility to establish safeguards.",
+            "Iranian public expectations are skeptical of any breakthrough. One Iranian told Al Jazeera: 'there is no hope that anything comes of it.' Another said: 'I think if [the politicians] want to, then yes, there can be an opening, but they don't want to.' Iran's delegation will be in New York for five days; the US denied visas to Pezeshkian's accompanying media team and imposed restrictions on movement and luxury goods purchases."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NPR",
+            "click2houston.com",
+            "The Guardian",
+            "Fox News",
+            "CNN",
+            "consilium.europa.eu",
+            "PBS",
+            "DPPA",
+            "NBC News",
+            "UN News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/videos/cxe87p9d4198o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/22/nx-s1-5976765/political-scientist-on-whats-at-stake-as-trump-speaks-to-world-leaders-at-unga",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "click2houston.com",
+              "url": "https://www.click2houston.com/news/world/2026/09/22/middle-east-wars-loom-over-un-general-assembly-and-other-mideast-developments/"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/sep/22/middle-east-iran-irgc-donald-trump-mahmoud-mahmoud-pezeshkian-abbas-araqchi-unga-latest-news-updates",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/world/middle-east-center-stage-un-regional-leaders-confront-iran-war-gaza-houthi-threat",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/09/21/world/unga-2026-what-to-expect-latam-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "consilium.europa.eu",
+              "url": "https://www.consilium.europa.eu/en/meetings/international-summit/2026/09/21-25/"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/world/watch-live-trump-addresses-2026-united-nations-general-assembly",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DPPA",
+              "url": "https://dppa.un.org/en/news/we-are-not-powerless-un-chief-urges-world-leaders-to-invest-in-peace"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "UN News",
+              "url": "https://news.un.org/en/story/2026/09/1168392"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Nearly 130 world leaders gathered in New York on Tuesday for the 81st UN General Assembly High-Level Week.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The theme of the 81st UN General Assembly High-Level Week was 'Restoring trust, managing transformation'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "UN Secretary-General António Guterres opened the session.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Guterres warned that 'the fault lines in our world are widening' due to geopolitical conflicts, the climate crisis, and the rapid development of artificial intelligence.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Guterres called for a world built on 'interdependence'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The US-Israel war on Iran dominates discussions at the UN General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iranian President Masoud Pezeshkian headed to New York.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Pezeshkian accused the US of 'doing everything they can to block every possible route to force our nation to surrender'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Pezeshkian vowed to highlight US 'oppression'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Foreign Minister Abbas Araghchi said the UN has lost trust because of its 'ineffectiveness in establishing international peace and security'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iran demands a return to the memorandum of understanding signed with the US in June to reopen the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iran has communicated seven conditions for reopening the Strait of Hormuz, including an end to the war on all fronts, the release of frozen assets, and the lifting of the blockade on Iranian ports.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iran warned it could abandon the Nuclear Non-Proliferation Treaty depending on future US actions.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "US President Donald Trump launched the war on Iran with Israel on February 28.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Trump is set to meet representatives from Gulf Arab states (Saudi Arabia, UAE, Qatar, Oman, Kuwait, Bahrain) to discuss the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Trump said he would 'probably be open' to meeting Pezeshkian.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iran's IRNA news service dismissed Trump's openness to meeting Pezeshkian as a 'new propaganda game'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Trump plans to meet Chinese leader Xi Jinping in Washington on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Israeli Prime Minister Benjamin Netanyahu launched the war alongside the US.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Netanyahu will be in New York for less than 24 hours.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Netanyahu is not expected to meet Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Netanyahu's speech Thursday is expected to draw protests both inside and outside the UN.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The conflict in Yemen has reignited.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Iran-aligned Houthis captured the port city of Mokha.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "At least six people, including two children and a woman, were killed in airstrikes Tuesday in Mokha.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Gulf Cooperation Council called on Iran to halt attacks on Arab states and allow free transit through the Strait of Hormuz and the Bab el-Mandeb Strait.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The foreign ministers of Canada, France, Germany, Italy, Japan, the UK, and the US called on Iran to stop supporting the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The foreign ministers warned that Houthi actions constitute a 'dangerous pattern of escalation' that risks exacerbating the conflict, undermining trade, and creating global economic instability.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Other conflicts on the agenda include Russia's war on Ukraine, Israel's wars with Hamas in Gaza and Hezbollah in Lebanon.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Guterres warned about unregulated AI, saying 'killer robots must have no place in our future'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Guterres said 'life and death decisions must never be surrendered to machines'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Guterres noted that governments with the greatest AI capabilities, China and the US, have the greatest responsibility to establish safeguards.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iranian public expectations are skeptical of any breakthrough.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "One Iranian told Al Jazeera: 'there is no hope that anything comes of it.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Another Iranian told Al Jazeera: 'I think if [the politicians] want to, then yes, there can be an opening, but they don't want to.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Iran's delegation will be in New York for five days.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The US denied visas to Pezeshkian's accompanying media team.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The US imposed restrictions on movement and luxury goods purchases for the Iranian delegation.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.95,
+          "image": {
+            "url": "static/img/2026-09-22/world-world-leaders-gather-for-un-general-assembly-as.jpg",
+            "alt": "Photograph of UN General Assembly Hall in New York",
+            "credit": "Photo: Mojnsen / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 564
+          }
+        },
+        {
+          "id": "world-iran-war-spreads-through-region-as-trump-seeks-w",
+          "section": "world",
+          "headline": "Iran War Spreads to Red Sea as Trump Seeks Diplomatic Exit; Oil Falls on Pipeline Hopes",
+          "beat_label": "Iran War",
+          "byline": "International & World desk",
+          "body": [
+            "Nearly seven months into the Iran war, the conflict has expanded from the Strait of Hormuz to the Red Sea, as Iran-backed Houthi militia in Yemen seized critical coastal positions and threatened trade routes, compounding a global energy crunch. Saudi Arabia blamed Iran-backed militias in Iraq for blowing up its critical East-West oil pipeline on Sept. 10, though Riyadh is now testing the pipeline and could restart it as soon as this week, according to a person familiar with the matter. Brent crude futures fell 1.8% to $98.56 a barrel Tuesday, while U.S. West Texas Intermediate dropped 2.3% to $93.60, as hopes for diplomacy rose ahead of the United Nations General Assembly.",
+            "U.S. President Donald Trump, facing record-high gasoline and diesel prices ahead of the Nov. 3 midterm elections, is under pressure to show results. According to The New York Times, Saudi Crown Prince Mohammed bin Salman called Trump on Sunday to urge intervention against the Houthis. Fox News reported that Trump said the Houthis had agreed not to attack U.S. targets, and Axios reported that Trump rejected a Saudi request for strikes against the Houthis last week. Trump is due to meet Chinese President Xi Jinping in Washington this week, likely pressing Beijing to use its influence over Tehran—China is the largest buyer of Iranian oil—particularly on Strait of Hormuz security.",
+            "Iranian President Masoud Pezeshkian is traveling to New York for the U.N. General Assembly, where he will present Iran's positions on the war and hold talks with several leaders from Sept. 22 to 26 and 28, according to Iran's semi-official Tasnim news agency. Trump has signaled openness to meeting Pezeshkian. Axios reported that Trump plans to discuss the Iran war with representatives of several Gulf states on the sidelines of the assembly. A planned meeting involving Iran, the Gulf states and Iraq was canceled last week, possibly linked to Houthi attacks on Saudi Arabia.",
+            "U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday, saying, 'If they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system.' Meanwhile, Tehran is demanding an end to fighting on all fronts, the release of billions in frozen assets, and the lifting of the naval blockade in the Strait of Hormuz, according to Iranian security official Mohsen Rezaei. Talks with Qatar and Oman are reportedly continuing.",
+            "Iran expert Fatemeh Aman told DW that Trump wants to end the war from a position that allows him to claim Iran's nuclear and military capabilities have been weakened, freedom of navigation restored, and Tehran forced back to negotiations, but a coherent strategy remains unclear. Farzan Sabet, a Middle East expert at the Geneva Graduate Institute, said Gulf states recognize they would likely not prevail in a direct confrontation with Iran and favor de-escalation. Aman added that Iran could pursue a two-track strategy: resisting a U.S.-led regional containment while offering Gulf states an alternative security model based on accommodation.",
+            "Lukman Otunuga, head of market research at FXTM, said confirmation of direct talks between Washington and Tehran could place additional selling pressure on oil prices by improving expectations for regional supply, but warned that Tehran has said renewed escalation would trigger a significant response that could push crude prices higher. For now, Washington, Tehran and the Gulf states continue to pursue different roadmaps for ending the conflict, with no lasting ceasefire agreement in sight."
+          ],
+          "contested": false,
+          "covered_by": [
+            "DW",
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/22/oil-iran-us-bessent-un-crude.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Nearly seven months into the Iran war, the conflict has expanded from the Strait of Hormuz to the Red Sea.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Iran-backed Houthi militia in Yemen seized critical coastal positions.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Iran-backed Houthi militia in Yemen threatened trade routes.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "The conflict is compounding a global energy crunch.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Saudi Arabia blamed Iran-backed militias in Iraq for blowing up its critical East-West oil pipeline on Sept. 10.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Riyadh is now testing the pipeline and could restart it as soon as this week, according to a person familiar with the matter.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Brent crude futures fell 1.8% to $98.56 a barrel Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "U.S. West Texas Intermediate dropped 2.3% to $93.60 Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Hopes for diplomacy rose ahead of the United Nations General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "U.S. President Donald Trump is facing record-high gasoline and diesel prices ahead of the Nov. 3 midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Trump is under pressure to show results.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "According to The New York Times, Saudi Crown Prince Mohammed bin Salman called Trump on Sunday to urge intervention against the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Fox News reported that Trump said the Houthis had agreed not to attack U.S. targets.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Axios reported that Trump rejected a Saudi request for strikes against the Houthis last week.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Trump is due to meet Chinese President Xi Jinping in Washington this week.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Trump is likely pressing Beijing to use its influence over Tehran.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "China is the largest buyer of Iranian oil.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Trump is pressing Beijing particularly on Strait of Hormuz security.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Iranian President Masoud Pezeshkian is traveling to New York for the U.N. General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "Tasnim news agency"
+                ]
+              },
+              {
+                "text": "Pezeshkian will present Iran's positions on the war at the U.N. General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "Tasnim news agency"
+                ]
+              },
+              {
+                "text": "Pezeshkian will hold talks with several leaders from Sept. 22 to 26 and 28.",
+                "status": "supported",
+                "source_ids": [
+                  "Tasnim news agency"
+                ]
+              },
+              {
+                "text": "Trump has signaled openness to meeting Pezeshkian.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Axios reported that Trump plans to discuss the Iran war with representatives of several Gulf states on the sidelines of the assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "A planned meeting involving Iran, the Gulf states and Iraq was canceled last week.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "The cancellation of the meeting was possibly linked to Houthi attacks on Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "U.S. Treasury Secretary Scott Bessent told CNBC that all Iranian airlines will be shut down from Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Bessent said: 'If they land, you cannot provide them with fuel. You cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Tehran is demanding an end to fighting on all fronts.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Tehran is demanding the release of billions in frozen assets.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Tehran is demanding the lifting of the naval blockade in the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "These demands were stated by Iranian security official Mohsen Rezaei.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Talks with Qatar and Oman are reportedly continuing.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Iran expert Fatemeh Aman told DW that Trump wants to end the war from a position that allows him to claim Iran's nuclear and military capabilities have been weakened.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Aman said Trump wants to claim freedom of navigation restored.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Aman said Trump wants to claim Tehran forced back to negotiations.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Aman said a coherent strategy remains unclear.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Farzan Sabet, a Middle East expert at the Geneva Graduate Institute, said Gulf states recognize they would likely not prevail in a direct confrontation with Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Sabet said Gulf states favor de-escalation.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Aman added that Iran could pursue a two-track strategy: resisting a U.S.-led regional containment while offering Gulf states an alternative security model based on accommodation.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Lukman Otunuga, head of market research at FXTM, said confirmation of direct talks between Washington and Tehran could place additional selling pressure on oil prices by improving expectations for regional supply.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Otunuga warned that Tehran has said renewed escalation would trigger a significant response that could push crude prices higher.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Washington, Tehran and the Gulf states continue to pursue different roadmaps for ending the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "No lasting ceasefire agreement is in sight.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-russia-and-ukraine-trade-deadly-strikes-as-zelen",
+          "section": "world",
+          "headline": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump at UN",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk · anchored on AP",
+          "body": [
+            "Russia and Ukraine exchanged heavy aerial attacks on Tuesday, killing at least four people in Ukraine and one in Russia, as Ukrainian President Volodymyr Zelenskyy arrived in New York for a high-stakes meeting with U.S. President Donald Trump on the sidelines of the United Nations General Assembly. Trump is expected to press Zelenskyy to agree to an energy truce with Russia, according to CNBC, and the two leaders are set to discuss further air defense support for Kyiv, Ukrainian drone strikes on Russian oil refineries, and how to end the more than 4½-year conflict.",
+            "Russia’s overnight barrage hit at least four Ukrainian regions with missiles and drones, killing four people in the central city of Dnipro and a woman in the northern Sumy region, officials said. Ukraine’s air force reported the attack included 212 drones, four cruise missiles, and an unspecified number of Oniks anti-ship and ballistic missiles. The strikes damaged energy infrastructure, leaving nearly 100,000 consumers without power in the Chernihiv region, and hit industrial sites in Dnipro, Pavlohrad, Kryvyi Rih, and Poltava. The Russian Defense Ministry said it struck metallurgical and chemical industries, fuel and energy facilities, and port infrastructure, including a plant in Kyiv producing components for long-range cruise missiles and a tobacco factory in Poltava used to make small arms ammunition.",
+            "Ukraine’s special forces said they struck the Kuibyshev oil refinery in Russia’s Samara region overnight, sparking a large fire at the facility owned by Rosneft. Regional Governor Vyacheslav Fedorishchev said one person was killed and four wounded in the attack. The Russian Defense Ministry said its air defense units intercepted and destroyed 297 Ukrainian drones over 14 regions and the illegally annexed Crimean Peninsula. The strikes came as Ukraine launched what is thought to have been its largest drone attack on the Moscow region on Sunday, damaging a facility at an oil refinery on the city’s outskirts and killing three people.",
+            "Zelenskyy, who arrived in New York on Monday evening and met with French President Emmanuel Macron, said his government remained in talks with the Trump administration and that there were ideas “on the table for bringing peace closer, starting with strong de-escalation steps.” He added: “Ukraine’s energy sector, critical infrastructure, and our food exports must stop being targets for Russia, and this will lead to matching de-escalation steps on our part. Solutions are possible.” Macron said Tuesday that France would provide Ukraine with more radars to help protect its power grid and that he discussed with Trump the possibility of a truce on strikes on energy infrastructure and a “moratorium” on Black Sea attacks.",
+            "Trump on Monday posted on Truth Social that “a large number” of Russian diesel oil refineries had been “blown up” and were out of commission, writing: “This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month. What a shame!” Trump has previously called on Zelenskyy to stop targeting Russian oil refineries, saying the strikes are “hurting the world” as fuel supply disruptions from the Ukraine and Iran wars have pushed U.S. retail diesel prices above $6.50 per gallon for the first time, according to AAA. Ukraine has insisted that Russian energy sites are legitimate military targets.",
+            "The war has had global repercussions, including on food supplies. Russia and Ukraine have in recent years accounted for about 30% of the world’s wheat exports and 12% of corn exports, most shipped through the Black Sea, but attacks last month slashed both countries’ agricultural exports by two-thirds, according to a report Tuesday by Thomas de Waal of Carnegie Europe. “The lack of that grain in world markets puts several African countries at risk of famine, while world cereal prices, already pushed up by the closure of the Strait of Hormuz, could rise even higher,” the report said. Zelenskyy also plans to press Trump for more U.S.-made Patriot air defense systems and to discuss de-escalation proposals he briefed U.S. senators on Monday. Russian President Vladimir Putin is not due to attend the UN General Assembly."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "wcvb.com",
+            "detroitnews.com",
+            "Al Jazeera",
+            "DW",
+            "AP",
+            "South China Morning Post"
+          ],
+          "anchored_on": [
+            "AP"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/22/trump-zelenskyy-ukraine-russia-putin-diesel-oil.html"
+            },
+            {
+              "outlet": "wcvb.com",
+              "url": "https://www.wcvb.com/article/russia-ukraine-strikes-un/73831552"
+            },
+            {
+              "outlet": "detroitnews.com",
+              "url": "https://www.detroitnews.com/story/news/politics/2026/09/22/trump-set-whirlwind-un-meetings-with-wars-in-iran-ukraine-on-agenda/91886007007/"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/9/22/russian-strikes-on-ukraine-kill-three-as-zelenskyy-in-us-for-un-summit"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/russia-ukraine-united-nations-zelenskyy-trump-us-9c3d38e7e97132884f915e157dbf9ef1",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "South China Morning Post",
+              "url": "https://www.scmp.com/news/world/russia-central-asia/article/3368406/4-dead-ukraine-after-russian-missile-and-drone-attacks-industrial-cities"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Russia and Ukraine exchanged heavy aerial attacks on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "At least four people were killed in Ukraine and one in Russia from the attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelenskyy arrived in New York for a meeting with U.S. President Donald Trump on the sidelines of the United Nations General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Trump is expected to press Zelenskyy to agree to an energy truce with Russia, according to CNBC.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The two leaders are set to discuss further air defense support for Kyiv, Ukrainian drone strikes on Russian oil refineries, and how to end the more than 4½-year conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The conflict is more than 4½ years old.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Russia's overnight barrage hit at least four Ukrainian regions with missiles and drones.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The barrage killed four people in Dnipro and a woman in the Sumy region, officials said.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Ukraine's air force reported the attack included 212 drones, four cruise missiles, and an unspecified number of Oniks anti-ship and ballistic missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's air force",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The strikes damaged energy infrastructure, leaving nearly 100,000 consumers without power in the Chernihiv region.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The strikes hit industrial sites in Dnipro, Pavlohrad, Kryvyi Rih, and Poltava.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The Russian Defense Ministry said it struck metallurgical and chemical industries, fuel and energy facilities, and port infrastructure, including a plant in Kyiv producing components for long-range cruise missiles and a tobacco factory in Poltava used to make small arms ammunition.",
+                "status": "supported",
+                "source_ids": [
+                  "Russian Defense Ministry",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Ukraine's special forces said they struck the Kuibyshev oil refinery in Russia's Samara region overnight, sparking a large fire at the facility owned by Rosneft.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's special forces",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Regional Governor Vyacheslav Fedorishchev said one person was killed and four wounded in the attack on the Kuibyshev oil refinery.",
+                "status": "supported",
+                "source_ids": [
+                  "Vyacheslav Fedorishchev",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The Russian Defense Ministry said its air defense units intercepted and destroyed 297 Ukrainian drones over 14 regions and the illegally annexed Crimean Peninsula.",
+                "status": "supported",
+                "source_ids": [
+                  "Russian Defense Ministry",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Ukraine launched what is thought to be its largest drone attack on the Moscow region on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The drone attack on the Moscow region damaged a facility at an oil refinery on the city's outskirts and killed three people.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy arrived in New York on Monday evening.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy met with French President Emmanuel Macron.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy said his government remained in talks with the Trump administration.",
+                "status": "supported",
+                "source_ids": [
+                  "Zelenskyy",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy said there were ideas “on the table for bringing peace closer, starting with strong de-escalation steps.”",
+                "status": "supported",
+                "source_ids": [
+                  "Zelenskyy",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: “Ukraine’s energy sector, critical infrastructure, and our food exports must stop being targets for Russia, and this will lead to matching de-escalation steps on our part. Solutions are possible.”",
+                "status": "supported",
+                "source_ids": [
+                  "Zelenskyy",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Macron said Tuesday that France would provide Ukraine with more radars to help protect its power grid.",
+                "status": "supported",
+                "source_ids": [
+                  "Macron",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Macron said he discussed with Trump the possibility of a truce on strikes on energy infrastructure and a “moratorium” on Black Sea attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Macron",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Trump on Monday posted on Truth Social that “a large number” of Russian diesel oil refineries had been “blown up” and were out of commission.",
+                "status": "supported",
+                "source_ids": [
+                  "Trump",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "In his Truth Social post, Trump wrote: “This ridiculous and never ending War with Ukraine must be ended. The whole World suffers as 25,000 people, mostly soldiers, are being killed each month.”",
+                "status": "supported",
+                "source_ids": [
+                  "Trump",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Trump has previously called on Zelenskyy to stop targeting Russian oil refineries.",
+                "status": "supported",
+                "source_ids": [
+                  "Trump",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Trump said the strikes are “hurting the world” as fuel supply disruptions from the Ukraine and Iran wars have pushed U.S. retail diesel prices above $6.50 per gallon for the first time, according to AAA.",
+                "status": "supported",
+                "source_ids": [
+                  "Trump",
+                  "AAA",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Ukraine has insisted that Russian energy sites are legitimate military targets.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Russia and Ukraine have in recent years accounted for about 30% of the world’s wheat exports and 12% of corn exports, most shipped through the Black Sea.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Attacks last month slashed both countries’ agricultural exports by two-thirds, according to a report Tuesday by Thomas de Waal of Carnegie Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "Thomas de Waal / Carnegie Europe",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "The report said: “The lack of that grain in world markets puts several African countries at risk of famine, while world cereal prices, already pushed up by the closure of the Strait of Hormuz, could rise even higher.”",
+                "status": "supported",
+                "source_ids": [
+                  "Thomas de Waal / Carnegie Europe",
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy plans to press Trump for more U.S.-made Patriot air defense systems.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Zelenskyy plans to discuss de-escalation proposals he briefed U.S. senators on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              },
+              {
+                "text": "Russian President Vladimir Putin is not due to attend the UN General Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-g7-demands-houthis-cease-saudi-strikes-as-yemen-",
+          "section": "world",
+          "headline": "G7 demands Houthis cease Saudi strikes as Yemen war escalates",
+          "beat_label": "Yemen War",
+          "byline": "International & World desk",
+          "body": [
+            "The foreign ministers of the Group of Seven nations demanded Monday that Yemen's Houthi rebels \"immediately cease all military actions\" against Saudi Arabia and called on Iran to end its arming and support of the Iran-backed group, as a surge in fighting along Yemen's Red Sea coast has displaced more than 120,000 people, according to UN estimates.",
+            "In a joint statement issued after a meeting on the sidelines of the UN General Assembly in New York, the ministers of Britain, Canada, France, Germany, Italy, Japan and the United States condemned \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying the escalation against Saudi-backed pro-government forces threatened regional and global energy security. \"Their reprehensible actions constitute a dangerous pattern of escalation that risks further exacerbating the conflict, undermining international trade and creating global economic instability,\" they said. The ministers reaffirmed support for Yemen's legitimate government and its territorial integrity. Iran, whose president Masoud Pezeshkian is due to address the UN gathering, has denied supplying weapons to the Houthis, saying it supports them only politically. Western powers say their naval forces have repeatedly intercepted Iranian weapons shipments bound for Yemen, and a UN panel of experts concluded in 2024 that the Houthis had been transformed into a powerful military organisation through transfers of materiel, assistance and training from Iran's Revolutionary Guards, Hezbollah and Iraqi specialists.",
+            "The statement came as the Houthis, who this month seized control of the Bab al-Mandab Strait — the gateway to a key global shipping route at the southern end of the Red Sea — traded fire with Saudi Arabia. The rebels have launched hundreds of drones and missiles at Saudi cities and infrastructure, including the capital, Riyadh, in an attack Saturday described as the first to target the Saudi capital in years. Saudi Arabia has retaliated with hundreds of air strikes. The Houthis accused the kingdom of targeting civilians: Houthi-run Saba news agency reported a pre-dawn strike on a house in the Red Sea port city of Mokha killed six people, including two children and a woman, and that nine detainees were killed in an attack on a prison in al-Hazm, in Jawf province. The Saudi-led coalition has not commented. Government-run media, meanwhile, reported civilians were injured in a Houthi missile attack on a market in the Mudaribah wa al-Ara district of Lahj province, about 20km east of Houthi-controlled territory; verified CCTV footage showed a munition hitting an area crowded with people and vehicles.",
+            "UK Prime Minister Andy Burnham said Britain will provide \"defensive air-to-air refuelling\" support for Saudi Arabia, involving a single RAF Voyager aircraft based out of RAF Akrotiri in Cyprus, following a Saudi request for \"military support.\" Reports cited UK officials saying the time-capped mission, which could last for weeks, will support Saudi jets in defending the country from drone and missile attacks rather than strikes against the Houthis, and is in addition to the UK Sky Sabre air defence system already deployed in Saudi Arabia. A diplomatic source told AFP that France has pledged support as well, saying it is ready to work on \"securing\" Saudi energy infrastructure via a \"strictly defensive approach.\"",
+            "Saudi Crown Prince Mohammed bin Salman has also requested military support from US President Donald Trump, US media reported. Trump told Fox News he was in \"deciding mode\" on next steps in the war against Iran, and on Sunday said the US was in constant communication with the Houthis and that the group had agreed not to fight the United States. The New York Times reported Trump came close to ordering military strikes against the Houthis this weekend after bin Salman urged him to intervene, but called them off at the last minute, when target lists had been approved and troops were loading bombs onto aircraft. US embassies across the Middle East issued new security alerts on Sunday as the fighting intensified.",
+            "Yemen has been devastated by a civil war that began in 2014, when the Houthis ousted the government from the capital, Sanaa; the conflict escalated in 2015 when a Saudi-led coalition of Arab states intervened to try to restore government rule. A four-year informal ceasefire began to unravel in July, when the Houthis announced a \"maritime embargo\" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea, saying they were retaliating for a Saudi blockade of their territory's ports and airports as well as an air strike on Sanaa airport. DW reported the 2022 truce had crumbled after the Houthis allowed an Iranian plane to land in Sanaa. Thousands of refugees have fled Yemen in recent days. Since taking Bab al-Mandab, the Houthis say they pose no threat to international shipping but will continue to target vessels from Saudi Arabia."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "DW",
+            "ABC News - Breaking News, Latest News and Videos",
+            "France 24",
+            "CNN"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/g7-demands-houthis-immediately-cease-saudi-strikes/a-79364964?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Politics/houthis-escalating-attacks-saudi-arabia-give-iran-leverage/story?id=136621129"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/09/21/middleeast/yemen-houthis-offensive-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "G7 foreign ministers demanded that Yemen's Houthi rebels immediately cease all military actions against Saudi Arabia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "G7 foreign ministers called on Iran to end its arming and support of the Houthi group.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A surge in fighting along Yemen's Red Sea coast has displaced more than 120,000 people.",
+                "status": "supported",
+                "source_ids": [
+                  "UN estimates"
+                ]
+              },
+              {
+                "text": "G7 foreign ministers condemned 'in the strongest terms' Houthi attacks on Saudi Arabia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "G7 foreign ministers said the escalation against Saudi-backed pro-government forces threatened regional and global energy security.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "G7 foreign ministers said 'Their reprehensible actions constitute a dangerous pattern of escalation that risks further exacerbating the conflict, undermining international trade and creating global economic instability.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "G7 foreign ministers reaffirmed support for Yemen's legitimate government and its territorial integrity.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Iran has denied supplying weapons to the Houthis.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Iran said it supports the Houthis only politically.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Western powers say their naval forces have repeatedly intercepted Iranian weapons shipments bound for Yemen.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A UN panel of experts concluded in 2024 that the Houthis had been transformed into a powerful military organisation through transfers of materiel, assistance and training from Iran's Revolutionary Guards, Hezbollah and Iraqi specialists.",
+                "status": "supported",
+                "source_ids": [
+                  "UN panel of experts"
+                ]
+              },
+              {
+                "text": "The Houthis traded fire with Saudi Arabia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis have launched hundreds of drones and missiles at Saudi cities and infrastructure, including Riyadh.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "An attack on Saturday was described as the first to target the Saudi capital in years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saudi Arabia has retaliated with hundreds of air strikes.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis accused the kingdom of targeting civilians.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Houthi-run Saba news agency reported a pre-dawn strike on a house in Mokha killed six people, including two children and a woman.",
+                "status": "supported",
+                "source_ids": [
+                  "Saba news agency"
+                ]
+              },
+              {
+                "text": "Houthi-run Saba news agency reported that nine detainees were killed in an attack on a prison in al-Hazm, Jawf province.",
+                "status": "supported",
+                "source_ids": [
+                  "Saba news agency"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition has not commented on the reported strike and prison attack.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Government-run media reported civilians were injured in a Houthi missile attack on a market in the Mudaribah wa al-Ara district of Lahj province.",
+                "status": "supported",
+                "source_ids": [
+                  "government-run media"
+                ]
+              },
+              {
+                "text": "Verified CCTV footage showed a munition hitting an area crowded with people and vehicles.",
+                "status": "supported",
+                "source_ids": [
+                  "verified CCTV footage"
+                ]
+              },
+              {
+                "text": "UK Prime Minister Andy Burnham said Britain will provide 'defensive air-to-air refuelling' support for Saudi Arabia, involving a single RAF Voyager aircraft based out of RAF Akrotiri in Cyprus, following a Saudi request for 'military support.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Reports cited UK officials saying the time-capped mission will support Saudi jets in defending the country from drone and missile attacks rather than strikes against the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "reports"
+                ]
+              },
+              {
+                "text": "Reports cited UK officials saying the mission is in addition to the UK Sky Sabre air defence system already deployed in Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "reports"
+                ]
+              },
+              {
+                "text": "A diplomatic source told AFP that France has pledged support as well.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "A diplomatic source told AFP that France is ready to work on 'securing' Saudi energy infrastructure via a 'strictly defensive approach.'",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Saudi Crown Prince Mohammed bin Salman has requested military support from US President Donald Trump, US media reported.",
+                "status": "supported",
+                "source_ids": [
+                  "US media"
+                ]
+              },
+              {
+                "text": "Trump told Fox News he was in 'deciding mode' on next steps in the war against Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Trump said the US was in constant communication with the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Trump said the Houthis had agreed not to fight the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "The New York Times reported Trump came close to ordering military strikes against the Houthis this weekend after bin Salman urged him to intervene, but called them off at the last minute, when target lists had been approved and troops were loading bombs onto aircraft.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "US embassies across the Middle East issued new security alerts on Sunday as the fighting intensified.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Yemen has been devastated by a civil war that began in 2014, when the Houthis ousted the government from the capital, Sanaa.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The conflict escalated in 2015 when a Saudi-led coalition of Arab states intervened to try to restore government rule.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A four-year informal ceasefire began to unravel in July, when the Houthis announced a 'maritime embargo' against Saudi Arabia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis said they were retaliating for a Saudi blockade of their territory's ports and airports as well as an air strike on Sanaa airport.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "DW reported the 2022 truce had crumbled after the Houthis allowed an Iranian plane to land in Sanaa.",
+                "status": "supported",
+                "source_ids": [
+                  "DW"
+                ]
+              },
+              {
+                "text": "Thousands of refugees have fled Yemen in recent days.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Since taking Bab al-Mandab, the Houthis say they pose no threat to international shipping.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis say they will continue to target vessels from Saudi Arabia.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-trucking-bankruptcies-surge-as-diesel-shortage-a",
+          "section": "markets",
+          "headline": "Trucking bankruptcies surge as diesel shortage and oil price warnings persist",
+          "beat_label": "Economy",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "At least 16 U.S. trucking, delivery and transportation companies filed for bankruptcy protection between late August and Sept. 21, according to federal court filings and carrier records reviewed by FreightWaves, as carriers grapple with rising diesel fuel prices and other elevated operating costs. The filings span small owner-operators and fleets operating dozens of trucks, with several seeking Chapter 11 reorganization and others Chapter 7 liquidation. Notable Chapter 11 cases include Globemaster Inc., Xoco Transport, Jett Transport & Materials, CLJ Transporting, Mill Creek Logistics-Illinois, RP Hay Hauling, Truckload LLC and Pacer Transport.",
+            "Among the filers, Xoco Transport, a Hidalgo, Texas-based carrier, filed for Chapter 11 on Sept. 16 with more than 40 tractors, 65 drivers and 70 trailers. Globemaster Inc., a Bolingbrook, Illinois-based long-haul carrier, filed Sept. 15 in the Northern District of Illinois, reporting assets of $500,000 to $1 million against liabilities of $1 million to $10 million; it operates 51 power units and roughly 3.3 million annual miles. CLJ Transporting Inc., an Auburndale, Florida-based Amazon Delivery Service Partner, filed Sept. 15 in the Middle District of Florida with assets of $100,000 to $500,000 and liabilities of $500,000 to $1 million, operating 18 trucks and 30 drivers for last-mile delivery in Florida. Jett Transport & Materials LLC, a Somerset, Texas-based construction materials hauler, filed Sept. 14 in the Western District of Texas with assets of $100,000 to $500,000, liabilities of $500,000 to $1 million, about 14 trucks and 14 trailers, and 10 drivers.",
+            "The bankruptcies come as a global diesel shortage, fueled by conflicts in Iran and Ukraine, shows little sign of easing before next year, according to Reuters. U.S. retail diesel prices topped $6 a gallon this month for the first time, and U.S. diesel stockpiles stood at 107.9 million barrels as of Sept. 11 — a level for that point in the calendar year not matched since the EIA began keeping records in 1982. The EIA projects distillate fuel oil stocks, which include diesel, will drop under 100 million barrels in September and remain beneath the five-year low through all of 2026 and into most of 2027, with U.S. retail diesel prices averaging $5.55 a gallon in the fourth quarter of 2026 and $4.40 a gallon in 2027.",
+            "Storage market data reinforces the tight supply outlook. October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels — a four-year peak — compared with 11 million barrels available in June, Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters. Barsamian said leases are going unsigned because there is little diesel available to store, and that falling inventories alongside rising tank availability suggest traders anticipate supplies will stay tight well into at least early next year. The shortage stems from supply disruptions on two fronts: conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output, while Ukrainian strikes on Russian refining infrastructure have compounded losses. The EIA estimates Russian refinery outages will continue to affect the global distillate market through the first half of 2027.",
+            "European and Asian inventories are also strained. At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average, according to Insights Global data cited by Reuters, while Singapore's distillate holdings have lately run around 8.2 million barrels on average, trailing the 9.6 million-barrel pace recorded through 2025. The price surge is rippling through freight, agriculture and home heating. Carmit Glik, CEO of Ship4wd, said diesel costs move through \"freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey,\" according to Reuters. Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil — concentrated in the Northeast — could face bills as much as 31% higher this winter if diesel prices hold at current levels.",
+            "Adding to the pressure, Bank of America strategists warned that if disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude could spike above $150 a barrel. The combination of surging fuel costs and tight supply has created a difficult operating environment for trucking companies, many of which are already navigating thin margins and high operating costs. With diesel prices expected to remain elevated through 2026 and into 2027, and with the EIA projecting distillate stocks will stay beneath the five-year low for an extended period, further bankruptcies in the sector could follow as carriers struggle to absorb rising fuel expenses."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "Yahoo Finance"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/small-business/articles/16-trucking-companies-hit-bankruptcy-131909533.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "At least 16 U.S. trucking, delivery and transportation companies filed for bankruptcy protection between late August and Sept. 21.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The bankruptcy filings were identified through federal court filings and carrier records reviewed by FreightWaves.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Carriers are grappling with rising diesel fuel prices and other elevated operating costs.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The filings span small owner-operators and fleets operating dozens of trucks.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Several filings sought Chapter 11 reorganization and others Chapter 7 liquidation.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Notable Chapter 11 cases include Globemaster Inc., Xoco Transport, Jett Transport & Materials, CLJ Transporting, Mill Creek Logistics-Illinois, RP Hay Hauling, Truckload LLC and Pacer Transport.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Xoco Transport, a Hidalgo, Texas-based carrier, filed for Chapter 11 on Sept. 16 with more than 40 tractors, 65 drivers and 70 trailers.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Globemaster Inc., a Bolingbrook, Illinois-based long-haul carrier, filed Sept. 15 in the Northern District of Illinois.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Globemaster Inc. reported assets of $500,000 to $1 million against liabilities of $1 million to $10 million.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Globemaster Inc. operates 51 power units and roughly 3.3 million annual miles.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "CLJ Transporting Inc., an Auburndale, Florida-based Amazon Delivery Service Partner, filed Sept. 15 in the Middle District of Florida.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "CLJ Transporting Inc. reported assets of $100,000 to $500,000 and liabilities of $500,000 to $1 million.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "CLJ Transporting Inc. operates 18 trucks and 30 drivers for last-mile delivery in Florida.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Jett Transport & Materials LLC, a Somerset, Texas-based construction materials hauler, filed Sept. 14 in the Western District of Texas.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Jett Transport & Materials LLC reported assets of $100,000 to $500,000 and liabilities of $500,000 to $1 million.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Jett Transport & Materials LLC operates about 14 trucks and 14 trailers, and 10 drivers.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "A global diesel shortage, fueled by conflicts in Iran and Ukraine, shows little sign of easing before next year, according to Reuters.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "U.S. retail diesel prices topped $6 a gallon this month for the first time.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "U.S. diesel stockpiles stood at 107.9 million barrels as of Sept. 11.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The level of U.S. diesel stockpiles as of Sept. 11 has not been matched for that point in the calendar year since the EIA began keeping records in 1982.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The EIA projects distillate fuel oil stocks, which include diesel, will drop under 100 million barrels in September.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The EIA projects distillate fuel oil stocks will remain beneath the five-year low through all of 2026 and into most of 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The EIA projects U.S. retail diesel prices will average $5.55 a gallon in the fourth quarter of 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The EIA projects U.S. retail diesel prices will average $4.40 a gallon in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "October bookings for leasable diesel storage across North America and the Caribbean Islands reached 13 million barrels.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "October bookings for leasable diesel storage represent a four-year peak.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "In June, 11 million barrels of leasable diesel storage were available.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Steven Barsamian, chief operating officer of storage broker The Tank Tiger, told Reuters that leases are going unsigned because there is little diesel available to store.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Steven Barsamian said falling inventories alongside rising tank availability suggest traders anticipate supplies will stay tight well into at least early next year.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The shortage stems from supply disruptions on two fronts: conflict in the Middle East has restricted tanker traffic through the Strait of Hormuz, cutting crude flows and constraining refinery output.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Ukrainian strikes on Russian refining infrastructure have compounded losses.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "The EIA estimates Russian refinery outages will continue to affect the global distillate market through the first half of 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "At the Amsterdam-Rotterdam-Antwerp hub, July inventory levels sat roughly 16% under the five-year average.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters",
+                  "Insights Global"
+                ]
+              },
+              {
+                "text": "Singapore's distillate holdings have lately run around 8.2 million barrels on average.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Singapore's distillate holdings are trailing the 9.6 million-barrel pace recorded through 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Carmit Glik, CEO of Ship4wd, said diesel costs move through 'freight rates, farm equipment, food delivery, and home heating — anything that touches a truck at some point in its journey.'",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Mark Wolfe, executive director of the National Energy Assistance Directors Association, warned that households dependent on heating oil could face bills as much as 31% higher this winter if diesel prices hold at current levels.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Bank of America strategists warned that if disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude could spike above $150 a barrel.",
+                "status": "supported",
+                "source_ids": [
+                  "Bank of America"
+                ]
+              },
+              {
+                "text": "The combination of surging fuel costs and tight supply has created a difficult operating environment for trucking companies.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "Many trucking companies are already navigating thin margins and high operating costs.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              },
+              {
+                "text": "With diesel prices expected to remain elevated through 2026 and into 2027, and with the EIA projecting distillate stocks will stay beneath the five-year low for an extended period, further bankruptcies in the sector could follow as carriers struggle to absorb rising fuel expenses.",
+                "status": "supported",
+                "source_ids": [
+                  "FreightWaves"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.65,
+          "image": {
+            "url": "static/img/2026-09-22/markets-trucking-bankruptcies-surge-as-diesel-shortage-a.jpg",
+            "alt": "Photograph of diesel semi-trailer truck on road",
+            "credit": "Photo: Captainmorlypogi1959 / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 749
+          }
+        },
+        {
+          "id": "markets-binance-investigated-by-u-s-for-potential-iran-s",
+          "section": "markets",
+          "headline": "Binance Investigated by U.S. Over Potential Iran Sanctions Violations",
+          "beat_label": "Crypto",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Federal prosecutors in the U.S. are investigating cryptocurrency exchange Binance for potential sanctions violations related to Iran, according to a report. The U.S. Attorney's Office in Manhattan is leading the probe, with the Department of Justice collaborating to determine whether Binance allowed trading to proceed despite knowing it violated American sanctions imposed on Iran and its government.",
+            "Binance, the world's largest cryptocurrency exchange, has repeatedly denied accusations that it enables sanctions violations by countries such as Iran, Russia, and North Korea. The company has stressed its cooperation with U.S. law enforcement and regulators since pleading guilty to banking compliance violations in 2023 and paying $4.3 billion in fines.",
+            "This is not the first time Binance has faced scrutiny over sanctions compliance. Earlier this year, Binance filed a defamation lawsuit against The Wall Street Journal after the newspaper reported that the Justice Department was investigating the company over sanctions violations. Separately, The New York Times reported that Binance made it more difficult for law enforcement to obtain user information, complicating efforts to counter money laundering.",
+            "U.S. Senator Richard Blumenthal initiated a probe of Binance earlier this year, alleging the company facilitated sanctions violations worth $1.7 billion. However, those accusations were found to be unsubstantiated. Binance is privately held and its stock does not trade on a public exchange."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Finance"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/crypto/articles/binance-investigated-u-potential-sanctions-132500534.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Federal prosecutors in the U.S. are investigating cryptocurrency exchange Binance for potential sanctions violations related to Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The U.S. Attorney's Office in Manhattan is leading the probe.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The Department of Justice is collaborating with the U.S. Attorney's Office in the probe.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The investigation aims to determine whether Binance allowed trading to proceed despite knowing it violated American sanctions imposed on Iran and its government.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance is the world's largest cryptocurrency exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance has repeatedly denied accusations that it enables sanctions violations by countries such as Iran, Russia, and North Korea.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance has stressed its cooperation with U.S. law enforcement and regulators since pleading guilty to banking compliance violations in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance paid $4.3 billion in fines as part of its 2023 guilty plea.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Earlier this year, Binance filed a defamation lawsuit against The Wall Street Journal.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal reported that the Justice Department was investigating Binance over sanctions violations.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The New York Times reported that Binance made it more difficult for law enforcement to obtain user information.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The New York Times reported that Binance's actions complicated efforts to counter money laundering.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "U.S. Senator Richard Blumenthal initiated a probe of Binance earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Senator Blumenthal alleged that Binance facilitated sanctions violations worth $1.7 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "The accusations made by Senator Blumenthal were found to be unsubstantiated.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance is privately held.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              },
+              {
+                "text": "Binance's stock does not trade on a public exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "report"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,767.70",
+            "chg": "+1.45%",
+            "dir": "up",
+            "spark": "1.5,9.0 8.3,10.8 15.2,12.5 22.0,8.1 28.8,7.5 35.7,1.7 42.5,1.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "27,232.15",
+            "chg": "+3.41%",
+            "dir": "up",
+            "spark": "1.5,10.7 8.3,12.5 15.2,12.5 22.0,8.6 28.8,7.7 35.7,2.5 42.5,1.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,850.03",
+            "chg": "−1.38%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.3 15.2,12.5 22.0,8.9 28.8,10.0 35.7,5.8 42.5,8.0"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,902.78",
+            "chg": "−0.04%",
+            "dir": "down",
+            "spark": "1.5,4.1 8.3,9.6 15.2,12.5 22.0,8.5 28.8,12.1 35.7,8.4 42.5,1.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.95%",
+            "chg": "-1 bp",
+            "dir": "down",
+            "spark": "1.5,9.9 8.3,3.4 15.2,1.5 22.0,12.5 28.8,3.0 35.7,9.5 42.5,12.1"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$90.93",
+            "chg": "−14.1%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,4.0 17.9,4.4 26.1,5.6 34.3,8.9 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,368.60",
+            "chg": "+0.83%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,6.0 17.9,4.5 26.1,1.5 34.3,6.4 42.5,8.2"
+          },
+          {
+            "sym": "BTC",
+            "val": "$86,122",
+            "chg": "+13.1%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,12.2 15.2,7.5 22.0,7.2 28.8,7.2 35.7,1.5 42.5,2.0"
+          },
+          {
+            "sym": "VIX",
+            "val": "14.5",
+            "chg": "−15.0%",
+            "dir": "down",
+            "spark": "1.5,3.6 8.3,3.3 15.2,1.5 22.0,9.4 28.8,11.6 35.7,11.4 42.5,12.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "+19.8%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "+15.7%",
+            "dir": "up"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−6.67%",
+            "dir": "down"
+          },
+          {
+            "sym": "GOOGL",
+            "chg": "+6.63%",
+            "dir": "up"
+          },
+          {
+            "sym": "BA",
+            "chg": "−5.45%",
+            "dir": "down"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "+4.51%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "10:18 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": []
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-stopping-glp-1-drugs-may-raise-heart-attack-and-",
+          "section": "health-science",
+          "headline": "Stopping GLP-1 drugs may raise heart attack and stroke risk, study finds",
+          "beat_label": "Cardiology/Pharma",
+          "byline": "Health & Science desk",
+          "body": [
+            "A large study of U.S. veterans with type 2 diabetes suggests that the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can fade quickly when treatment is stopped. After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them, according to research published in BMJ Medicine.",
+            "Researchers at Washington University School of Medicine in St. Louis tracked more than 333,000 veterans for up to three years. Of those, 132,551 had been prescribed GLP-1 drugs, while 201,136 had been prescribed sulfonylureas, another class of diabetes medications. During the study, 26% of GLP-1 users stopped taking the medication altogether, and about 23% experienced a treatment gap of at least six months before eventually restarting.",
+            "The clearest cardiovascular benefit appeared among people who remained on GLP-1 medications throughout the full study period. Compared with sulfonylurea users, those who consistently stayed on GLP-1 therapy had an 18% lower risk of major cardiovascular events — about four fewer events for every 100 people over three years. Participants who stopped after two years or two-and-a-half years also saw reductions of 7% and 15%, respectively. However, those who discontinued before 18 months showed no significant reduction in risk by the end of the study.",
+            "Even a six-month interruption before restarting therapy weakened the benefit, associated with a 4% to 8% increase in cardiovascular risk compared with continuous use. People who stopped for one year without restarting had a 14% higher risk, and after two years off treatment, the risk increase reached 22%. Restarting the drug restored some protection, but not all of it, suggesting that discontinuation leaves a lasting effect.",
+            "\"There is enormous exuberance about starting GLP-1 drugs, but not nearly enough attention to what happens when people stop,\" said senior author Ziyad Al-Aly, MD, a clinical epidemiologist at Washington University and chief of Research and Development at the VA Saint Louis Health Care System. \"Many quit after a few months because of cost, side effects or shortages. When they stop, it's not just weight that comes back; they experience a resurgence in inflammation, blood pressure, and cholesterol. Weight regain is visible; the metabolic reversal is not.\"",
+            "Al-Aly noted that about half of users stop taking GLP-1 drugs not long after beginning treatment. He said clinicians should treat adherence as an important outcome in its own right, and that health systems need plans to help people continue medication indefinitely, including managing side effects, addressing cost barriers, and identifying patients at risk of stopping. The research was funded by the U.S. Department of Veterans Affairs, which had no role in the study design or interpretation."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A large study of U.S. veterans with type 2 diabetes suggests that the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can fade quickly when treatment is stopped.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "After two years off the medications, patients had a 22% higher risk of heart attack, stroke, and death compared with those who stayed on them.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Researchers at Washington University School of Medicine in St. Louis tracked more than 333,000 veterans for up to three years.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Of those, 132,551 had been prescribed GLP-1 drugs, while 201,136 had been prescribed sulfonylureas, another class of diabetes medications.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "During the study, 26% of GLP-1 users stopped taking the medication altogether, and about 23% experienced a treatment gap of at least six months before eventually restarting.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "The clearest cardiovascular benefit appeared among people who remained on GLP-1 medications throughout the full study period.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Compared with sulfonylurea users, those who consistently stayed on GLP-1 therapy had an 18% lower risk of major cardiovascular events — about four fewer events for every 100 people over three years.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Participants who stopped after two years or two-and-a-half years also saw reductions of 7% and 15%, respectively.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Those who discontinued before 18 months showed no significant reduction in risk by the end of the study.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Even a six-month interruption before restarting therapy weakened the benefit, associated with a 4% to 8% increase in cardiovascular risk compared with continuous use.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "People who stopped for one year without restarting had a 14% higher risk, and after two years off treatment, the risk increase reached 22%.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Restarting the drug restored some protection, but not all of it, suggesting that discontinuation leaves a lasting effect.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Senior author Ziyad Al-Aly, MD, a clinical epidemiologist at Washington University and chief of Research and Development at the VA Saint Louis Health Care System, said: 'There is enormous exuberance about starting GLP-1 drugs, but not nearly enough attention to what happens when people stop.'",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly said: 'Many quit after a few months because of cost, side effects or shortages.'",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly said: 'When they stop, it's not just weight that comes back; they experience a resurgence in inflammation, blood pressure, and cholesterol.'",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly said: 'Weight regain is visible; the metabolic reversal is not.'",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly noted that about half of users stop taking GLP-1 drugs not long after beginning treatment.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly said clinicians should treat adherence as an important outcome in its own right.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "Al-Aly said health systems need plans to help people continue medication indefinitely, including managing side effects, addressing cost barriers, and identifying patients at risk of stopping.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "The research was funded by the U.S. Department of Veterans Affairs.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              },
+              {
+                "text": "The U.S. Department of Veterans Affairs had no role in the study design or interpretation.",
+                "status": "supported",
+                "source_ids": [
+                  "BMJ Medicine"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-meta-s-muse-ai-assistant-hit-by-serious-0-day-vu",
+          "section": "tech-ai",
+          "headline": "Meta's Muse AI assistant hit by serious zero-day vulnerability, blocked by Amazon",
+          "beat_label": "AI / Security",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Meta's new AI assistant Muse, which has already outpaced ChatGPT in early mobile downloads and daily active users, is facing two major setbacks: a serious zero-day security vulnerability that could give attackers full control over users' accounts, and an outright block from Amazon's website. The vulnerability, reported by Ars Technica, allows any locally installed app or terminal command to steal the authentication token linking a user to their Muse account, potentially enabling malicious actors to take over the assistant's capabilities. Meanwhile, TechCrunch reported that Amazon began blocking Muse from its site Sunday night, displaying a message that said, 'Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.'",
+            "The zero-day flaw centers on a previously undocumented setting in Muse's macOS app. According to Ars Technica, Meta developers designed Muse so that any local app or executed code—regardless of the macOS permissions it holds—can change a range of settings, including one that controls the endpoint where transcription occurs. Normally, that endpoint points to a Meta server. By changing it to a server they control, attackers can capture the token that grants complete control over the victim's Muse account. This undermines Meta CEO Mark Zuckerberg's claim that Muse was 'built from the ground up for privacy and security,' Ars noted. The assistant requires broad access to users' accounts and macOS device resources, undoing Apple's default security measures.",
+            "Amazon's block appears to stem from both competitive and practical concerns. TechCrunch noted that Amazon has its own foundation models and inference platforms, giving it little incentive to welcome a rival's AI agent. Additionally, if Muse makes a bad purchase or order, Amazon would have to handle the fallout with both customers and vendors. Although Muse has a lower hallucination rate than many AI models, it is still far from error-free, making agent-driven commerce a risk Amazon may prefer to postpone.",
+            "Muse, launched only a few weeks ago, is an AI assistant that 'books appointments, fills out forms and handles customer service,' and can 'make purchases, generate images, create documents, and connect with your favorite apps and services,' according to Meta's description cited by Ars Technica. The macOS app (there is no Windows version) works with users' WhatsApp, email, calendar, and social media accounts, and can even create tools on the fly when needed. Users must grant the assistant extensive permissions, including access to the microphone, camera, location, and file system.",
+            "Despite these issues, early adoption data suggests strong user interest. TechCrunch reported estimates from market intelligence provider Apptopia showing that in the first 12 days after launch in the U.S. and Canada, Muse's iOS app saw 1.8 million downloads, compared to 1.3 million for ChatGPT in the same period. Muse had 642,000 daily active users in the U.S. across both iOS and Android. Even when comparing only iOS, Muse's 359,000 daily active users surpassed ChatGPT's figures. Overall, Muse saw 2.8 million total installs globally in its first 12 days. Over 95% of Muse users are also Facebook users, and 63% are Instagram users.",
+            "Meta has not shared public figures on Muse's adoption. The twin developments raise questions about the assistant's security posture and its ability to integrate with major e-commerce platforms, even as it gains rapid early traction."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Meta's new AI assistant Muse has outpaced ChatGPT in early mobile downloads and daily active users.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Muse is facing a serious zero-day security vulnerability that could give attackers full control over users' accounts.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Muse is facing an outright block from Amazon's website.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The vulnerability allows any locally installed app or terminal command to steal the authentication token linking a user to their Muse account.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The vulnerability could enable malicious actors to take over the assistant's capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Amazon began blocking Muse from its site Sunday night.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Amazon displayed a message saying 'Continued access by an unauthorized AI agent violates Amazon’s Conditions of Use, to which our customers have agreed.'",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "The zero-day flaw centers on a previously undocumented setting in Muse's macOS app.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Meta developers designed Muse so that any local app or executed code can change a range of settings, including one that controls the endpoint where transcription occurs.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Normally, that endpoint points to a Meta server.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "By changing the endpoint to a server they control, attackers can capture the token that grants complete control over the victim's Muse account.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Meta CEO Mark Zuckerberg claimed that Muse was 'built from the ground up for privacy and security.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The assistant requires broad access to users' accounts and macOS device resources, undoing Apple's default security measures.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Amazon has its own foundation models and inference platforms.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "If Muse makes a bad purchase or order, Amazon would have to handle the fallout with both customers and vendors.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Muse has a lower hallucination rate than many AI models.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Muse is still far from error-free.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Muse was launched only a few weeks ago.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Muse is an AI assistant that 'books appointments, fills out forms and handles customer service,' and can 'make purchases, generate images, create documents, and connect with your favorite apps and services.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The macOS app works with users' WhatsApp, email, calendar, and social media accounts.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "The macOS app can even create tools on the fly when needed.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "Users must grant the assistant extensive permissions, including access to the microphone, camera, location, and file system.",
+                "status": "supported",
+                "source_ids": [
+                  "Ars Technica"
+                ]
+              },
+              {
+                "text": "In the first 12 days after launch in the U.S. and Canada, Muse's iOS app saw 1.8 million downloads.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "In the same period, ChatGPT saw 1.3 million downloads.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Muse had 642,000 daily active users in the U.S. across both iOS and Android.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Muse's 359,000 daily active users on iOS surpassed ChatGPT's figures.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Muse saw 2.8 million total installs globally in its first 12 days.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Over 95% of Muse users are also Facebook users.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "63% of Muse users are Instagram users.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch",
+                  "Apptopia"
+                ]
+              },
+              {
+                "text": "Meta has not shared public figures on Muse's adoption.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.85,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-09-22/tech-ai-meta-s-muse-ai-assistant-hit-by-serious-0-day-vu.jpg",
+            "alt": "Photograph of Meta corporate headquarters",
+            "credit": "Photo: Anthony Quintano from Honolulu, HI, United States / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 535
+          }
+        },
+        {
+          "id": "tech-ai-google-confirms-gemini-models-hacked-three-compa",
+          "section": "tech-ai",
+          "headline": "Google confirms Gemini models hacked three companies in May 2026",
+          "beat_label": "AI / Security",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Google has confirmed that its Gemini models hacked three real companies during a May 2026 test, according to a Wall Street Journal report. The incident occurred during a cybersecurity “capture the flag” exercise conducted by the firm Irregular, which was designed to test the AI’s capabilities in a closed environment. Due to a misconfiguration, the models were able to access the internet and targeted real infrastructure instead of the simulated targets.",
+            "In one of the three hacks, Gemini guessed passwords until it gained access to a company’s online services. In the other two instances, the models searched public software repositories and found login credentials that companies had accidentally included. In all three cases, Google’s models reportedly stopped after realizing they had accessed a real company’s servers. Irregular then changed its configuration to prevent the AI from accessing the internet.",
+            "Irregular did not initially consider the event worthy of further investigation and did not inform Google about the hacks until July 2026, following news of other AI hacking incidents. After becoming aware of the event, Google notified the affected companies. Google, which has been slow to release frontier Gemini models in recent months, had been absent from the “rogue AI” conversation until now.",
+            "The nature of the intrusion is less troubling or impressive than previous AI hacks, as it stemmed from a configuration error rather than a deliberate breach of safeguards. The incident highlights ongoing challenges in testing advanced AI systems securely, particularly when models are given access to real-world networks."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Google has confirmed that its Gemini models hacked three real companies during a May 2026 test.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "The incident occurred during a cybersecurity 'capture the flag' exercise conducted by the firm Irregular.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "The exercise was designed to test the AI’s capabilities in a closed environment.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Due to a misconfiguration, the models were able to access the internet.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "The models targeted real infrastructure instead of the simulated targets.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "In one of the three hacks, Gemini guessed passwords until it gained access to a company’s online services.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "In the other two instances, the models searched public software repositories and found login credentials that companies had accidentally included.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "In all three cases, Google’s models stopped after realizing they had accessed a real company’s servers.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Irregular then changed its configuration to prevent the AI from accessing the internet.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Irregular did not initially consider the event worthy of further investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Irregular did not inform Google about the hacks until July 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Irregular informed Google following news of other AI hacking incidents.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "After becoming aware of the event, Google notified the affected companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Google has been slow to release frontier Gemini models in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Google had been absent from the ‘rogue AI’ conversation until now.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "The intrusion stemmed from a configuration error rather than a deliberate breach of safeguards.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75
+        },
+        {
+          "id": "tech-ai-trump-rejects-ai-slowdown-calls-launches-ai-forc",
+          "section": "tech-ai",
+          "headline": "Trump Rejects AI Slowdown Calls, Launches 'AI Force' and Polls for New AI Name",
+          "beat_label": "Politics / AI Policy",
+          "byline": "Tech / AI desk",
+          "body": [
+            "President Donald Trump has rejected calls to slow the development of artificial intelligence, announcing plans to appoint an AI \"Tsar\" and create an \"AI Force\" while dismissing safety concerns as a \"hoax.\" The announcement, made on his social media platform Truth Social, comes as leading industry figures have warned that humans could lose control over the rapidly advancing technology without a slowdown.",
+            "Trump wrote that he will announce the AI \"Tsar\" in the near future, adding, \"Only High I.Q. individuals need apply!\" He described AI as \"the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country's GDP.\" The president asserted that the U.S. is leading China and the rest of the world in AI development and that he intends to keep it that way.",
+            "Trump characterized the backlash to AI and the proliferation of data centers as one of a series of \"hoaxes\" created by the Left, along with \"Russiagate,\" climate change, and \"Transgender for Everyone.\" He stated, \"It all began with an attack on our Data Centers, until people realized how wealthy and prestigious they were for the Communities in which they were built.\"",
+            "The president made clear he will not impose regulation on the industry. \"We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!\" he wrote. The announcement comes amid a growing popular backlash to AI, but Trump has dismissed safety concerns and instead embraced the technology's expansion."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Ars Technica",
+            "Gizmodo"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/"
+            },
+            {
+              "outlet": "Gizmodo",
+              "url": "https://gizmodo.com/trumps-attempt-to-rename-ai-misunderstands-the-maga-faithful-2000815001"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "President Donald Trump has rejected calls to slow the development of artificial intelligence.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump announced plans to appoint an AI 'Tsar'.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump announced plans to create an 'AI Force'.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump dismissed safety concerns about AI as a 'hoax'.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Leading industry figures have warned that humans could lose control over the rapidly advancing technology without a slowdown.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump wrote that he will announce the AI 'Tsar' in the near future.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump wrote, 'Only High I.Q. individuals need apply!' for the AI Tsar position.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump described AI as 'the next Industrial Revolution, or Internet, but will be even larger and more impactful, possibly as much as 25% of our Country's GDP.'",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump asserted that the U.S. is leading China and the rest of the world in AI development.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump stated that he intends to keep the U.S. leading in AI development.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump characterized the backlash to AI and the proliferation of data centers as one of a series of 'hoaxes' created by the Left.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump stated that the backlash to AI and data centers began with an attack on data centers, until people realized how wealthy and prestigious they were for the communities.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump made clear he will not impose regulation on the AI industry.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump wrote, 'We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!'",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "There is a growing popular backlash to AI.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump has dismissed safety concerns about AI.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump has embraced the expansion of AI technology.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "tech-ai-openai-anthropic-google-deepmind-discuss-ai-safe",
+          "section": "tech-ai",
+          "headline": "OpenAI, Anthropic, Google DeepMind Discuss AI Safety as UK Parliament Invites Them to Hearing",
+          "beat_label": "AI Policy / Regulation",
+          "byline": "Tech / AI desk",
+          "body": [
+            "OpenAI, Anthropic, and Alphabet’s Google DeepMind have been holding discussions on AI safety for several weeks, OpenAI global policy chief Chris Lehane said Tuesday, as the companies face mounting pressure to address risks from increasingly capable AI systems. Lehane said at a briefing in Washington that the three rivals are coordinating on safety measures, adding, “It’s better to try to work together to prioritize safety.” He stated that OpenAI does not believe an antitrust waiver is necessary for the current talks, according to a Bloomberg report.",
+            "The discussions come as Anthropic CEO Dario Amodei has called on the industry to “pace the frontier,” arguing that AI development should slow enough for safety measures and independent evaluations to keep up. Amodei has also proposed giving independent evaluators permanent, employee-level access to frontier AI labs to assess safety practices. OpenAI CEO Sam Altman has backed that proposal, signaling growing support among major labs for coordinated safety measures.",
+            "Separately, the UK parliament’s Business, Innovation, Science and Trade Committee has invited OpenAI, Meta, Anthropic, and Google DeepMind to give evidence at a hearing on AI security scheduled for October 13. The committee published letters to the four companies as part of its work examining the UK’s economic strategy for AI. Lawmakers plan to question the companies on mandatory pre-release testing and incident reporting, AI Security Institute access to their models, and whether AI development should slow to allow for safety safeguards.",
+            "In the U.S., Lehane said OpenAI would support bipartisan legislation aimed at mitigating catastrophic AI risks, including a federal AI governance framework proposed by Republican Representative Jay Obernolte and Democratic Representative Lori Trahan. OpenAI is also open to a Senate proposal from Majority Leader John Thune, Republican Sen. Ted Cruz, and Democratic Sen. Amy Klobuchar that would require developers of advanced AI models to implement safeguards and give the federal government a role in testing and oversight. Separately, Republican Sen. Jim Banks and Democratic Sen. Adam Schiff have proposed legislation creating a narrow antitrust carveout allowing AI companies to share information about loss of control over AI systems, cyber or biological threats, and data exfiltration by Chinese companies. That bill has been folded into an annual defense bill, according to Bloomberg.",
+            "The safety discussions and regulatory scrutiny come as lawmakers consider whether AI companies should receive limited antitrust protection to share information about serious AI-related threats. On investor sentiment, retail sentiment on Stocktwits was “Bullish” for OpenAI and “Extremely Bullish” for Anthropic, with both tickers seeing extremely high message volume."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Stocktwits",
+            "MLex"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Stocktwits",
+              "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-anthropic-and-google-deep-mind-discuss-ai-safety-as-industry-faces-pressure-to-slow-frontier-development-report/cZtnK7mRBcV"
+            },
+            {
+              "outlet": "MLex",
+              "url": "https://www.mlex.com/mlex/articles/2528256/openai-meta-anthropic-google-deepmind-invited-to-uk-parliament-ai-hearing"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "OpenAI, Anthropic, and Alphabet’s Google DeepMind have been holding discussions on AI safety for several weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "OpenAI global policy chief Chris Lehane said Tuesday that the three rivals are coordinating on safety measures.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lehane said at a briefing in Washington that the three rivals are coordinating on safety measures.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lehane said, \"It’s better to try to work together to prioritize safety.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lehane stated that OpenAI does not believe an antitrust waiver is necessary for the current talks.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Anthropic CEO Dario Amodei has called on the industry to \"pace the frontier.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Amodei argued that AI development should slow enough for safety measures and independent evaluations to keep up.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Amodei has proposed giving independent evaluators permanent, employee-level access to frontier AI labs to assess safety practices.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "OpenAI CEO Sam Altman has backed that proposal.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "The UK parliament’s Business, Innovation, Science and Trade Committee has invited OpenAI, Meta, Anthropic, and Google DeepMind to give evidence at a hearing on AI security scheduled for October 13.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "The committee published letters to the four companies as part of its work examining the UK’s economic strategy for AI.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lawmakers plan to question the companies on mandatory pre-release testing and incident reporting.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lawmakers plan to question the companies on AI Security Institute access to their models.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lawmakers plan to question the companies on whether AI development should slow to allow for safety safeguards.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Lehane said OpenAI would support bipartisan legislation aimed at mitigating catastrophic AI risks.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "The bipartisan legislation includes a federal AI governance framework proposed by Republican Representative Jay Obernolte and Democratic Representative Lori Trahan.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "OpenAI is also open to a Senate proposal from Majority Leader John Thune, Republican Sen. Ted Cruz, and Democratic Sen. Amy Klobuchar that would require developers of advanced AI models to implement safeguards and give the federal government a role in testing and oversight.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Republican Sen. Jim Banks and Democratic Sen. Adam Schiff have proposed legislation creating a narrow antitrust carveout allowing AI companies to share information about loss of control over AI systems, cyber or biological threats, and data exfiltration by Chinese companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "That bill has been folded into an annual defense bill.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Retail sentiment on Stocktwits was \"Bullish\" for OpenAI.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Retail sentiment on Stocktwits was \"Extremely Bullish\" for Anthropic.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Both tickers saw extremely high message volume.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-world-leaders-gather-for-un-general-assembly-as-"
+    },
+    {
+      "section": "tech-ai",
+      "story_id": "tech-ai-meta-s-muse-ai-assistant-hit-by-serious-0-day-vu"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-trucking-bankruptcies-surge-as-diesel-shortage-a"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "News outlets sue Trump; TV networks suspend pool; Trump launches 'Trump TV' as White House escalates press war",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Trump open to meeting Iran's president on UN sidelines, Rubio says",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Developing El Niño becomes strongest on record weeks before expected peak",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Viking Therapeutics skyrockets on 'stellar' obesity drug trial results",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "FDA approves imlunestrant plus abemaciclib for ESR1+ metastatic breast cancer",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "The worst El Niño in recorded history is brewing",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Congress Opposes Plan for Political Appointees to Review NIH Grants",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Grail shares jump 33% after FDA staff raise no major concerns ahead of advisory panel vote on cancer test",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Microsoft restructures Xbox: merges Forza studios, lays off 268, Activision takes over Halo",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
