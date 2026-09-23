@@ -1,0 +1,2622 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "edition": "Morning edition",
+  "generated_at": "2026-09-23T14:25:04+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": []
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-us-and-iran-hold-first-talks-since-june-after-tr",
+          "section": "world",
+          "headline": "US and Iran hold first talks since June after Trump threatens 'annihilation'",
+          "beat_label": "",
+          "byline": "International & World desk",
+          "body": [
+            "Top US and Iranian officials held talks at the United Nations in New York on Tuesday, marking the first direct engagement between the two countries since a ceasefire collapsed in June. The meeting, mediated by Qatar, involved Iranian Foreign Minister Abbas Araghchi and US President Donald Trump's envoy Steve Witkoff. No breakthrough was reported, but Witkoff described the discussions as 'constructive and promising' in a post on X, adding that mediators would continue their work.",
+            "The talks come hours after Trump, in an address to the UN General Assembly, threatened to 'annihilate' Iran if the conflict remained unresolved. 'Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?' Trump said. 'Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?' Trump framed the war with Iran as a success in preventing Tehran from obtaining a nuclear weapon and defended his strategy of 'peace through strength'—ultimatums rather than compromise.",
+            "Iranian state media confirmed the meeting. Foreign ministry spokesman Esmail Baghaei, quoted by state broadcaster IRNA, said negotiations were conducted through a Qatari mediator who conveyed Tehran's conditions, including an end to the war on all fronts and an end to US 'acts of aggression'. Iran has demanded that the US and Israel halt their military campaigns, including attacks against the Iran-backed Shia group Hezbollah in Lebanon.",
+            "The conflict escalated sharply on 28 February, when the US and Israel launched air strikes on Iran. Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf states, as well as blocking the Strait of Hormuz—a chokepoint through which about 20% of the world's oil and liquefied natural gas previously flowed. The closure has caused wild price fluctuations and increased pressure on Trump to end the war, particularly with US congressional elections in November.",
+            "Since the ceasefire collapsed, both sides have exchanged intermittent fire. Iran has attacked vessels attempting to cross the Strait of Hormuz without authorization, while the US has struck Iranian sites in the strait and Iranian tankers off the country's coast. The US has also maintained a blockade of Iranian ports, severely disrupting Iran's economy. Trump has threatened sanctions against any country continuing to trade with Iran, but there has been no indication of a change in Tehran's position. Meanwhile, Yemen's Houthis—also allied with Iran—have intensified attacks aimed at disrupting oil shipping from Saudi Arabia, widening the conflict."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Top US and Iranian officials held talks at the United Nations in New York on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The meeting marked the first direct engagement between the two countries since a ceasefire collapsed in June.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The meeting was mediated by Qatar.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The meeting involved Iranian Foreign Minister Abbas Araghchi and US President Donald Trump's envoy Steve Witkoff.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "No breakthrough was reported.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Witkoff described the discussions as 'constructive and promising' in a post on X.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Witkoff added that mediators would continue their work.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The talks came hours after Trump, in an address to the UN General Assembly, threatened to 'annihilate' Iran if the conflict remained unresolved.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump said: 'Will a deal be made with Iran that lets them rebuild and create a far greater country than it ever was before?'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump said: 'Or do I annihilate the Islamic Republic and do it quickly, never giving them a chance to kill and destroy people and countries again? Do I drive them into hell?'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump framed the war with Iran as a success in preventing Tehran from obtaining a nuclear weapon.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump defended his strategy of 'peace through strength'—ultimatums rather than compromise.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iranian state media confirmed the meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Foreign ministry spokesman Esmail Baghaei, quoted by state broadcaster IRNA, said negotiations were conducted through a Qatari mediator who conveyed Tehran's conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tehran's conditions included an end to the war on all fronts and an end to US 'acts of aggression'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran has demanded that the US and Israel halt their military campaigns, including attacks against the Iran-backed Shia group Hezbollah in Lebanon.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The conflict escalated sharply on 28 February.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "On 28 February, the US and Israel launched air strikes on Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran responded by attacking Israel and US bases in the Gulf and Arab Gulf states.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran responded by blocking the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "About 20% of the world's oil and liquefied natural gas previously flowed through the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The closure of the Strait of Hormuz has caused wild price fluctuations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The closure has increased pressure on Trump to end the war.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "US congressional elections are in November.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Since the ceasefire collapsed, both sides have exchanged intermittent fire.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran has attacked vessels attempting to cross the Strait of Hormuz without authorization.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The US has struck Iranian sites in the strait and Iranian tankers off the country's coast.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The US has maintained a blockade of Iranian ports.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The blockade has severely disrupted Iran's economy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump has threatened sanctions against any country continuing to trade with Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "There has been no indication of a change in Tehran's position.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Yemen's Houthis—also allied with Iran—have intensified attacks aimed at disrupting oil shipping from Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Houthi attacks have widened the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "world-dramatic-eviction-of-woman-aged-87-highlights-sp",
+          "section": "world",
+          "headline": "Eviction of 87-year-old tenant in Madrid highlights Spain's housing crisis",
+          "beat_label": "",
+          "byline": "International & World desk",
+          "body": [
+            "Police in Madrid forcibly evicted an 87-year-old woman from the apartment she had lived in for seven decades, in a case that has drawn widespread attention to Spain's acute housing shortage. The tenant, identified only as Maricarmen, had been unable to afford the rent set by Urbagestión, the investment firm that bought the property in 2018. Her father first rented the flat in the Retiro district in 1956, and she continued as a tenant under a rent cap. After purchasing the building, Urbagestión exploited a legal loophole to raise the monthly rent from €500 to €2,650, later lowering it to €1,650, still above her monthly pension of €1,350.",
+            "Three previous attempts to evict her had been blocked by the courts, but this time police cordoned off the street, removed protesters and journalists, and used batons against some demonstrators. Several hundred supporters, including celebrities such as actor Carlos Bardem and singer Ana Belén, had gathered outside overnight, chanting “Maricarmen stays” and blocking the building's stairs. In a tearful video posted on social media, Maricarmen thanked supporters for backing her against what she called “this cruel struggle by someone who wants to earn money.” Her lawyer, Beatriz Duro, described the police deployment as “completely disproportionate,” saying it was the first time officers had come to the door of the property.",
+            "The case has highlighted the depth of Spain's housing crisis, where a shortage of available homes has driven rental costs sharply higher. In Madrid, rents have more than doubled over the last decade, according to property site Idealista, with a 10% rise in the past year alone. The government of Prime Minister Pedro Sánchez has frequently targeted investment companies that push up housing costs, with Sánchez vowing in January to “protect those who are most exposed to that speculation and that greed.” However, critics argue the government has not built enough new homes and that its rhetoric discourages landlords from putting properties on the rental market.",
+            "In June, the UN Committee on Economic, Social and Cultural Rights called for the eviction to be halted and for affordable alternative housing to be offered. The local government said Maricarmen had declined a place in an elderly care home. The central government said Urbagestión had repeatedly refused to negotiate, and the BBC stated it had attempted to contact the company. A last-minute offer by an anonymous donor to cover most of her rent was reportedly rejected by Urbagestión, and the eviction proceeded.",
+            "Housing Minister Teresa Rodríguez called the eviction “a very sad day, a very dramatic day” that showed the effects of “unbridled speculation.” She accused the market of putting out “the red carpet for the vultures and the speculators.”"
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Police in Madrid forcibly evicted an 87-year-old woman from the apartment she had lived in for seven decades.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The tenant was identified only as Maricarmen.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Maricarmen had been unable to afford the rent set by Urbagestión, the investment firm that bought the property in 2018.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Her father first rented the flat in the Retiro district in 1956.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "After purchasing the building, Urbagestión exploited a legal loophole to raise the monthly rent from €500 to €2,650.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Urbagestión later lowered the rent to €1,650.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The lowered rent of €1,650 was still above Maricarmen's monthly pension of €1,350.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Three previous attempts to evict Maricarmen had been blocked by the courts.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Police cordoned off the street, removed protesters and journalists, and used batons against some demonstrators during the eviction.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Several hundred supporters, including celebrities such as actor Carlos Bardem and singer Ana Belén, had gathered outside overnight.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Supporters chanted “Maricarmen stays” and blocked the building's stairs.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In a tearful video posted on social media, Maricarmen thanked supporters for backing her against what she called “this cruel struggle by someone who wants to earn money.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Maricarmen's lawyer, Beatriz Duro, described the police deployment as “completely disproportionate.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Beatriz Duro said it was the first time officers had come to the door of the property.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The case has highlighted the depth of Spain's housing crisis.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Madrid, rents have more than doubled over the last decade, according to property site Idealista.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Idealista"
+                ]
+              },
+              {
+                "text": "In Madrid, rents rose by 10% in the past year alone, according to property site Idealista.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Idealista"
+                ]
+              },
+              {
+                "text": "The government of Prime Minister Pedro Sánchez has frequently targeted investment companies that push up housing costs.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Sánchez vowed in January to “protect those who are most exposed to that speculation and that greed.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Critics argue the government has not built enough new homes and that its rhetoric discourages landlords from putting properties on the rental market.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In June, the UN Committee on Economic, Social and Cultural Rights called for the eviction to be halted and for affordable alternative housing to be offered.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "UN Committee on Economic, Social and Cultural Rights"
+                ]
+              },
+              {
+                "text": "The local government said Maricarmen had declined a place in an elderly care home.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "local government"
+                ]
+              },
+              {
+                "text": "The central government said Urbagestión had repeatedly refused to negotiate.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "central government"
+                ]
+              },
+              {
+                "text": "The BBC stated it had attempted to contact Urbagestión.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A last-minute offer by an anonymous donor to cover most of her rent was reportedly rejected by Urbagestión.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The eviction proceeded after the offer was rejected.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Housing Minister Teresa Rodríguez called the eviction “a very sad day, a very dramatic day.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Teresa Rodríguez said the eviction showed the effects of “unbridled speculation.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Teresa Rodríguez accused the market of putting out “the red carpet for the vultures and the speculators.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "world-dolly-parton-s-manager-accuses-her-nephew-of-thr",
+          "section": "world",
+          "headline": "Dolly Parton manager seeks restraining order against nephew, citing threats",
+          "beat_label": "",
+          "byline": "International & World desk",
+          "body": [
+            "Dolly Parton's management company has accused her nephew Bryan Seaver of mounting an 'obscene, deliberate and escalating campaign of threats' and is seeking a temporary civil restraining order against him, according to US legal documents filed this week in Nashville.",
+            "The company that manages Parton's businesses and properties, She's Alive, which is run by her longtime manager Danny Nozell, alleged in court filings that Seaver threatened to ruin the late singer's empire if the estate did not pay him. The documents quote a series of exchanges in which someone identified by the estate as Seaver said he would become 'the hand of retribution for my entire family' and would set up a podcast dedicated to ruining Dolly's brand partnerships, adding: 'Pay me.'",
+            "Seaver, the son of Parton's sister Cassie, owned a company that provided Parton's security for the last 20 years of her life and was handpicked by her to announce her death last month. He was fired last week as head of security by She's Alive, which he called 'unexpected' and 'unexplained.' In his response, published by TMZ, Seaver denied making threats and said text messages and emails quoted in the court application were taken out of context, describing some exchanges as 'two guys having rage talk and crying on the phone together while we were grieving.'",
+            "The court papers also claim Seaver used his experience as a military contractor to intimidate employees. In an exchange with one of Parton's lawyers, he allegedly described himself as 'a killer' and said that on the day his aunt died he sold $27m (£20m) in arms and ammunition to the Haitian police, according to an email attached to the complaint. Seaver said he is 'a career soldier and military contractor and do conduct arms deals for foreign governments' but denied making threats, saying he was 'talking frankly in a private way with Danny who I thought was my friend.'",
+            "The alleged threats have prompted some employees and lawyers for Parton's trusts and estates to resign, according to the court documents. She's Alive has hired private security for its employees, including at their homes. In a statement last month, Nozell said Parton worked until the day she died on multiple projects and had built 'a project roadmap that will guide us for decades to come.' The estate now faces a public dispute over that legacy."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Dolly Parton's management company accused her nephew Bryan Seaver of mounting an 'obscene, deliberate and escalating campaign of threats'.",
+                "status": "supported",
+                "source_ids": [
+                  "US legal documents filed this week in Nashville"
+                ]
+              },
+              {
+                "text": "She's Alive, the management company, is seeking a temporary civil restraining order against Bryan Seaver.",
+                "status": "supported",
+                "source_ids": [
+                  "US legal documents filed this week in Nashville"
+                ]
+              },
+              {
+                "text": "She's Alive is run by Danny Nozell.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She's Alive alleged in court filings that Seaver threatened to ruin the late singer's empire if the estate did not pay him.",
+                "status": "supported",
+                "source_ids": [
+                  "court filings"
+                ]
+              },
+              {
+                "text": "The documents quote exchanges where someone identified as Seaver said he would become 'the hand of retribution for my entire family' and set up a podcast to ruin Dolly's brand partnerships, adding 'Pay me.'",
+                "status": "supported",
+                "source_ids": [
+                  "the documents"
+                ]
+              },
+              {
+                "text": "Bryan Seaver is the son of Parton's sister Cassie.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Seaver owned a company that provided Parton's security for the last 20 years of her life.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Seaver was handpicked by Parton to announce her death last month.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Seaver was fired last week as head of security by She's Alive.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Seaver called his firing 'unexpected' and 'unexplained.'",
+                "status": "supported",
+                "source_ids": [
+                  "his response published by TMZ"
+                ]
+              },
+              {
+                "text": "In his response, Seaver denied making threats.",
+                "status": "supported",
+                "source_ids": [
+                  "TMZ"
+                ]
+              },
+              {
+                "text": "Seaver said text messages and emails quoted in the court application were taken out of context, describing exchanges as 'two guys having rage talk and crying on the phone together while we were grieving.'",
+                "status": "supported",
+                "source_ids": [
+                  "TMZ"
+                ]
+              },
+              {
+                "text": "The court papers claim Seaver used his experience as a military contractor to intimidate employees.",
+                "status": "supported",
+                "source_ids": [
+                  "court papers"
+                ]
+              },
+              {
+                "text": "In an exchange with a lawyer, Seaver allegedly described himself as 'a killer' and said that on the day his aunt died he sold $27m (£20m) in arms and ammunition to the Haitian police, according to an email attached to the complaint.",
+                "status": "supported",
+                "source_ids": [
+                  "email attached to the complaint"
+                ]
+              },
+              {
+                "text": "Seaver said he is 'a career soldier and military contractor and do conduct arms deals for foreign governments' but denied making threats, saying he was 'talking frankly in a private way with Danny who I thought was my friend.'",
+                "status": "supported",
+                "source_ids": [
+                  "Seaver's statement (response)"
+                ]
+              },
+              {
+                "text": "The alleged threats prompted some employees and lawyers for Parton's trusts and estates to resign, according to the court documents.",
+                "status": "supported",
+                "source_ids": [
+                  "court documents"
+                ]
+              },
+              {
+                "text": "She's Alive has hired private security for its employees, including at their homes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In a statement last month, Nozell said Parton worked until the day she died on multiple projects and had built 'a project roadmap that will guide us for decades to come.'",
+                "status": "supported",
+                "source_ids": [
+                  "statement last month"
+                ]
+              },
+              {
+                "text": "Dolly Parton died last month.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The estate now faces a public dispute over its legacy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-markets-eye-trump-xi-meeting-amid-oil-trade-and-",
+          "section": "markets",
+          "headline": "Markets Eye Trump-Xi Meeting Amid Oil, Trade, and AI Talks",
+          "beat_label": "Geopolitics",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "U.S. stocks slipped on Wednesday as investors monitored diplomatic efforts with China and Iran, with the Dow Jones Industrial Average falling 0.2%, the S&P 500 slipping 0.1%, and the Nasdaq Composite dropping 0.3% after back-to-back record highs. The benchmark 10-year Treasury yield edged closer to 5%, adding friction for equities. Oil prices were little changed, with Brent crude futures trading below $100 per barrel and WTI crude below $91, as a potential thaw in U.S.-Iran relations remained uncertain after President Trump said U.S. and Iranian officials met for several hours at the U.N. on Tuesday.",
+            "President Trump is expected to greet Chinese President Xi Jinping at Joint Base Andrews, kicking off Xi's first visit to Washington, D.C., in 11 years. Experts do not expect major policy breakthroughs, but the leaders are expected to discuss trade, the war in Iran, rare earths, and artificial intelligence. A dinner with both presidents is planned for Thursday in Washington, with U.S. executives including Nvidia's Jensen Huang, OpenAI's Sam Altman, Google's Sundar Pichai, Tesla and SpaceX's Elon Musk, Citigroup's Jane Fraser, Amazon's Jeff Bezos, Apple's Tim Cook, Dell's Michael Dell, Meta's Mark Zuckerberg, and Microsoft's Satya Nadella expected to attend. On the Chinese side, business representatives under consideration include BYD, Xiaomi, CATL, Gotion, Hisense, Wanxiang, Bank of China, and COFCO Group, though no Chinese companies had been confirmed as invited as of Tuesday.",
+            "China's efforts to build self-sufficiency have reduced the threat to its domestic market from global trade developments, but the trade deficit that escalated tensions has yet to shrink significantly. U.S. concerns about artificial intelligence have gained prominence ahead of the meeting. While an escalation in trade tensions last April briefly sent the U.S. trade deficit with China to its lowest level since 2017, surging demand for AI-related parts has helped send it higher again so far this year, according to China Customs data accessed through Wind Information. However, think tank CF40 estimated that for the first time this year, AI-related exports fell significantly in August from a year ago. Macquarie's chief China economist Larry Hu noted that the recent performance of the PHLX Semiconductor Index \"does not bode well for China's export outlook over the next year.\"",
+            "Asia still accounts for more than 60% of U.S. imports, the same as before 'Liberation Day,' according to Jens Eskelund, president of the European Chamber of Commerce in China. He estimated between half and three-quarters of container traffic from China to Southeast Asia subsequently heads to other destinations. Eskelund said he previously expected China to account for 40% of global container exports in 2030, but that milestone was reached this summer. The economic slowdown has pushed companies in China to compete more fiercely with each other and foreign rivals. The American Chamber of Commerce in Shanghai said three-quarters of members responding to a survey saw Chinese rivals as more advanced, and domestic competition surpassed geopolitical tensions as the top challenge for members for the first time since 2022.",
+            "Goldman Sachs' chief China economist Hui Shan said in a Sept. 20 report that because there are always high-flying subsectors for the government to point to, policymakers do not appear to feel much urgency to introduce additional easing measures absent a sharp deterioration in the labor market. She noted house prices have already seen a 30% decline over a six-year timeline, typical of historical large-scale property downturns elsewhere, and that weak labor markets and still-falling rents are likely to prolong the downturn. The number of loss-making companies accounts for 24% of industrial firms in China in 2025. On the earnings front, shares of Cracker Barrel Old Country Store rose after the restaurant chain topped Wall Street's expectations."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "MarketWatch",
+            "Yahoo Finance",
+            "Investing.com",
+            "Business Insider"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html"
+            },
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html"
+            },
+            {
+              "outlet": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-flat-as-markets-parse-iran-talks-ai-optimism-4911928"
+            },
+            {
+              "outlet": "Business Insider",
+              "url": "https://www.businessinsider.com/stock-market-q3-earnings-outlook-trump-xi-china-geopolitical-risks-2026-9"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "U.S. stocks slipped on Wednesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dow Jones Industrial Average fell 0.2%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The S&P 500 slipped 0.1%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Nasdaq Composite dropped 0.3%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Nasdaq Composite had back-to-back record highs prior to the drop.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The benchmark 10-year Treasury yield edged closer to 5%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Oil prices were little changed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Brent crude futures traded below $100 per barrel.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "WTI crude traded below $91.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Trump said U.S. and Iranian officials met for several hours at the U.N. on Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Trump is expected to greet Chinese President Xi Jinping at Joint Base Andrews.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Xi Jinping's visit to Washington, D.C., is his first in 11 years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Experts do not expect major policy breakthroughs from the meeting.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The leaders are expected to discuss trade.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The leaders are expected to discuss the war in Iran.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The leaders are expected to discuss rare earths.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The leaders are expected to discuss artificial intelligence.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A dinner with both presidents is planned for Thursday in Washington.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "U.S. executives including Nvidia's Jensen Huang, OpenAI's Sam Altman, Google's Sundar Pichai, Tesla and SpaceX's Elon Musk, Citigroup's Jane Fraser, Amazon's Jeff Bezos, Apple's Tim Cook, Dell's Michael Dell, Meta's Mark Zuckerberg, and Microsoft's Satya Nadella are expected to attend the dinner.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On the Chinese side, business representatives under consideration include BYD, Xiaomi, CATL, Gotion, Hisense, Wanxiang, Bank of China, and COFCO Group.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "No Chinese companies had been confirmed as invited as of Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "China's efforts to build self-sufficiency have reduced the threat to its domestic market from global trade developments.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The trade deficit that escalated tensions has yet to shrink significantly.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "U.S. concerns about artificial intelligence have gained prominence ahead of the meeting.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "An escalation in trade tensions last April briefly sent the U.S. trade deficit with China to its lowest level since 2017.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Surging demand for AI-related parts has helped send the U.S. trade deficit with China higher again so far this year.",
+                "status": "supported",
+                "source_ids": [
+                  "China Customs data accessed through Wind Information"
+                ]
+              },
+              {
+                "text": "Think tank CF40 estimated that for the first time this year, AI-related exports fell significantly in August from a year ago.",
+                "status": "supported",
+                "source_ids": [
+                  "CF40"
+                ]
+              },
+              {
+                "text": "Macquarie's chief China economist Larry Hu noted that the recent performance of the PHLX Semiconductor Index does not bode well for China's export outlook over the next year.",
+                "status": "supported",
+                "source_ids": [
+                  "Macquarie"
+                ]
+              },
+              {
+                "text": "Asia still accounts for more than 60% of U.S. imports.",
+                "status": "supported",
+                "source_ids": [
+                  "Jens Eskelund, president of the European Chamber of Commerce in China"
+                ]
+              },
+              {
+                "text": "Asia's share of U.S. imports is the same as before 'Liberation Day.'",
+                "status": "supported",
+                "source_ids": [
+                  "Jens Eskelund"
+                ]
+              },
+              {
+                "text": "Jens Eskelund estimated between half and three-quarters of container traffic from China to Southeast Asia subsequently heads to other destinations.",
+                "status": "supported",
+                "source_ids": [
+                  "Jens Eskelund"
+                ]
+              },
+              {
+                "text": "Eskelund said he previously expected China to account for 40% of global container exports in 2030.",
+                "status": "supported",
+                "source_ids": [
+                  "Jens Eskelund"
+                ]
+              },
+              {
+                "text": "China reached 40% of global container exports this summer.",
+                "status": "supported",
+                "source_ids": [
+                  "Jens Eskelund"
+                ]
+              },
+              {
+                "text": "The economic slowdown has pushed companies in China to compete more fiercely with each other and foreign rivals.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The American Chamber of Commerce in Shanghai said three-quarters of members responding to a survey saw Chinese rivals as more advanced.",
+                "status": "supported",
+                "source_ids": [
+                  "American Chamber of Commerce in Shanghai"
+                ]
+              },
+              {
+                "text": "Domestic competition surpassed geopolitical tensions as the top challenge for members for the first time since 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "American Chamber of Commerce in Shanghai"
+                ]
+              },
+              {
+                "text": "Goldman Sachs' chief China economist Hui Shan said in a Sept. 20 report that policymakers do not appear to feel much urgency to introduce additional easing measures absent a sharp deterioration in the labor market.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "Hui Shan noted house prices have already seen a 30% decline over a six-year timeline.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "Hui Shan noted that weak labor markets and still-falling rents are likely to prolong the downturn.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "The number of loss-making companies accounts for 24% of industrial firms in China in 2025.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Shares of Cracker Barrel Old Country Store rose after the restaurant chain topped Wall Street's expectations.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "markets-fed-officials-signal-persistent-inflation-furthe",
+          "section": "markets",
+          "headline": "Fed Officials Warn Inflation Stubborn, Signal Likely Further Rate Hikes",
+          "beat_label": "Central Banks",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Two Federal Reserve officials this week signaled concerns about inflation. Richmond Fed President Thomas Barkin said the economy may be firming and that price pressures are not limited to energy and tariff shocks, while Boston Fed President Susan Collins warned of an 'increased likelihood' that inflation will stay 'notably' above the target. Collins, who voted for the Fed's quarter-point rate hike last week, said a 'somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.'",
+            "Collins, writing in a LinkedIn post, noted that 'upside risks to inflation have increased' and that labor market conditions appear 'a bit stronger overall.' Although she is not a voting member on the Federal Open Market Committee this year, she participated in all eight FOMC meetings in 2025 when the Boston Fed held a voting seat, backing a hold in July and quarter-point cuts in September, October, and December. Her comments align with those of European Central Bank executive board member Philip R. Lane, who said Tuesday that a 'second wave of rising energy prices' is likely to keep inflation 'higher for longer' in the eurozone.",
+            "Financial markets are broadly split on the next move: according to CME Group's FedWatch tool, 53.1% of traders currently expect a 25-basis-point rate increase at the FOMC's October meeting. The Fed has two more policy meetings this year, and agricultural finance specialist Bryon Parman of North Dakota State University noted that 'a lot of the market is thinking that there might be another quarter of a percent increase before the end of the year.'",
+            "The rate hike already enacted is affecting farmers, as operating loans for daily expenses like feed, seeds, and crop insurance are renewed annually and are immediately subject to rising interest rates. Pam Uhlenkamp, a farm business management instructor at South Central College in Minnesota, explained that farmers will likely feel the effect next month and when they renew loans for next year. 'What happens is the cost to produce a bushel of corn goes up because we have higher fertilizer costs, higher fuel costs, which means now we need to borrow more off our operating note just to operate,' she said. 'Then that trickles down into if we have to borrow more, plus the interest rate is higher, it compounds our interest.'",
+            "Parman added that the rate hike presents a dilemma: farmers often pay off operating loans with crop sales, but storing crops to wait for better prices now incurs a roughly 7% monthly cost. 'If I'm holding it with an operating loan sitting out there at, let's say 7 percent interest, that's what it's costing me every month that I don't sell and pay off that note,' he said. The Fed's next moves will determine whether those financing costs rise further, affecting not only operating loans but also new equipment purchases and land loans."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Reuters",
+            "CNBC",
+            "mprnews.org",
+            "Scotsman Guide"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/feds-barkin-says-economy-may-be-firming-inflation-not-limited-energy-tariff-2026-09-22/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/23/federal-reserve-inflation-interest-rates-ecb.html"
+            },
+            {
+              "outlet": "mprnews.org",
+              "url": "https://www.mprnews.org/story/2026/09/23/minnesota-farmers-interest-rates-mean-bigger-loan-payments"
+            },
+            {
+              "outlet": "Scotsman Guide",
+              "url": "https://www.scotsmanguide.com/news/fed-eyes-tightening-cycle-haunted-by-covid-era-housing-stimulus/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Two Federal Reserve officials this week signaled concerns about inflation.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Richmond Fed President Thomas Barkin said the economy may be firming.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Richmond Fed President Thomas Barkin said price pressures are not limited to energy and tariff shocks.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Boston Fed President Susan Collins warned of an 'increased likelihood' that inflation will stay 'notably' above the target.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins voted for the Fed's quarter-point rate hike last week.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins said a 'somewhat more restrictive federal funds rate will help ensure that inflation durably returns to target.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins noted that upside risks to inflation have increased.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins noted that labor market conditions appear 'a bit stronger overall.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins is not a voting member on the Federal Open Market Committee this year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins participated in all eight FOMC meetings in 2025 when the Boston Fed held a voting seat.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Susan Collins backed a hold in July and quarter-point cuts in September, October, and December.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Collins' comments align with those of European Central Bank executive board member Philip R. Lane.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Philip R. Lane said Tuesday that a 'second wave of rising energy prices' is likely to keep inflation 'higher for longer' in the eurozone.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "According to CME Group's FedWatch tool, 53.1% of traders currently expect a 25-basis-point rate increase at the FOMC's October meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The Fed has two more policy meetings this year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Agricultural finance specialist Bryon Parman noted that 'a lot of the market is thinking that there might be another quarter of a percent increase before the end of the year.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The rate hike already enacted is affecting farmers, as operating loans for daily expenses like feed, seeds, and crop insurance are renewed annually and are immediately subject to rising interest rates.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Pam Uhlenkamp explained that farmers will likely feel the effect next month and when they renew loans for next year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Pam Uhlenkamp said that the cost to produce a bushel of corn goes up because of higher fertilizer costs and higher fuel costs.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Pam Uhlenkamp said that farmers need to borrow more off their operating note just to operate.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Pam Uhlenkamp said that if farmers have to borrow more, plus the interest rate is higher, it compounds their interest.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Bryon Parman said that farmers often pay off operating loans with crop sales.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Bryon Parman said that storing crops to wait for better prices now incurs a roughly 7% monthly cost.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The Fed's next moves will determine whether financing costs rise further, affecting not only operating loans but also new equipment purchases and land loans.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,719.36",
+            "chg": "+1.30%",
+            "dir": "up",
+            "spark": "1.5,10.7 9.7,12.5 17.9,8.1 26.1,7.4 34.3,1.5 42.5,3.8"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,934.01",
+            "chg": "+2.85%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,12.5 17.9,8.3 26.1,7.3 34.3,1.5 42.5,3.3"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,792.88",
+            "chg": "−1.20%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,12.5 17.9,7.0 26.1,8.7 34.3,2.3 42.5,6.7"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,859.61",
+            "chg": "−1.13%",
+            "dir": "down",
+            "spark": "1.5,4.9 9.7,12.5 17.9,2.0 26.1,11.4 34.3,1.5 42.5,12.0"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.05%",
+            "chg": "+5 bp",
+            "dir": "up",
+            "spark": "1.5,7.3 9.7,6.2 17.9,12.5 26.1,7.1 34.3,10.8 42.5,1.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$91.89",
+            "chg": "−10.3%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,2.0 17.9,3.7 26.1,8.4 34.3,9.7 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,315.70",
+            "chg": "−1.64%",
+            "dir": "down",
+            "spark": "1.5,5.3 9.7,4.0 17.9,1.5 26.1,5.6 34.3,6.4 42.5,12.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$83,980",
+            "chg": "+9.92%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,7.6 15.2,7.3 22.0,7.4 28.8,1.5 35.7,2.0 42.5,4.3"
+          },
+          {
+            "sym": "VIX",
+            "val": "14.7",
+            "chg": "−14.7%",
+            "dir": "down",
+            "spark": "1.5,3.3 9.7,1.5 17.9,9.7 26.1,12.0 34.3,11.8 42.5,12.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "+23.6%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "+12.0%",
+            "dir": "up"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−10.4%",
+            "dir": "down"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "+6.93%",
+            "dir": "up"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "+5.75%",
+            "dir": "up"
+          },
+          {
+            "sym": "DIS",
+            "chg": "−4.13%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "10:30 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-kawhi-leonard-signs-115m-extension-with-raptors",
+          "section": "sports",
+          "headline": "Kawhi Leonard signs two-year, $115M extension with Raptors",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "Kawhi Leonard has agreed to a two-year, $115 million contract extension with the Toronto Raptors, according to ESPN. The deal comes on the heels of the NBA's lengthy investigation into Leonard's dealings with Aspiration and several other sponsors, which resulted in the Los Angeles Clippers being stripped of five first-round picks and fined $30 million. Leonard himself was fined $700,000 with no suspension or voided contract, and his trade to Toronto, initially agreed to in June, was completed after the investigation concluded.",
+            "Leonard's new deal comes in slightly below his maximum salary, the second straight contract for him in which that has been the case. Because Leonard, 35, was just traded, he was limited to a 20% raise in the first year of his new deal. Had he waited six months to extend, he would have been eligible for a true maximum closer to $128 million. In exchange for that slight discount, Leonard received a player option for the 2028-29 season, allowing him to become a free agent in the summer of 2028 when he is 37. The extension was limited to two years because of the over-38 rule, but Leonard will be able to sign a multi-year deal in 2028 if he still commands one.",
+            "The Raptors returned to the playoffs last season after a three-year drought and pushed the Cleveland Cavaliers to seven games in the first round despite several serious injuries. By swapping out Brandon Ingram and Gradey Dick for Leonard, they hope to take the next step from plucky playoff team to genuine championship contender. Toronto's last trade for Leonard yielded a championship, and with a young and deep roster around him, the hope is this deal will as well. Financially, the Raptors were looking at around $87 million in luxury tax room going into the 2027-28 season; Leonard will eat up the bulk of that space. They also have internal free agents RJ Barrett and Jamal Shead after this season, and Ja'Kobe Walter becomes extension eligible later, so retaining those players could push Toronto into the tax and aprons.",
+            "Leonard's player option could help Toronto manage its roster, as older players routinely lower their annual salary in exchange for extra years of security. The Raptors may solve fitting supporting players beyond the next two seasons by having Leonard opt out and extend again in 2028 for multiple years at a slightly lower figure. Leonard's deal also places him in the $500 million career earnings club, joining Kevin Durant, LeBron James, Stephen Curry, James Harden, Paul George, Joel Embiid, and Donovan Mitchell as the eighth player in NBA history to reach that threshold. Nikola Jokić and Giannis Antetokounmpo are near locks to join soon, while Shai Gilgeous-Alexander ($472 million), Jayson Tatum ($469 million), and Jaylen Brown ($420 million) are close.",
+            "The extension drew a reaction from Leonard's former teammate Patrick Beverley, who posted a lengthy Instagram video. Beverley, known as \"Mr. 94 Feet\" for his defensive pressure, referenced his own history with the Clippers, including claims that owner Steve Ballmer promised to build 94 basketball courts around Los Angeles during contract negotiations but only four were built. Beverley also previously said he took less money to stay with the Clippers before becoming frustrated when Leonard was involved in his contract discussions. In the video, Beverley said, \"Yeah man, he cold. Yeah, K, you cold. You cold man. For real man. Real Ninja award. Belongs to you man. For real. You cold.\" He never directly accused Leonard of taking advantage of the Clippers, but contrasted Leonard's new $115 million deal with the franchise's loss of draft capital, money, and key executives.",
+            "The Clippers initially rejected the league's findings before later accepting the penalties, including a one-year suspension for owner Steve Ballmer. The Raptors, meanwhile, face tight financial decisions ahead, with Immanuel Quickley still owed $97.5 million over three years and Jakob Poeltl making $28 million per year, while Collin Murray-Boyles is likely to close games as the team's big man. The deal also represents a market reset for players in their late 30s, as Durant and Leonard both signed for less than their maximum."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CBS Sports",
+            "ESPN",
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nba/news/kawhi-leonard-toronto-raptors-contract-extension/"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50007389/raptors-agree-2-year-115m-extension-kawhi-leonard"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/cold-real-ninja-award-kawhi-120000014.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Kawhi Leonard has agreed to a two-year, $115 million contract extension with the Toronto Raptors.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "The deal comes on the heels of the NBA's lengthy investigation into Leonard's dealings with Aspiration and several other sponsors.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The investigation resulted in the Los Angeles Clippers being stripped of five first-round picks and fined $30 million.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leonard himself was fined $700,000 with no suspension or voided contract.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "His trade to Toronto, initially agreed to in June, was completed after the investigation concluded.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leonard's new deal comes in slightly below his maximum salary.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "This is the second straight contract for Leonard in which that has been the case.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Because Leonard, 35, was just traded, he was limited to a 20% raise in the first year of his new deal.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Had he waited six months to extend, he would have been eligible for a true maximum closer to $128 million.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In exchange for that slight discount, Leonard received a player option for the 2028-29 season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The player option allows him to become a free agent in the summer of 2028 when he is 37.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The extension was limited to two years because of the over-38 rule.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leonard will be able to sign a multi-year deal in 2028 if he still commands one.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Raptors returned to the playoffs last season after a three-year drought.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "They pushed the Cleveland Cavaliers to seven games in the first round despite several serious injuries.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Toronto's last trade for Leonard yielded a championship.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Financially, the Raptors were looking at around $87 million in luxury tax room going into the 2027-28 season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leonard will eat up the bulk of that $87 million luxury tax space.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "They have internal free agents RJ Barrett and Jamal Shead after this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ja'Kobe Walter becomes extension eligible later.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Retaining RJ Barrett, Jamal Shead, and Ja'Kobe Walter could push Toronto into the tax and aprons.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In the NBA, older players routinely lower their annual salary in exchange for extra years of security.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leonard's deal places him in the $500 million career earnings club.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "He joins Kevin Durant, LeBron James, Stephen Curry, James Harden, Paul George, Joel Embiid, and Donovan Mitchell as the eighth player in NBA history to reach that threshold.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Nikola Jokić and Giannis Antetokounmpo are near locks to join the $500 million career earnings club soon.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Shai Gilgeous-Alexander has $472 million in career earnings, Jayson Tatum $469 million, and Jaylen Brown $420 million.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The extension drew a reaction from Leonard's former teammate Patrick Beverley, who posted a lengthy Instagram video.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Beverley, known as 'Mr. 94 Feet' for his defensive pressure, referenced his own history with the Clippers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Beverley claimed that Clippers owner Steve Ballmer promised to build 94 basketball courts around Los Angeles during contract negotiations but only four were built.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Beverley previously said he took less money to stay with the Clippers before becoming frustrated when Leonard was involved in his contract discussions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In the video, Beverley said, 'Yeah man, he cold. Yeah, K, you cold. You cold man. For real man. Real Ninja award. Belongs to you man. For real. You cold.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Beverley never directly accused Leonard of taking advantage of the Clippers, but contrasted Leonard's new $115 million deal with the franchise's loss of draft capital, money, and key executives.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Clippers initially rejected the league's findings before later accepting the penalties, including a one-year suspension for owner Steve Ballmer.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Raptors face tight financial decisions ahead, with Immanuel Quickley still owed $97.5 million over three years and Jakob Poeltl making $28 million per year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Collin Murray-Boyles is likely to close games as the team's big man.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The deal represents a market reset for players in their late 30s, as Kevin Durant and Kawhi Leonard both signed for less than their maximum salary.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7,
+          "significance": 0.58,
+          "image": {
+            "url": "static/img/2026-09-23/sports-kawhi-leonard-signs-115m-extension-with-raptors.jpg",
+            "alt": "Photograph of Toronto Raptors basketball team",
+            "credit": "Photo: Vanstrat / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 563
+          }
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-fda-advisers-to-vote-on-grail-s-multi-cancer-blo",
+          "section": "health-science",
+          "headline": "FDA advisers vote on Grail's multi-cancer blood test",
+          "beat_label": "FDA",
+          "byline": "Health & Science desk",
+          "body": [
+            "A key advisory committee to the Food and Drug Administration is meeting today to vote on whether the agency should approve the first multi-cancer blood test, made by Grail. The Galleri test, which costs $949, claims to detect up to 50 forms of cancer, many of which are not routinely screened for today. The panel of independent experts will hear from Grail, FDA officials and the public before making a recommendation; the FDA often follows such advice but is not required to.",
+            "The test works through a simple blood draw, looking for genetic material or other cancer markers shed into the blood. Grail says Galleri should be used in addition to standard screenings like colonoscopies and mammograms, not as a replacement. While some blood tests for cancer already exist on the market, none that screen for multiple cancers have undergone FDA safety and accuracy reviews to win approval so far.",
+            "The advisory committee is reviewing two major Grail-sponsored clinical studies: one conducted within the U.K.'s National Health Service involving more than 140,000 participants, and another of over 35,000 North American patients, all over age 50. The studies did not meet their primary endpoints of reducing overall mortality or the combined number of Stage III and Stage IV cancer diagnoses. However, in subsequent updates to the NHS study, Grail reported that Stage IV cancer diagnoses decreased over the three-year study period, suggesting the test may have shifted diagnoses to earlier stages.",
+            "The FDA has laid out key questions for the committee, centered on whether the clinical data show the test detects cancers reliably and early enough to justify its marketing claims. The agency also wants to consider potential harm from false results and may require the company to include caveats, such as warnings that a negative result does not rule out cancer nor does a positive result definitively signify cancer.",
+            "The financial stakes are high: Congress has approved Medicare coverage for multi-cancer detection tests that receive FDA approval, and the agency expedited its review of Galleri, which is seen as a bellwether for the entire industry. \"It's a new era for early cancer detection, and if the FDA approves it, it validates the overall concept,\" said Cristian Tomasetti, director of City of Hope cancer center's early detection and monitoring division. Tomasetti, who previously worked on a competing test technology, acknowledged that Galleri's studies did not meet their endpoints but attributed that to ambitious goals and short study duration, noting that longer-term studies are needed. Oncologist Tom Beer, chief medical officer for Abbott Cancer Diagnostics, which is developing a competing test, said he is \"keenly aware every week when I'm in the clinic, of how many patients are diagnosed with cancers that we don't screen for,\" noting that 70% of cancer diagnoses and deaths come from diseases like pancreatic cancer that lack routine screening."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "qz.com"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/09/23/nx-s1-5978122/fda-blood-cancer-test-galleri",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "qz.com",
+              "url": "https://qz.com/fda-advisers-grail-galleri-multicancer-blood-test-092326"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A key advisory committee to the Food and Drug Administration is meeting today to vote on whether the agency should approve the first multi-cancer blood test, made by Grail.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Galleri test costs $949.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Galleri test claims to detect up to 50 forms of cancer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Many of the cancers the Galleri test claims to detect are not routinely screened for today.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The panel of independent experts will hear from Grail, FDA officials and the public before making a recommendation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The FDA often follows such advice but is not required to.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The test works through a simple blood draw.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The test looks for genetic material or other cancer markers shed into the blood.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Grail says Galleri should be used in addition to standard screenings like colonoscopies and mammograms, not as a replacement.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Some blood tests for cancer already exist on the market.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "None of the blood tests that screen for multiple cancers have undergone FDA safety and accuracy reviews to win approval so far.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The advisory committee is reviewing two major Grail-sponsored clinical studies.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "One clinical study was conducted within the U.K.'s National Health Service involving more than 140,000 participants.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Another clinical study involved over 35,000 North American patients, all over age 50.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The studies did not meet their primary endpoints of reducing overall mortality or the combined number of Stage III and Stage IV cancer diagnoses.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In subsequent updates to the NHS study, Grail reported that Stage IV cancer diagnoses decreased over the three-year study period.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The FDA has laid out key questions for the committee, centered on whether the clinical data show the test detects cancers reliably and early enough to justify its marketing claims.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The agency also wants to consider potential harm from false results.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The FDA may require the company to include caveats, such as warnings that a negative result does not rule out cancer nor does a positive result definitively signify cancer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Congress has approved Medicare coverage for multi-cancer detection tests that receive FDA approval.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The agency expedited its review of Galleri.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Galleri is seen as a bellwether for the entire industry.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti is director of City of Hope cancer center's early detection and monitoring division.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti said, \"It's a new era for early cancer detection, and if the FDA approves it, it validates the overall concept.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti previously worked on a competing test technology.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti acknowledged that Galleri's studies did not meet their endpoints.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti attributed the studies not meeting endpoints to ambitious goals and short study duration.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Cristian Tomasetti noted that longer-term studies are needed.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tom Beer is chief medical officer for Abbott Cancer Diagnostics.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Abbott Cancer Diagnostics is developing a competing test.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tom Beer said he is \"keenly aware every week when I'm in the clinic, of how many patients are diagnosed with cancers that we don't screen for.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tom Beer noted that 70% of cancer diagnoses and deaths come from diseases like pancreatic cancer that lack routine screening.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.72,
+          "image": {
+            "url": "static/img/2026-09-23/health-science-fda-advisers-to-vote-on-grail-s-multi-cancer-blo.jpg",
+            "alt": "Photograph of Grail multi-cancer blood test kit",
+            "credit": "Photo: NASA / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 823
+          }
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-trump-renames-ai-to-super-intelligence-in-us-doc",
+          "section": "tech-ai",
+          "headline": "Trump says AI will be renamed 'super intelligence' in all U.S. documents",
+          "beat_label": "Policy",
+          "byline": "Tech / AI desk",
+          "body": [
+            "President Donald Trump announced during his keynote speech at the United Nations General Assembly that he is renaming artificial intelligence to 'Super Intelligence' in all U.S. government documents. 'The use of the word artificial makes intelligence fake... It is not fake. It's actually amazing,' Trump said, according to CNBC.",
+            "The rebranding effort comes as Trump prepares to host Chinese President Xi Jinping in Washington, D.C., later this week, with AI safety and competition expected to be a key topic. The president has dismissed warnings about the technology's rapid development, calling them a 'hoax' and 'scam.'",
+            "Later Wednesday, OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, and Hugging Face CEO Clément Delangue are scheduled to address the United Nations Security Council to debate AI safety and regulation. The appearance follows growing calls to slow the pace of frontier AI models.",
+            "In a related development, OpenAI and Anthropic released new, lower-cost AI models on Tuesday. OpenAI introduced GPT-6 Sol and GPT-6 Luna, cutting API prices by 50% compared with GPT-5.6 promotional pricing, with Sol for complex tasks and Luna for high-volume work. Anthropic unveiled Claude Opus 5.5, its latest offering in the Claude 5.5 family.",
+            "Investors responded positively, with technology stocks rallying and the Nasdaq hitting a new all-time intraday high and record close on Tuesday. Futures were flat in early Wednesday trading amid a broadly positive handover from Asia."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.15,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "CNBC",
+            "Washington Post"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/09/23/trump-super-intelligence-artificial-intelligence.html"
+            },
+            {
+              "outlet": "Washington Post",
+              "url": "https://www.washingtonpost.com/technology/2026/09/22/trump-says-hes-renaming-ai-super-intelligence/",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Donald Trump announced during his keynote speech at the United Nations General Assembly that he is renaming artificial intelligence to 'Super Intelligence' in all U.S. government documents.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Trump said, 'The use of the word artificial makes intelligence fake... It is not fake. It's actually amazing,' according to CNBC.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The rebranding effort comes as Trump prepares to host Chinese President Xi Jinping in Washington, D.C., later this week.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI safety and competition are expected to be a key topic in Trump's meeting with Xi Jinping.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump has dismissed warnings about the technology's rapid development, calling them a 'hoax' and 'scam.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Later Wednesday, OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, and Hugging Face CEO Clément Delangue are scheduled to address the United Nations Security Council to debate AI safety and regulation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The appearance by the CEOs follows growing calls to slow the pace of frontier AI models.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "OpenAI and Anthropic released new, lower-cost AI models on Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "OpenAI introduced GPT-6 Sol and GPT-6 Luna, cutting API prices by 50% compared with GPT-5.6 promotional pricing.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "GPT-6 Sol is for complex tasks and GPT-6 Luna is for high-volume work.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Anthropic unveiled Claude Opus 5.5, its latest offering in the Claude 5.5 family.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Investors responded positively, with technology stocks rallying and the Nasdaq hitting a new all-time intraday high and record close on Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Futures were flat in early Wednesday trading amid a broadly positive handover from Asia.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "tech-ai-anthropic-and-openai-launch-cheaper-more-powerfu",
+          "section": "tech-ai",
+          "headline": "Anthropic and OpenAI release cheaper, more efficient AI models",
+          "beat_label": "AI Models",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Anthropic and OpenAI both released new AI models today that prioritize cost reduction and efficiency over groundbreaking new capabilities, intensifying competition for enterprise customers who are increasingly turning to cheaper, open-weight alternatives. Anthropic launched Opus 5.5, the latest version of its flagship workhorse model, while OpenAI announced GPT-6 Sol and Luna, the newest iterations of its mid-range and smaller models focused on speed and affordability. The releases come just weeks after OpenAI launched the more powerful GPT-6 Astra, which the company said is the 'world’s best model' for computer work and coding.",
+            "Anthropic says Opus 5.5 sets a new state-of-the-art in coding and knowledge work performance, outperforming its own larger Fable model in many benchmarks and succeeding in tasks Fable could not complete. The company reports the model also compares favorably to its Mythos model in biology and cybersecurity capabilities. OpenAI claims GPT-6 Sol makes about half as many mistakes on factual accuracy as its predecessor, reaching the reliability of GPT-6 Astra at lower cost. The new GPT-6 Sol and Luna models are available across OpenAI’s ChatGPT Work, Codex, and API, with Luna rolling out to the desktop app, Free, and Go tiers throughout the day.",
+            "The primary focus of both releases is cost savings. Anthropic priced Opus 5.5 at $4 per million input tokens and $20 per million output tokens, a 20% reduction from Opus 5. Cache reads, which account for most agentic and coding workload costs, are priced at $0.20 per million tokens, a 60% decrease. The model also generates output more than 30% faster than Opus 5. OpenAI said the GPT-6 series of Sol and Luna will be available at half the cost of the previous 5.6 generation, attributing the price drop to improvements in caching and inference. Opus 5.5 also communicates with less jargon and places important information earlier in responses, Anthropic noted.",
+            "These releases reflect broader market dynamics as organizations adopt model routers and other practices to reduce reliance on expensive frontier models. Anthropic and OpenAI both argue the new models push the frontier modestly while substantially reducing costs. Anthropic’s launch of Opus 5.5 came roughly 90 minutes before OpenAI’s announcement, underscoring the intense rivalry between the two companies. OpenAI repeatedly claims its new Sol and Luna models handle tasks substantially better than Anthropic’s top offerings, including Fable and Opus.",
+            "Opus 5.5 is Anthropic’s first model release since CEO Dario Amodei publicly embraced a deliberate slowdown in AI capabilities advancement to allow safety measures to keep pace. The company said the model’s safety training was broadly similar to its predecessors, with external evaluations by organizations including METR and Frontier Design. Anthropic noted that more advanced training and evaluation systems, including improved security and monitoring systems, were already being prepared for future models. Anthropic also announced that Sonnet 5.5 and Haiku 5.5 — the middle and fastest tiers of its Claude lineup — will be released in the coming weeks with similar performance improvements."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Anthropic and OpenAI both released new AI models today.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The new models prioritize cost reduction and efficiency over groundbreaking new capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Enterprise customers are increasingly turning to cheaper, open-weight alternatives.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic launched Opus 5.5, the latest version of its flagship workhorse model.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI announced GPT-6 Sol and Luna, the newest iterations of its mid-range and smaller models focused on speed and affordability.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The releases come just weeks after OpenAI launched the more powerful GPT-6 Astra.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI said GPT-6 Astra is the 'world’s best model' for computer work and coding.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic says Opus 5.5 sets a new state-of-the-art in coding and knowledge work performance.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Opus 5.5 outperforms Anthropic's own larger Fable model in many benchmarks.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Opus 5.5 succeeds in tasks Fable could not complete.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic reports Opus 5.5 compares favorably to its Mythos model in biology and cybersecurity capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI claims GPT-6 Sol makes about half as many mistakes on factual accuracy as its predecessor.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "GPT-6 Sol reaches the reliability of GPT-6 Astra at lower cost.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The new GPT-6 Sol and Luna models are available across OpenAI’s ChatGPT Work, Codex, and API.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Luna is rolling out to the desktop app, Free, and Go tiers throughout the day.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The primary focus of both releases is cost savings.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic priced Opus 5.5 at $4 per million input tokens and $20 per million output tokens.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "The pricing for Opus 5.5 is a 20% reduction from Opus 5.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Cache reads for Opus 5.5 are priced at $0.20 per million tokens, a 60% decrease.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Opus 5.5 generates output more than 30% faster than Opus 5.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI said the GPT-6 series of Sol and Luna will be available at half the cost of the previous 5.6 generation.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI attributes the price drop to improvements in caching and inference.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Opus 5.5 communicates with less jargon and places important information earlier in responses, according to Anthropic.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Organizations are adopting model routers and other practices to reduce reliance on expensive frontier models.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic and OpenAI both argue the new models push the frontier modestly while substantially reducing costs.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic’s launch of Opus 5.5 came roughly 90 minutes before OpenAI’s announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "OpenAI repeatedly claims its new Sol and Luna models handle tasks substantially better than Anthropic’s top offerings, including Fable and Opus.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Opus 5.5 is Anthropic’s first model release since CEO Dario Amodei publicly embraced a deliberate slowdown in AI capabilities advancement to allow safety measures to keep pace.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic said Opus 5.5’s safety training was broadly similar to its predecessors, with external evaluations by organizations including METR and Frontier Design.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic noted that more advanced training and evaluation systems, including improved security and monitoring systems, were already being prepared for future models.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              },
+              {
+                "text": "Anthropic announced that Sonnet 5.5 and Haiku 5.5 will be released in the coming weeks with similar performance improvements.",
+                "status": "supported",
+                "source_ids": [
+                  "The article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "tech-ai-bern-sanders-unveils-bill-to-ban-artificial-supe",
+          "section": "tech-ai",
+          "headline": "Bernie Sanders bill would ban artificial superintelligence, create federal AI agency",
+          "beat_label": "Congress",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Sens. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) on Wednesday unveiled legislation that would permanently ban artificial superintelligence and create a new federal Department of Artificial Intelligence to oversee advanced AI. The bill, provided first to The Associated Press, would also pause advanced AI development until federal safety guidelines are implemented. Multiple employees at leading AI companies have endorsed the measure. \"It doesn't take a genius to say, 'slow it down,'\" Sanders told the AP. \"Do we really want to develop a super intelligence that when it becomes smarter than human beings could act independently of human control? I don't think we do.\"",
+            "The legislation defines artificial superintelligence as a system that exceeds human cognitive ability or has sufficient capabilities to plan and execute the destruction or disempowerment of humanity. It would permanently prohibit such systems and temporarily halt work on the most advanced AI until the new department establishes safety rules; advanced systems would then require federal approval before deployment. Violations could carry penalties including up to 20 years in prison in some cases. Supporting statements from AI employees were included in the bill announcement: Juan Felipe Cerón Uribe, a researcher in OpenAI's Safety Systems, said \"superintelligence could either go extremely right or extremely wrong\" and \"we shouldn't be playing such games.\" Swante Scholz, a software engineer at Google DeepMind speaking personally, said on the current path of development the \"most likely outcome is an existential catastrophe for humanity\" and that \"a ban on superintelligence development would be a positive change for the foreseeable future.\"",
+            "Congress has so far done little to regulate the AI industry even as prominent leaders, including Anthropic's Dario Amodei, OpenAI's Sam Altman and xAI's Elon Musk, warn of catastrophic risks. President Donald Trump has resisted calls for greater oversight. The Sanders-Casar bill faces long odds in the Republican-controlled Congress, where lawmakers have struggled to agree even on less sweeping AI rules, but it signals how the progressive wing of the Democratic Party is approaching the issue ahead of November's midterms and the 2028 presidential campaign. Casar chairs the Congressional Progressive Caucus. Other potential 2028 candidates have also moved recently: Maryland Gov. Wes Moore announced an AI regulatory plan Tuesday, and California Gov. Gavin Newsom last week signed an executive order to speed implementation of a state law requiring independent oversight of AI companies.",
+            "Sanders, a two-time presidential candidate who is now 85, has focused heavily on AI in recent months. In June, he introduced legislation to create a sovereign wealth fund financed through a one-time tax on the stock of the largest AI companies. Last week, he hosted colleagues for a briefing with experts and attended a conference on the issue alongside Republicans, including former White House adviser Steve Bannon. President Trump, meanwhile, has pushed in the opposite direction: On Tuesday, he told the UN General Assembly that artificial intelligence will be renamed \"super intelligence.\" Sanders said Trump \"has very little understanding of what this issue is about\" and is \"mainly concerned about the economic implications of a slowdown.\"",
+            "AI safety is expected to be central to talks between Trump and China's Xi Jinping at the White House this week, as the countries compete for dominance in the sector. The prospect of slowing US development while China continues has been a central argument against sweeping restrictions. Sanders argued that avoiding the most dangerous forms of AI would require US-China cooperation, comparing the challenge to Cold War nuclear arms control. \"Ronald Reagan, arch-conservative, was smart enough to understand that he had to sit down with Gorbachev, a communist, and work out a nuclear treaty that protected humanity,\" he said. \"I think we can do that again now.\" Public concern is also rising: an AP-NORC/Energy Policy Institute poll found 53% of Americans are \"extremely\" or \"very\" concerned about AI's environmental impacts, up from 41% last year, with Democrats driving much of the increase and broader worries about the local impact of data centers that power AI and cloud computing."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Fortune",
+            "Broadband Breakfast"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Fortune",
+              "url": "https://fortune.com/2026/09/23/bernie-sanders-superintelligent-ai-ban/"
+            },
+            {
+              "outlet": "Broadband Breakfast",
+              "url": "https://broadbandbreakfast.com/bernie-sanders-unveils-bill-to-ban-artificial-intelligence-and-create-department-of-ai/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Sens. Bernie Sanders (I-Vt.) and Rep. Greg Casar (D-Texas) on Wednesday unveiled legislation.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The legislation would permanently ban artificial superintelligence.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The legislation would create a new federal Department of Artificial Intelligence to oversee advanced AI.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The bill was provided first to The Associated Press.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The bill would pause advanced AI development until federal safety guidelines are implemented.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Multiple employees at leading AI companies have endorsed the measure.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders told the AP: \"It doesn't take a genius to say, 'slow it down,'\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders asked: \"Do we really want to develop a super intelligence that when it becomes smarter than human beings could act independently of human control? I don't think we do.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The legislation defines artificial superintelligence as a system that exceeds human cognitive ability or has sufficient capabilities to plan and execute the destruction or disempowerment of humanity.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Advanced systems would then require federal approval before deployment.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Violations could carry penalties including up to 20 years in prison in some cases.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Juan Felipe Cerón Uribe is a researcher in OpenAI's Safety Systems.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Cerón Uribe said \"superintelligence could either go extremely right or extremely wrong.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Cerón Uribe said \"we shouldn't be playing such games.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Swante Scholz is a software engineer at Google DeepMind speaking personally.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Scholz said on the current path of development the \"most likely outcome is an existential catastrophe for humanity.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Scholz said \"a ban on superintelligence development would be a positive change for the foreseeable future.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Congress has so far done little to regulate the AI industry.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Prominent leaders including Anthropic's Dario Amodei, OpenAI's Sam Altman and xAI's Elon Musk warn of catastrophic risks.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "President Donald Trump has resisted calls for greater oversight.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The Sanders-Casar bill faces long odds in the Republican-controlled Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Lawmakers have struggled to agree even on less sweeping AI rules.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The bill signals how the progressive wing of the Democratic Party is approaching the issue ahead of November's midterms and the 2028 presidential campaign.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Casar chairs the Congressional Progressive Caucus.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Maryland Gov. Wes Moore announced an AI regulatory plan Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "California Gov. Gavin Newsom last week signed an executive order to speed implementation of a state law requiring independent oversight of AI companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders is a two-time presidential candidate.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders is now 85.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders has focused heavily on AI in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "In June, he introduced legislation to create a sovereign wealth fund financed through a one-time tax on the stock of the largest AI companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Last week, he hosted colleagues for a briefing with experts.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "He attended a conference on the issue alongside Republicans, including former White House adviser Steve Bannon.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "President Trump on Tuesday told the UN General Assembly that artificial intelligence will be renamed \"super intelligence.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders said Trump \"has very little understanding of what this issue is about\" and is \"mainly concerned about the economic implications of a slowdown.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "AI safety is expected to be central to talks between Trump and China's Xi Jinping at the White House this week.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The countries compete for dominance in the sector.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The prospect of slowing US development while China continues has been a central argument against sweeping restrictions.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders argued that avoiding the most dangerous forms of AI would require US-China cooperation.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders compared the challenge to Cold War nuclear arms control.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Sanders said: \"Ronald Reagan, arch-conservative, was smart enough to understand that he had to sit down with Gorbachev, a communist, and work out a nuclear treaty that protected humanity,\" and \"I think we can do that again now.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "An AP-NORC/Energy Policy Institute poll found 53% of Americans are \"extremely\" or \"very\" concerned about AI's environmental impacts, up from 41% last year.",
+                "status": "supported",
+                "source_ids": [
+                  "AP-NORC/Energy Policy Institute"
+                ]
+              },
+              {
+                "text": "Democrats driving much of the increase.",
+                "status": "supported",
+                "source_ids": [
+                  "AP-NORC/Energy Policy Institute"
+                ]
+              },
+              {
+                "text": "There are broader worries about the local impact of data centers that power AI and cloud computing.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "health-science",
+      "story_id": "health-science-fda-advisers-to-vote-on-grail-s-multi-cancer-blo"
+    },
+    {
+      "section": "sports",
+      "story_id": "sports-kawhi-leonard-signs-115m-extension-with-raptors"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Xi Jinping arrives in Washington for high-stakes summit with Trump",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "DOJ defends White House media ban as 'privilege' ahead of court hearing",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Trump touts economy, threatens Iran in UNGA address",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Polls show Trump unpopularity, low trust in USPS as midterms approach",
+      "reason": "synthesis failed: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Reports of violence against women in Gaza surge, UN agency finds",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ethiopia and Tigray accuse each other of launching offensives, fuelling fears of new war",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Trump administration drops 760,000 from ACA coverage, citing fraud",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Chilling effect of Trump administration's offensive against transgender health care",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Ohio governor's race is battle over Covid, health costs, trust in science",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Category 5 Hurricane Polo is one of the strongest storms ever",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
