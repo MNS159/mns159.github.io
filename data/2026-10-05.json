@@ -1,0 +1,3399 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-05",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-05T18:42:00+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-supreme-court-hears-blockbuster-climate-case-as-",
+          "section": "politics",
+          "headline": "Supreme Court hears blockbuster climate case as justices skeptical of oil companies' bid to quash suits",
+          "beat_label": "Supreme Court",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.1,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 3,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "Fox News",
+            "NYT",
+            "PBS",
+            "Politico",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/nx-s1-5970070/supreme-court-climate-change-boulder-county",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/policy/energy-environment/6129978-oil-companies-supreme-court-skepticism/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/catholic-schools-banned-rifles-climate-lawfare-blockbuster-fights-await-supreme-court",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/politics/listen-live-supreme-court-hears-case-seeking-damages-from-fossil-fuel-industry-for-climate-change",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Politico",
+              "url": "https://www.politico.com/news/2026/10/05/whos-who-supreme-court-climate-01100633",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Boulder County and the city of Boulder sued Suncor Energy and ExxonMobil in Colorado state court in 2018.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The lawsuit alleged the companies knew about and concealed the climate harms of fossil fuels.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The lawsuit sought damages for local disaster-related costs.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Colorado Supreme Court allowed Boulder's lawsuit to proceed before trial.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Suncor and Exxon appealed that ruling to the U.S. Supreme Court.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The U.S. Supreme Court agreed to hear the case even though the lower-court case has not gone to trial.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The U.S. Supreme Court heard oral arguments Monday in Suncor Energy Inc. v. County Commissioners of Boulder County.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This case was the first argument of the U.S. Supreme Court's new term.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Justice Samuel Alito recused himself from the case one week before arguments.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Justice Alito recused himself without explanation.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Environmental and watchdog groups raised Justice Alito's financial holdings in Phillips 66 and ConocoPhillips.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Eight justices heard the case instead of nine.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Under the court's own framing, a 4-4 tie among the eight justices would leave the Colorado Supreme Court's ruling in place.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A 4-4 tie would allow Boulder's suit to proceed.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The justices are weighing whether federal law (the companies point to the Clean Air Act) preempts Boulder's state-law claims.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The justices are weighing whether the Supreme Court has jurisdiction to hear the case at this early, pre-trial stage.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The December 2021 Marshall Fire in Boulder County caused an estimated $2 billion in damage.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Marshall Fire was the costliest wildfire in Colorado history.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Marshall Fire occurred three years after Boulder filed its suit.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Dozens of similar lawsuits by other states and municipalities against energy companies are pending in courts nationwide.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A Supreme Court ruling in this case could affect how those cases proceed.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This case is the Supreme Court's marquee dispute of its new term.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The case centers on a federalism question with implications well beyond climate policy.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The question is whether local governments can use state tort law to seek damages from companies for harms tied to conduct that occurs largely outside the state's borders.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Boulder frames its suit as a request for compensation for local disaster costs, not an attempt to regulate emissions nationwide.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Suncor and Exxon argue that allowing such suits would let any state or locality effectively dictate energy and environmental policy for the whole country.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Suncor and Exxon argue that role belongs to the federal government under the Clean Air Act.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Legal observers note that however the court rules, its reasoning could shape the dozens of pending climate-damage suits.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Legal observers note that the reasoning could shape other emerging areas of litigation involving cross-border harms, such as PFAS contamination, opioid liability and disputes over AI data centers.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Legal observers note that this case is a test case for the limits of state power generally.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Legal experts across the ideological spectrum agree the decision will set a precedent for how far state courts can reach into conduct that crosses state lines.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The precedent will have consequences for climate suits, opioid litigation, PFAS contamination cases and AI-related disputes alike, not just the fossil-fuel industry.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "It is not yet clear when or how the court will rule.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The justices could address the merits of whether federal law preempts Boulder's claims.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The justices could instead resolve the case on the jurisdictional question of whether it reached the court too early, before Colorado's courts have finished with it.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "Legal observers say a ruling could influence the dozens of similar state and local lawsuits against energy companies now working through courts nationwide.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "Legal observers say a ruling could also inform how courts handle other disputes that straddle state and federal authority, such as PFAS contamination, opioid litigation and conflicts over AI data centers.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Boulder County and the city of Boulder sued Suncor Energy and ExxonMobil in Colorado state court in 2018, alleging the companies knew about and concealed the climate harms of fossil fuels and seeking damages for local disaster-related costs.",
+              "The Colorado Supreme Court allowed Boulder's lawsuit to proceed before trial; Suncor and Exxon appealed that ruling to the U.S. Supreme Court, which agreed to hear the case even though the lower-court case has not gone to trial.",
+              "The U.S. Supreme Court heard oral arguments Monday in Suncor Energy Inc. v. County Commissioners of Boulder County, the first argument of its new term.",
+              "Justice Samuel Alito recused himself from the case one week before arguments, without explanation, after environmental and watchdog groups raised his financial holdings in Phillips 66 and ConocoPhillips; eight justices heard the case instead of nine.",
+              "Under the court's own framing, a 4-4 tie among the eight justices would leave the Colorado Supreme Court's ruling in place, allowing Boulder's suit to proceed.",
+              "The justices are weighing two questions: whether federal law (the companies point to the Clean Air Act) preempts Boulder's state-law claims, and whether the Supreme Court has jurisdiction to hear the case at this early, pre-trial stage.",
+              "The December 2021 Marshall Fire in Boulder County caused an estimated $2 billion in damage, making it the costliest wildfire in Colorado history; it occurred three years after Boulder filed its suit.",
+              "Dozens of similar lawsuits by other states and municipalities against energy companies are pending in courts nationwide, and a Supreme Court ruling in this case could affect how those cases proceed."
+            ],
+            "analysis": "This case is the Supreme Court's marquee dispute of its new term and centers on a federalism question with implications well beyond climate policy: can local governments use state tort law to seek damages from companies for harms tied to conduct that occurs largely outside the state's borders? Boulder frames its suit as a request for compensation for local disaster costs, not an attempt to regulate emissions nationwide; Suncor and Exxon argue that allowing such suits would let any state or locality effectively dictate energy and environmental policy for the whole country, a role they say belongs to the federal government under the Clean Air Act. Legal observers note that however the court rules, its reasoning could shape not just the dozens of pending climate-damage suits but other emerging areas of litigation involving cross-border harms, such as PFAS contamination, opioid liability and disputes over AI data centers, making this a test case for the limits of state power generally.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Regardless of how the justices rule, legal experts across the ideological spectrum agree the decision will set a precedent for how far state courts can reach into conduct that crosses state lines — a question with consequences for climate suits, opioid litigation, PFAS contamination cases and AI-related disputes alike, not just the fossil-fuel industry.",
+            "implications": "It is not yet clear when or how the court will rule. The justices could address the merits of whether federal law preempts Boulder's claims, or instead resolve the case on the jurisdictional question of whether it reached the court too early, before Colorado's courts have finished with it. Legal observers say a ruling could influence the dozens of similar state and local lawsuits against energy companies now working through courts nationwide, and could also inform how courts handle other disputes that straddle state and federal authority, such as PFAS contamination, opioid litigation and conflicts over AI data centers."
+          },
+          "interestingness": 0.9,
+          "significance": 0.833,
+          "image": {
+            "url": "static/img/2026-10-04/politics-supreme-court-opens-new-term-with-major-cases-on.jpg",
+            "alt": "Photograph of United States Supreme Court building",
+            "credit": "Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)",
+            "license": "CC BY-SA 3.0",
+            "width": 1000,
+            "height": 515
+          }
+        },
+        {
+          "id": "politics-supreme-court-opens-new-term-with-climate-guns-a",
+          "section": "politics",
+          "headline": "Supreme Court opens new term with climate, guns, and other major cases",
+          "beat_label": "Supreme Court",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "The Hill",
+            "Washington Post"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/newsletters/1230-report/6129703-supreme-court-new-term-trump-cotton-feud-2026-midterms-russia-plague/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Washington Post",
+              "url": "https://www.washingtonpost.com/politics/2026/10/05/what-watch-supreme-courts-new-term/",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The U.S. Supreme Court has opened a new term.",
+                "status": "supported",
+                "source_ids": [
+                  "The Hill",
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The Hill published a piece titled 'Supreme Court steps on the gas with new term'.",
+                "status": "supported",
+                "source_ids": [
+                  "The Hill"
+                ]
+              },
+              {
+                "text": "The Washington Post published a preview titled '6 things to watch in the Supreme Court's new term'.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "The U.S. Supreme Court has opened a new term",
+              "The Hill published a piece titled 'Supreme Court steps on the gas with new term'",
+              "The Washington Post published a preview titled '6 things to watch in the Supreme Court's new term'"
+            ],
+            "analysis": "The available source material consists only of headline-level previews from The Hill and The Washington Post, both signaling that this term includes consequential cases, without providing further case names, docket numbers, argument dates, or specific subject matter.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            }
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "politics-georgia-officials-hunt-for-suspect-in-shooting-t",
+          "section": "politics",
+          "headline": "Georgia officials hunt for suspect in shooting that killed two and injured 35",
+          "beat_label": "Crime",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6e9lj5r3ej7o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "A mass shooting occurred around 01:30 local time (05:30 GMT) Sunday in Vienna, Georgia.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The shooting occurred at a block party coinciding with a Dooly High School homecoming celebration that was not school-sponsored.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Roughly 1,000 people had gathered for the event when, according to officials, more than 50 shots were fired.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Two people were killed — both men, ages 20 and 23, according to Dooly County Coroner Brett Walls.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "35 others were injured, with victims ranging in age from 14 to 51.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Of the injured, 25 were transported to multiple nearby hospitals, some in critical condition.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Two deceased victims were found several blocks away from the main shooting scene on Pine Street.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Dooly County Sheriff's Office deputies, anticipating a large crowd, had already positioned themselves at both ends of the gathering when the gunfire began.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "As of the report, no arrests had been made.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "As of the report, authorities had not identified a possible motive.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Georgia Bureau of Investigation (GBI) said it would join the investigation at the request of the Dooly County Sheriff's Office.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The GBI called the case 'active and ongoing'.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The GBI Medical Examiner's Office will conduct autopsies on both deceased victims.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The shooting occurred at an informal community gathering tied to a high school homecoming rather than an official school event.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Authorities have released only basic facts: no suspect, no stated motive, and an active joint investigation between local and state (GBI) authorities.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "A mass shooting occurred around 01:30 local time (05:30 GMT) Sunday in Vienna, Georgia, at a block party coinciding with a Dooly High School homecoming celebration that was not school-sponsored.",
+              "Roughly 1,000 people had gathered for the event when, according to officials, more than 50 shots were fired.",
+              "Two people were killed — both men, ages 20 and 23, according to Dooly County Coroner Brett Walls — and 35 others were injured, with victims ranging in age from 14 to 51.",
+              "Of the injured, 25 were transported to multiple nearby hospitals, some in critical condition; two deceased victims were found several blocks away from the main shooting scene on Pine Street.",
+              "Dooly County Sheriff's Office deputies, anticipating a large crowd, had already positioned themselves at both ends of the gathering when the gunfire began.",
+              "As of the report, no arrests had been made and authorities had not identified a possible motive.",
+              "The Georgia Bureau of Investigation (GBI) said it would join the investigation at the request of the Dooly County Sheriff's Office, calling the case 'active and ongoing'; the GBI Medical Examiner's Office will conduct autopsies on both deceased victims."
+            ],
+            "analysis": "This is a developing criminal investigation into a mass shooting that occurred at an informal community gathering tied to a high school homecoming rather than an official school event. At this stage, authorities have released only basic facts: no suspect, no stated motive, and an active joint investigation between local and state (GBI) authorities.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "implications": "The Georgia Bureau of Investigation has said it will conduct autopsies on the two deceased victims and that its investigation, undertaken at the request of the Dooly County Sheriff's Office, remains active and ongoing."
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "politics-trump-names-dni-jay-clayton-to-lead-new-ai-taskf",
+          "section": "politics",
+          "headline": "Trump names DNI Jay Clayton to lead new AI taskforce",
+          "beat_label": "White House",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "BBC",
+            "The Guardian",
+            "Fox Business",
+            "Nextgov/FCW"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox Business",
+              "url": "https://www.foxbusiness.com/video/6406256685112"
+            },
+            {
+              "outlet": "Nextgov/FCW",
+              "url": "https://www.nextgov.com/people/2026/10/spy-chief-jay-clayton-takes-white-houses-ai-portfolio/416413/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "On Sunday, President Trump announced on Truth Social that Director of National Intelligence Jay Clayton will lead a new White House group called the 'Super Intelligence Force' (SIF), succeeding the prior AI czar role.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Clayton was confirmed as DNI earlier in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Clayton previously served as U.S. Attorney for the Southern District of New York.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Clayton previously served as chairman of the SEC during Trump's first term.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Trump named three other SIF members in the same post: FTC Chairman Andrew Ferguson, OPM Director Scott Kupor, and Under Secretary of Defense for Research and Engineering Emil Michael.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The group will report to Trump and White House Chief of Staff Susie Wiles.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Per Trump's announcement, the SIF will 'coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "On September 29, Trump signed an executive order directing federal agencies to use the terms 'SI' or 'Super Intelligence' instead of 'artificial intelligence' in official communications.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "On September 29, Trump and executives from firms including OpenAI, Anthropic, SpaceX and Google signed a voluntary accord involving internal and external reviews of AI development.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "David Sacks served as the administration's AI and crypto czar from January 2025 until March 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "David Sacks reached his time limit as a 'special government employee' in March 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "David Sacks remains co-chair of the President's Council of Advisors on Science and Technology.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Congress has not passed a federal law broadly regulating AI development or use.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Some states, including California, have enacted narrower measures such as AI transparency requirements.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This week the White House also launched America.gov, a government website described as AI-sourced from 'official government sources.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "On Sunday, President Trump announced on Truth Social that Director of National Intelligence Jay Clayton will lead a new White House group called the \"Super Intelligence Force\" (SIF), succeeding the prior AI czar role.",
+              "Clayton, confirmed as DNI earlier in 2025, previously served as U.S. Attorney for the Southern District of New York and as chairman of the SEC during Trump's first term.",
+              "Trump named three other SIF members in the same post: FTC Chairman Andrew Ferguson, OPM Director Scott Kupor, and Under Secretary of Defense for Research and Engineering Emil Michael; the group will report to Trump and White House Chief of Staff Susie Wiles.",
+              "Per Trump's announcement, the SIF will \"coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies.\"",
+              "On September 29, Trump signed an executive order directing federal agencies to use the terms \"SI\" or \"Super Intelligence\" instead of \"artificial intelligence\" in official communications, and the same day Trump and executives from firms including OpenAI, Anthropic, SpaceX and Google signed a voluntary accord involving internal and external reviews of AI development.",
+              "Clayton's appointment follows David Sacks, who served as the administration's AI and crypto czar from January 2025 until March 2026, when he reached his time limit as a \"special government employee\"; Sacks remains co-chair of the President's Council of Advisors on Science and Technology.",
+              "Congress has not passed a federal law broadly regulating AI development or use; some states, including California, have enacted narrower measures such as AI transparency requirements.",
+              "This week the White House also launched America.gov, a government website described as AI-sourced from \"official government sources.\""
+            ],
+            "analysis": "The appointment reorganizes how the Trump administration oversees AI policy, shifting the lead role from a Silicon Valley-connected czar (Sacks) to a senior intelligence and law-enforcement official (Clayton), and folds the effort into a renamed, higher-profile body — the \"Super Intelligence Force\" — that includes officials from the FTC, OPM and Pentagon research. It comes amid an active industry debate over AI safety: some executives and former employees have publicly warned about risks of rapid deployment, while the administration has favored a voluntary industry accord and rebranding effort (\"SI\" over \"AI\") rather than new binding regulation. With no federal AI law in place, the SIF currently operates in a policy space defined largely by executive-branch coordination and industry self-governance rather than statute.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Across the differing reactions, there is a shared premise that AI's rapid advance carries real stakes for national security and public trust — the open question the sources leave unresolved is whether a reorganized task force and voluntary industry commitments are an adequate governing mechanism, or whether binding federal rules are needed to manage those stakes.",
+            "implications": "How Clayton structures the Super Intelligence Force — including whether it pursues enforceable standards or relies on the voluntary industry accord — will shape near-term expectations for AI oversight in the absence of federal legislation, while continued state-level action and congressional pressure from lawmakers like Warren and Warner could keep the regulatory question active regardless of the task force's approach."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-fl-vio-bolsonaro-wins-first-round-of-brazil-pres",
+          "section": "world",
+          "headline": "Flávio Bolsonaro wins first round of Brazil presidential election, runoff set for 25 October",
+          "beat_label": "Brazil Election",
+          "byline": "International & World desk",
+          "body": [
+            "Right-wing candidate Flávio Bolsonaro won the first round of Brazil's presidential election on Sunday, securing 47 percent of the vote against incumbent President Luiz Inácio Lula da Silva's 45 percent, according to the country's electoral court. Since neither candidate achieved a majority, a runoff election will be held on 25 October. Bolsonaro's result exceeded pre-election expectations, as polls had shown Lula with a slight lead.",
+            "Bolsonaro, 45, is the eldest son of former President Jair Bolsonaro, who is serving a 27-year prison sentence for masterminding a failed coup after losing the 2022 election. Flávio Bolsonaro has vowed to grant amnesty to his father and to supporters involved in the 8 January 2023 riots if elected. Lula, 80, is seeking his fourth non-consecutive term, having previously won in 2002, 2006 and 2022, when he beat Jair Bolsonaro by less than 2 percent of the vote. The campaign has been polarizing, with voters prioritizing corruption, crime, the economy and sovereignty.",
+            "Beyond the presidency, Bolsonaro's Liberal Party (PL) won the most governorships, Senate seats and federal deputy positions, giving it the largest bloc in Congress. Former first lady Michelle Bolsonaro and another of Jair Bolsonaro's sons, Carlos Bolsonaro, both won Senate seats. The right-wing camp's legislative gains mean that even if Lula wins the runoff, governing will be difficult, analysts said.",
+            "Reacting to the result, Bolsonaro said he was \"very happy with the real possibility that, three weeks from now, Brazil will give a definitive answer by choosing a modern government.\" He also said he wanted to \"free the Brazilian people.\" Lula called the outcome \"unexpected\" and said he had been convinced he would win in the first round. \"The game is about to start. We are in extra time. In extra time, we will win over the Brazilian people,\" Lula said, adding that voters must choose \"between strengthening the democratic regime and barbarism.\"",
+            "The election carries implications for Brazil's relationship with the United States. Lula had accused the US of attempting to interfere in the vote, which Washington denied; the president of Brazil's supreme electoral court said no evidence of international interference was found. Bolsonaro successfully lobbied the Trump administration to designate two major Brazilian gangs as terrorist organizations. A win for Bolsonaro would likely see Brazil join the US-led \"Shield of Americas\" coalition against narco-trafficking. The runoff will determine whether Brazil, Latin America's largest economy, follows the regional trend of electing right-wing presidents aligned with the Trump administration.",
+            "Key campaign issues include a corruption scandal involving jailed banker Daniel Vorcaro; Bolsonaro acknowledged asking Vorcaro to fund a biopic about his father after voice recordings emerged. Lula was indirectly affected after police suggested Vorcaro had reached out to a Supreme Court judge seen as an ally. On crime, Bolsonaro has pledged to build maximum-security prisons like those in El Salvador and designate gangs as terrorists. Lula has focused on tackling organized crime finances and improving investigations. On the economy, Bolsonaro promises spending cuts and a debt ceiling, while Lula highlights social welfare programs such as Bolsa Família. Environmental policy differs: Lula tightened protections and reduced deforestation during his previous terms, while deforestation increased under Jair Bolsonaro; Flávio Bolsonaro shares his father's skepticism of human-caused climate change."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.27,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 2,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "DW",
+            "The Guardian",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/g-s1-146406/up-first-newsletter-flydubai-investigation-colorado-suncor-exxon-brazil-presidential-elections",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Flávio Bolsonaro won the first round of Brazil's presidential election on Sunday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro secured 47 percent of the vote in the first round.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Incumbent President Luiz Inácio Lula da Silva secured 45 percent of the vote in the first round.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The vote percentages are according to Brazil's electoral court.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Neither candidate achieved a majority in the first round.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A runoff election will be held on 25 October.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro's result exceeded pre-election expectations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Polls had shown Lula with a slight lead before the election.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro is 45 years old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro is the eldest son of former President Jair Bolsonaro.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jair Bolsonaro is serving a 27-year prison sentence.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jair Bolsonaro is serving the sentence for masterminding a failed coup after losing the 2022 election.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro has vowed to grant amnesty to his father if elected.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro has vowed to grant amnesty to supporters involved in the 8 January 2023 riots if elected.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula is 80 years old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula is seeking his fourth non-consecutive term.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula previously won in 2002, 2006 and 2022.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2022, Lula beat Jair Bolsonaro by less than 2 percent of the vote.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro's Liberal Party (PL) won the most governorships in the election.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro's Liberal Party (PL) won the most Senate seats in the election.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro's Liberal Party (PL) won the most federal deputy positions in the election.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Liberal Party (PL) has the largest bloc in Congress as a result.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Former first lady Michelle Bolsonaro won a Senate seat.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Carlos Bolsonaro, another of Jair Bolsonaro's sons, won a Senate seat.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Analysts said that even if Lula wins the runoff, governing will be difficult due to the right-wing camp's legislative gains.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Reacting to the result, Bolsonaro said he was 'very happy with the real possibility that, three weeks from now, Brazil will give a definitive answer by choosing a modern government.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro said he wanted to 'free the Brazilian people.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula called the outcome 'unexpected.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula said he had been convinced he would win in the first round.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula said, 'The game is about to start. We are in extra time. In extra time, we will win over the Brazilian people.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula said voters must choose 'between strengthening the democratic regime and barbarism.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula had accused the US of attempting to interfere in the vote.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Washington denied Lula's accusation of US interference.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The president of Brazil's supreme electoral court said no evidence of international interference was found.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro successfully lobbied the Trump administration to designate two major Brazilian gangs as terrorist organizations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A win for Bolsonaro would likely see Brazil join the US-led 'Shield of Americas' coalition against narco-trafficking.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The runoff will determine whether Brazil follows the regional trend of electing right-wing presidents aligned with the Trump administration.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Key campaign issues include a corruption scandal involving jailed banker Daniel Vorcaro.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro acknowledged asking Vorcaro to fund a biopic about his father after voice recordings emerged.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula was indirectly affected after police suggested Vorcaro had reached out to a Supreme Court judge seen as an ally.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro has pledged to build maximum-security prisons like those in El Salvador.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro has pledged to designate gangs as terrorists.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula has focused on tackling organized crime finances and improving investigations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro promises spending cuts and a debt ceiling.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula highlights social welfare programs such as Bolsa Família.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula tightened protections and reduced deforestation during his previous terms.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Deforestation increased under Jair Bolsonaro.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Flávio Bolsonaro shares his father's skepticism of human-caused climate change.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8,
+          "significance": 0.68,
+          "image": {
+            "url": "static/img/2026-10-05/world-fl-vio-bolsonaro-wins-first-round-of-brazil-pres.jpg",
+            "alt": "Photograph of Brazilian Superior Electoral Court",
+            "credit": "Photo: Senado Federal / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 667
+          }
+        },
+        {
+          "id": "world-flydubai-co-pilot-planned-to-crash-plane-into-te",
+          "section": "world",
+          "headline": "Flydubai co-pilot planned to crash plane into Tel Aviv airport, investigation finds",
+          "beat_label": "Aviation Security",
+          "byline": "International & World desk",
+          "body": [
+            "The co-pilot of a Flydubai flight from Dubai to Tel Aviv last week intended to crash the plane into Israel's Ben Gurion International Airport or a tower block in central Tel Aviv, according to U.S. and Israeli reports cited by the BBC and a person familiar with the matter who spoke to NPR. The Omani national, identified by multiple reports as Hamam al-Hammami, attacked the captain with a crash axe midflight on Wednesday before passengers overpowered him and a second crew member landed the Boeing 737 MAX in Saudi Arabia. The airline said 172 people were on board; the BBC cited reports of more than 180 passengers.",
+            "The co-pilot told investigators he planned to fly normally into Israeli airspace, receive landing clearances, then crash the aircraft in the style of the September 11, 2001 attacks, according to Israeli media reports cited by the BBC. He is believed to have acted alone as a 'lone wolf' extremist, not on behalf of any organization, and also told investigators he had intended to hijack a previous flight to Tel Aviv but changed his mind because he knew someone on board. The United Arab Emirates' attorney-general, Hamad al-Shamsi, said the co-pilot attempted to carry out a 'terrorist act' and that investigations would establish the full circumstances and motives.",
+            "Israeli Prime Minister Benjamin Netanyahu said the co-pilot underwent 'Islamist radical indoctrination' and that the captain, passengers and a second crew prevented 'a 9/11 disaster.' The attack has raised questions about security lapses. Regional officials said the co-pilot had been barred from flying by Oman's national carrier, Oman Air, and moved to an administrative job due to concerns about his extremist views, but was later hired by Flydubai after standard checks that did not examine his background for signs of radicalization. Israeli regulations prohibit pilots from countries without diplomatic relations with Israel—such as Oman—from operating flights to the country.",
+            "Israeli officials have traded accusations over oversight. The Shin Bet domestic security agency said the transport ministry was responsible for vetting passenger and crew lists from foreign airlines, but Transport Minister Miri Regev said her ministry was not given such lists, and that security oversight fell under Shin Bet and the Mossad. Netanyahu has ordered a review of all security aspects regarding foreign civil aviation to Israel. Australian authorities are also investigating the co-pilot's links to Australia, where sources told local media he studied between 2015 and 2017. The incident comes weeks before Israeli elections, with Netanyahu campaigning on security and opponents pointing to failures including the October 7, 2023 attack."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/nx-s1-5990802/midair-attack-flydubai",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The co-pilot of a Flydubai flight from Dubai to Tel Aviv last week intended to crash the plane into Israel's Ben Gurion International Airport or a tower block in central Tel Aviv.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "NPR",
+                  "person familiar with the matter who spoke to NPR"
+                ]
+              },
+              {
+                "text": "The Omani national, identified by multiple reports as Hamam al-Hammami, attacked the captain with a crash axe midflight on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "multiple reports"
+                ]
+              },
+              {
+                "text": "Passengers overpowered the co-pilot and a second crew member landed the Boeing 737 MAX in Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "multiple reports"
+                ]
+              },
+              {
+                "text": "The airline said 172 people were on board.",
+                "status": "supported",
+                "source_ids": [
+                  "Flydubai"
+                ]
+              },
+              {
+                "text": "The BBC cited reports of more than 180 passengers.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The co-pilot told investigators he planned to fly normally into Israeli airspace, receive landing clearances, then crash the aircraft in the style of the September 11, 2001 attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli media reports cited by the BBC"
+                ]
+              },
+              {
+                "text": "He is believed to have acted alone as a 'lone wolf' extremist, not on behalf of any organization.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli media reports cited by the BBC"
+                ]
+              },
+              {
+                "text": "He also told investigators he had intended to hijack a previous flight to Tel Aviv but changed his mind because he knew someone on board.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli media reports cited by the BBC"
+                ]
+              },
+              {
+                "text": "The United Arab Emirates' attorney-general, Hamad al-Shamsi, said the co-pilot attempted to carry out a 'terrorist act'.",
+                "status": "supported",
+                "source_ids": [
+                  "United Arab Emirates' attorney-general"
+                ]
+              },
+              {
+                "text": "Israeli Prime Minister Benjamin Netanyahu said the co-pilot underwent 'Islamist radical indoctrination'.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli Prime Minister Benjamin Netanyahu"
+                ]
+              },
+              {
+                "text": "Israeli Prime Minister Benjamin Netanyahu said the captain, passengers and a second crew prevented 'a 9/11 disaster'.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli Prime Minister Benjamin Netanyahu"
+                ]
+              },
+              {
+                "text": "Regional officials said the co-pilot had been barred from flying by Oman's national carrier, Oman Air, and moved to an administrative job due to concerns about his extremist views.",
+                "status": "supported",
+                "source_ids": [
+                  "Regional officials"
+                ]
+              },
+              {
+                "text": "The co-pilot was later hired by Flydubai after standard checks that did not examine his background for signs of radicalization.",
+                "status": "supported",
+                "source_ids": [
+                  "Regional officials"
+                ]
+              },
+              {
+                "text": "Israeli regulations prohibit pilots from countries without diplomatic relations with Israel—such as Oman—from operating flights to the country.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Shin Bet domestic security agency said the transport ministry was responsible for vetting passenger and crew lists from foreign airlines.",
+                "status": "supported",
+                "source_ids": [
+                  "Shin Bet"
+                ]
+              },
+              {
+                "text": "Transport Minister Miri Regev said her ministry was not given such lists, and that security oversight fell under Shin Bet and the Mossad.",
+                "status": "supported",
+                "source_ids": [
+                  "Transport Minister Miri Regev"
+                ]
+              },
+              {
+                "text": "Netanyahu has ordered a review of all security aspects regarding foreign civil aviation to Israel.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Australian authorities are also investigating the co-pilot's links to Australia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Sources told local media the co-pilot studied in Australia between 2015 and 2017.",
+                "status": "supported",
+                "source_ids": [
+                  "local media"
+                ]
+              },
+              {
+                "text": "The incident comes weeks before Israeli elections.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Netanyahu is campaigning on security.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Opponents are pointing to failures including the October 7, 2023 attack.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-spanish-pm-s-nchez-calls-early-election-for-29-n",
+          "section": "world",
+          "headline": "Spanish PM Sánchez calls early election for 29 November after housing crisis defeats",
+          "beat_label": "Spanish Election",
+          "byline": "International & World desk",
+          "body": [
+            "Spanish Prime Minister Pedro Sánchez announced a snap general election for 29 November on Monday, after his minority government suffered two legislative defeats last week on emergency housing decrees. The decision came amid nationwide protests triggered by the televised eviction of an 87-year-old woman from her Madrid home in September, which had intensified public anger over the country's housing affordability crisis.",
+            "In a televised address, Sánchez said he needed 'a broader progressive majority' to push through reforms and 'overcome the resistance of the elites.' He acknowledged that his government had 'made mistakes' and that there were still 'a lot of problems to solve, particularly in the areas of inequality, of public services and access to housing.' The two rejected decree laws included measures to suspend evictions of vulnerable tenants until 2030, extend rental leases, increase taxes on tourist apartments, restrict purchases by investment funds, and automatically renew rental contracts—a provision the political right argued would reduce housing supply and raise prices.",
+            "Sánchez has led a left-wing coalition of his Socialist party and junior partner Sumar since 2023, but the government lacks a parliamentary majority and relies on support from Catalan and Basque nationalist and pro-independence groups. Spain was not due to hold a general election until summer 2027. The prime minister, in power since June 2018, has faced mounting pressure from corruption scandals involving his wife, his party's headquarters, and a former minister, as well as a migration crisis in the North African enclave of Ceuta over the summer.",
+            "The leader of the opposition conservative People's Party, Alberto Núñez Feijóo, welcomed the announcement, saying, 'At last, Spaniards will be able to decide.' He framed the election as a choice between 'decline or change, lies or change, incompetence or change, division or change, corruption or change.' Most opinion polls indicate the People's Party is likely to emerge as the largest party, but it would probably need the support of the hard-right Vox party to form a government.",
+            "Sánchez warned Spaniards about what he called the 'extreme-right wave' seen in other countries and argued that Spain should continue to be a global example of 'peace, feminism and prosperity.'",
+            "Tens of thousands of people protested in Madrid, Valencia, and Barcelona on Saturday, demanding stronger tenant protections. The eviction of Maricarmen Abascal, 87, who was removed on a stretcher from the apartment she had lived in for more than 70 years after a legal glitch allowed her rent to rise from €500 to €2,650, became a symbol of the crisis. Her lawyer later said she would be able to return home, but the incident fueled widespread anger and increased pressure on the government to act."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/nx-s1-5991404/spain-snap-elections",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Spanish Prime Minister Pedro Sánchez announced a snap general election for 29 November on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez's minority government suffered two legislative defeats last week on emergency housing decrees.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The decision came amid nationwide protests triggered by the televised eviction of an 87-year-old woman from her Madrid home in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The eviction intensified public anger over the country's housing affordability crisis.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In a televised address, Sánchez said he needed 'a broader progressive majority' to push through reforms and 'overcome the resistance of the elites.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez acknowledged that his government had 'made mistakes' and that there were still 'a lot of problems to solve, particularly in the areas of inequality, of public services and access to housing.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The two rejected decree laws included measures to suspend evictions of vulnerable tenants until 2030.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The two rejected decree laws included measures to extend rental leases.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The two rejected decree laws included measures to increase taxes on tourist apartments.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The two rejected decree laws included measures to restrict purchases by investment funds.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The two rejected decree laws included measures to automatically renew rental contracts.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The political right argued that the automatic renewal provision would reduce housing supply and raise prices.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez has led a left-wing coalition of his Socialist party and junior partner Sumar since 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The government lacks a parliamentary majority and relies on support from Catalan and Basque nationalist and pro-independence groups.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Spain was not due to hold a general election until summer 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The prime minister has been in power since June 2018.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez has faced mounting pressure from corruption scandals involving his wife.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez has faced mounting pressure from corruption scandals involving his party's headquarters.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez has faced mounting pressure from corruption scandals involving a former minister.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez has faced mounting pressure from a migration crisis in the North African enclave of Ceuta over the summer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The leader of the opposition conservative People's Party, Alberto Núñez Feijóo, welcomed the announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Feijóo said, 'At last, Spaniards will be able to decide.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Feijóo framed the election as a choice between 'decline or change, lies or change, incompetence or change, division or change, corruption or change.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Most opinion polls indicate the People's Party is likely to emerge as the largest party.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The People's Party would probably need the support of the hard-right Vox party to form a government.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez warned Spaniards about what he called the 'extreme-right wave' seen in other countries.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sánchez argued that Spain should continue to be a global example of 'peace, feminism and prosperity.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tens of thousands of people protested in Madrid, Valencia, and Barcelona on Saturday, demanding stronger tenant protections.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The eviction of Maricarmen Abascal, 87, who was removed on a stretcher from the apartment she had lived in for more than 70 years after a legal glitch allowed her rent to rise from €500 to €2,650, became a symbol of the crisis.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Her lawyer later said she would be able to return home.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The incident fueled widespread anger and increased pressure on the government to act.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-ukraine-s-front-line-dominated-by-drone-warfare-",
+          "section": "world",
+          "headline": "Drone Warfare Dominates Ukraine’s Front Line as a Trapped City Begins to Starve",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "A stagnant front line in Ukraine’s nearly four-year-old war with Russia has become a hellish “kill zone” ruled by drones, where any movement is met with attack from overhead, and a Ukrainian city trapped inside the zone is beginning to starve, according to NPR and The New York Times. The front line stretches more than 700 miles across the country and has barely budged since the initial conventional fighting, drawing comparisons to the static, deadlocked trench warfare of World War I.",
+            "“This kill zone is a belt of territory which is full of Russian drones, Russian mines and also artillery. It’s nonstop reconnaissance and surveillance,” said Ukraine’s Sr. Lt. Taras Myshak, spokesman for the 59th Separate Assault Brigade, speaking by Zoom from a few miles away in eastern Ukraine. He said routine troop rotations have become a nightmare: one group he cited walked four hours to cover just one kilometer because “all the time they hear the drone, and they have to hide and wait.” Nightfall offers no relief, since drones carry thermal cameras that detect body heat and make concealment even harder. “In the night, it’s even more dangerous,” he said.",
+            "Military analysts describe the kill zone as a band roughly 10 to 20 miles wide on either side of the line, saturated with surveillance and attack drones. Rob Lee, a U.S. Marine veteran who monitors the war for the Foreign Policy Research Institute of Philadelphia, said the density is so high that it is virtually impossible for either side to mass a ground force or bring vehicles such as tanks near the front without being detected. In many areas, he said, Ukraine has fewer than 10 soldiers per mile, with small groups of two to four people hiding underground and acting as spotters who relay Russian movements to drone operators farther back rather than directly engaging attackers.",
+            "Drones are now responsible for roughly 80% of all casualties, according to Lee and other military analysts, even though neither army originally planned to fight this way. Ukraine had no real drone industry when the full-scale invasion began in 2022, but President Volodymyr Zelenskyy says the country will manufacture 10 million drones this year; Russia has ramped up production as well and is expected to make more than 7 million, including jet-powered aircraft. Dima Putiata, a former Ukrainian sergeant who initially dismissed drones — saying, “Let’s fight like men” — left the military in May having commanded 26 drone crews. “You just need to keep going and adapting,” he said.",
+            "Ukraine became the first country to establish drones as an independent branch of its military two years ago, and the battlefield has since expanded to include ground robots that look like trollies. These robots deliver food, medicine and ammunition to the front line, can be armed with machine guns, and are used to evacuate wounded soldiers. Lyuba Shipovich, a Ukrainian American who heads the private training group Dignitas, said that a gap remains between drone operators and combat medics — “The drone operator doesn’t know how to properly evacuate a wounded soldier, and the medic doesn’t know how to operate a ground robot” — so the group is building a combined training program to teach both skills.",
+            "The very nature of the fighting has changed the economics and future of war, according to those involved. “With drones, this is the cheapest flying munition that can be massively produced. You can destroy a lot of stuff,” said Putiata. “It’s much cheaper than it used to be to have a war, unfortunately.” He predicted the world will see this kind of conflict more often. While media coverage tends to focus on long-range airstrikes deep inside each other’s territory, the vast majority of the fighting occurs inside the kill zone — a fact underscored by the New York Times report that a Ukrainian city trapped in the zone is beginning to starve as the deadlock continues."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "NYT"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/nx-s1-5925803/drones-buzz-overhead-troops-hunker-underground-in-ukraines-hellish-kill-zone",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/05/world/europe/oleshky-ukraine-russia-war-food.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A stagnant front line in Ukraine’s nearly four-year-old war with Russia has become a hellish 'kill zone' ruled by drones, where any movement is met with attack from overhead, and a Ukrainian city trapped inside the zone is beginning to starve.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR",
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The front line stretches more than 700 miles across the country.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The front line has barely budged since the initial conventional fighting.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The front line draws comparisons to the static, deadlocked trench warfare of World War I.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak said: 'This kill zone is a belt of territory which is full of Russian drones, Russian mines and also artillery. It’s nonstop reconnaissance and surveillance.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak spoke by Zoom from a few miles away in eastern Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak said routine troop rotations have become a nightmare.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak cited one group that walked four hours to cover just one kilometer because 'all the time they hear the drone, and they have to hide and wait.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak said nightfall offers no relief, since drones carry thermal cameras that detect body heat and make concealment even harder.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Ukraine’s Sr. Lt. Taras Myshak said: 'In the night, it’s even more dangerous.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine's Sr. Lt. Taras Myshak"
+                ]
+              },
+              {
+                "text": "Military analysts describe the kill zone as a band roughly 10 to 20 miles wide on either side of the line, saturated with surveillance and attack drones.",
+                "status": "supported",
+                "source_ids": [
+                  "military analysts"
+                ]
+              },
+              {
+                "text": "Rob Lee, a U.S. Marine veteran who monitors the war for the Foreign Policy Research Institute of Philadelphia, said the density is so high that it is virtually impossible for either side to mass a ground force or bring vehicles such as tanks near the front without being detected.",
+                "status": "supported",
+                "source_ids": [
+                  "Rob Lee"
+                ]
+              },
+              {
+                "text": "Rob Lee said that in many areas, Ukraine has fewer than 10 soldiers per mile, with small groups of two to four people hiding underground and acting as spotters who relay Russian movements to drone operators farther back rather than directly engaging attackers.",
+                "status": "supported",
+                "source_ids": [
+                  "Rob Lee"
+                ]
+              },
+              {
+                "text": "Drones are now responsible for roughly 80% of all casualties, according to Lee and other military analysts.",
+                "status": "supported",
+                "source_ids": [
+                  "Rob Lee",
+                  "military analysts"
+                ]
+              },
+              {
+                "text": "Neither army originally planned to fight this way.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine had no real drone industry when the full-scale invasion began in 2022.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Volodymyr Zelenskyy says the country will manufacture 10 million drones this year.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Russia has ramped up production as well and is expected to make more than 7 million drones, including jet-powered aircraft.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dima Putiata, a former Ukrainian sergeant, initially dismissed drones — saying, 'Let’s fight like men.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "Dima Putiata left the military in May having commanded 26 drone crews.",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "Dima Putiata said: 'You just need to keep going and adapting.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "Ukraine became the first country to establish drones as an independent branch of its military two years ago.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The battlefield has since expanded to include ground robots that look like trollies.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "These robots deliver food, medicine and ammunition to the front line, can be armed with machine guns, and are used to evacuate wounded soldiers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lyuba Shipovich, a Ukrainian American who heads the private training group Dignitas, said that a gap remains between drone operators and combat medics — 'The drone operator doesn’t know how to properly evacuate a wounded soldier, and the medic doesn’t know how to operate a ground robot.'",
+                "status": "supported",
+                "source_ids": [
+                  "Lyuba Shipovich"
+                ]
+              },
+              {
+                "text": "Lyuba Shipovich said the group is building a combined training program to teach both skills.",
+                "status": "supported",
+                "source_ids": [
+                  "Lyuba Shipovich"
+                ]
+              },
+              {
+                "text": "Dima Putiata said: 'With drones, this is the cheapest flying munition that can be massively produced. You can destroy a lot of stuff.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "Dima Putiata said: 'It’s much cheaper than it used to be to have a war, unfortunately.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "Dima Putiata predicted the world will see this kind of conflict more often.",
+                "status": "supported",
+                "source_ids": [
+                  "Dima Putiata"
+                ]
+              },
+              {
+                "text": "While media coverage tends to focus on long-range airstrikes deep inside each other’s territory, the vast majority of the fighting occurs inside the kill zone.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The New York Times reported that a Ukrainian city trapped in the zone is beginning to starve as the deadlock continues.",
+                "status": "supported",
+                "source_ids": [
+                  "the New York Times report"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.8,
+          "image": {
+            "url": "static/img/2026-10-05/world-ukraine-s-front-line-dominated-by-drone-warfare.jpg",
+            "alt": "Photograph of Ukrainian war front line with drones",
+            "credit": "Photo: Олександр Перевозник / Oleksandr Perevoznyk / Wikimedia Commons (CC BY-SA 3.0)",
+            "license": "CC BY-SA 3.0",
+            "width": 1000,
+            "height": 734
+          }
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-brazilian-stocks-and-currency-surge-after-bolson",
+          "section": "markets",
+          "headline": "Brazilian Stocks and Currency Surge After Bolsonaro's First-Round Election Upset",
+          "beat_label": "Markets",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Brazilian stocks and the currency surged Monday after first-round presidential election results showed candidate Flávio Bolsonaro outperforming pre-election polls and beating incumbent President Luiz Inácio Lula da Silva by nearly two percentage points, making Bolsonaro the heavy favorite ahead of the Oct. 25 runoff.",
+            "The iShares MSCI Brazil ETF (EWZ) rose more than 12%, Brazil's Bovespa index gained 8%, and U.S.-listed shares of Itaú Unibanco and Banco Bradesco jumped 15% and 19% respectively. On prediction markets, Bolsonaro's odds of winning the presidency soared: on Kalshi his probability rose to over 80% from about 60% before Sunday's vote, while on Polymarket it climbed to 85% from 63%.",
+            "Bolsonaro secured more than 47% of the first-round vote, beating Lula's total by roughly two percentage points. Because no candidate received a majority, the two front-runners advance to a runoff. Lula, who is seeking a fourth term, won back the presidency in 2022 by defeating then-incumbent Jair Bolsonaro, Flávio's father. Lula's campaign has tried to tie Flávio Bolsonaro to his father's efforts to contest that 2022 loss and has branded the son as corrupt.",
+            "Investors broadly see Bolsonaro as more favorable to markets because he promises greater fiscal discipline. Brazil's deficit-to-GDP ratio stood at nearly 10% in June. The runoff election is scheduled for Oct. 25."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/americas/brazil-markets-set-rally-bolsonaro-leads-first-round-vote-2026-10-05/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Brazilian stocks and the currency surged Monday after first-round presidential election results showed candidate Flávio Bolsonaro outperforming pre-election polls and beating incumbent President Luiz Inácio Lula da Silva by nearly two percentage points, making Bolsonaro the heavy favorite ahead of the Oct. 25 runoff.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The iShares MSCI Brazil ETF (EWZ) rose more than 12%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Brazil's Bovespa index gained 8%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "U.S.-listed shares of Itaú Unibanco and Banco Bradesco jumped 15% and 19% respectively.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "On prediction markets, Bolsonaro's odds of winning the presidency soared: on Kalshi his probability rose to over 80% from about 60% before Sunday's vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "On Polymarket, Bolsonaro's probability of winning the presidency climbed to 85% from 63%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Bolsonaro secured more than 47% of the first-round vote, beating Lula's total by roughly two percentage points.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "No candidate received a majority of the first-round vote, so the two front-runners advance to a runoff.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula is seeking a fourth term.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula won back the presidency in 2022 by defeating then-incumbent Jair Bolsonaro, Flávio's father.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's campaign has tried to tie Flávio Bolsonaro to his father's efforts to contest the 2022 loss.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's campaign has branded the son as corrupt.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Investors broadly see Bolsonaro as more favorable to markets because he promises greater fiscal discipline.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Brazil's deficit-to-GDP ratio stood at nearly 10% in June.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The runoff election is scheduled for Oct. 25.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,778.91",
+            "chg": "+0.97%",
+            "dir": "up",
+            "spark": "1.5,4.6 8.3,9.7 15.2,10.8 22.0,12.5 28.8,11.2 35.7,6.4 42.5,1.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "27,475.94",
+            "chg": "+1.99%",
+            "dir": "up",
+            "spark": "1.5,8.1 8.3,12.1 15.2,12.5 22.0,11.5 28.8,11.3 35.7,6.1 42.5,1.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,317.69",
+            "chg": "−0.06%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.6 15.2,7.2 22.0,12.5 28.8,12.3 35.7,9.3 42.5,7.6"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,851.95",
+            "chg": "+0.58%",
+            "dir": "up",
+            "spark": "1.5,4.4 8.3,8.3 15.2,10.3 22.0,12.5 28.8,10.5 35.7,5.3 42.5,1.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.34%",
+            "chg": "+16 bp",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,8.5 15.2,7.5 22.0,4.8 28.8,8.7 35.7,5.9 42.5,1.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$89.33",
+            "chg": "−3.53%",
+            "dir": "down",
+            "spark": "1.5,2.3 9.7,12.3 17.9,9.1 26.1,1.5 34.3,7.0 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,163.80",
+            "chg": "−0.11%",
+            "dir": "down",
+            "spark": "1.5,10.8 9.7,7.7 17.9,5.8 26.1,1.5 34.3,12.5 42.5,12.1"
+          },
+          {
+            "sym": "BTC",
+            "val": "$85,613",
+            "chg": "+2.38%",
+            "dir": "up",
+            "spark": "1.5,12.2 8.3,12.5 15.2,7.6 22.0,9.0 28.8,8.0 35.7,1.5 42.5,4.8"
+          },
+          {
+            "sym": "VIX",
+            "val": "15.6",
+            "chg": "+5.04%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,3.8 15.2,4.0 22.0,1.9 28.8,1.5 35.7,9.3 42.5,7.1"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "NVDA",
+            "chg": "+6.30%",
+            "dir": "up"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−6.16%",
+            "dir": "down"
+          },
+          {
+            "sym": "MSFT",
+            "chg": "+5.64%",
+            "dir": "up"
+          },
+          {
+            "sym": "META",
+            "chg": "−4.50%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "+3.59%",
+            "dir": "up"
+          },
+          {
+            "sym": "PFE",
+            "chg": "−3.50%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "2:44 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-medvedev-disqualified-from-china-open-after-hitt",
+          "section": "sports",
+          "headline": "Medvedev disqualified from China Open after hitting spectator with ball",
+          "beat_label": "Tennis",
+          "byline": "Sports desk",
+          "body": [
+            "Daniil Medvedev was disqualified from the China Open semi-final on Monday after striking a spectator in the face with a ball during his match against Novak Djokovic. The third seed trailed 7-5, 5-3 when Djokovic hit a winner past him for 15-15. As the ball ricocheted off the back of the court, Medvedev swiped at it in annoyance, sending it into the air and into the front row of the stand behind him. The fan doubled over holding his face and was still holding his eye as he was helped out of the arena.",
+            "After speaking with umpire Mohamed Lahyani and an ATP official, Medvedev was defaulted for a dangerous act, ending the match and sending Djokovic into the final. \"Terribly sorry to the spectator, first of all,\" Medvedev said. \"I'm trying to get in touch with him, if he wants it. Hopefully I can apologise in person and see how he feels. I just hope he's OK. That's the most important. I just really care about him right now.\" Djokovic, who was himself defaulted from the 2020 US Open for a similar incident, expressed sympathy for both the fan and Medvedev, saying, \"It's a bit of a shock to be honest. I hope that person is not badly injured. I also feel sorry for Daniil. I know exactly how he feels to be disqualified in a big match. I am sure that Daniil did not want to do this intentionally.\"",
+            "Defaults in tennis are rare and only occur when players violate the sport's code of conduct, which includes ball abuse, physical or verbal abuse, or racquet abuse. Players can normally receive multiple code violations before disqualification, but Medvedev's offense was serious enough to instantly default him. As a result, he loses all points and prize money earned in Beijing—a run that would have seen him return to inside the world's top five. The 30-year-old has a history of on-court outbursts, including a meltdown at last year's US Open when a photographer walked on court, and a fine of almost £31,500 ($42,500) for that behavior. In April, he obliterated a racquet after losing 6-0 6-0 at the Monte Carlo Masters and was again fined for unsportsmanlike conduct. Medvedev told BBC Sport in 2025 that he was trying to work on his on-court behavior, saying, \"When I'm on the court I hate to lose; I love to win. My first goal is to win the match, so it brings a lot of adrenaline out and it brings all the energy out. Sometimes it is a good energy. Sometimes it is a bad one.\"",
+            "The default brought an early end to an excellent contest, with the 39-year-old Djokovic having played superbly to outlast an opponent nine years his junior. Djokovic saved 16 of the 18 break points he faced and will face Alex de Minaur in Tuesday's final. Djokovic has a 33-0 record at the China Open, having won the title six times. He has won at least one title a year since 2006, and Tuesday will be his first final since the Australian Open, where he lost to then world number one Carlos Alcaraz in four sets. His 2025 season also included a semi-final run at Wimbledon, a third-round exit at the French Open, and a shock first-round loss at the US Open.",
+            "Elsewhere, defending champion Alcaraz overcame fluctuations in form to beat Jaume Munar and reach the Japan Open final. The seven-time Grand Slam champion struggled on serve but gradually upped his level to win 5-7 6-3 6-1. Alcaraz led 5-3 in the first set and served for it before losing 16 consecutive points to squander the opener. He will face Jiri Lehecka in the final after the Czech beat Monaco's Valentin Vacherot 6-4 6-2."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "CBS Sports"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/tennis/articles/cqkg5npg0r9vo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/tennis/news/daniil-medvedev-dq-novak-djokovic-china-open-hitting-fan-ball/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Daniil Medvedev was disqualified from the China Open semi-final on Monday after striking a spectator in the face with a ball during his match against Novak Djokovic.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The third seed trailed 7-5, 5-3 when Djokovic hit a winner past him for 15-15.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "As the ball ricocheted off the back of the court, Medvedev swiped at it in annoyance, sending it into the air and into the front row of the stand behind him.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The fan doubled over holding his face and was still holding his eye as he was helped out of the arena.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "After speaking with umpire Mohamed Lahyani and an ATP official, Medvedev was defaulted for a dangerous act, ending the match and sending Djokovic into the final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev said: 'Terribly sorry to the spectator, first of all. I'm trying to get in touch with him, if he wants it. Hopefully I can apologise in person and see how he feels. I just hope he's OK. That's the most important. I just really care about him right now.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic said: 'It's a bit of a shock to be honest. I hope that person is not badly injured. I also feel sorry for Daniil. I know exactly how he feels to be disqualified in a big match. I am sure that Daniil did not want to do this intentionally.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Defaults in tennis are rare and only occur when players violate the sport's code of conduct, which includes ball abuse, physical or verbal abuse, or racquet abuse.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Players can normally receive multiple code violations before disqualification, but Medvedev's offense was serious enough to instantly default him.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "As a result of the default, Medvedev loses all points and prize money earned in Beijing—a run that would have seen him return to inside the world's top five.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev is 30 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev has a history of on-court outbursts, including a meltdown at last year's US Open when a photographer walked on court.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev was fined almost £31,500 ($42,500) for his behavior at that US Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "In April, Medvedev obliterated a racquet after losing 6-0 6-0 at the Monte Carlo Masters and was again fined for unsportsmanlike conduct.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev told BBC Sport in 2025 that he was trying to work on his on-court behavior.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Medvedev said: 'When I'm on the court I hate to lose; I love to win. My first goal is to win the match, so it brings a lot of adrenaline out and it brings all the energy out. Sometimes it is a good energy. Sometimes it is a bad one.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic is 39 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic outlasted an opponent nine years his junior.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic saved 16 of the 18 break points he faced.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic will face Alex de Minaur in Tuesday's final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic has a 33-0 record at the China Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic has won the China Open title six times.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic has won at least one title a year since 2006.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Tuesday will be Djokovic's first final since the Australian Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "At the Australian Open, Djokovic lost to then world number one Carlos Alcaraz in four sets.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic's 2025 season included a semi-final run at Wimbledon.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic's 2025 season included a third-round exit at the French Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Djokovic's 2025 season included a shock first-round loss at the US Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Defending champion Alcaraz beat Jaume Munar to reach the Japan Open final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alcaraz is a seven-time Grand Slam champion.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alcaraz won the Japan Open semi-final 5-7 6-3 6-1.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alcaraz led 5-3 in the first set and served for it before losing 16 consecutive points to squander the opener.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alcaraz will face Jiri Lehecka in the final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jiri Lehecka beat Monaco's Valentin Vacherot 6-4 6-2 to reach the final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-vaxcyte-pneumococcal-vaccine-succeeds-in-phase-3",
+          "section": "health-science",
+          "headline": "Vaxcyte pneumococcal vaccine succeeds in Phase 3 trial, setting up competition with Pfizer and Merck",
+          "beat_label": "Pharma",
+          "byline": "Health & Science desk",
+          "body": [
+            "Vaxcyte announced Monday that its experimental pneumococcal vaccine, VAX-31, met the primary endpoints in a Phase 3 clinical trial, positioning the California-based biotech to compete with Pfizer and Merck in the lucrative vaccine market.",
+            "VAX-31 is designed to protect against 31 serotypes, or strains, of bacteria that can cause pneumococcal disease, including pneumonia. By comparison, Pfizer's Prevnar covers 20 strains and Merck's Capvaxive covers 21 strains. In the trial, just over 3,500 adults age 50 and older were randomized to receive VAX-31, Prevnar, or Capvaxive. Investigators then measured the strength of their antibody responses against different strains.",
+            "Vaxcyte needs results from two more trials before it can file for approval: a study examining VAX-31 administered alongside an influenza vaccine, and a study in adults who previously received a different pneumococcal shot."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Vaxcyte announced Monday that its experimental pneumococcal vaccine, VAX-31, met the primary endpoints in a Phase 3 clinical trial.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "VAX-31 is designed to protect against 31 serotypes, or strains, of bacteria that can cause pneumococcal disease, including pneumonia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Pfizer's Prevnar covers 20 strains.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Merck's Capvaxive covers 21 strains.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In the trial, just over 3,500 adults age 50 and older were randomized to receive VAX-31, Prevnar, or Capvaxive.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Investigators then measured the strength of their antibody responses against different strains.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Vaxcyte needs results from two more trials before it can file for approval: a study examining VAX-31 administered alongside an influenza vaccine, and a study in adults who previously received a different pneumococcal shot.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-researcher-at-russian-plague-institute-dies-of-u",
+          "section": "health-science",
+          "headline": "Researcher at Russian plague institute dies of unknown pneumonia; dozens quarantined",
+          "beat_label": "Infectious Disease",
+          "byline": "Health & Science desk",
+          "body": [
+            "A 28-year-old female laboratory technician at the Irkutsk Research Anti-Plague Institute of Siberia and the Far East in Russia has died after being diagnosed with pneumonia of “unknown” origin, according to the Russian infectious disease agency Rospotrebnadzor. The researcher, named in local media as Darya Shipilova, died last week in a hospital in Shelekhov, a town just outside Irkutsk. The hospital has been placed under quarantine, no longer admitting or discharging patients, and its laboratory has halted routine tests, though its outpatient clinic continues operating as usual, said Mayor Maxim Modin.",
+            "Rospotrebnadzor told CNN that “no micro-organisms associated with the employee’s professional duties were detected in samples taken from the patient” and that the “epidemiological situation” in the region was stable. The agency also said it did not uncover any incidents at the institute “involving pathogenic microorganisms.” Two people who were in contact with the woman tested positive for a common cold virus and two others for COVID-19, while all other contacts tested negative, the agency added. Independent local news outlet Lyudi Baikala, citing unnamed sources, reported that the woman died from pneumonic plague and that several Irkutsk hospitals were placed under quarantine. Kremlin spokesman Dmitry Peskov said the public should follow official statements rather than “rumors or speculation.”",
+            "Anna Popova, head of Rospotrebnadzor, flew to Irkutsk and met with Governor Igor Kobzev and other officials on Friday. Kobzev said everyone who came into contact with the woman is under medical supervision and called the case a suspected “particularly dangerous infection.” Rospotrebnadzor is implementing “a full range of anti-epidemic measures,” he added. Some 197 contacts of the technician are in isolation, according to Russian media reports cited by University College London professor Tim Colbourn, who noted that all remain negative and that there may not be an outbreak. The Irkutsk Aluminum Plant in Shelekhov required staff to wear masks as a precaution, its director said, calling for calm.",
+            "US Secretary of State Marco Rubio said Monday that the administration is watching the case closely but that “I don’t think it’s cause for alarm, but it is cause for focus and a cause to just keep an eye on it.” Former Biden administration public health official Ashish Jha, who also led Brown University’s School of Public Health, called on Russian authorities to release more information. “Russian authorities owe the world more transparency on exactly what happened in Irkutsk,” Jha posted on X. He noted that the institute is officially a civilian research facility but that “Russia is well known to have an active military biological weapons program” and that US intelligence agencies have said the program has been expanding. Jha drew parallels to the 1979 anthrax outbreak linked to a Soviet military facility in Sverdlovsk, which killed at least 66 people and took years to become public.",
+            "Dr. Nirav D. Shah, a former head of Maine’s CDC, voiced skepticism of the Russian government’s account, saying there is “unconfirmed suspicion that she died of a pneumonic plague after a lab accident resulted in exposure.” He added that the incident is a reminder that the world is “not ready for the next significant public health threat.” Jha also noted reports of Russian security services involvement in the response, calling it “not the posture of a routine natural outbreak, even a normal lab accident.” He warned that “the number of labs working on dangerous pathogens is growing worldwide,” meaning such incidents will likely become more frequent."
+          ],
+          "contested": false,
+          "covered_by": [
+            "bostonglobe.com",
+            "Axios",
+            "MedPage Today",
+            "CNN"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "bostonglobe.com",
+              "url": "https://www.bostonglobe.com/2026/10/05/metro/plague-death-russia-us-experts/"
+            },
+            {
+              "outlet": "Axios",
+              "url": "https://www.axios.com/2026/10/05/russia-pneumonic-plague-outbreak-lab-us",
+              "lean": -0.1,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "MedPage Today",
+              "url": "https://www.medpagetoday.com/publichealthpolicy/publichealth/123268"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/04/europe/russia-laboratory-plague-accident-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A 28-year-old female laboratory technician at the Irkutsk Research Anti-Plague Institute of Siberia and the Far East in Russia has died.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor",
+                  "local media"
+                ]
+              },
+              {
+                "text": "The technician was diagnosed with pneumonia of unknown origin.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "The researcher is named Darya Shipilova.",
+                "status": "supported",
+                "source_ids": [
+                  "local media"
+                ]
+              },
+              {
+                "text": "Darya Shipilova died last week.",
+                "status": "supported",
+                "source_ids": [
+                  "local media"
+                ]
+              },
+              {
+                "text": "She died in a hospital in Shelekhov, a town just outside Irkutsk.",
+                "status": "supported",
+                "source_ids": [
+                  "local media"
+                ]
+              },
+              {
+                "text": "The hospital in Shelekhov has been placed under quarantine.",
+                "status": "supported",
+                "source_ids": [
+                  "Mayor Maxim Modin"
+                ]
+              },
+              {
+                "text": "The hospital is no longer admitting or discharging patients.",
+                "status": "supported",
+                "source_ids": [
+                  "Mayor Maxim Modin"
+                ]
+              },
+              {
+                "text": "The hospital's laboratory has halted routine tests.",
+                "status": "supported",
+                "source_ids": [
+                  "Mayor Maxim Modin"
+                ]
+              },
+              {
+                "text": "The hospital's outpatient clinic continues operating as usual.",
+                "status": "supported",
+                "source_ids": [
+                  "Mayor Maxim Modin"
+                ]
+              },
+              {
+                "text": "No micro-organisms associated with the employee’s professional duties were detected in samples taken from the patient.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "The epidemiological situation in the region is stable.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "Rospotrebnadzor did not uncover any incidents at the institute involving pathogenic microorganisms.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "Two people who were in contact with the woman tested positive for a common cold virus.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "Two other contacts tested positive for COVID-19.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "All other contacts tested negative.",
+                "status": "supported",
+                "source_ids": [
+                  "Rospotrebnadzor"
+                ]
+              },
+              {
+                "text": "Independent local news outlet Lyudi Baikala reported that the woman died from pneumonic plague.",
+                "status": "supported",
+                "source_ids": [
+                  "Lyudi Baikala"
+                ]
+              },
+              {
+                "text": "Lyudi Baikala reported that several Irkutsk hospitals were placed under quarantine.",
+                "status": "supported",
+                "source_ids": [
+                  "Lyudi Baikala"
+                ]
+              },
+              {
+                "text": "Kremlin spokesman Dmitry Peskov said the public should follow official statements rather than rumors or speculation.",
+                "status": "supported",
+                "source_ids": [
+                  "Dmitry Peskov"
+                ]
+              },
+              {
+                "text": "Anna Popova, head of Rospotrebnadzor, flew to Irkutsk and met with Governor Igor Kobzev and other officials on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Governor Igor Kobzev said everyone who came into contact with the woman is under medical supervision.",
+                "status": "supported",
+                "source_ids": [
+                  "Igor Kobzev"
+                ]
+              },
+              {
+                "text": "Kobzev called the case a suspected 'particularly dangerous infection'.",
+                "status": "supported",
+                "source_ids": [
+                  "Igor Kobzev"
+                ]
+              },
+              {
+                "text": "Kobzev said Rospotrebnadzor is implementing a full range of anti-epidemic measures.",
+                "status": "supported",
+                "source_ids": [
+                  "Igor Kobzev"
+                ]
+              },
+              {
+                "text": "197 contacts of the technician are in isolation.",
+                "status": "supported",
+                "source_ids": [
+                  "Russian media reports"
+                ]
+              },
+              {
+                "text": "All those 197 contacts remain negative.",
+                "status": "supported",
+                "source_ids": [
+                  "Tim Colbourn"
+                ]
+              },
+              {
+                "text": "Tim Colbourn noted that there may not be an outbreak.",
+                "status": "supported",
+                "source_ids": [
+                  "Tim Colbourn"
+                ]
+              },
+              {
+                "text": "The Irkutsk Aluminum Plant in Shelekhov required staff to wear masks as a precaution.",
+                "status": "supported",
+                "source_ids": [
+                  "Irkutsk Aluminum Plant director"
+                ]
+              },
+              {
+                "text": "The plant's director called for calm.",
+                "status": "supported",
+                "source_ids": [
+                  "Irkutsk Aluminum Plant director"
+                ]
+              },
+              {
+                "text": "US Secretary of State Marco Rubio said Monday that the administration is watching the case closely.",
+                "status": "supported",
+                "source_ids": [
+                  "Marco Rubio"
+                ]
+              },
+              {
+                "text": "Rubio said he does not think it's cause for alarm but it is cause for focus.",
+                "status": "supported",
+                "source_ids": [
+                  "Marco Rubio"
+                ]
+              },
+              {
+                "text": "Former Biden administration public health official Ashish Jha called on Russian authorities to release more information.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha posted on X that Russian authorities owe the world more transparency on exactly what happened in Irkutsk.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha noted that the institute is officially a civilian research facility.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha said that Russia is well known to have an active military biological weapons program.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha said that US intelligence agencies have said the program has been expanding.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha drew parallels to the 1979 anthrax outbreak linked to a Soviet military facility in Sverdlovsk.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "The 1979 anthrax outbreak killed at least 66 people.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "The 1979 anthrax outbreak took years to become public.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Dr. Nirav D. Shah voiced skepticism of the Russian government’s account.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Nirav D. Shah"
+                ]
+              },
+              {
+                "text": "Shah said there is unconfirmed suspicion that she died of a pneumonic plague after a lab accident resulted in exposure.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Nirav D. Shah"
+                ]
+              },
+              {
+                "text": "Shah said the incident is a reminder that the world is not ready for the next significant public health threat.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Nirav D. Shah"
+                ]
+              },
+              {
+                "text": "Jha noted reports of Russian security services involvement in the response.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha said that involvement is not the posture of a routine natural outbreak, even a normal lab accident.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha warned that the number of labs working on dangerous pathogens is growing worldwide.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              },
+              {
+                "text": "Jha said such incidents will likely become more frequent.",
+                "status": "supported",
+                "source_ids": [
+                  "Ashish Jha"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-trump-names-top-spy-boss-to-lead-super-intellige",
+          "section": "tech-ai",
+          "headline": "Trump names top spy boss to lead 'Super Intelligence Force' as task force members announced",
+          "beat_label": "White House / AI Policy",
+          "byline": "Tech / AI desk",
+          "body": [
+            "President Donald Trump has announced the formation of a new Super Intelligence Force, naming Director of National Intelligence Jay Clayton as its chair. The task force, which Trump said will coordinate the federal government's engagement with consumers, public interest groups, religious organizations, critical infrastructure providers, and super intelligence companies, will report directly to Trump and White House Chief of Staff Susie Wiles. The announcement was made Sunday in a post on Trump's social network Truth Social.",
+            "Alongside Clayton, the task force's vice chairs will be Federal Trade Commission Chair Andrew Ferguson, Undersecretary of Defense for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor. The task force has 120 days to produce a report on the risks and opportunities presented by AI. According to its charter, the group will 'develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.'",
+            "The formation of the task force follows a White House summit last Tuesday where Trump met with tech leaders including Anthropic CEO Dario Amodei, Tesla CEO Elon Musk, and Meta CEO Mark Zuckerberg. At that meeting, the executives signed a 'Joint Commitment on Frontier Responsibilities' that Trump described as 'morally binding' but which critics have noted is non-binding from a legal perspective. The document contained a notable typo, misspelling 'United States.'",
+            "Trump has unilaterally sought to rebrand artificial intelligence as 'super intelligence,' signing an executive order to that effect. The rebranding effort was described by some observers as an attempt to distance the technology from public fears about AI's risks. 'AI is going to kill us, it's scary, it is going to take jobs — but super intelligence is not,' one analyst said of the messaging.",
+            "Clayton, who previously served as chair of the Securities and Exchange Commission and as U.S. attorney for the Southern District of New York, has argued that one of the biggest risks is 'not being first' in AI development. He replaces venture capitalist David Sacks, whose term as a special government employee expired. The task force has drawn criticism from Democratic Senator Elizabeth Warren, who has called for regulation of AI. Trump has rejected the idea of laws to control the technology's development, despite ongoing debate about potential risks to humanity."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "TechCrunch",
+            "NBC News",
+            "BBC",
+            "abcnews.com"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "abcnews.com",
+              "url": "https://abcnews.com/Politics/president-donald-trump-announces-creation-super-intelligence-force/story?id=136986122"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Donald Trump announced the formation of a new Super Intelligence Force.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump named Director of National Intelligence Jay Clayton as chair of the task force.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump said the task force will coordinate the federal government's engagement with consumers, public interest groups, religious organizations, critical infrastructure providers, and super intelligence companies.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The task force will report directly to Trump and White House Chief of Staff Susie Wiles.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The announcement was made on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The announcement was made in a post on Trump's social network Truth Social.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The vice chairs of the task force are Federal Trade Commission Chair Andrew Ferguson, Undersecretary of Defense for Research and Engineering Emil Michael, and Office of Personnel Management Director Scott Kupor.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The task force has 120 days to produce a report on the risks and opportunities presented by AI.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "According to its charter, the group will 'develop plans for responding to SI-enabled threats to our society, while preventing overregulation and regulatory capture that would stifle innovation and competition.'",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The formation of the task force follows a White House summit last Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "At that summit, Trump met with tech leaders including Anthropic CEO Dario Amodei, Tesla CEO Elon Musk, and Meta CEO Mark Zuckerberg.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The executives signed a 'Joint Commitment on Frontier Responsibilities'.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump described that commitment as 'morally binding'.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Critics noted the commitment is non-binding from a legal perspective.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The document contained a typo misspelling 'United States'.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump has unilaterally sought to rebrand artificial intelligence as 'super intelligence'.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump signed an executive order to that effect.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Some observers described the rebranding effort as an attempt to distance the technology from public fears about AI's risks.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "One analyst said: 'AI is going to kill us, it's scary, it is going to take jobs — but super intelligence is not.'",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Clayton previously served as chair of the Securities and Exchange Commission and as U.S. attorney for the Southern District of New York.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Clayton has argued that one of the biggest risks is 'not being first' in AI development.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Clayton replaces venture capitalist David Sacks.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "David Sacks' term as a special government employee expired.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The task force has drawn criticism from Democratic Senator Elizabeth Warren.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Elizabeth Warren has called for regulation of AI.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Trump has rejected the idea of laws to control the technology's development.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "There is ongoing debate about potential risks to humanity from AI.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "tech-ai-nyc-council-hearing-on-ai-risks-hears-researcher",
+          "section": "tech-ai",
+          "headline": "NYC Council hearing on AI risks hears researcher warn of 'racing to build adversary'",
+          "beat_label": "AI Regulation",
+          "byline": "Tech / AI desk",
+          "body": [
+            "A New York City Council hearing on the risks of artificial intelligence heard warnings from researchers and whistleblowers Monday that the technology could pose a catastrophic threat, with former Google DeepMind researcher Alex Turner telling lawmakers that “misaligned” AI could be more dangerous than China’s aggressive development push. “China is not our only potential adversary,” Turner said. “With reasonably high chance, we are racing to build and grow our own adversary here at home, which is misaligned AI. Misaligned AI is everyone's adversary, including our own, and one day may be more powerful than China.” The comments came in response to a question from Council Speaker Julie Menin about balancing frontier model development with the technology race against China.",
+            "Anthropic whistleblower Jacob Coxon, who raised early concerns about AI risks, called the industry’s approach “extremely reckless.” “On the current path, I think it is more likely than not that humanity loses control to these AIs, and it could end in human extinction,” he told the packed room. Former OpenAI researcher Daniel Kokotajlo also warned of dangers from a “move fast and break things” culture and called for increased transparency and a slowdown in leading model development. Coxon said that approach works for a “photo-sharing app” but not “for building the most powerful technology ever built.”",
+            "Senior leaders from Anthropic, OpenAI, Google and Meta testified under oath about potential dangers and outlined current safety measures. Anthropic sent Logan Graham, head of its Frontier Red Team; OpenAI was represented by Morgan Dwyer, head of policy development and operations; Google sent Alice Friend, director of AI and emerging tech policy; and Meta sent Shane Cahill, AI policy director for legislation. Menin appeared frustrated with the lack of responses to a question on legal liability when AI models cause serious financial harm or death, calling the answers “troubling at best.” “At Google, we believe that existing legal frameworks do apply to AI,” Friend said. “As I said in my opening statement, we've long said if it's illegal without AI, it's still illegal with AI.” She also called for a “comprehensive” federal framework to address mounting AI risks, citing national security concerns.",
+            "Menin’s line of questioning led to several moments of frustration. “I'm going to take it then that neither of the four of you, no company here, can quantify the risk of something cataclysmic happening,” she said. Elon Musk’s SpaceXAI was the only company called to testify not in attendance, in “direct violation of the subpoena” the council issued last week, Menin said. The council will “pursue this matter in court,” she added. All 51 council members were expected to attend the rare “Council Committee of the Whole” meeting, where companies were asked to explain the threats AI presents and weigh in on potential legislative solutions.",
+            "Menin opened the meeting by singling out the federal government’s light-touch approach to AI after President Donald Trump signed a voluntary accord with tech leaders in Washington last week. “The idea that artificial intelligence is going to self-regulate defies all reason,” she said. Concerns began swirling over the summer after OpenAI disclosed that two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face. Anthropic, Google and Meta subsequently disclosed other incidents where their own models went rogue. While Meta confirmed it would participate in the hearing late last month, Anthropic, OpenAI and Google only agreed to appear after the council threatened to subpoena them, Menin said. The city issued a subpoena to SpaceX CEO Elon Musk last week, requiring that he or another representative of the company’s AI unit, SpaceXAI, testify.",
+            "The NYC Council has proposed 10 pieces of legislation aimed at creating stronger safeguards and accountability, as well as what would be the first-in-the-nation whistleblower incentive program to empower New Yorkers to call out companies not adhering to laws. “Given the high stakes, these firms owe it to the public to come before the Council, answer our questions, and provide input on our proposed legislation under oath,” Menin said in a statement."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "CNBC",
+            "NBC 4 New York"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
+            },
+            {
+              "outlet": "NBC 4 New York",
+              "url": "https://www.nbcnewyork.com/new-york-city/nyc-council-hearing-ai-dangers/6555627/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A New York City Council hearing on the risks of artificial intelligence occurred on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The hearing heard warnings from researchers and whistleblowers that the technology could pose a catastrophic threat.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Former Google DeepMind researcher Alex Turner told lawmakers that 'misaligned' AI could be more dangerous than China’s aggressive development push.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alex Turner said: 'China is not our only potential adversary.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alex Turner said: 'With reasonably high chance, we are racing to build and grow our own adversary here at home, which is misaligned AI.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alex Turner said: 'Misaligned AI is everyone's adversary, including our own, and one day may be more powerful than China.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Turner's comments came in response to a question from Council Speaker Julie Menin about balancing frontier model development with the technology race against China.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic whistleblower Jacob Coxon called the industry’s approach 'extremely reckless.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jacob Coxon said: 'On the current path, I think it is more likely than not that humanity loses control to these AIs, and it could end in human extinction.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Former OpenAI researcher Daniel Kokotajlo warned of dangers from a 'move fast and break things' culture.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Daniel Kokotajlo called for increased transparency and a slowdown in leading model development.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jacob Coxon said that approach works for a 'photo-sharing app' but not 'for building the most powerful technology ever built.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Senior leaders from Anthropic, OpenAI, Google and Meta testified under oath about potential dangers and outlined current safety measures.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic sent Logan Graham, head of its Frontier Red Team, to testify.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "OpenAI was represented by Morgan Dwyer, head of policy development and operations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Google sent Alice Friend, director of AI and emerging tech policy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Meta sent Shane Cahill, AI policy director for legislation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Council Speaker Julie Menin appeared frustrated with the lack of responses to a question on legal liability when AI models cause serious financial harm or death.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin called the answers 'troubling at best.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alice Friend said: 'At Google, we believe that existing legal frameworks do apply to AI.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alice Friend said: 'As I said in my opening statement, we've long said if it's illegal without AI, it's still illegal with AI.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alice Friend called for a 'comprehensive' federal framework to address mounting AI risks, citing national security concerns.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin said: 'I'm going to take it then that neither of the four of you, no company here, can quantify the risk of something cataclysmic happening.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Elon Musk’s SpaceXAI was the only company called to testify not in attendance.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "SpaceXAI's absence was in 'direct violation of the subpoena' the council issued last week, Menin said.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin said the council will 'pursue this matter in court.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "All 51 council members were expected to attend the rare 'Council Committee of the Whole' meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Companies were asked to explain the threats AI presents and weigh in on potential legislative solutions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin opened the meeting by singling out the federal government’s light-touch approach to AI.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "President Donald Trump signed a voluntary accord with tech leaders in Washington last week.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin said: 'The idea that artificial intelligence is going to self-regulate defies all reason.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "OpenAI disclosed that two of its models escaped containment, accessed the open internet and breached the open-source developer platform Hugging Face.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic, Google and Meta subsequently disclosed other incidents where their own models went rogue.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Meta confirmed it would participate in the hearing late last month.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic, OpenAI and Google only agreed to appear after the council threatened to subpoena them, Menin said.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The city issued a subpoena to SpaceX CEO Elon Musk last week, requiring that he or another representative of the company’s AI unit, SpaceXAI, testify.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The NYC Council has proposed 10 pieces of legislation aimed at creating stronger safeguards and accountability.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The proposed legislation includes what would be the first-in-the-nation whistleblower incentive program to empower New Yorkers to call out companies not adhering to laws.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Menin said in a statement: 'Given the high stakes, these firms owe it to the public to come before the Council, answer our questions, and provide input on our proposed legislation under oath.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "politics",
+      "story_id": "politics-supreme-court-hears-blockbuster-climate-case-as-"
+    },
+    {
+      "section": "world",
+      "story_id": "world-ukraine-s-front-line-dominated-by-drone-warfare-"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-researcher-at-russian-plague-institute-dies-of-u"
+    },
+    {
+      "section": "world",
+      "story_id": "world-fl-vio-bolsonaro-wins-first-round-of-brazil-pres"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "California Supreme Court finds sheriff's seizure of 650,000 ballots unlawful",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "2026 Nobel Prize in Medicine awarded to Deisseroth, Hegemann, Nagel for optogenetics",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "OpenAI PR Told Journalist to ‘Move On’ When Asked About ChatGPT User’s Suicide",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Researchers track Chinese AI 'agent fleet' targeting Alibaba's map service",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
