@@ -1,0 +1,2375 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-06",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-06T16:12:26+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-white-house-defends-trump-comment-that-iran-coul",
+          "section": "politics",
+          "headline": "White House defends Trump comment that Iran could 'take out' Los Angeles and San Diego",
+          "beat_label": "White House",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.07,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 4,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "BBC",
+            "SFGATE",
+            "Axios"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/6131434-white-house-trump-comments-iran-california-cities/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "SFGATE",
+              "url": "https://www.sfgate.com/news/article/white-house-aide-trump-did-not-call-for-attacks-22464721.php"
+            },
+            {
+              "outlet": "Axios",
+              "url": "https://www.axios.com/2026/10/06/trump-iran-take-out-la-san-diego",
+              "lean": -0.1,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Trump made the comments at a campaign rally in Grand Island, Nebraska on Monday evening.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump said: 'It's a small price to pay for keeping the world safe, for keeping our country safe... Let 'em take out Los Angeles, let 'em take out San Diego... This is a very small price to pay, and it's going to be over with very soon.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "White House Communications Director Steven Cheung posted on X Tuesday saying the 'media freakout' was 'not rooted in reality' and that Trump meant U.S. cities would have been threatened if a nuclear Iran had not been stopped.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The White House's Rapid Response account on X called Los Angeles Times reporters 'buffoons' and said Trump was describing U.S. efforts to prevent Iran from being able to 'take out' LA and San Diego with a nuclear weapon.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "California Gov. Gavin Newsom called the remarks 'deranged and dangerous' and, in a later post, 'disgusting and disqualifying.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Los Angeles Mayor Karen Bass said the comments were 'dangerous and could potentially compromise our safety.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "San Diego Mayor Todd Gloria said the city is 'not collateral damage' and asked Trump to stop 'reckless war talk.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Los Angeles and San Diego both host major U.S. military installations, including Naval Base San Diego, Naval Amphibious Base Coronado, Marine Corps Base Camp Pendleton, the Space Systems Command headquarters, and Los Angeles Air Force Base.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The administration conducted earlier military action against Iran's nuclear program.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The White House insists that Trump's line was a rhetorical device describing a hypothetical threat that U.S. action had already neutralized.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "There is a tense Trump-Newsom relationship ahead of a possible 2028 presidential matchup.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Newsom positions himself as a vocal Trump critic.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "There is an emerging 2028 political rivalry between Trump-aligned Republicans and Newsom.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Both sides are arguing past each other about intent rather than contesting any factual claim about Iran's current capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "President Trump made the comments at a campaign rally in Grand Island, Nebraska on Monday evening.",
+              "Trump said: 'It's a small price to pay for keeping the world safe, for keeping our country safe... Let 'em take out Los Angeles, let 'em take out San Diego... This is a very small price to pay, and it's going to be over with very soon.'",
+              "White House Communications Director Steven Cheung posted on X Tuesday saying the 'media freakout' was 'not rooted in reality' and that Trump meant U.S. cities would have been threatened if a nuclear Iran had not been stopped.",
+              "The White House's Rapid Response account on X called Los Angeles Times reporters 'buffoons' and said Trump was describing U.S. efforts to prevent Iran from being able to 'take out' LA and San Diego with a nuclear weapon.",
+              "California Gov. Gavin Newsom called the remarks 'deranged and dangerous' and, in a later post, 'disgusting and disqualifying.'",
+              "Los Angeles Mayor Karen Bass said the comments were 'dangerous and could potentially compromise our safety.'",
+              "San Diego Mayor Todd Gloria said the city is 'not collateral damage' and asked Trump to stop 'reckless war talk.'",
+              "Los Angeles and San Diego both host major U.S. military installations, including Naval Base San Diego, Naval Amphibious Base Coronado, Marine Corps Base Camp Pendleton, the Space Systems Command headquarters, and Los Angeles Air Force Base."
+            ],
+            "analysis": "The controversy stems from ambiguous phrasing in a campaign speech about the administration's earlier military action against Iran's nuclear program. Trump's line—'let 'em take out Los Angeles, let 'em take out San Diego'—was interpreted by critics as either a literal invitation for attack or, as the White House insists, a rhetorical device describing a hypothetical threat that U.S. action had already neutralized. The dispute matters partly because both cities are home to significant military infrastructure, and partly because it unfolds against the backdrop of a tense Trump-Newsom relationship ahead of a possible 2028 presidential matchup, with Newsom positioning himself as a vocal Trump critic.",
+            "debate": {
+              "dem": [
+                "Gov. Gavin Newsom called the remarks 'deranged and dangerous' and 'disgusting and disqualifying.'",
+                "LA Mayor Karen Bass said the comments were 'dangerous and could potentially compromise our safety.'",
+                "San Diego Mayor Todd Gloria said the city is 'not collateral damage' and criticized Trump's 'reckless war talk.'"
+              ],
+              "rep": [
+                "White House Communications Director Steven Cheung said the 'media freakout' over Trump's comments is 'not rooted in reality' and that Trump was describing a threat the administration had already stopped.",
+                "The White House's Rapid Response account said Trump 'was saying the U.S. is fighting to STOP Iran from having the ability to take out LA and San Diego with a nuclear weapon.'"
+              ]
+            },
+            "steelman": "The entire dispute hinges on a single ambiguous sentence from a live rally speech, and both sides are arguing past each other about intent rather than contesting any factual claim about Iran's current capabilities.",
+            "implications": "The episode is likely to become a recurring talking point in the emerging 2028 political rivalry between Trump-aligned Republicans and Newsom, while also fueling broader scrutiny of how administration officials characterize national-security rhetoric from campaign stages."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-francis-halzen-wins-nobel-prize-in-physics-for-w",
+          "section": "world",
+          "headline": "Francis Halzen wins Nobel Prize in Physics for Antarctic 'ghost particle' observatory",
+          "beat_label": "Science",
+          "byline": "International & World desk",
+          "body": [
+            "Belgian-born physicist Francis Halzen has won the 2026 Nobel Prize in Physics for creating a giant detector in Antarctica that captures neutrinos, the elusive 'ghost particles' from space that carry information about some of the most violent processes in the universe. The Royal Swedish Academy of Sciences announced the award in Stockholm on Tuesday, crediting Halzen's 'vision and scientific leadership' as fundamental to the IceCube Neutrino Observatory at the South Pole, a project he first proposed in 1988.",
+            "IceCube uses a cubic kilometre of Antarctic ice fitted with thousands of light sensors on long cables drilled deep into the ice. Neutrinos have nearly no mass and no electric charge, so they rarely interact with matter: about 100 trillion pass through the human body every second, and magnetic fields do not bend their paths across space. That ghostly nature makes them difficult to detect but powerful messengers, since they can travel through dense regions that light cannot penetrate. On the rare occasions when a neutrino strikes an atomic nucleus in the ice, it produces fast-moving charged particles that give off a blue flash; the pattern and timing of that light allow scientists to estimate the neutrino's direction and trace its origins to distant galaxies, exploding stars and the environments around giant black holes.",
+            "Halzen, 82, a US citizen affiliated with the University of Wisconsin-Madison, was reached by phone in Italy when the committee made the announcement. 'It was a great surprise, and I obviously didn't expect it,' he said, adding that although he had been predicted to win, the news still felt 'strange' and that he hoped the prize would help get a proposal approved. Reflecting on the project's success, he said: 'I have to emphasise how lucky I was. Because when we started this project, everybody realised this was maybe a good idea, but very few thought it would work, including myself.'",
+            "The Academy said the neutrino interactions collected by the observatory provide information about how high-energy neutrinos are created and may even reveal previously unknown phenomena. Mark Pearce, chair of the Nobel Committee for Physics, said Halzen 'has led an international team of researchers and engineers who have provided us with a fantastic instrument. His tenacity and scientific vision has paved the way for a new kind of astronomy.' Committee member Eva Olsson said the messengers have 'opened the door to distant galaxies and tell us about the processes of exploding stars,' while fellow committee member Eva Lindroth told Al Jazeera that neutrinos 'come straight at us,' giving scientists information 'which we cannot get in any other way.'",
+            "Reactions to the award emphasised the scale of the achievement. Richard Fitzgerald, editor-in-chief of Physics Today, noted that although hundreds of people built the observatory, it 'all started with one person,' and that the physics prize has rarely gone to a sole winner in recent years. Louis Barson, director of science at the Institute of Physics in London, said the discoveries are helping scientists understand 'some of the most energetic and mysterious processes in the universe.' Prof Subir Sarkar of the University of Oxford quoted Marcel Proust — 'The only true voyage of discovery... would be... to behold the universe through the eyes of another' — and said Halzen had led the IceCube collaboration on 'just such a voyage of discovery and opened a new window on to our Universe.'",
+            "The prize carries 12 million Swedish kronor (about $1.2 million). Last year's physics award went to John Clarke, Michel Devoret and John Martinis for experiments on quantum physics. This year's Nobel season opened Monday with the prize in physiology or medicine, and continues Wednesday with the chemistry prize, Thursday with literature and Friday with peace; the economics prize will be announced the following Monday. The laureates will receive their awards at a ceremony on December 10, with members of the Swedish and Norwegian royal families in attendance."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/6/francis-halzen-wins-nobel-prize-in-physics-for-work-on-ghost-particles?traffic_source=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Belgian-born physicist Francis Halzen has won the 2026 Nobel Prize in Physics.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Francis Halzen created a giant detector in Antarctica that captures neutrinos.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Neutrinos are elusive 'ghost particles' from space that carry information about some of the most violent processes in the universe.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The Royal Swedish Academy of Sciences announced the award in Stockholm on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The Academy credited Halzen's 'vision and scientific leadership' as fundamental to the IceCube Neutrino Observatory at the South Pole.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen first proposed the IceCube project in 1988.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "IceCube uses a cubic kilometre of Antarctic ice fitted with thousands of light sensors on long cables drilled deep into the ice.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Neutrinos have nearly no mass and no electric charge.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "About 100 trillion neutrinos pass through the human body every second.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Magnetic fields do not bend neutrinos' paths across space.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "On the rare occasions when a neutrino strikes an atomic nucleus in the ice, it produces fast-moving charged particles that give off a blue flash.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The pattern and timing of the blue flash light allow scientists to estimate the neutrino's direction and trace its origins to distant galaxies, exploding stars and the environments around giant black holes.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen is 82 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen is a US citizen affiliated with the University of Wisconsin-Madison.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen was reached by phone in Italy when the committee made the announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said 'It was a great surprise, and I obviously didn't expect it.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said he had been predicted to win.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said the news felt 'strange'.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said he hoped the prize would help get a proposal approved.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said: 'I have to emphasise how lucky I was.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Halzen said: 'Because when we started this project, everybody realised this was maybe a good idea, but very few thought it would work, including myself.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The Academy said the neutrino interactions collected by the observatory provide information about how high-energy neutrinos are created.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The Academy said the neutrino interactions may even reveal previously unknown phenomena.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Mark Pearce said Halzen 'has led an international team of researchers and engineers who have provided us with a fantastic instrument.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Mark Pearce said: 'His tenacity and scientific vision has paved the way for a new kind of astronomy.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Eva Olsson said the messengers have 'opened the door to distant galaxies and tell us about the processes of exploding stars.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Eva Lindroth said neutrinos 'come straight at us,' giving scientists information 'which we cannot get in any other way.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Richard Fitzgerald is editor-in-chief of Physics Today.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Richard Fitzgerald noted that although hundreds of people built the observatory, it 'all started with one person.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Richard Fitzgerald noted that the physics prize has rarely gone to a sole winner in recent years.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Louis Barson is director of science at the Institute of Physics in London.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Louis Barson said the discoveries are helping scientists understand 'some of the most energetic and mysterious processes in the universe.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Subir Sarkar is a professor at the University of Oxford.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Subir Sarkar quoted Marcel Proust: 'The only true voyage of discovery... would be... to behold the universe through the eyes of another.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Subir Sarkar said Halzen had led the IceCube collaboration on 'just such a voyage of discovery and opened a new window on to our Universe.'",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The prize carries 12 million Swedish kronor.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "12 million Swedish kronor is about $1.2 million.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Last year's physics award went to John Clarke, Michel Devoret and John Martinis for experiments on quantum physics.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "This year's Nobel season opened Monday with the prize in physiology or medicine.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "This year's Nobel season continues Wednesday with the chemistry prize.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "This year's Nobel season continues Thursday with literature.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "This year's Nobel season continues Friday with peace.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The economics prize will be announced the following Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "The laureates will receive their awards at a ceremony on December 10.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              },
+              {
+                "text": "Members of the Swedish and Norwegian royal families will be in attendance at the award ceremony.",
+                "status": "supported",
+                "source_ids": [
+                  "text only"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-former-german-spy-chief-arrested-on-suspicion-of",
+          "section": "world",
+          "headline": "Former German spy chief arrested on suspicion of treason and espionage",
+          "beat_label": "Intelligence",
+          "byline": "International & World desk",
+          "body": [
+            "Germany’s former foreign intelligence chief, August Hanning, has been arrested on suspicion of treason, espionage, and obtaining classified information for a foreign power, the federal prosecutor’s office said on Tuesday. Hanning, 80, who led the Federal Intelligence Service (BND) from 1998 to 2005, was arrested in Bad Toelz-Wolfratshausen in southern Germany. His former chief of staff, identified only as Manfred D. under German privacy rules, was also arrested in Steinfurt in western Germany on charges of aiding and abetting attempted treason and treasonous espionage.",
+            "Prosecutors allege that Manfred D., who served as Hanning’s chief of staff and later as chief of staff for several subsequent BND presidents from 2012 to 2026, used his access to confidential information to pass Hanning approximately 2,000 documents, many of them classified and intended only for internal BND use, including executive intelligence briefings. The two allegedly agreed in 2010 to the arrangement, in which Manfred D. provided the documents \"in exchange for remuneration.\" Hanning then used the material in his private consulting work, prosecutors said.",
+            "On one occasion, Hanning allegedly used classified intelligence provided by Manfred D. to draft an analysis for an officer of a foreign intelligence service. He is also accused of maintaining close contact with a representative of another foreign intelligence service for several years, passing on political information partly based on material from Manfred D. Investigators have not disclosed which foreign powers were involved and said it has yet to be determined whether the material reached its intended recipient.",
+            "The arrests stemmed from evidence found during a search of Hanning’s residence in connection with a separate case involving Hamburg businesswoman Christina Block, who has been accused of orchestrating the kidnapping of her two children during a custody dispute. Investigators reportedly discovered an electronic data storage device containing sensitive BND documents. The case is not the first involving the BND: in 2023, a high-ranking German intelligence officer, Carsten L, was charged with treason for allegedly passing state secrets to Russia, including intelligence about the war in Ukraine and the Wagner mercenary group.",
+            "German lawmakers reacted with shock. Marc Henrichmann, who chairs the parliamentary intelligence oversight committee, said, \"Whoever allies themselves with the enemies of our liberal democracy will be found out.\" Konstantin von Notz, a Green party lawmaker on the same committee, called for a swift and thorough investigation and renewed criticism of former top officials with security clearances doing private consulting work. Hanning is due in court on Wednesday, while Manfred D. was scheduled to appear on Tuesday. Premises belonging to both men were searched in several locations, including Berlin."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/6/former-german-spy-chief-arrested-on-suspicion-of-treason-and-espionage?traffic_source=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/06/g-s1-146630/germany-ex-spy-chief-state-secrets",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Germany’s former foreign intelligence chief, August Hanning, has been arrested on suspicion of treason, espionage, and obtaining classified information for a foreign power.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "The federal prosecutor’s office said on Tuesday that August Hanning was arrested.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "August Hanning is 80 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "August Hanning led the Federal Intelligence Service (BND) from 1998 to 2005.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "August Hanning was arrested in Bad Toelz-Wolfratshausen in southern Germany.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "Hanning’s former chief of staff, identified only as Manfred D. under German privacy rules, was also arrested in Steinfurt in western Germany.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "Manfred D. was arrested on charges of aiding and abetting attempted treason and treasonous espionage.",
+                "status": "supported",
+                "source_ids": [
+                  "the federal prosecutor’s office"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that Manfred D. served as Hanning’s chief of staff and later as chief of staff for several subsequent BND presidents from 2012 to 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that Manfred D. used his access to confidential information to pass Hanning approximately 2,000 documents.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that many of the documents passed by Manfred D. were classified and intended only for internal BND use, including executive intelligence briefings.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that the two agreed in 2010 to the arrangement in which Manfred D. provided the documents 'in exchange for remuneration'.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that Hanning used the material from Manfred D. in his private consulting work.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that on one occasion, Hanning used classified intelligence provided by Manfred D. to draft an analysis for an officer of a foreign intelligence service.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that Hanning is accused of maintaining close contact with a representative of another foreign intelligence service for several years.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Prosecutors allege that Hanning passed on political information partly based on material from Manfred D.",
+                "status": "supported",
+                "source_ids": [
+                  "prosecutors"
+                ]
+              },
+              {
+                "text": "Investigators have not disclosed which foreign powers were involved.",
+                "status": "supported",
+                "source_ids": [
+                  "investigators"
+                ]
+              },
+              {
+                "text": "Investigators said it has yet to be determined whether the material reached its intended recipient.",
+                "status": "supported",
+                "source_ids": [
+                  "investigators"
+                ]
+              },
+              {
+                "text": "The arrests stemmed from evidence found during a search of Hanning’s residence in connection with a separate case involving Hamburg businesswoman Christina Block.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Christina Block has been accused of orchestrating the kidnapping of her two children during a custody dispute.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Investigators reportedly discovered an electronic data storage device containing sensitive BND documents during the search of Hanning’s residence.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "In 2023, a high-ranking German intelligence officer, Carsten L, was charged with treason for allegedly passing state secrets to Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The charges against Carsten L included intelligence about the war in Ukraine and the Wagner mercenary group.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Marc Henrichmann chairs the parliamentary intelligence oversight committee.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Marc Henrichmann said, 'Whoever allies themselves with the enemies of our liberal democracy will be found out.'",
+                "status": "supported",
+                "source_ids": [
+                  "Marc Henrichmann"
+                ]
+              },
+              {
+                "text": "Konstantin von Notz is a Green party lawmaker on the parliamentary intelligence oversight committee.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Konstantin von Notz called for a swift and thorough investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Konstantin von Notz"
+                ]
+              },
+              {
+                "text": "Konstantin von Notz renewed criticism of former top officials with security clearances doing private consulting work.",
+                "status": "supported",
+                "source_ids": [
+                  "Konstantin von Notz"
+                ]
+              },
+              {
+                "text": "Hanning is due in court on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Manfred D. was scheduled to appear in court on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Premises belonging to both men were searched in several locations, including Berlin.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,835.69",
+            "chg": "+1.19%",
+            "dir": "up",
+            "spark": "1.5,10.6 8.3,11.3 15.2,12.5 22.0,11.6 28.8,8.2 35.7,5.2 42.5,1.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "27,673.27",
+            "chg": "+2.23%",
+            "dir": "up",
+            "spark": "1.5,12.2 8.3,12.5 15.2,11.7 22.0,11.6 28.8,7.6 35.7,4.0 42.5,1.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,610.28",
+            "chg": "−0.42%",
+            "dir": "down",
+            "spark": "1.5,3.5 8.3,5.6 15.2,12.5 22.0,12.2 28.8,8.3 35.7,6.8 42.5,1.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,845.93",
+            "chg": "+0.30%",
+            "dir": "up",
+            "spark": "1.5,7.9 8.3,10.1 15.2,12.5 22.0,10.4 28.8,4.6 35.7,1.5 42.5,1.8"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.26%",
+            "chg": "+2 bp",
+            "dir": "up",
+            "spark": "1.5,12.1 8.3,9.8 15.2,4.2 22.0,12.5 28.8,6.6 35.7,1.5 42.5,8.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$89.13",
+            "chg": "−0.28%",
+            "dir": "down",
+            "spark": "1.5,11.8 9.7,8.7 17.9,1.5 26.1,6.7 34.3,11.6 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,191.60",
+            "chg": "+0.28%",
+            "dir": "up",
+            "spark": "1.5,7.0 9.7,5.3 17.9,1.5 26.1,11.2 34.3,12.5 42.5,4.1"
+          },
+          {
+            "sym": "BTC",
+            "val": "$85,738",
+            "chg": "+2.61%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,7.6 15.2,9.0 22.0,8.0 28.8,1.5 35.7,4.1 42.5,4.3"
+          },
+          {
+            "sym": "VIX",
+            "val": "15.2",
+            "chg": "−5.54%",
+            "dir": "down",
+            "spark": "1.5,4.4 8.3,4.7 15.2,2.0 22.0,1.5 28.8,11.3 35.7,9.4 42.5,12.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AVGO",
+            "chg": "+7.32%",
+            "dir": "up"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "+7.23%",
+            "dir": "up"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−4.27%",
+            "dir": "down"
+          },
+          {
+            "sym": "PFE",
+            "chg": "−4.15%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMD",
+            "chg": "+4.01%",
+            "dir": "up"
+          },
+          {
+            "sym": "BA",
+            "chg": "−3.52%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "12:16 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-sinner-out-for-rest-of-season-with-knee-injury",
+          "section": "sports",
+          "headline": "World number one Sinner out for rest of season with knee injury",
+          "beat_label": "Tennis",
+          "byline": "Sports desk",
+          "body": [
+            "World number one Jannik Sinner will not play again in 2026 because of an ongoing right knee injury. The Italian has not played competitively since defending his Wimbledon title in July, and the five-time Grand Slam champion said he \"needed to think about my long-term career\" when deciding to end his season early.",
+            "Announcing the decision in an Instagram video, the 25-year-old said: \"Me together with the doctors have decided that I need a course of treatment for my knee.\" He added: \"The last couple of years gave me so many beautiful feelings and emotions, which this year is going to be way different. I will do everything possible to get back 100%.\"",
+            "Sinner was the dominant player for much of the year, winning 44 and losing just three of his singles matches. He won five Masters 1000 titles in a row between March and May, becoming the youngest man to complete the career Golden Masters, and finished 2026 with six titles on all three surfaces. He also posted a 10-1 record against top-10 players, with his sole defeat coming against Novak Djokovic in Melbourne at the start of the year.",
+            "His season included a five-set Australian Open semi-final loss to Djokovic and a shock second-round exit at the French Open in May, where Juan Manuel Cerundolo beat him in hot and humid Paris conditions to end Sinner's 30-match winning streak. He bounced back superbly at Wimbledon, surviving a five-set first round in which he bled through his shoes at one point before eventually beating Zverev in the final to defend his title. Sinner and Alcaraz, who had met in three of the four Grand Slam finals last year, only played each other once in 2026, with Sinner beating the Spaniard in the Monte Carlo Masters final to replace him as world number one.",
+            "Sinner's injury means second-ranked Alexander Zverev is all but guaranteed to replace him as world number one by the end of the year. Zverev, who has won the French Open and US Open this year, trails Sinner by 1,280 points in the live rankings. Sinner, however, will be unable to defend the points he claimed at the end of last year with title triumphs in China, Vienna, Paris and the ATP Finals."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/tennis/articles/ck78p9jl2gl5o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Jannik Sinner is the world number one in tennis.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner will not play again in 2026 because of a right knee injury.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner's right knee injury is ongoing.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner has not played competitively since defending his Wimbledon title in July.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner defended his Wimbledon title in July.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner is a five-time Grand Slam champion.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner said he 'needed to think about my long-term career' when deciding to end his season early.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner announced his decision in an Instagram video.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner is 25 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner said 'Me together with the doctors have decided that I need a course of treatment for my knee.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner said 'The last couple of years gave me so many beautiful feelings and emotions, which this year is going to be way different.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner said 'I will do everything possible to get back 100%.'",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner won 44 of his singles matches in the year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner lost three of his singles matches in the year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner won five Masters 1000 titles in a row between March and May.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner became the youngest man to complete the career Golden Masters.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner finished 2026 with six titles on all three surfaces.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner posted a 10-1 record against top-10 players in the year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner's sole defeat against a top-10 player came against Novak Djokovic in Melbourne at the start of the year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner lost a five-set Australian Open semi-final to Novak Djokovic.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner suffered a second-round exit at the French Open in May.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Juan Manuel Cerundolo beat Jannik Sinner at the French Open in May.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The conditions at the French Open in May were hot and humid.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Juan Manuel Cerundolo ended Jannik Sinner's 30-match winning streak at the French Open.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner survived a five-set first round at Wimbledon in which he bled through his shoes.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner beat Alexander Zverev in the Wimbledon final to defend his title.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner and Carlos Alcaraz met in three of the four Grand Slam finals last year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner and Carlos Alcaraz played each other once in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner beat Carlos Alcaraz in the Monte Carlo Masters final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner replaced Carlos Alcaraz as world number one at the Monte Carlo Masters final.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alexander Zverev is ranked second in the world.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alexander Zverev is all but guaranteed to replace Jannik Sinner as world number one by the end of the year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alexander Zverev has won the French Open and US Open this year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Alexander Zverev trails Jannik Sinner by 1,280 points in the live rankings.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner will be unable to defend the points he claimed at the end of last year with title triumphs in China, Vienna, Paris and the ATP Finals.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Jannik Sinner had title triumphs in China, Vienna, Paris and the ATP Finals at the end of last year.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-knicks-in-contract-standoff-with-karl-anthony-to",
+          "section": "sports",
+          "headline": "Knicks, Karl-Anthony Towns far apart on extension as second-apron constraints loom",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "The New York Knicks and star center Karl-Anthony Towns are in a contract standoff as the sides remain far apart on a four-year extension, with Towns publicly acknowledging Monday that the chances of a deal before the season \"don't look good.\" Towns, who is entering the final guaranteed year of his contract, is eligible for a four-year extension worth up to $276 million, but multiple reports indicate the Knicks have offered roughly $200 million. \"No (expletive), Sherlock. I just won a championship. You'd think it would be pretty easy,\" Towns said when asked if he believed he deserved a new deal.",
+            "The Knicks' reluctance to offer a max extension stems not from owner James Dolan being cheap, according to multiple reports, but from the punishing financial restrictions of the NBA's second apron — a team salary threshold set at $221 million this season. Dolan stated after the Knicks' 2023 championship that the team would not cross the second apron, calling such a move \"suicidal.\" Only one team, the Cleveland Cavaliers, operated above the second apron last season. Teams that cross it face severe roster-building restrictions, including limitations on signings and trades.",
+            "The Knicks' cap situation is tight even without a Towns max deal. New York currently has roughly $93 million in room below the second apron. If the Knicks exercise Josh Hart's $22.3 million team option for next season and Towns picks up his $61 million player option for 2027-28, the team would have only about $10 million in space below the apron with four roster spots to fill and Miles McBride still unsigned. Further down the line, Jalen Brunson and OG Anunoby will be due for new contracts in 2028, and Mikal Bridges the following year. Paying Towns the full max would likely force the Knicks to short or discard another core player.",
+            "Some around the league have speculated that the Knicks are setting up Towns as a scapegoat. One prominent agent told Heavy Sports that the team may be positioning itself to blame Towns if it later trades a popular player like Hart to avoid the second apron. \"If you have to trade a popular guy like Josh, the Knicks want to say, 'Well, we had to do that because KAT would not take $50 million less than the max,'\" the agent said. \"They're just throwing him under the bus in advance.\"",
+            "Despite the impasse, most observers expect a deal to eventually get done. Towns has become an irreplaceable player for the Knicks, with his stretch shooting and high-hub playmaking unlocking New York's postseason offense during the championship run. He was arguably the team's best player in the playoffs. The Knicks have also brought in Ochai Agbaji, Bruce Brown, John Konchar, James Wiseman and Drew Eubanks for training camp, with one of those wings potentially serving as a replacement for McBride if the team trades him before the deadline to manage future cap constraints. The Knicks' situation mirrors that of the Oklahoma City Thunder, which parted with Lu Dort, Aaron Wiggins and Isaiah Joe this summer to keep its championship core intact.",
+            "The standoff reflects the broader reality of the second-apron era, where even championship production does not guarantee a max contract. If Towns waives his 2027-28 player option and begins a four-year extension next season, he will be 35 by the end of the deal and making north of $50 million per year. As one analysis noted, \"An NBA contract is supposed to be about future performance. As crass as it sounds, Towns may have just played the best basketball of his life.\" The Knicks face a deadline of Oct. 19 to reach an extension before the season begins."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CBS Sports",
+            "ESPN",
+            "heavy.com",
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nba/news/karl-anthony-towns-contract-knicks-james-dolan-second-apron/"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50112265/karl-anthony-towns-new-york-knicks-extension-talks-next"
+            },
+            {
+              "outlet": "heavy.com",
+              "url": "https://heavy.com/sports/nba/los-angeles-lakers/nba-trade-rumors-knicks-lakers-warriors/"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/warriors-linked-220m-nba-champion-144012062.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The New York Knicks and star center Karl-Anthony Towns are in a contract standoff.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The sides remain far apart on a four-year extension.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Towns publicly acknowledged Monday that the chances of a deal before the season 'don't look good.'",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Towns is entering the final guaranteed year of his contract.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Towns is eligible for a four-year extension worth up to $276 million.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Multiple reports indicate the Knicks have offered roughly $200 million.",
+                "status": "supported",
+                "source_ids": [
+                  "multiple reports"
+                ]
+              },
+              {
+                "text": "Towns said 'No (expletive), Sherlock. I just won a championship. You'd think it would be pretty easy,' when asked if he believed he deserved a new deal.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The Knicks won a championship in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The Knicks' reluctance to offer a max extension stems from the punishing financial restrictions of the NBA's second apron, according to multiple reports.",
+                "status": "supported",
+                "source_ids": [
+                  "multiple reports"
+                ]
+              },
+              {
+                "text": "The NBA's second apron is a team salary threshold set at $221 million this season.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Dolan stated after the Knicks' 2023 championship that the team would not cross the second apron, calling such a move 'suicidal.'",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Only one team, the Cleveland Cavaliers, operated above the second apron last season.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Teams that cross the second apron face severe roster-building restrictions, including limitations on signings and trades.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The Knicks' cap situation is tight even without a Towns max deal.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "New York currently has roughly $93 million in room below the second apron.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "If the Knicks exercise Josh Hart's $22.3 million team option for next season and Towns picks up his $61 million player option for 2027-28, the team would have only about $10 million in space below the apron with four roster spots to fill and Miles McBride still unsigned.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Jalen Brunson and OG Anunoby will be due for new contracts in 2028, and Mikal Bridges the following year.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Paying Towns the full max would likely force the Knicks to short or discard another core player.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "Some around the league have speculated that the Knicks are setting up Towns as a scapegoat.",
+                "status": "supported",
+                "source_ids": [
+                  "some around the league (unnamed)"
+                ]
+              },
+              {
+                "text": "One prominent agent told Heavy Sports that the team may be positioning itself to blame Towns if it later trades a popular player like Hart to avoid the second apron.",
+                "status": "supported",
+                "source_ids": [
+                  "Heavy Sports"
+                ]
+              },
+              {
+                "text": "The agent said: 'If you have to trade a popular guy like Josh, the Knicks want to say, \"Well, we had to do that because KAT would not take $50 million less than the max,\"' and 'They're just throwing him under the bus in advance.'",
+                "status": "supported",
+                "source_ids": [
+                  "Heavy Sports"
+                ]
+              },
+              {
+                "text": "Most observers expect a deal to eventually get done.",
+                "status": "supported",
+                "source_ids": [
+                  "most observers (implied by text)"
+                ]
+              },
+              {
+                "text": "Towns has become an irreplaceable player for the Knicks, with his stretch shooting and high-hub playmaking unlocking New York's postseason offense during the championship run.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The Knicks have brought in Ochai Agbaji, Bruce Brown, John Konchar, James Wiseman and Drew Eubanks for training camp.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "One of those wings potentially serving as a replacement for McBride if the team trades him before the deadline to manage future cap constraints.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The Oklahoma City Thunder parted with Lu Dort, Aaron Wiggins and Isaiah Joe this summer to keep its championship core intact.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "The standoff reflects the broader reality of the second-apron era, where even championship production does not guarantee a max contract.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "If Towns waives his 2027-28 player option and begins a four-year extension next season, he will be 35 by the end of the deal and making north of $50 million per year.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              },
+              {
+                "text": "One analysis noted: 'An NBA contract is supposed to be about future performance. As crass as it sounds, Towns may have just played the best basketball of his life.'",
+                "status": "supported",
+                "source_ids": [
+                  "one analysis"
+                ]
+              },
+              {
+                "text": "The Knicks face a deadline of Oct. 19 to reach an extension before the season begins.",
+                "status": "supported",
+                "source_ids": [
+                  "The provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-euroleague-rejects-nba-merger-proposal",
+          "section": "sports",
+          "headline": "EuroLeague shareholders reject NBA’s current proposal, seek improved terms",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "EuroLeague shareholder teams have voted to reject the NBA’s current proposal for a collaboration, sources told multiple outlets, with the league’s clubs describing the offer as “unacceptable” and “colonialist” while leaving the door open for a revised proposal. The decision came on the Oct. 6 deadline set by the NBA for a response, according to reports from SDNA and La Gazzetta dello Sport.",
+            "Under the terms of the NBA’s offer, EuroLeague would have remained in its current structure with no changes to the number or status of its 13 shareholder clubs. Those shareholders include Olimpia Milano, Real Madrid, Barcelona, Fenerbahce, Anadolu Efes, Panathinaikos, Olympiacos, Maccabi, Bayern, ASVEL, Baskonia, Zalgiris, and CSKA Moscow, which remains suspended from competition.",
+            "The clubs were divided on how to respond. According to SDNA, Panathinaikos, Real Madrid, Fenerbahce, and Bayern favored continuing negotiations and allowing the NBA to return with better terms. Real Madrid requested an additional 30 days for an improved proposal. In contrast, Olympiacos, Olimpia Milano, and Barcelona opposed continuing on the basis of the current offer. Barcelona described the NBA’s proposal as “a joke,” while Olympiacos pushed for a vote to end further discussions altogether, although that motion did not pass. Instead, shareholders agreed to continue negotiations with the NBA with the expectation of a revised offer.",
+            "The rejection does not halt the NBA’s broader European expansion plans. The NBA continues to prepare for NBA Europe, a separate project targeted for the 2027-28 season that is expected to feature 12 permanent franchises and four qualifying spots. According to La Gazzetta dello Sport, NBA Europe is set to proceed regardless of whether an agreement with EuroLeague is reached.",
+            "FIBA is working with the NBA on the NBA Europe project but is not directly involved in the current NBA-EuroLeague negotiations. FIBA Europe president Jorge Garbajosa told BasketNews that the discussions are bilateral between the NBA and EuroLeague, though FIBA has invited both sides to talks in an effort to facilitate an agreement. The talks took place during a EuroLeague owners’ meeting in Cernobbio, Italy, where the future structure of the competition was a central topic."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NYT",
+            "BasketNews.com",
+            "Bloomberg"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/athletic/7665371/2026/10/06/euroleague-nba-collaboration-proposal-rejected/",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "BasketNews.com",
+              "url": "https://basketnews.com/news-256809-euroleague-teams-reportedly-reject-nba-proposal.html"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-06/nba-merger-offer-rejected-by-euroleague-in-blow-to-expansion",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "EuroLeague shareholder teams voted to reject the NBA’s current proposal for a collaboration.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "EuroLeague clubs described the NBA's proposal as 'unacceptable' and 'colonialist'.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "EuroLeague clubs left the door open for a revised proposal.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "The decision came on the Oct. 6 deadline set by the NBA for a response.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "Under the terms of the NBA’s offer, EuroLeague would have remained in its current structure with no changes to the number or status of its 13 shareholder clubs.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "The 13 shareholder clubs include Olimpia Milano, Real Madrid, Barcelona, Fenerbahce, Anadolu Efes, Panathinaikos, Olympiacos, Maccabi, Bayern, ASVEL, Baskonia, Zalgiris, and CSKA Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "CSKA Moscow remains suspended from competition.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA",
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "The clubs were divided on how to respond.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Panathinaikos, Real Madrid, Fenerbahce, and Bayern favored continuing negotiations and allowing the NBA to return with better terms.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Real Madrid requested an additional 30 days for an improved proposal.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Olympiacos, Olimpia Milano, and Barcelona opposed continuing on the basis of the current offer.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Barcelona described the NBA’s proposal as 'a joke'.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Olympiacos pushed for a vote to end further discussions altogether.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "The motion to end further discussions did not pass.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "Shareholders agreed to continue negotiations with the NBA with the expectation of a revised offer.",
+                "status": "supported",
+                "source_ids": [
+                  "SDNA"
+                ]
+              },
+              {
+                "text": "The rejection does not halt the NBA’s broader European expansion plans.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The NBA continues to prepare for NBA Europe, a separate project targeted for the 2027-28 season.",
+                "status": "supported",
+                "source_ids": [
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "NBA Europe is expected to feature 12 permanent franchises and four qualifying spots.",
+                "status": "supported",
+                "source_ids": [
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "NBA Europe is set to proceed regardless of whether an agreement with EuroLeague is reached.",
+                "status": "supported",
+                "source_ids": [
+                  "La Gazzetta dello Sport"
+                ]
+              },
+              {
+                "text": "FIBA is working with the NBA on the NBA Europe project.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "FIBA is not directly involved in the current NBA-EuroLeague negotiations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "FIBA Europe president Jorge Garbajosa told BasketNews that the discussions are bilateral between the NBA and EuroLeague.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews"
+                ]
+              },
+              {
+                "text": "FIBA has invited both sides to talks in an effort to facilitate an agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews"
+                ]
+              },
+              {
+                "text": "The talks took place during a EuroLeague owners’ meeting in Cernobbio, Italy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The future structure of the competition was a central topic at that meeting.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-2026-nobel-prize-in-medicine-awarded-for-optogen",
+          "section": "health-science",
+          "headline": "3 scientists win 2026 Nobel Prize in Medicine for optogenetics brain research",
+          "beat_label": "Nobel Prize",
+          "byline": "Health & Science desk",
+          "body": [
+            "The 2026 Nobel Prize in Physiology or Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann, and Georg Nagel for their discoveries concerning light-gated ion channels and optogenetics, the Karolinska Institutet in Stockholm announced. Deisseroth, a professor at Stanford University and the Howard Hughes Medical Institute; Hegemann, a professor at Humboldt University in Berlin; and Nagel, 73, a professor at the University of Würzburg, Germany, will share the prize of 12 million Swedish kronor (about $1.2 million). The award kicks off Nobels week, followed by prizes in physics, chemistry, literature, peace, and economics.",
+            "Optogenetics uses light combined with genetic modifications to switch individual neurons on or off with millisecond precision, allowing scientists to map how nerve cells shape memories, feelings, and behavior. The work began in the early 1990s when Hegemann studied how the single-cell alga Chlamydomonas moves toward light. Teaming with Nagel, they discovered the protein channelrhodopsin, a light-sensitive ion channel that rapidly opens when exposed to light and functions in any cell where it is introduced. Deisseroth then inserted the gene for the protein into rat nerve cells, enabling the triggering of nerve signals with blue light and identifying which cells control specific functions.",
+            "\"Optogenetics provides opportunities for mapping the brain in a way that we could once only dream of,\" said Per Svenningsson, chair of the Nobel Committee for Physiology or Medicine. Deisseroth, speaking after the announcement, described the method as using light to cause events rather than to observe. \"We're not using light to collect information, we're using light to turn cells on or off with that millisecond precision and the cellular resolution that is essential to brain function,\" he said. The method is now studied as a potential treatment for disease.",
+            "The Nobel committee was able to reach all three winners. Deisseroth, the first notified, said it was after midnight and he was drifting off to sleep: \"It was a very unexpected, but of course very delightful call.\" He said he looks forward to seeing his co-laureates. Committee secretary Thomas Perlmann noted that all three said they thought it was \"absolutely wonderful\" to receive the prize with the other two, calling each other \"my friends.\" Deisseroth added, \"I couldn't be happier than to share this with these two friends.\"",
+            "The Nobel rules limit the award to three collaborators, and other scientists contributed to optogenetics. On social media, many commentators noted Ed Boyden, first author on Deisseroth's landmark 2005 paper and a Ph.D. student in his lab, was excluded; Boyden, now at MIT, did not respond to requests for comment. The Nobel committee mentioned researchers including Gero Miesenböck, who achieved the first genetic sensitization to light of nonphotoreceptive neurons in 2002, and Zhuo-Hua Pan, whose 2004 work with channelrhodopsin in ganglion cells was recognized by a $300,000 NIH grant but whose paper published in 2006 after Deisseroth and Boyden's paper made waves. Committee chair declined to comment on selection reasons. Deisseroth acknowledged the broader community: \"We have so many collaborators, colleagues, and students and postdoctoral fellows in the lab over the years.\"",
+            "Jeremy Berg, former editor-in-chief of Science and former NIH institute director, said Deisseroth's display of \"engineering approaches with a deep knowledge of human physiology\" made a Nobel Prize seem plausible even in 2005. Don Hilgemann, a biophysicist at UT Southwestern who mentored Nagel, called him \"an extremely adventurous experimenter.\" Since 1901, 235 individuals have received the medicine prize, 14 of them women; the prize has been shared three ways 41 times. Last year's prize honored three scientists researching the immune system."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/05/g-s1-146400/nobel-medicine-prize",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The 2026 Nobel Prize in Physiology or Medicine was awarded Monday to Karl Deisseroth, Peter Hegemann, and Georg Nagel.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The prize was awarded for their discoveries concerning light-gated ion channels and optogenetics.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Karolinska Institutet in Stockholm announced the award.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Karl Deisseroth is a professor at Stanford University and the Howard Hughes Medical Institute.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Peter Hegemann is a professor at Humboldt University in Berlin.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Georg Nagel is 73 years old and a professor at the University of Würzburg, Germany.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The three will share the prize of 12 million Swedish kronor (about $1.2 million).",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The award kicks off Nobels week, followed by prizes in physics, chemistry, literature, peace, and economics.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Optogenetics uses light combined with genetic modifications to switch individual neurons on or off with millisecond precision.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Optogenetics allows scientists to map how nerve cells shape memories, feelings, and behavior.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The work began in the early 1990s when Hegemann studied how the single-cell alga Chlamydomonas moves toward light.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Teaming with Nagel, Hegemann discovered the protein channelrhodopsin.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Channelrhodopsin is a light-sensitive ion channel that rapidly opens when exposed to light and functions in any cell where it is introduced.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth inserted the gene for channelrhodopsin into rat nerve cells.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth's insertion enabled the triggering of nerve signals with blue light and identifying which cells control specific functions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Per Svenningsson is chair of the Nobel Committee for Physiology or Medicine.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Per Svenningsson said: 'Optogenetics provides opportunities for mapping the brain in a way that we could once only dream of.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth said: 'We're not using light to collect information, we're using light to turn cells on or off with that millisecond precision and the cellular resolution that is essential to brain function.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The method is now studied as a potential treatment for disease.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Nobel committee was able to reach all three winners.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth was the first notified.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth said it was after midnight and he was drifting off to sleep when he received the call.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth said: 'It was a very unexpected, but of course very delightful call.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth said he looks forward to seeing his co-laureates.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Committee secretary Thomas Perlmann noted that all three said they thought it was 'absolutely wonderful' to receive the prize with the other two.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The three called each other 'my friends.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth added: 'I couldn't be happier than to share this with these two friends.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Nobel rules limit the award to three collaborators.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Other scientists contributed to optogenetics.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "On social media, many commentators noted Ed Boyden was excluded.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ed Boyden was first author on Deisseroth's landmark 2005 paper and a Ph.D. student in his lab.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Boyden, now at MIT, did not respond to requests for comment.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Nobel committee mentioned researcher Gero Miesenböck.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Gero Miesenböck achieved the first genetic sensitization to light of nonphotoreceptive neurons in 2002.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Nobel committee mentioned researcher Zhuo-Hua Pan.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zhuo-Hua Pan's 2004 work with channelrhodopsin in ganglion cells was recognized by a $300,000 NIH grant.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zhuo-Hua Pan's paper was published in 2006 after Deisseroth and Boyden's paper made waves.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Committee chair declined to comment on selection reasons.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Deisseroth acknowledged the broader community: 'We have so many collaborators, colleagues, and students and postdoctoral fellows in the lab over the years.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Jeremy Berg is former editor-in-chief of Science and former NIH institute director.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Jeremy Berg said Deisseroth's display of 'engineering approaches with a deep knowledge of human physiology' made a Nobel Prize seem plausible even in 2005.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Don Hilgemann is a biophysicist at UT Southwestern who mentored Nagel.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Don Hilgemann called Nagel 'an extremely adventurous experimenter.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Since 1901, 235 individuals have received the medicine prize.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "14 of those 235 individuals are women.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The prize has been shared three ways 41 times.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Last year's prize honored three scientists researching the immune system.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8,
+          "significance": 0.8
+        },
+        {
+          "id": "health-science-vaxcyte-s-pneumococcal-vaccine-success-spurs-1b-",
+          "section": "health-science",
+          "headline": "Vaxcyte's pneumococcal vaccine succeeds in Phase 3 trial; company plans $1B fundraising",
+          "beat_label": "Biotech",
+          "byline": "Health & Science desk",
+          "body": [
+            "Vaxcyte said Monday that its experimental pneumococcal vaccine, VAX-31, met the primary endpoints in a Phase 3 clinical trial, positioning the California-based biotech to compete with Pfizer and Merck in the lucrative vaccine market.",
+            "VAX-31 is designed to protect against 31 serotypes, or strains, of bacteria that can cause pneumococcal disease, including pneumonia. By comparison, Pfizer's Prevnar covers 20 strains and Merck's Capvaxive covers 21 strains. In the trial, just over 3,500 adults age 50 and older were randomized to receive VAX-31, Prevnar, or Capvaxive. Investigators then measured the strength of their antibody responses against different strains.",
+            "Vaxcyte needs two more trials to deliver results before it can file for approval: a study looking at VAX-31 administered alongside an influenza vaccine and a study in adults who previously received a different pneumococcal shot.",
+            "The successful Phase 3 readout sets up Vaxcyte to challenge Pfizer and Merck in the pneumococcal vaccine market."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT",
+            "The Business Journals"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/06/biotech-news-astrazeneca-opens-new-boston-site/?utm_campaign=rss"
+            },
+            {
+              "outlet": "The Business Journals",
+              "url": "https://www.bizjournals.com/sanfrancisco/news/2026/10/06/vaccines-pneumococcal-vaxcyte-merck-pfizer.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Vaxcyte said on Monday that its experimental pneumococcal vaccine, VAX-31, met the primary endpoints in a Phase 3 clinical trial.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Vaxcyte is a California-based biotech.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "VAX-31 is designed to protect against 31 serotypes of bacteria that can cause pneumococcal disease, including pneumonia.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Pfizer's Prevnar covers 20 strains.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Merck's Capvaxive covers 21 strains.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "In the trial, just over 3,500 adults age 50 and older were randomized to receive VAX-31, Prevnar, or Capvaxive.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Investigators measured the strength of their antibody responses against different strains.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "Vaxcyte needs two more trials to deliver results before it can file for approval: a study looking at VAX-31 administered alongside an influenza vaccine and a study in adults who previously received a different pneumococcal shot.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              },
+              {
+                "text": "The successful Phase 3 readout sets up Vaxcyte to challenge Pfizer and Merck in the pneumococcal vaccine market.",
+                "status": "supported",
+                "source_ids": [
+                  "unknown"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-paramount-and-warner-bros-discovery-complete-110",
+          "section": "tech-ai",
+          "headline": "Paramount closes $110 billion acquisition of Warner Bros. Discovery to form Skydance",
+          "beat_label": "Media Merger",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Paramount announced Tuesday the completion of its $110 billion acquisition of Warner Bros. Discovery, creating a combined media company called Skydance. The megamerger brings together two of the world's largest film studios, major television networks including CBS, CNN, HBO, MTV, TBS, Comedy Central, and Food Network, and the streaming platforms Paramount+ and HBO Max. Skydance will also control franchises such as 'The Lord of the Rings,' 'Game of Thrones,' the DC Universe, and 'Yellowstone.' The new company says its annual revenue will be nearly $70 billion.",
+            "David Ellison will lead Skydance alongside Ynon Kreiz, the former chairman and CEO of Mattel. Ellison’s Skydance Media merged with Paramount last year, and his family—backed by the billions of his father, Oracle co-founder Larry Ellison—is the combined company’s largest shareholder. Skydance Class B shares began trading Tuesday on the New York Stock Exchange under the ticker symbol 'SKYD.'",
+            "The deal followed a months-long bidding battle with Netflix, which had previously reached an agreement to purchase Warner Bros.’ film and television studios and streaming business, excluding its cable networks. Paramount sweetened its February bid by promising shareholders additional cash if the deal failed to close by a specified deadline and by agreeing to cover the breakup fee Warner Bros. would owe Netflix for ending its existing agreement.",
+            "Paramount cleared its last major legal hurdle last month after settling with 12 U.S. states that had sued to block the merger over antitrust concerns. Under the settlement, Skydance must release a minimum number of theatrical films over the next five years, starting with 30 in years one and two, and must spend at least $300 million more on production in the U.S. compared to what the two companies spent last year combined.",
+            "David Ellison said in a statement: 'Today is a historic day, not just for Skydance but for our entire industry. From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Our focus now turns to the future: building a company that empowers creatives, entertains audiences and rewards shareholders. We couldn’t be more excited to get to work.' The merger has faced criticism from lawmakers and Hollywood talent about the negative impact of media consolidation."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/entertainment/1005480/paramount-warner-bros-discovey-merger-closed"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Paramount announced Tuesday the completion of its $110 billion acquisition of Warner Bros. Discovery, creating a combined media company called Skydance.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "The megamerger brings together two of the world's largest film studios, major television networks including CBS, CNN, HBO, MTV, TBS, Comedy Central, and Food Network, and the streaming platforms Paramount+ and HBO Max.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Skydance will also control franchises such as 'The Lord of the Rings,' 'Game of Thrones,' the DC Universe, and 'Yellowstone.'",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "The new company says its annual revenue will be nearly $70 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "David Ellison will lead Skydance alongside Ynon Kreiz, the former chairman and CEO of Mattel.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Ellison’s Skydance Media merged with Paramount last year.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "His family—backed by the billions of his father, Oracle co-founder Larry Ellison—is the combined company’s largest shareholder.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Skydance Class B shares began trading Tuesday on the New York Stock Exchange under the ticker symbol 'SKYD.'",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "The deal followed a months-long bidding battle with Netflix, which had previously reached an agreement to purchase Warner Bros.’ film and television studios and streaming business, excluding its cable networks.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Paramount sweetened its February bid by promising shareholders additional cash if the deal failed to close by a specified deadline and by agreeing to cover the breakup fee Warner Bros. would owe Netflix for ending its existing agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Paramount cleared its last major legal hurdle last month after settling with 12 U.S. states that had sued to block the merger over antitrust concerns.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "Under the settlement, Skydance must release a minimum number of theatrical films over the next five years, starting with 30 in years one and two, and must spend at least $300 million more on production in the U.S. compared to what the two companies spent last year combined.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "David Ellison said that the ambition was to bring the two storied studios together and create a stronger competitor with the talent, resources, and reach to tell stories in every genre, on every platform, for audiences everywhere.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              },
+              {
+                "text": "The merger has faced criticism from lawmakers and Hollywood talent about the negative impact of media consolidation.",
+                "status": "supported",
+                "source_ids": [
+                  "news article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.9
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "health-science",
+      "story_id": "health-science-2026-nobel-prize-in-medicine-awarded-for-optogen"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Democrats hold clear advantage ahead of midterm elections with four weeks to go",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Paramount takes over Warner Bros in $110bn Hollywood merger",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Supreme Court hears climate case on whether state lawsuits against oil companies can proceed",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Voter sentiment and key races shape 2026 midterm outlook",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ukraine launches massive drone attack on Moscow region, killing two",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Kenya confirms first Ebola death as outbreak spreads in DR Congo",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Flávio Bolsonaro wins first round of Brazil presidential election, runoff set",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "S&P 500 and Nasdaq hit all-time highs as AI stocks rally",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Optogenetics Nobel highlights brain research tool's clinical promise",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Nobel physics prize awarded for detection of cosmic neutrinos",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "WHO Says Public Health Risk 'Appears to Be Low' After Russian Plague Lab Worker's Death",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
