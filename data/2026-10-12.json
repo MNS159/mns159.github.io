@@ -1,0 +1,3538 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-12T19:14:47+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-federal-agents-raid-home-of-rep-ilhan-omar-amid-",
+          "section": "politics",
+          "headline": "Federal agents raid home of Rep. Ilhan Omar amid immigration investigation",
+          "beat_label": "Congress",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.13,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "BBC",
+            "Fox News",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/house/6143543-democrats-condemn-omar-investigation-timing/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/ilhan-omars-home-dc-searched-hsi-pre-dawn-raid",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/12/trump-critic-democratic-rep-ilhan-omars-home-searched-by-federal-agents"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Homeland Security Investigations (HSI) agents searched Rep. Ilhan Omar's home in the Washington, DC area beginning around 6 a.m. Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The search was conducted under a judicially authorized search warrant secured by the Department of Justice.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A DOJ spokesperson confirmed the search is part of 'an ongoing federal criminal investigation'.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Fox News reported, citing two sources familiar with the matter, that the investigation concerns immigration paperwork filed by Omar's late father when she was a child.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "No charges have been announced.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "Analysis",
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The search took place roughly three weeks before the November midterm elections (Nov. 3).",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar posted on social media that she was 'ok'.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar called the raid 'an attempt to target political enemies and weaponize federal law enforcement.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "In September, White House border czar Tom Homan said Omar was subject to an ongoing criminal investigation without specifying its nature.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Omar won re-election to her Minneapolis-area House seat in 2024 with 74% of the vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Rep. Nancy Mace (R-S.C.) filed an unsuccessful subpoena for Omar's immigration records earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "DHS Secretary Markwayne Mullin last month made allegations of marital fraud against Omar in a podcast interview.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "The Justice Department has a longstanding internal policy discouraging enforcement actions that could appear timed to influence an election.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The raid's occurrence roughly three weeks before the midterms has drawn attention regardless of the investigation's merits.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "As of the reporting, no charges have been filed.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The specific allegations underlying the warrant have not been officially detailed by DOJ.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis",
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "It remains unconfirmed whether Omar was home during the search.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Rep. Don Beyer (D-Va.) called the raid 'insanely corrupt.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Beyer argued the raid is a distraction from Trump's falling popularity amid 'rising prices and his deeply unpopular war.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "House Democratic leadership said Trump's 'violent mass deportation machine' had targeted 'a duly elected Member of Congress and her family' less than 30 days before the midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Minnesota Gov. Tim Walz and Sen. Tina Smith said the raid represented Trump 'abusing his power to go after political opponents' and 'a transparent attempt to interfere in our elections.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Rep. Tom Emmer (R-Minn.) said 'Nobody is above the law' and welcomed the raid, adding 'ACCOUNTABILITY IS COMING!'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Border czar Tom Homan said in September that Omar was the subject of an ongoing criminal investigation into unspecified immigration violations.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "DHS Secretary Markwayne Mullin alleged marital fraud by Omar in a podcast appearance last month, saying 'something is going to happen.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Both supporters and critics of the raid agree that no charges have been announced and DOJ has not publicly detailed the allegations.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "Homeland Security Investigations (HSI) agents, acting on a judicially authorized search warrant secured by the Department of Justice, searched Rep. Ilhan Omar's (D-Minn.) home in the Washington, DC area beginning around 6 a.m. Monday.",
+              "A DOJ spokesperson confirmed the search is part of 'an ongoing federal criminal investigation' but provided no further details on its scope or target.",
+              "Fox News reported, citing two sources familiar with the matter, that the investigation concerns immigration paperwork filed by Omar's late father when she was a child; no charges have been announced.",
+              "The search took place roughly three weeks before the November midterm elections (Nov. 3), which will determine control of Congress.",
+              "Omar posted on social media that she was 'ok' and called the raid 'an attempt to target political enemies and weaponize federal law enforcement.'",
+              "In September, White House border czar Tom Homan said Omar was subject to an ongoing criminal investigation without specifying its nature.",
+              "Omar won re-election to her Minneapolis-area House seat in 2024 with 74% of the vote.",
+              "Earlier this year, Rep. Nancy Mace (R-S.C.) filed an unsuccessful subpoena for Omar's immigration records, and DHS Secretary Markwayne Mullin last month made allegations of marital fraud against Omar in a podcast interview."
+            ],
+            "analysis": "The raid is the latest escalation in a years-long pattern of scrutiny and rhetorical attacks directed at Omar, the first Somali-American member of Congress, by President Trump and allies in his administration, including past calls for her deportation and allegations of immigration or marital fraud that have circulated for years without resulting in charges. The Justice Department has a longstanding internal policy discouraging enforcement actions that could appear timed to influence an election, and the raid's occurrence roughly three weeks before the midterms has drawn attention regardless of the investigation's merits. As of the reporting, no charges have been filed, the specific allegations underlying the warrant have not been officially detailed by DOJ, and it remains unconfirmed whether Omar was home during the search.",
+            "debate": {
+              "dem": [
+                "Rep. Don Beyer (D-Va.) called the raid 'insanely corrupt,' arguing it is a distraction from Trump's falling popularity amid 'rising prices and his deeply unpopular war.'",
+                "House Democratic leadership said Trump's 'violent mass deportation machine' had targeted 'a duly elected Member of Congress and her family' less than 30 days before the midterms.",
+                "Minnesota Gov. Tim Walz and Sen. Tina Smith said the raid represented Trump 'abusing his power to go after political opponents' and 'a transparent attempt to interfere in our elections.'"
+              ],
+              "rep": [
+                "Rep. Tom Emmer (R-Minn.) said 'Nobody is above the law' and welcomed the raid, adding 'ACCOUNTABILITY IS COMING!'",
+                "Border czar Tom Homan said in September that Omar was the subject of an ongoing criminal investigation into unspecified immigration violations.",
+                "DHS Secretary Markwayne Mullin alleged marital fraud by Omar in a podcast appearance last month, saying 'something is going to happen.'"
+              ]
+            },
+            "steelman": "Both supporters and critics of the raid agree on one underlying fact: no charges have been announced and DOJ has not publicly detailed the allegations, meaning the investigation's substance remains unverified even as its political timing and implications are fiercely disputed.",
+            "implications": "The outcome will hinge on whether DOJ files charges or closes the probe without action, which will shape perceptions of whether the investigation was substantively justified or primarily timed around the midterms. The episode is also likely to intensify scrutiny of DOJ's election-season enforcement practices and could become a flashpoint in campaign messaging on both sides as the November elections approach."
+          },
+          "interestingness": 0.85,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-10-12/politics-federal-agents-raid-home-of-rep-ilhan-omar-amid.jpg",
+            "alt": "Photograph of Home of Rep. Ilhan Omar",
+            "credit": "Photo: Taylor Dahlin / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "politics-justice-department-probes-tv-networks-amid-white",
+          "section": "politics",
+          "headline": "Justice Department probes TV networks amid White House press access dispute",
+          "beat_label": "Media",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.35,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 2,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "CNBC",
+            "CNN",
+            "NBC News",
+            "Free Speech Center"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/11/us/video/23060534-stelter-wh-ban-vv-vrtc",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/politics/trump-administration/trump-white-house-tv-press-pool-rcna599656",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Free Speech Center",
+              "url": "https://firstamendment.mtsu.edu/post/doj-investigating-whether-white-house-tv-pools-coverage-halt-violated-antitrust-law/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Justice Department opened an investigation into whether the White House TV press pool's decision to suspend coverage of President Trump violated the Sherman Act.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Sherman Act is a federal antitrust law from the 1890s.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Sherman Act is rarely applied to media organizations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The TV press pool consists of five major networks: NBC, ABC, CBS, CNN and Fox.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The five networks rotate covering the president and share footage with other outlets and international subscribers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Sept. 21, Trump barred CNN, MS NOW and Politico from White House grounds.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump wrote on Truth Social that the outlets 'shouldn't be able to constantly write or report FICTION and LIES.'",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "The TV pool responded by declining pooled coverage for roughly four days.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The TV pool responded by declining pooled coverage on two additional occasions when CNN was blocked from performing pool duties.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pool's response resulted in about six days of limited video coverage of Trump.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The limited coverage included Trump's summit with Chinese President Xi Jinping and his UN General Assembly travel.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A federal judge lifted the White House's restrictions on Sept. 24.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to the New York Times, CNN and Politico reporters remained barred from Air Force One after the judge's order.",
+                "status": "supported",
+                "source_ids": [
+                  "New York Times"
+                ]
+              },
+              {
+                "text": "CNN, MS NOW and Politico have filed a lawsuit against the Trump administration over the ban.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Pool coverage has since resumed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration barred the Associated Press over its refusal to rename the Gulf of Mexico.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration removed the Wall Street Journal from a Scotland trip pool over an Epstein-related report.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration moved to rescind $1.1 billion in funding for the Corporation for Public Broadcasting.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration filed lawsuits against the New York Times, Wall Street Journal and BBC.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The White House television press pool is a decades-old system dating to the World War II era.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pool involves a small rotating group of network journalists covering the president on behalf of the wider press corps.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pool distributes footage to other outlets, including international media and services like C-SPAN.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pool has historically operated independently of whichever administration is in power.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pool documented the Kennedy assassination and the Reagan assassination attempt.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The DOJ's decision to examine whether the pool's internal coordination constitutes an antitrust violation is notable because the Sherman Act has almost never been used to scrutinize media coverage decisions.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "The Justice Department opened an investigation into whether the White House TV press pool's decision to suspend coverage of President Trump violated the Sherman Act, a federal antitrust law from the 1890s rarely applied to media organizations.",
+              "The TV press pool consists of five major networks: NBC, ABC, CBS, CNN and Fox, which rotate covering the president and share footage with other outlets and international subscribers.",
+              "On Sept. 21, Trump barred CNN, MS NOW and Politico from White House grounds, writing on Truth Social that the outlets 'shouldn't be able to constantly write or report FICTION and LIES.'",
+              "The TV pool responded by declining pooled coverage for roughly four days, then on two additional occasions when CNN was blocked from performing pool duties, resulting in about six days of limited video coverage of Trump, including his summit with Chinese President Xi Jinping and his UN General Assembly travel.",
+              "A federal judge lifted the White House's restrictions on Sept. 24, though CNN and Politico reporters remained barred from Air Force One, according to the New York Times.",
+              "CNN, MS NOW and Politico have filed a lawsuit against the Trump administration over the ban; pool coverage has since resumed.",
+              "The dispute follows other Trump administration actions against media, including barring the Associated Press over its refusal to rename the Gulf of Mexico, removing the Wall Street Journal from a Scotland trip pool over an Epstein-related report, moving to rescind $1.1 billion in funding for the Corporation for Public Broadcasting, and lawsuits against the New York Times, Wall Street Journal and BBC."
+            ],
+            "analysis": "The White House television press pool is a decades-old system, dating to the World War II era, in which a small rotating group of network journalists covers the president on behalf of the wider press corps and distributes footage to other outlets, including international media and services like C-SPAN. It has historically operated independently of whichever administration is in power, documenting pivotal moments from the Kennedy assassination to the Reagan assassination attempt. The DOJ's decision to examine whether the pool's own internal coordination—its brief suspension of coverage after Trump barred specific outlets—constitutes an antitrust violation is notable because the Sherman Act has almost never been used to scrutinize media coverage decisions, raising questions about how a law designed to police anticompetitive business practices applies to journalists' editorial coordination.\n\nThe probe is the latest escalation in a broader pattern of friction between the Trump administration and news organizations over press access and coverage, following earlier moves to restrict the AP, remove the Wall Street Journal from a travel pool, cut public broadcasting funds, and pursue lawsuits against several major outlets. It also intersects with an ongoing court case brought by CNN, MS NOW and Politico challenging their exclusion from White House grounds, meaning the legal fight over the networks' internal response is unfolding alongside separate litigation over the original ban itself.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Beyond the partisan framing, the core tension is structural: a decades-old journalistic coordination system built to serve the public's access to the presidency is now facing antitrust scrutiny for the very kind of unified action that made it function as a check on any single outlet being singled out for exclusion.",
+            "implications": "The outcome of the DOJ's antitrust probe and the networks' separate court battle over access could reshape how the long-standing press pool system operates, potentially affecting whether news organizations can act collectively in response to future government restrictions on individual outlets, and setting precedent for how antitrust law intersects with press freedom and editorial coordination."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-us-threatens-to-cut-ukraine-aid-as-russia-strike",
+          "section": "world",
+          "headline": "Trump claims 'energy ceasefire' as Russia strikes Ukrainian energy infrastructure",
+          "beat_label": "Ukraine war",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "President Donald Trump announced Sunday that Russia and Ukraine had agreed to an immediate \"energy ceasefire\" halting attacks on each other's energy infrastructure, but Ukrainian President Volodymyr Zelenskyy said the claim was \"news for me\" and reported fresh Russian strikes on Ukrainian energy sites overnight. Writing on Truth Social, Trump said: \"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine... Both parties have agreed... Do not break it!\" Within minutes, Zelenskyy told Axios: \"The ceasefire announcement was news for me. But if Russians agree to an energy ceasefire, Ukraine will agree. If President Trump negotiated it with Putin, please tell us when the ceasefire begins; we are ready and we will accept it.\"",
+            "On Monday, Zelenskyy said Russia had continued attacking, describing a jet-powered Iranian \"Shahed\" drone fired from Russia that struck a gas production facility around midnight and additional drones that hit at least five other energy-related targets. He said 33 people were reported wounded across the country and framed the strikes as Moscow's rebuttal to Trump. \"We did not attack, while Russia attacked our gas stations, energy infrastructure, and other facilities,\" he wrote on X. \"I think it was Putin's answer to President Trump... they don't know anything about the energy ceasefire.\" He later said Ukraine supported the ceasefire concept but called for more pressure on Russia \"for de-escalation to actually succeed.\" In a social media post Sunday, Zelenskyy had also said a drone struck a Kyiv power plant, causing power outages in the capital. Russian Foreign Minister Sergey Lavrov rejected the ceasefire idea Monday as a ploy by Zelenskyy to exploit a pause to regroup and rearm: \"I do not think [Zelenskyy] deserves a respite.\"",
+            "Trump's push for an energy truce comes as rising U.S. fuel prices have become a major challenge for him and his Republican allies ahead of next month's midterm elections. The president has argued that Ukraine's attacks on Russian diesel facilities contributed to a global diesel shortage rather than the Iran war, and on Friday he announced a deal with Russian President Vladimir Putin to buy Russian diesel and bring down prices. Russia's state news agency TASS confirmed Monday that Deputy Prime Minister Alexander Novak had agreed to supply 300,000 tons of diesel to the U.S. in October, with monthly volumes rising thereafter, and that Washington had issued a general license authorizing Russian diesel supplies to the global market until April 7, 2027. The deal undercuts fresh U.S. sanctions Trump signed weeks ago to curb Russian energy revenues. Zelenskyy called the move a \"weak decision\"; Trump responded that Ukraine should \"get a new leader who can make a deal,\" and Zelenskyy later offered to hold elections under a 60-day total ceasefire, telling ABC's \"This Week\": \"Please tell Putin, give us two months, 60 days off — total ceasefire, 60 days — and we will organize elections.\"",
+            "The diesel deal drew sharp bipartisan criticism in Washington. On Sunday, six U.S. senators — Democrats Jeanne Shaheen and Richard Blumenthal and Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis — called on the administration to \"immediately reverse course\" and scrap the agreement. \"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians,\" they said in a joint statement. The senators also said the proposal was unlawful, noting that Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's war. Trump defended the arrangement Monday as part of his \"America First\" strategy, writing: \"The European Union paid Russia $250 Billion Dollars for Energy, and the Fake News Media doesn't want to get near that story. I made the right choice for the American People.\"",
+            "European leaders rallied behind Zelenskyy while largely backing the ceasefire concept. European Commission President Ursula von der Leyen said she \"fully supported\" the call for a ceasefire protecting global food supplies and energy infrastructure in Ukraine and Russia, and voiced \"full support for President Zelenskyy as he leads the fight for his people's freedom.\" UK Prime Minister Andy Burnham said his country \"strongly supports\" Trump's call for a \"sustained energy ceasefire to start now,\" which Kyiv was ready to honor \"if Russia stops its attacks.\" French President Emmanuel Macron backed a \"real energy ceasefire\" but lamented that \"Russia continues to refuse that.\" Canadian Prime Minister Mark Carney, who earlier denounced the diesel deal as \"in direct opposition\" to peace efforts, voiced support for the energy ceasefire in a phone call with Trump, his office said.",
+            "Despite the ceasefire claim, Kyiv pressed its own campaign against Russian infrastructure. On Sunday, Ukraine struck a data center operated by Yandex, often described as Russia's version of Google — the third strike on the company's facilities in four days — causing service outages in parts of Russia. Zelenskyy said the strikes also reduced Russian propaganda bots on social media: \"A lot of people noticed it. There was less hate, less division, and fewer provocations.\" Russia, meanwhile, has repeatedly struck Ukrainian power plants and transmission lines around Kyiv, Kharkiv and Odesa, particularly during winter, to lower civilian morale; Ukraine has escalated long-range attacks on Russian oil refineries to curb Moscow's fuel capacity. Zelenskyy has said Ukraine would stop hitting Russian refineries if the Kremlin curbed its energy attacks. The war is in its fourth year, and U.S. military and financial aid to Ukraine hangs in the balance. Ukrainian lawmaker Oleksandr Merezhko, chairman of parliament's foreign policy committee, said there was \"absolutely no ceasefire,\" describing a dark apartment without power or water amid nonstop air-raid alerts and explosions. He suggested Trump's statement might be part of internal American politics before the midterms but said \"American Congress — most of them are on the side of Ukraine.\" The White House did not respond to NPR's request for comment on Russia's overnight strikes."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 4,
+              "center": 7,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "DW",
+            "NPR",
+            "Axios",
+            "CNN",
+            "The Hill",
+            "The Times of India",
+            "The Atlantic",
+            "Reuters",
+            "NBC News",
+            "The Economist",
+            "NYT"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/12/nx-s1-5998614/trump-russia-ukraine-energy-ceasefire",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Axios",
+              "url": "https://www.axios.com/2026/10/11/russia-ukraine-oil-energy-ceasefire-trump-putin-zelensky",
+              "lean": -0.1,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/11/politics/ukraine-us-weapons-intelligence",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/policy/defense/6142999-ukraine-us-intelligence-sharing-weapons-russia-strikes/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Times of India",
+              "url": "https://timesofindia.indiatimes.com/world/europe/us-threatens-to-cut-ukraine-intelligence-weapons-supplies-over-russian-energy-strikes/articleshow/134898292.cms"
+            },
+            {
+              "outlet": "The Atlantic",
+              "url": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/energy/ukraine-accuses-russia-violating-trumps-energy-ceasefire-eu-imposes-new-2026-10-12/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Economist",
+              "url": "https://www.economist.com/europe/2026/10/12/donald-trump-is-again-threatening-to-cut-off-arms-to-ukraine"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Donald Trump announced Sunday that Russia and Ukraine had agreed to an immediate energy ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump said the energy ceasefire would halt attacks on each other's energy infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump wrote on Truth Social that both parties had agreed to the ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the ceasefire announcement was 'news for me.'",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Zelenskyy said that if Russians agree to an energy ceasefire, Ukraine will agree.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Zelenskyy said that if President Trump negotiated the ceasefire with Putin, Trump should tell Ukraine when it begins.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Ukraine was ready and would accept the energy ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Zelenskyy reported fresh Russian strikes on Ukrainian energy sites overnight.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "On Monday, Zelenskyy said Russia had continued attacking.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy described a jet-powered Iranian Shahed drone fired from Russia that struck a gas production facility around midnight.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy said additional drones hit at least five other energy-related targets.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy said 33 people were reported wounded across the country.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy framed the strikes as Moscow's rebuttal to Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy wrote on X that Ukraine did not attack while Russia attacked Ukrainian gas stations, energy infrastructure, and other facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy wrote that he thought the strikes were Putin's answer to President Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy wrote that 'they don't know anything about the energy ceasefire.'",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Zelenskyy later said Ukraine supported the ceasefire concept.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy called for more pressure on Russia for de-escalation to succeed.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "In a social media post Sunday, Zelenskyy said a drone struck a Kyiv power plant, causing power outages in the capital.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "Russian Foreign Minister Sergey Lavrov rejected the ceasefire idea Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Lavrov called the ceasefire idea a ploy by Zelenskyy to exploit a pause to regroup and rearm.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Lavrov said he did not think Zelenskyy deserves a respite.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump's push for an energy truce comes as rising U.S. fuel prices have become a major challenge for him and his Republican allies ahead of next month's midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump has argued that Ukraine's attacks on Russian diesel facilities contributed to a global diesel shortage rather than the Iran war.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "On Friday, Trump announced a deal with Russian President Vladimir Putin to buy Russian diesel and bring down prices.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Russia's state news agency TASS confirmed Monday that Deputy Prime Minister Alexander Novak had agreed to supply 300,000 tons of diesel to the U.S. in October.",
+                "status": "supported",
+                "source_ids": [
+                  "TASS"
+                ]
+              },
+              {
+                "text": "TASS confirmed that monthly diesel volumes would rise after October.",
+                "status": "supported",
+                "source_ids": [
+                  "TASS"
+                ]
+              },
+              {
+                "text": "TASS confirmed that Washington had issued a general license authorizing Russian diesel supplies to the global market until April 7, 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "TASS"
+                ]
+              },
+              {
+                "text": "The diesel deal undercuts fresh U.S. sanctions Trump signed weeks ago to curb Russian energy revenues.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump signed fresh U.S. sanctions weeks ago to curb Russian energy revenues.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy called the diesel deal a 'weak decision.'",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump responded that Ukraine should get a new leader who can make a deal.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy later offered to hold elections under a 60-day total ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC"
+                ]
+              },
+              {
+                "text": "Zelenskyy told ABC's 'This Week' to tell Putin to give two months, 60 days off for a total ceasefire so Ukraine could organize elections.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC"
+                ]
+              },
+              {
+                "text": "The diesel deal drew sharp bipartisan criticism in Washington.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "On Sunday, six U.S. senators called on the administration to immediately reverse course and scrap the diesel agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The six senators were Democrats Jeanne Shaheen and Richard Blumenthal and Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The senators said the United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The senators said the proposal was unlawful.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The senators said Congress explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's war.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump defended the diesel arrangement Monday as part of his 'America First' strategy.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump wrote that the European Union paid Russia $250 billion for energy.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Trump wrote that the fake news media doesn't want to get near the EU-Russia energy story.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "European leaders rallied behind Zelenskyy while largely backing the ceasefire concept.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "European Commission President Ursula von der Leyen said she fully supported the call for a ceasefire protecting global food supplies and energy infrastructure in Ukraine and Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Ursula von der Leyen voiced full support for President Zelenskyy as he leads the fight for his people's freedom.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "UK Prime Minister Andy Burnham said his country strongly supports Trump's call for a sustained energy ceasefire to start now.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Burnham said Kyiv was ready to honor the ceasefire if Russia stops its attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "French President Emmanuel Macron backed a real energy ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Macron lamented that Russia continues to refuse a real energy ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Canadian Prime Minister Mark Carney earlier denounced the diesel deal as in direct opposition to peace efforts.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Canadian Prime Minister Mark Carney voiced support for the energy ceasefire in a phone call with Trump, his office said.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Despite the ceasefire claim, Kyiv pressed its own campaign against Russian infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "On Sunday, Ukraine struck a data center operated by Yandex.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The Yandex strike was the third strike on the company's facilities in four days.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The Yandex strike caused service outages in parts of Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Yandex is often described as Russia's version of Google.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the strikes reduced Russian propaganda bots on social media.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy said a lot of people noticed it, with less hate, less division, and fewer provocations.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Russia has repeatedly struck Ukrainian power plants and transmission lines around Kyiv, Kharkiv and Odesa, particularly during winter, to lower civilian morale.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Ukraine has escalated long-range attacks on Russian oil refineries to curb Moscow's fuel capacity.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Zelenskyy has said Ukraine would stop hitting Russian refineries if the Kremlin curbed its energy attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The war is in its fourth year.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "U.S. military and financial aid to Ukraine hangs in the balance.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Ukrainian lawmaker Oleksandr Merezhko, chairman of parliament's foreign policy committee, said there was absolutely no ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Merezhko described a dark apartment without power or water amid nonstop air-raid alerts and explosions.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Merezhko suggested Trump's statement might be part of internal American politics before the midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Merezhko said American Congress, most of them, are on the side of Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The White House did not respond to NPR's request for comment on Russia's overnight strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85,
+          "significance": 0.791,
+          "image": {
+            "url": "static/img/2026-10-12/world-us-threatens-to-cut-ukraine-aid-as-russia-strike.jpg",
+            "alt": "Photograph of Ukrainian energy infrastructure after Russian strikes",
+            "credit": "Photo: UK Government / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "world-saudi-arabia-vows-serious-response-after-deadly-",
+          "section": "world",
+          "headline": "Saudi Arabia vows serious response after deadly Houthi airport attacks",
+          "beat_label": "Middle East",
+          "byline": "International & World desk",
+          "body": [
+            "Saudi Energy Minister Prince Abdul Aziz bin Salman vowed a 'serious' response to recent attacks on the kingdom's airports and oil and gas facilities by Yemen's Iran-backed Houthi movement. 'The events of recent weeks are serious. Our response must be equally serious,' he told the WPC Energy Congress in Riyadh on Monday. The attacks have killed at least 16 people since last Thursday, according to Saudi authorities: three Saudis in strikes on an airport facility and an aircraft on Thursday, 13 people in a missile strike on Terminal 3 of Riyadh's King Khalid International Airport on Saturday, and a Pakistani resident in a projectile strike on Terminal 4 on Sunday. The Houthi-run health ministry said a child was killed and six others injured in a Saudi airstrike on a home in the Yemeni capital Sanaa on Sunday.",
+            "The Saturday attack on Terminal 3 killed four Saudis, two Bangladeshis, and one each of American, Egyptian, Jordanian, Syrian, Palestinian, Sudanese, and Indian nationals. King Fahd International Airport in Dammam was also attacked Sunday evening with no casualties reported. The Saudi-led coalition said it intercepted a drone in Eastern Province and a missile toward Khamis Mushait. Houthi military spokesman Yahya Sarea said the group launched missiles and drones at Riyadh and Dammam airports and two oil and gas facilities in retaliation for 124 Saudi airstrikes in Yemen over the previous 24 hours. Sarea warned airlines and passengers against using Saudi airports and airspace except for travel to Mecca and Medina, vowing to 'continue their escalating operations deep inside Saudi, imposing the equation of a blockade for a blockade and an escalation for an escalation.'",
+            "The attacks come amid a broader unraveling of a four-year informal ceasefire. The Houthis ousted Yemen's government from Sanaa in 2014, and a Saudi-led coalition intervened in 2015 to restore it. In July, the Houthis announced a 'maritime embargo' against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities, and tankers in the Red Sea, saying they were retaliating for a Saudi blockade of ports and airports in their territory. Last month, the Houthis launched a surprise offensive along Yemen's southwestern Red Sea coast, seizing areas overlooking the Bab al-Mandab Strait, a critical chokepoint for oil shipments. The seizure contributed to a surge in global oil prices after the Strait of Hormuz was effectively closed due to the US and Israel's war with Iran.",
+            "The attacks drew widespread international condemnation. UN Secretary General António Guterres said he was 'deeply shocked' and warned that attacks on civilians and civilian infrastructure violate international law. US President Donald Trump said he would 'make a decision' about joining Saudi strikes on the Houthis; the US military already provides intelligence and targeting support to the coalition. Iran, which denies providing weapons to the Houthis, expressed 'deep concern' and called for 'dialogue and engagement.' In his address, Prince Abdul Aziz acknowledged that 'energy security cannot be taken for granted' and that recent developments had 'tested our infrastructure, our institutions, our people, and our resilience,' but promised the kingdom would overcome the challenges.",
+            "Amid the real attacks, numerous viral videos claiming to show the strikes on Riyadh airport have been debunked as AI-generated fakes, according to a DW Fact check analysis. Videos shared millions of times on X, TikTok, and other platforms contained visual glitches, implausible movements, and AI watermarks. One video that appeared to show an explosion at the airport was found to have been online since March 2026, months before the attack. Another video was created using AI based on a 2016 stock photograph of the airport. The fact check found that the short length and grainy quality of many clips made them difficult to verify, and they were often shared by accounts that regularly post AI-generated content."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "DW",
+            "NBC News",
+            "France 24"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/fact-check-viral-videos-falsely-linked-to-riyadh-airport-attacks/a-79643037?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/middle-east/another-hormuz-houthi-threat-red-sea-bab-el-mandeb-iran-cfr-rcna603046",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/middle-east/20261012-live-saudi-arabia-extends-suspension-of-operations-at-riyadh-airport-after-deadly-houthi-attacks"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Prince Abdul Aziz bin Salman vowed a serious response to recent attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "The recent attacks targeted Saudi airports and oil and gas facilities.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The attacks were carried out by Yemen's Houthi movement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthi movement is backed by Iran.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Prince Abdul Aziz said the events of recent weeks are serious.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "Prince Abdul Aziz said the response must be equally serious.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "The remarks were made at the WPC Energy Congress in Riyadh on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saudi authorities reported that three Saudis were killed in strikes on an airport facility and an aircraft on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi authorities"
+                ]
+              },
+              {
+                "text": "Saudi authorities reported that 13 people were killed in a missile strike on Terminal 3 of Riyadh's King Khalid International Airport on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi authorities"
+                ]
+              },
+              {
+                "text": "Saudi authorities reported that a Pakistani resident was killed in a projectile strike on Terminal 4 on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi authorities"
+                ]
+              },
+              {
+                "text": "The Houthi-run health ministry said a child was killed in a Saudi airstrike on a home in Sanaa on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi-run health ministry"
+                ]
+              },
+              {
+                "text": "The Houthi-run health ministry said six others were injured in the same airstrike.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi-run health ministry"
+                ]
+              },
+              {
+                "text": "The Saturday attack on Terminal 3 killed four Saudis, two Bangladeshis, and one each of American, Egyptian, Jordanian, Syrian, Palestinian, Sudanese, and Indian nationals.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi authorities"
+                ]
+              },
+              {
+                "text": "King Fahd International Airport in Dammam was attacked on Sunday evening.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "No casualties were reported from the attack on King Fahd International Airport.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Saudi-led coalition said it intercepted a drone in Eastern Province.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi-led coalition"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition said it intercepted a missile toward Khamis Mushait.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi-led coalition"
+                ]
+              },
+              {
+                "text": "Houthi military spokesman Yahya Sarea said the group launched missiles and drones at Riyadh and Dammam airports.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "Houthi military spokesman Yahya Sarea said the group launched missiles and drones at two oil and gas facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "Yahya Sarea said the launches were in retaliation for 124 Saudi airstrikes in Yemen over the previous 24 hours.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "Yahya Sarea warned airlines and passengers against using Saudi airports and airspace except for travel to Mecca and Medina.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "Yahya Sarea vowed to continue their escalating operations deep inside Saudi.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "Yahya Sarea stated they impose the equation of a blockade for a blockade and an escalation for an escalation.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahya Sarea"
+                ]
+              },
+              {
+                "text": "The attacks come amid a broader unraveling of a four-year informal ceasefire.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis ousted Yemen's government from Sanaa in 2014.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A Saudi-led coalition intervened in 2015 to restore the government.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In July, the Houthis announced a maritime embargo against Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthis"
+                ]
+              },
+              {
+                "text": "In July, the Houthis began missile and drone attacks on Saudi airports, oil facilities, and tankers in the Red Sea.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthis"
+                ]
+              },
+              {
+                "text": "The Houthis said they were retaliating for a Saudi blockade of ports and airports in their territory.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthis"
+                ]
+              },
+              {
+                "text": "Last month, the Houthis launched a surprise offensive along Yemen's southwestern Red Sea coast.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Houthis seized areas overlooking the Bab al-Mandab Strait.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Bab al-Mandab Strait is a critical chokepoint for oil shipments.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The seizure contributed to a surge in global oil prices.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Strait of Hormuz was effectively closed due to the US and Israel's war with Iran.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The US and Israel are at war with Iran.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The attacks drew widespread international condemnation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "UN Secretary General António Guterres said he was deeply shocked.",
+                "status": "supported",
+                "source_ids": [
+                  "António Guterres"
+                ]
+              },
+              {
+                "text": "UN Secretary General António Guterres warned that attacks on civilians and civilian infrastructure violate international law.",
+                "status": "supported",
+                "source_ids": [
+                  "António Guterres"
+                ]
+              },
+              {
+                "text": "US President Donald Trump said he would make a decision about joining Saudi strikes on the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "The US military provides intelligence and targeting support to the Saudi-led coalition.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Iran denies providing weapons to the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran"
+                ]
+              },
+              {
+                "text": "Iran expressed deep concern.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran"
+                ]
+              },
+              {
+                "text": "Iran called for dialogue and engagement.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran"
+                ]
+              },
+              {
+                "text": "Prince Abdul Aziz acknowledged that energy security cannot be taken for granted.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "Prince Abdul Aziz acknowledged that recent developments had tested infrastructure, institutions, people, and resilience.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "Prince Abdul Aziz promised the kingdom would overcome the challenges.",
+                "status": "supported",
+                "source_ids": [
+                  "Prince Abdul Aziz bin Salman"
+                ]
+              },
+              {
+                "text": "Numerous viral videos claiming to show strikes on Riyadh airport have been debunked as AI-generated fakes, according to a DW Fact check analysis.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "Videos were shared millions of times on X, TikTok, and other platforms.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "The videos contained visual glitches, implausible movements, and AI watermarks.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "One video that appeared to show an explosion at the airport was found to have been online since March 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "Another video was created using AI based on a 2016 stock photograph of the airport.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "The fact check found that the short length and grainy quality of many clips made them difficult to verify.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              },
+              {
+                "text": "The clips were often shared by accounts that regularly post AI-generated content.",
+                "status": "supported",
+                "source_ids": [
+                  "DW Fact check"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.711,
+          "image": {
+            "url": "static/img/2026-10-12/world-saudi-arabia-vows-serious-response-after-deadly.jpg",
+            "alt": "Photograph of Saudi Arabian airport",
+            "credit": "Photo: Vanquish0 / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 694
+          }
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-trump-s-energy-ceasefire-collides-with-oil-suppl",
+          "section": "markets",
+          "headline": "Trump's 'energy ceasefire' collides with oil supply crunch",
+          "beat_label": "Energy",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Oil markets were struggling on Monday to gauge how President Donald Trump's declaration of an \"energy ceasefire\" between Russia and Ukraine might help mitigate a deepening global oil crisis as the Middle East conflict drags on."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/trumps-energy-ceasefire-collides-with-real-world-problems-of-dwindling-fuel-supplies-8ba3993b?mod=mw_rss_topstories"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Oil markets were struggling on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Donald Trump declared an 'energy ceasefire' between Russia and Ukraine.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The global oil crisis is deepening.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Middle East conflict is ongoing.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.65
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,799.63",
+            "chg": "+1.74%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,6.6 15.2,1.5 22.0,3.5 28.8,7.6 35.7,2.3 42.5,3.7"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "27,226.28",
+            "chg": "+1.32%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,4.8 15.2,1.5 22.0,3.1 28.8,12.4 35.7,7.8 42.5,11.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,833.25",
+            "chg": "+1.78%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,11.0 15.2,6.7 22.0,12.5 28.8,11.6 35.7,4.5 42.5,1.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,797.32",
+            "chg": "−0.33%",
+            "dir": "down",
+            "spark": "1.5,4.4 8.3,1.5 15.2,4.9 22.0,12.5 28.8,12.3 35.7,9.7 42.5,11.7"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.24%",
+            "chg": "-4 bp",
+            "dir": "down",
+            "spark": "1.5,6.2 8.3,1.5 15.2,7.3 22.0,6.2 28.8,12.5 35.7,10.7 42.5,11.3"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$93.61",
+            "chg": "+4.67%",
+            "dir": "up",
+            "spark": "1.5,10.1 9.7,10.1 17.9,12.5 26.1,5.9 34.3,5.1 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,191.00",
+            "chg": "+0.82%",
+            "dir": "up",
+            "spark": "1.5,10.2 9.7,5.7 17.9,12.5 26.1,10.1 34.3,1.5 42.5,5.2"
+          },
+          {
+            "sym": "BTC",
+            "val": "$82,317",
+            "chg": "−3.79%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,8.0 15.2,12.5 22.0,10.0 28.8,9.0 35.7,6.8 42.5,10.7"
+          },
+          {
+            "sym": "VIX",
+            "val": "15.3",
+            "chg": "+0.00%",
+            "dir": "up",
+            "spark": "1.5,4.9 8.3,1.5 15.2,9.8 22.0,8.6 28.8,3.3 35.7,12.5 42.5,4.9"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "V",
+            "chg": "+8.69%",
+            "dir": "up"
+          },
+          {
+            "sym": "WMT",
+            "chg": "+8.30%",
+            "dir": "up"
+          },
+          {
+            "sym": "DIS",
+            "chg": "+7.31%",
+            "dir": "up"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "+6.86%",
+            "dir": "up"
+          },
+          {
+            "sym": "MSFT",
+            "chg": "+5.37%",
+            "dir": "up"
+          },
+          {
+            "sym": "XOM",
+            "chg": "+4.99%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "3:17 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-nfl-trade-deadline-harrison-jr-jurgens-headline-",
+          "section": "sports",
+          "headline": "NFL trade deadline: Harrison Jr., Jurgens, Porter headline multi-player moves",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "With the NFL trade deadline approaching on Nov. 10, teams have been active in recent weeks, completing several significant trades involving high-profile players. The most notable moves include the Arizona Cardinals trading wide receiver Marvin Harrison Jr. to the Houston Texans, the Philadelphia Eagles sending offensive lineman Cam Jurgens to the Baltimore Ravens, the Pittsburgh Steelers dealing cornerback Joey Porter Jr. to the Dallas Cowboys, and the Minnesota Vikings trading quarterback J.J. McCarthy to the New York Giants.",
+            "The Cardinals traded Harrison Jr., the No. 4 overall pick in the 2024 draft, to the Texans on Oct. 12. Arizona received a 2027 second-round pick and a 2027 sixth-round pick, while Houston also received a 2027 seventh-round pick. Harrison Jr. had five receptions for 85 yards and one touchdown in four games this season, averaging 0.6 yards per route run, the third-lowest among players with at least 100 routes, per Next Gen Stats. He will reunite with former Ohio State teammate C.J. Stroud in Houston. NFL.com graded the trade a B+ for the Cardinals and a C for the Texans, noting the premium price for a player who has not performed at expectations.",
+            "The Eagles traded Jurgens to the Ravens on Oct. 7. Baltimore received Jurgens and a 2027 seventh-round pick, while Philadelphia received a 2027 fifth-round pick and a 2028 second-round pick. Jurgens, a two-time Pro Bowler, had struggled after moving to guard due to an injury to Landon Dickerson, and the Eagles felt comfortable moving him due to confidence in younger linemen such as Willie Lampkin. The Ravens needed a center after losing Tyler Linderbaum in free agency and suffering multiple injuries at the position, including Danny Pinter, Jovaughn Gwyn, and Ethan Pocic all landing on injured reserve. NFL.com gave the Eagles an A- grade and the Ravens a B+. Jurgens entered the concussion protocol after the trade, according to NFL Network.",
+            "The Steelers traded Porter Jr. to the Cowboys on Oct. 1 after failed contract negotiations. Pittsburgh received a 2027 sixth-round pick and a 2028 second-round pick, while Dallas received Porter. According to Sports Illustrated's Albert Breer, Porter sought $30 million per year, but the Steelers were unwilling to go past the high $20s in new money. Porter had missed the first three games with a back injury and then pulled himself from practice after reporting back pain. The Cowboys, who ranked last in EPA per pass allowed (0.36), needed cornerback help. NFL.com graded the deal an A- for Dallas and a C+ for Pittsburgh.",
+            "The Giants acquired McCarthy from the Vikings on Sept. 28 for a 2027 fifth-round pick. McCarthy, the No. 10 pick in the 2024 draft, had fallen to third on the Vikings' quarterback depth chart behind Kyler Murray and Carson Wentz. The Giants needed a backup quarterback after Jaxson Dart sustained a season-ending injury in Week 2. The Vikings chose to move on from McCarthy, ending his brief stint in Minnesota.",
+            "These trades carry significant implications for the playoff races. The Texans, after an 0-4 start, hope Harrison can revive their offense alongside Stroud. The Ravens aim to stabilize their offensive line with Jurgens, while the Cowboys address a glaring secondary weakness. The Eagles stockpiled future draft capital, now holding two first-round and two second-round picks in 2028. The Steelers moved on from a disgruntled player, and the Giants secured a young quarterback with starting potential as depth."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Sports Illustrated",
+            "NFL.com",
+            "ESPN",
+            "ABC7 Eyewitness News"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Sports Illustrated",
+              "url": "https://www.si.com/nfl/trade-deadline/tracking-every-big-move-across-league"
+            },
+            {
+              "outlet": "NFL.com",
+              "url": "https://www.nfl.com/news/nfl-trade-grades-evaluating-every-deal-made-ahead-of-the-2026-deadline"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nfl/story/_/id/50043542/2026-trade-deadline-grades-latest-best-worst-deals"
+            },
+            {
+              "outlet": "ABC7 Eyewitness News",
+              "url": "https://abc7ny.com/post/2026-nfl-trade-deadline-updates-latest-season-deals-news/19884108/?userab=kfsn_content_recs-582*variant_a_control_kfsn-2512,kabc_content_recs-577*variant_a_control-2480,wls_content_recs-584*variant_a_control_wls-2516,wtvd_content_recs-585*variant_b_trending_wtvd-2519,ktrk_content_recs-587*variant_b_trending_ktrk-2523,wpvi_content_recs-586*variant_a_control_wpvi-2520,otv_web_content_rec-539*variant_c_trending-2268,otv_web_topic-580*variant_b_topic_redesign-2509,follow_abcnews_otv_on_google-654*variant_b_share_drop_down-3495,otv_search_page_design_unification-546*variant_b_search_redesign-2300,otv_web_live-581*variant_b_live_redesign-2511,follow_otv_on_google-683*variant_a_control-3659,abcn_popular_reads_exp_followup-648*variant_c_autotagswpopularity-3458,otv_mobile_web_content_recs-639*variant_a_control-3429,kgo_content_recs-583*variant_a_control_kgo-2514,otvlink_abcnnav-576*variant_a_control-2478"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The NFL trade deadline is on Nov. 10.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Teams have been active in recent weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Arizona Cardinals traded wide receiver Marvin Harrison Jr. to the Houston Texans.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Philadelphia Eagles sent offensive lineman Cam Jurgens to the Baltimore Ravens.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Pittsburgh Steelers dealt cornerback Joey Porter Jr. to the Dallas Cowboys.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Minnesota Vikings traded quarterback J.J. McCarthy to the New York Giants.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Cardinals traded Harrison Jr., the No. 4 overall pick in the 2024 draft, to the Texans on Oct. 12.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Arizona received a 2027 second-round pick and a 2027 sixth-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Houston also received a 2027 seventh-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Harrison Jr. had five receptions for 85 yards and one touchdown in four games this season.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Harrison Jr. averaged 0.6 yards per route run, the third-lowest among players with at least 100 routes, per Next Gen Stats.",
+                "status": "supported",
+                "source_ids": [
+                  "Next Gen Stats"
+                ]
+              },
+              {
+                "text": "Harrison Jr. will reunite with former Ohio State teammate C.J. Stroud in Houston.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "NFL.com graded the trade a B+ for the Cardinals and a C for the Texans.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL.com"
+                ]
+              },
+              {
+                "text": "NFL.com noted the premium price for a player who has not performed at expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL.com"
+                ]
+              },
+              {
+                "text": "The Eagles traded Jurgens to the Ravens on Oct. 7.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Baltimore received Jurgens and a 2027 seventh-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Philadelphia received a 2027 fifth-round pick and a 2028 second-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Jurgens is a two-time Pro Bowler.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Jurgens had struggled after moving to guard due to an injury to Landon Dickerson.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Eagles felt comfortable moving him due to confidence in younger linemen such as Willie Lampkin.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Ravens needed a center after losing Tyler Linderbaum in free agency.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Ravens suffered multiple injuries at the position, including Danny Pinter, Jovaughn Gwyn, and Ethan Pocic all landing on injured reserve.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "NFL.com gave the Eagles an A- grade and the Ravens a B+.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL.com"
+                ]
+              },
+              {
+                "text": "Jurgens entered the concussion protocol after the trade, according to NFL Network.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL Network"
+                ]
+              },
+              {
+                "text": "The Steelers traded Porter Jr. to the Cowboys on Oct. 1 after failed contract negotiations.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Pittsburgh received a 2027 sixth-round pick and a 2028 second-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Dallas received Porter.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "According to Sports Illustrated's Albert Breer, Porter sought $30 million per year.",
+                "status": "supported",
+                "source_ids": [
+                  "Sports Illustrated"
+                ]
+              },
+              {
+                "text": "According to Sports Illustrated's Albert Breer, the Steelers were unwilling to go past the high $20s in new money.",
+                "status": "supported",
+                "source_ids": [
+                  "Sports Illustrated"
+                ]
+              },
+              {
+                "text": "Porter had missed the first three games with a back injury.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "Porter pulled himself from practice after reporting back pain.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Cowboys ranked last in EPA per pass allowed (0.36).",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Cowboys needed cornerback help.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "NFL.com graded the deal an A- for Dallas and a C+ for Pittsburgh.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL.com"
+                ]
+              },
+              {
+                "text": "The Giants acquired McCarthy from the Vikings on Sept. 28 for a 2027 fifth-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "McCarthy was the No. 10 pick in the 2024 draft.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "McCarthy had fallen to third on the Vikings' quarterback depth chart behind Kyler Murray and Carson Wentz.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Giants needed a backup quarterback after Jaxson Dart sustained a season-ending injury in Week 2.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Vikings chose to move on from McCarthy, ending his brief stint in Minnesota.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Texans started the season 0-4.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Texans hope Harrison can revive their offense alongside Stroud.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Ravens aim to stabilize their offensive line with Jurgens.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Cowboys address a glaring secondary weakness.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Eagles now hold two first-round and two second-round picks in 2028.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Steelers moved on from a disgruntled player.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              },
+              {
+                "text": "The Giants secured a young quarterback with starting potential as depth.",
+                "status": "supported",
+                "source_ids": [
+                  "current article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-bristol-myers-squibb-stock-surges-on-dual-phase-",
+          "section": "health-science",
+          "headline": "Bristol Myers Squibb shares surge 6.5% on positive Phase 3 trial results in neuroendocrine tumors and idiopathic pulmonary fibrosis",
+          "beat_label": "Pharmaceuticals",
+          "byline": "Health & Science desk",
+          "body": [
+            "Bristol Myers Squibb (NYSE: BMY) shares rose 6.5% on Monday after the company announced positive top-line results from two separate Phase 3 clinical trials, one evaluating the radiopharmaceutical therapy RYZ101 for gastroenteropancreatic neuroendocrine tumors (GEP-NETs) and the other testing the experimental treatment admilparant for idiopathic pulmonary fibrosis (IPF). Both studies met their primary endpoints, providing potential support for future regulatory submissions.",
+            "The pivotal ACTION-1 trial of RYZ101 (225Ac-DOTATATE) demonstrated a statistically significant and clinically meaningful improvement in progression-free survival (PFS) compared with investigator-selected standard of care in patients with somatostatin receptor-positive GEP-NETs whose disease had progressed following prior treatment with a lutetium-177-based radiopharmaceutical. GEP-NETs are rare malignancies, with approximately 18,000 new cases diagnosed annually in the United States. Treatment options are limited after patients progress on initial radiopharmaceutical therapy. RYZ101 received Orphan Drug Designation from the U.S. Food and Drug Administration (FDA) in August 2026 for GEP-NETs. Bristol Myers Squibb said it plans to meet with the FDA to discuss the results and outline a path toward a formal regulatory submission.",
+            "Separately, the Phase 3 ALOFT-IPF trial evaluating admilparant in adults with IPF achieved its primary endpoint. The study showed that admilparant at a dose of 60 mg twice daily led to a statistically significant improvement over placebo in the absolute change in forced vital capacity (FVC) from baseline at Week 52, a key measure of lung function decline. A higher 120 mg twice-daily cohort slowed FVC decline, but the result did not reach statistical significance. The company reported that admilparant was well tolerated across both dose cohorts, with discontinuations due to adverse events remaining low and comparable to placebo.",
+            "Bristol Myers Squibb is currently completing a comprehensive evaluation of the full ALOFT-IPF dataset, which it intends to present to global health authorities in support of upcoming regulatory applications. The company did not disclose detailed progression-free survival figures for the ACTION-1 trial in the top-line announcement."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Finance",
+            "Clinical Trials Arena",
+            "Investing.com"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/healthcare/articles/bristol-myers-squibb-stock-surges-113653028.html"
+            },
+            {
+              "outlet": "Clinical Trials Arena",
+              "url": "https://www.clinicaltrialsarena.com/news/bms-gains-two-pivotal-trial-wins-in-lung-disease-and-rare-cancer/"
+            },
+            {
+              "outlet": "Investing.com",
+              "url": "https://www.investing.com/news/stock-market-news/bristol-myers-squibb-stock-surges-on-dual-phase-3-clinical-trial-successes-4944011"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Bristol Myers Squibb shares rose 6.5% on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The company announced positive top-line results from two separate Phase 3 clinical trials.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "One trial evaluated RYZ101 for gastroenteropancreatic neuroendocrine tumors (GEP-NETs).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The other trial tested admilparant for idiopathic pulmonary fibrosis (IPF).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Both studies met their primary endpoints.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The results provide potential support for future regulatory submissions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The pivotal ACTION-1 trial of RYZ101 demonstrated a statistically significant and clinically meaningful improvement in progression-free survival compared with investigator-selected standard of care.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The trial was in patients with somatostatin receptor-positive GEP-NETs whose disease had progressed following prior treatment with a lutetium-177-based radiopharmaceutical.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "GEP-NETs are rare malignancies, with approximately 18,000 new cases diagnosed annually in the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Treatment options are limited after patients progress on initial radiopharmaceutical therapy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "RYZ101 received Orphan Drug Designation from the U.S. Food and Drug Administration (FDA) in August 2026 for GEP-NETs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bristol Myers Squibb said it plans to meet with the FDA to discuss the results and outline a path toward a formal regulatory submission.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Phase 3 ALOFT-IPF trial evaluating admilparant in adults with IPF achieved its primary endpoint.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The study showed that admilparant at a dose of 60 mg twice daily led to a statistically significant improvement over placebo in the absolute change in forced vital capacity (FVC) from baseline at Week 52.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A higher 120 mg twice-daily cohort slowed FVC decline, but the result did not reach statistical significance.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The company reported that admilparant was well tolerated across both dose cohorts.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Discontinuations due to adverse events remained low and comparable to placebo.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bristol Myers Squibb is currently completing a comprehensive evaluation of the full ALOFT-IPF dataset.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "It intends to present to global health authorities in support of upcoming regulatory applications.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The company did not disclose detailed progression-free survival figures for the ACTION-1 trial in the top-line announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8,
+          "significance": 0.75,
+          "image": {
+            "url": "static/img/2026-10-12/health-science-bristol-myers-squibb-stock-surges-on-dual-phase.jpg",
+            "alt": "Photograph of Bristol Myers Squibb corporate headquarters building",
+            "credit": "Photo: Jonathan Schilling / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "health-science-universe-s-physical-constants-finely-tuned-for-l",
+          "section": "health-science",
+          "headline": "Universe's physical constants finely tuned for life, study suggests",
+          "beat_label": "Science Research",
+          "byline": "Health & Science desk",
+          "body": [
+            "Physicist Kostya Trachenko at Queen Mary University of London has identified a new constraint on the universe's fundamental physical constants: they must allow liquids to flow in ways that support life. Published in *Science Advances* in 2023, with a follow-up in January 2025 in *The European Physical Journal E*, the theoretical analysis shows that even small changes to constants such as the Planck constant or electron charge could alter liquid viscosity enough to prevent essential biological processes, potentially making life impossible.",
+            "Fundamental physical constants—universal, unchanging numbers like the mass of an electron or the Planck constant—govern everything from atomic behavior to nuclear reactions. Trachenko's 2023 study extended earlier work that linked these constants to a lower limit on viscosity, a measure of how strongly a fluid resists flow. The new analysis found that life depends on a narrow range of viscosity for processes like diffusion and nutrient transport within and between cells. 'If water was as viscous as tar life would not exist in its current form or not exist at all,' Trachenko said, noting that a change of just a few percent in constants such as the Planck constant would render blood either too thick or too thin for bodily function.",
+            "The research also highlights a puzzling disconnect: the same constants that influence liquid flow govern stellar nucleosynthesis, producing life-essential elements like carbon and oxygen. Yet Trachenko's analysis showed that constants could be altered enough to make liquids inhospitable to life without disrupting the combination needed for element production. This suggests that the conditions for life are more restrictive than previously thought, potentially requiring separate fine-tuning for both stellar chemistry and liquid behavior.",
+            "The 2025 follow-up examined blood, a complex fluid containing plasma and red blood cells. Despite its complexity, the researchers found that blood's viscosity remains surprisingly close to a theoretical value derived from fundamental constants. They propose that interactions between closely spaced blood cells, involving molecular and quantum effects, may explain this connection. The study notes that estimating which constants are compatible with life must account for both intrinsic liquid properties, set by fundamental physics, and extrinsic effects from cellular interactions.",
+            "Trachenko raised a speculative possibility: the fine-tuning of fundamental constants might involve multiple independent requirements, analogous to biological evolution where different useful traits emerge separately. 'Perhaps some broader evolutionary principle could help explain how nature arrives at combinations of physical properties capable of supporting stable structures and increasingly complex systems,' he suggested. For now, why the constants have their observed values remains an open question, but the connection between everyday liquid flow and fundamental physics offers a new avenue for investigation."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261009025602.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Physicist Kostya Trachenko is at Queen Mary University of London.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kostya Trachenko has identified a new constraint on the universe's fundamental physical constants: they must allow liquids to flow in ways that support life.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The research was published in Science Advances in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "A follow-up was published in January 2025 in The European Physical Journal E.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The theoretical analysis shows that even small changes to constants such as the Planck constant or electron charge could alter liquid viscosity enough to prevent essential biological processes, potentially making life impossible.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Fundamental physical constants—universal, unchanging numbers like the mass of an electron or the Planck constant—govern everything from atomic behavior to nuclear reactions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko's 2023 study extended earlier work that linked these constants to a lower limit on viscosity.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The new analysis found that life depends on a narrow range of viscosity for processes like diffusion and nutrient transport within and between cells.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko said: 'If water was as viscous as tar life would not exist in its current form or not exist at all.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko noted that a change of just a few percent in constants such as the Planck constant would render blood either too thick or too thin for bodily function.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The research highlights a puzzling disconnect: the same constants that influence liquid flow govern stellar nucleosynthesis, producing life-essential elements like carbon and oxygen.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko's analysis showed that constants could be altered enough to make liquids inhospitable to life without disrupting the combination needed for element production.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The analysis suggests that the conditions for life are more restrictive than previously thought, potentially requiring separate fine-tuning for both stellar chemistry and liquid behavior.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The 2025 follow-up examined blood, a complex fluid containing plasma and red blood cells.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The researchers found that blood's viscosity remains surprisingly close to a theoretical value derived from fundamental constants.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "They propose that interactions between closely spaced blood cells, involving molecular and quantum effects, may explain this connection.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The study notes that estimating which constants are compatible with life must account for both intrinsic liquid properties, set by fundamental physics, and extrinsic effects from cellular interactions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko raised a speculative possibility: the fine-tuning of fundamental constants might involve multiple independent requirements, analogous to biological evolution where different useful traits emerge separately.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trachenko suggested: 'Perhaps some broader evolutionary principle could help explain how nature arrives at combinations of physical properties capable of supporting stable structures and increasingly complex systems.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "For now, why the constants have their observed values remains an open question.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The connection between everyday liquid flow and fundamental physics offers a new avenue for investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-experimental-injection-makes-fat-cells-self-dest",
+          "section": "health-science",
+          "headline": "Experimental injection that makes fat cells self-destruct cuts visceral fat, early trials show",
+          "beat_label": "Health Research",
+          "byline": "Health & Science desk",
+          "body": [
+            "An experimental injection that causes fat cells to destroy themselves has significantly reduced dangerous visceral fat — the metabolically active fat surrounding internal organs — in early human trials, according to research presented October 11, 2026, at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy. The drug, CBL-514, also reduced subcutaneous fat: at the eight-week follow-up, 69.6% of treated participants had lost at least 150 mL of subcutaneous fat volume, while no placebo recipient reached that threshold.",
+            "The findings come from an analysis of two phase 2 clinical trials (CBL-0204 and CBL-0205) using MRI to measure deep abdominal fat in 41 participants — 23 assigned to CBL-514 and 18 to placebo, with follow-up data for 40. Four weeks after the final injection, visceral fat volume fell by an average 12.01% from baseline in the CBL-514 group, while the placebo group increased by 5.68%, a 17.69 percentage-point difference. At the later follow-up (eight weeks after treatment in CBL-0205 and 12 weeks after in CBL-0204), treated participants remained 10.45% below baseline, versus an 11.76% average increase in the placebo group — a 22.21 percentage-point difference, suggesting effects persisted for weeks after treatment ended.",
+            "CBL-514 works differently from conventional weight-loss approaches: instead of reducing the amount of fat stored inside existing cells, it triggers apoptosis — a natural process of programmed cell death — specifically in adipocytes, the body's fat-storing cells, while leaving other cell types unaffected. In the trials, participants with BMI of 22–30 kg/m² received injections into the lower abdomen every three weeks for up to 12 weeks, with doses up to 600 mg. The number of injections depended on each participant's abdominal fat thickness, and treatment stopped once the fat layer fell below a specified threshold. Participants' average ages ranged from 36.4 to 42.4 years across groups; the CBL-514 group included 17 women and six men, while the placebo group included 10 women and eight men. Before treatment, average visceral fat volume was 563.85 mL in the drug group and 659.81 mL in the placebo group.",
+            "Visceral fat is especially important medically because, unlike subcutaneous fat, it lies deep within the abdominal cavity surrounding organs such as the liver and intestines. It is biologically active and can interfere with the body's ability to regulate blood sugar and metabolism, contributing to insulin resistance, type 2 diabetes, and cardiometabolic conditions including heart attacks and strokes. \"We expect that patients will be pleased by the cosmetic effects, such as the flatter stomach that can come with subcutaneous fat loss,\" said Professor W. Timothy Garvey of the University of Alabama at Birmingham, who analyzed the data with Yu-Fang Ling of Caliway Biopharmaceuticals, the drug's developer based in New Taipei City, Taiwan. \"But it is the reduction in body weight, loss of visceral fat and the improvements in blood pressure, cholesterol and the like that should be associated with this that will be important for health.\"",
+            "The researchers also reported evidence that CBL-514 could help prevent weight regain after patients stop taking GLP-1 receptor agonist medications such as Ozempic, Wegovy, Mounjaro, and Zepbound, which are highly effective but frequently followed by rebound weight gain once discontinued. In animal studies, combining CBL-514 with tirzepatide produced greater weight loss than tirzepatide alone, and rats that received both medications regained less weight after tirzepatide was withdrawn. The hypothesis is that eliminating fat cells reduces the body's capacity to store fat again, potentially slowing re-accumulation — though this benefit has so far been shown only in animals and needs confirmation in humans. The drug was generally well tolerated in the trials; most side effects were temporary injection-site reactions including pain, swelling, and redness, generally mild to moderate, with no serious adverse events reported.",
+            "Garvey called CBL-514 \"a highly innovative approach to obesity pharmacotherapy that has produced some remarkable results in early human trials.\" Existing surgical options, including liposuction and abdominoplasty, primarily remove or reshape subcutaneous fat, are invasive, and do not directly address visceral fat; CBL-514 could potentially offer a nonsurgical alternative targeting both types of abdominal fat. Larger studies are still needed to establish effectiveness and safety: recruitment for the first of two phase 3 randomized, placebo-controlled trials was underway at the time of the announcement, with initial results expected at the end of the following year. Researchers will also need to determine whether reducing fat cell numbers produces lasting improvements in weight management and metabolic health, particularly after patients stop taking GLP-1 medications."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261008102713.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "An experimental injection that causes fat cells to destroy themselves has significantly reduced dangerous visceral fat in early human trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The research was presented October 11, 2026, at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The drug, CBL-514, also reduced subcutaneous fat: at the eight-week follow-up, 69.6% of treated participants had lost at least 150 mL of subcutaneous fat volume.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "No placebo recipient lost at least 150 mL of subcutaneous fat volume at the eight-week follow-up.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The findings come from an analysis of two phase 2 clinical trials (CBL-0204 and CBL-0205) using MRI to measure deep abdominal fat.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "There were 41 participants — 23 assigned to CBL-514 and 18 to placebo.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Follow-up data were available for 40 participants.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Four weeks after the final injection, visceral fat volume fell by an average 12.01% from baseline in the CBL-514 group.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The placebo group visceral fat volume increased by 5.68% from baseline at four weeks after the final injection.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The difference in visceral fat volume change between CBL-514 and placebo groups at four weeks was 17.69 percentage points.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "At later follow-up (eight weeks after treatment in CBL-0205 and 12 weeks after in CBL-0204), treated participants remained 10.45% below baseline in visceral fat volume.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "At later follow-up, the placebo group had an average increase in visceral fat volume of 11.76% from baseline.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The difference in visceral fat volume change between CBL-514 and placebo groups at later follow-up was 22.21 percentage points.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Effects of CBL-514 on visceral fat persisted for weeks after treatment ended.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "CBL-514 works by triggering apoptosis specifically in adipocytes (fat-storing cells) while leaving other cell types unaffected.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Participants with BMI of 22–30 kg/m² received injections of CBL-514 into the lower abdomen every three weeks for up to 12 weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Doses of CBL-514 up to 600 mg were used in the trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The number of injections depended on each participant's abdominal fat thickness.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Treatment with CBL-514 stopped once the fat layer fell below a specified threshold.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Participants' average ages ranged from 36.4 to 42.4 years across groups.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The CBL-514 group included 17 women and six men.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The placebo group included 10 women and eight men.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Before treatment, average visceral fat volume was 563.85 mL in the CBL-514 group and 659.81 mL in the placebo group.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Visceral fat lies deep within the abdominal cavity surrounding organs such as the liver and intestines.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Visceral fat is biologically active and can interfere with the body's ability to regulate blood sugar and metabolism.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Visceral fat contributes to insulin resistance, type 2 diabetes, and cardiometabolic conditions including heart attacks and strokes.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Professor W. Timothy Garvey of the University of Alabama at Birmingham analyzed the data with Yu-Fang Ling of Caliway Biopharmaceuticals.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Caliway Biopharmaceuticals is based in New Taipei City, Taiwan.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Professor W. Timothy Garvey stated that he expects patients will be pleased by the cosmetic effects, such as the flatter stomach that can come with subcutaneous fat loss, but the reduction in body weight, loss of visceral fat and improvements in blood pressure, cholesterol and the like that should be associated with this will be important for health.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Researchers reported evidence that CBL-514 could help prevent weight regain after patients stop taking GLP-1 receptor agonist medications such as Ozempic, Wegovy, Mounjaro, and Zepbound.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "In animal studies, combining CBL-514 with tirzepatide produced greater weight loss than tirzepatide alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Rats that received both CBL-514 and tirzepatide regained less weight after tirzepatide was withdrawn.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The hypothesis is that eliminating fat cells reduces the body's capacity to store fat again, potentially slowing re-accumulation.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The benefit of preventing weight regain with CBL-514 has so far been shown only in animals and needs confirmation in humans.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "The drug was generally well tolerated in the trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Most side effects were temporary injection-site reactions including pain, swelling, and redness, generally mild to moderate.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "No serious adverse events were reported in the trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Professor W. Timothy Garvey called CBL-514 'a highly innovative approach to obesity pharmacotherapy that has produced some remarkable results in early human trials.'",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Existing surgical options, including liposuction and abdominoplasty, primarily remove or reshape subcutaneous fat and are invasive.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Existing surgical options do not directly address visceral fat.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "CBL-514 could potentially offer a nonsurgical alternative targeting both types of abdominal fat.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Larger studies are still needed to establish effectiveness and safety of CBL-514.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Recruitment for the first of two phase 3 randomized, placebo-controlled trials of CBL-514 was underway at the time of the announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Initial results of the phase 3 trials were expected at the end of the year following the announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              },
+              {
+                "text": "Researchers will need to determine whether reducing fat cell numbers produces lasting improvements in weight management and metabolic health, particularly after patients stop taking GLP-1 medications.",
+                "status": "supported",
+                "source_ids": [
+                  "Research presented at the annual meeting of the European Association for the Study of Diabetes (EASD) in Milan, Italy, October 11, 2026"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-asahi-kasei-wins-fda-approval-for-novel-herpes-d",
+          "section": "health-science",
+          "headline": "Asahi Kasei wins FDA approval for novel oral herpes drug Hovilpri",
+          "beat_label": "FDA Approvals",
+          "byline": "Health & Science desk",
+          "body": [
+            "The U.S. Food and Drug Administration has approved Hovilpri (pritelivir), an oral antiviral drug from Asahi Kasei for the treatment of adults with mucocutaneous herpes simplex virus (HSV) lesions that do not respond to existing oral antivirals. The regulatory decision, announced late Friday, marks the first FDA-approved treatment for refractory mucocutaneous HSV with a novel mechanism of action in nearly 30 years, according to the company.",
+            "Hovilpri is a once-daily small molecule designed to inhibit a complex of enzymes key to the synthesis of viral DNA, giving patients an oral option with a different mechanism than standard therapies. The drug treats both HSV-1 and HSV-2. The approval is based on a Phase 3 study that showed statistically significant superiority in lesion healing up to day 28 compared with the physician’s choice of treatment. The most common adverse reaction reported was headache.",
+            "The approval is particularly relevant for immunocompromised adults – such as transplant recipients, people with HIV, cancer, or autoimmune disorders – who experience more frequent and severe HSV infections. While oral antivirals are standard, viral mutations can cause resistance. Alternative treatments exist but require intravenous dosing. Hovilpri offers a new oral option for these patients.",
+            "Hovilpri was originally developed by AiCuris Anti-Infective Cures, a German biopharmaceutical company that Asahi Kasei acquired in February for approximately €780 million (about $919 million). The acquisition also brought Asahi Kasei royalty income from Prevymis, a cytomegalovirus drug licensed to Merck, and an experimental antisense oligonucleotide in Phase 1 testing for BK virus infection in kidney transplant patients.",
+            "Stacy Wheeler, CEO of Asahi Kasei Therapeutics in the U.S. and Europe, said in a prepared statement: 'Today’s approval delivers the first FDA-approved treatment for refractory mucocutaneous HSV lesions with a novel mechanism of action in nearly 30 years and marks an important advancement for immunocompromised adults. Hovilpri offers a new oral treatment option for adult patients with a persistent, difficult-to-treat disease.' The company noted that these patients are commonly seen in transplant centers and specialized hospital settings where Asahi Kasei has established commercial relationships and infrastructure."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Pharma Letter",
+            "MedCity News"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Pharma Letter",
+              "url": "https://www.thepharmaletter.com/pharma-news/asahi-kasei-wins-fda-approval-for-hovilpri"
+            },
+            {
+              "outlet": "MedCity News",
+              "url": "https://medcitynews.com/2026/10/herpes-simplex-virus-antiviral-asahi-kasei-pritelivir-hovilpri-hsv/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The U.S. Food and Drug Administration has approved Hovilpri (pritelivir).",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri is an oral antiviral drug from Asahi Kasei.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri is approved for the treatment of adults with mucocutaneous herpes simplex virus (HSV) lesions that do not respond to existing oral antivirals.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The regulatory decision was announced late Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "According to the company, this approval is the first FDA-approved treatment for refractory mucocutaneous HSV with a novel mechanism of action in nearly 30 years.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri is a once-daily small molecule.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri is designed to inhibit a complex of enzymes key to the synthesis of viral DNA.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri provides an oral option with a different mechanism than standard therapies.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri treats both HSV-1 and HSV-2.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The approval is based on a Phase 3 study.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "That Phase 3 study showed statistically significant superiority in lesion healing up to day 28 compared with the physician’s choice of treatment.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The most common adverse reaction reported was headache.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Immunocompromised adults (such as transplant recipients, people with HIV, cancer, or autoimmune disorders) experience more frequent and severe HSV infections.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Viral mutations can cause resistance to oral antivirals.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Alternative treatments exist but require intravenous dosing.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri offers a new oral option for immunocompromised adults with refractory HSV.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Hovilpri was originally developed by AiCuris Anti-Infective Cures.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "AiCuris Anti-Infective Cures is a German biopharmaceutical company.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Asahi Kasei acquired AiCuris in February.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The acquisition price was approximately €780 million (about $919 million).",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The acquisition brought Asahi Kasei royalty income from Prevymis.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Prevymis is a cytomegalovirus drug licensed to Merck.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The acquisition also brought an experimental antisense oligonucleotide in Phase 1 testing for BK virus infection in kidney transplant patients.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Stacy Wheeler, CEO of Asahi Kasei Therapeutics in the U.S. and Europe, said in a prepared statement: \"Today’s approval delivers the first FDA-approved treatment for refractory mucocutaneous HSV lesions with a novel mechanism of action in nearly 30 years and marks an important advancement for immunocompromised adults. Hovilpri offers a new oral treatment option for adult patients with a persistent, difficult-to-treat disease.\"",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The company noted that these patients are commonly seen in transplant centers and specialized hospital settings.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Asahi Kasei has established commercial relationships and infrastructure in transplant centers and specialized hospital settings.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-meta-launches-muse-wonder-its-first-frontier-ai-",
+          "section": "tech-ai",
+          "headline": "Meta launches Muse Wonder, its first frontier AI models",
+          "beat_label": "AI",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Meta's Superintelligence Lab on Monday released its first frontier AI models, Muse Wonder and Muse Wonder Full. The models are available starting today to Muse Code subscribers, and Wonder can also be accessed through the Meta Model API at $4 per million input tokens and $20 per million output tokens.",
+            "Meta says the new models can rival the industry's best, pointing to internal testing on several benchmarks in which Wonder and Wonder Full achieved scores comparable to Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra. The company also positioned them against GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1. It remains unclear how the models stack up against Google's Gemini 4 Argon. Relative to the lightweight, low-latency Muse Spark, the Wonder models are larger and more capable, with higher benchmark scores and better results on complex tasks like coding.",
+            "Meta placed particular emphasis on 'active memory,' the models' ability to retain and synthesize information from users over long periods. According to the company's testing, Muse Wonder scores higher on MemoryBench, a benchmark that challenges continual learning and memory construction, than Fable, Opus, or Astra. 'We put a tremendous amount of effort into making sure your model can remember what's important to you over days, weeks, months, and beyond,' said research scientist Kavya Kopparapu in a video accompanying the launch.",
+            "Wonder Full will be available only to Muse Code subscribers and will not be served through the API. 'Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence,' Meta said in its blog post. Both models were trained at Meta's Prometheus data center in central Ohio, which came online earlier this year.",
+            "The release is Meta's first frontier-model launch since Scale AI founder Alexandr Wang restructured the company's AI efforts in August of last year. In that time Meta has shipped the lightweight Muse Spark model and its Muse AI agent but avoided the kind of state-of-the-art releases associated with OpenAI and Anthropic. The launch is part of Meta's aggressive push to reestablish itself as a major AI force, built on billions of dollars in talent and infrastructure, the image model Muse Image, and a focus on bringing AI agents to consumers through Muse.",
+            "Meta says it eventually plans to power its Muse agent with Wonder, starting with subscribers, and to develop specialized models it 'can bring to everyone using Muse,' though it has not shared specifics or a timeline. With the Wonder release, Meta is signaling it is making up for lost time in the race for frontier AI."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Meta's Superintelligence Lab released its first frontier AI models, Muse Wonder and Muse Wonder Full, on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Muse Wonder and Muse Wonder Full are available starting today to Muse Code subscribers.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Muse Wonder can be accessed through the Meta Model API at $4 per million input tokens and $20 per million output tokens.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta says the new models can rival the industry's best.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "Meta says internal testing on several benchmarks showed Wonder and Wonder Full achieved scores comparable to Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "Meta positioned the models against GPT-6 Astra, Claude Opus 5.5, and Claude Fable 5.1.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "It remains unclear how the models stack up against Google's Gemini 4 Argon.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Muse Spark is a lightweight, low-latency model.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The Wonder models are larger than Muse Spark.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The Wonder models are more capable than Muse Spark.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The Wonder models have higher benchmark scores than Muse Spark.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The Wonder models have better results on complex tasks like coding than Muse Spark.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta placed particular emphasis on 'active memory'.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "'Active memory' is the models' ability to retain and synthesize information from users over long periods.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "MemoryBench is a benchmark that challenges continual learning and memory construction.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "According to Meta's testing, Muse Wonder scores higher on MemoryBench than Fable, Opus, or Astra.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "Kavya Kopparapu is a research scientist.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Kavya Kopparapu said, \"We put a tremendous amount of effort into making sure your model can remember what's important to you over days, weeks, months, and beyond,\" in a video accompanying the launch.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta launch video"
+                ]
+              },
+              {
+                "text": "Wonder Full will be available only to Muse Code subscribers.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Wonder Full will not be served through the API.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta said in its blog post, \"Together, they mark the next step on our scaling ladder and a major leap toward personal superintelligence.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Meta blog post"
+                ]
+              },
+              {
+                "text": "Both Muse Wonder and Muse Wonder Full were trained at Meta's Prometheus data center in central Ohio.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta's Prometheus data center in central Ohio came online earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Alexandr Wang is the founder of Scale AI.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Alexandr Wang restructured Meta's AI efforts in August of last year.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The release is Meta's first frontier-model launch since Alexandr Wang restructured Meta's AI efforts in August of last year.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "In that time Meta has shipped the lightweight Muse Spark model.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "In that time Meta has shipped its Muse AI agent.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "In that time Meta avoided the kind of state-of-the-art releases associated with OpenAI and Anthropic.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "The launch is part of Meta's push to reestablish itself as a major AI force.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta's push is built on billions of dollars in talent and infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta's push is built on the image model Muse Image.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta's push is built on a focus on bringing AI agents to consumers through Muse.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              },
+              {
+                "text": "Meta says it eventually plans to power its Muse agent with Wonder, starting with subscribers.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "Meta says it plans to develop specialized models it can bring to everyone using Muse.",
+                "status": "supported",
+                "source_ids": [
+                  "Meta"
+                ]
+              },
+              {
+                "text": "Meta has not shared specifics or a timeline for those plans.",
+                "status": "supported",
+                "source_ids": [
+                  "this article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.78,
+          "image": {
+            "url": "static/img/2026-08-11/tech-ai-zuckerberg-publishes-ai-manifesto-releases-open.jpg",
+            "alt": "Facebook Offices Menlo Park California",
+            "credit": "Photo: Anthony Quintano from Honolulu, HI, United States / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1400,
+            "height": 750
+          }
+        },
+        {
+          "id": "tech-ai-microsoft-s-maia-300-chip-targets-nvidia-indepen",
+          "section": "tech-ai",
+          "headline": "Microsoft Unveils Maia 300 AI Chip, Targeting Reduced Reliance on Nvidia",
+          "beat_label": "AI Hardware",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Microsoft announced its third-generation in-house AI chip, the Maia 300, positioning it as the company's future primary AI inference system. The chip is designed to reduce Microsoft's reliance on GPUs from Nvidia and AMD by improving efficiency and handling the latest reasoning and agentic AI workloads. According to Scott Guthrie, executive vice president of Microsoft's cloud group, the company expects the Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems.",
+            "The Maia 300 is a successor to the Maia 200, which was announced in January and is already running production AI workloads across Microsoft's services, including Microsoft Copilot, GitHub Copilot, and Microsoft Foundry. The new chip will begin rolling out to production AI workloads in 2027. Microsoft plans to scale the Azure Maia family to multi-gigawatt deployments starting that year, making Maia the primary AI inference system for Microsoft's products and services, Guthrie said.",
+            "The efficiency gains in the Maia 300 come from a new chiplet architecture built on TSMC's N2P process node. The design separates compute, memory controller, and I/O functions, increasing the silicon area dedicated to compute performance and allowing each function to use the most suitable technology. In a full 96-accelerator configuration, the Maia 300 delivers up to 7x the rack-scale token throughput of the Maia 200, according to Microsoft.",
+            "Microsoft described the Maia 300 as a complete AI system designed for emerging AI workloads, including long-context reasoning, latency-sensitive conversational experiences, and sustained, multi-step agentic tasks. \"Maia 200 is the best performing AI infrastructure in our fleet, measured in real world metrics for AI services,\" Guthrie said. \"Maia 300 is a complete AI system designed for the new types of AI workloads emerging today.\"",
+            "The chip is also central to Microsoft's broader AI strategy, including its work on developing its own AI models to compete with Google DeepMind, OpenAI, and Anthropic. Mustafa Suleyman, CEO of Microsoft AI, stressed the importance of owning the full stack down to the silicon, saying, \"We have to work across the full stack, all the way down to the silicon. At that scale we need a platform that we own, and that we co-design with our models. That's why running our Microsoft AI models on top of the Maia chip is a critical focus for our team.\""
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Microsoft announced its third-generation in-house AI chip, the Maia 300.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft positions the Maia 300 as the company's future primary AI inference system.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300 is designed to reduce Microsoft's reliance on GPUs from Nvidia and AMD by improving efficiency.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300 is designed to handle the latest reasoning and agentic AI workloads.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Scott Guthrie is executive vice president of Microsoft's cloud group.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Scott Guthrie said Microsoft expects the Maia 300 to deliver 40 percent more tokens per megawatt compared to leading GPU-based systems.",
+                "status": "supported",
+                "source_ids": [
+                  "Scott Guthrie"
+                ]
+              },
+              {
+                "text": "The Maia 300 is a successor to the Maia 200.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 200 was announced in January.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 200 is running production AI workloads across Microsoft's services, including Microsoft Copilot, GitHub Copilot, and Microsoft Foundry.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300 will begin rolling out to production AI workloads in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Guthrie said Microsoft plans to scale the Azure Maia family to multi-gigawatt deployments starting in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Scott Guthrie"
+                ]
+              },
+              {
+                "text": "Guthrie said Microsoft plans to make Maia the primary AI inference system for Microsoft's products and services.",
+                "status": "supported",
+                "source_ids": [
+                  "Scott Guthrie"
+                ]
+              },
+              {
+                "text": "The efficiency gains in the Maia 300 come from a new chiplet architecture built on TSMC's N2P process node.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300's chiplet design separates compute, memory controller, and I/O functions.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300's chiplet design increases the silicon area dedicated to compute performance.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "The Maia 300's chiplet design allows each function to use the most suitable technology.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "In a full 96-accelerator configuration, the Maia 300 delivers up to 7x the rack-scale token throughput of the Maia 200, according to Microsoft.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft described the Maia 300 as a complete AI system designed for emerging AI workloads, including long-context reasoning, latency-sensitive conversational experiences, and sustained, multi-step agentic tasks.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Guthrie said Maia 200 is the best performing AI infrastructure in Microsoft's fleet, measured in real world metrics for AI services.",
+                "status": "supported",
+                "source_ids": [
+                  "Scott Guthrie"
+                ]
+              },
+              {
+                "text": "Guthrie said Maia 300 is a complete AI system designed for the new types of AI workloads emerging today.",
+                "status": "supported",
+                "source_ids": [
+                  "Scott Guthrie"
+                ]
+              },
+              {
+                "text": "The Maia 300 is central to Microsoft's broader AI strategy.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Microsoft is working on developing its own AI models to compete with Google DeepMind, OpenAI, and Anthropic.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Mustafa Suleyman is CEO of Microsoft AI.",
+                "status": "supported",
+                "source_ids": [
+                  "Microsoft"
+                ]
+              },
+              {
+                "text": "Mustafa Suleyman stressed the importance of owning the full stack down to the silicon.",
+                "status": "supported",
+                "source_ids": [
+                  "Mustafa Suleyman"
+                ]
+              },
+              {
+                "text": "Mustafa Suleyman said, 'We have to work across the full stack, all the way down to the silicon. At that scale we need a platform that we own, and that we co-design with our models. That's why running our Microsoft AI models on top of the Maia chip is a critical focus for our team.'",
+                "status": "supported",
+                "source_ids": [
+                  "Mustafa Suleyman"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "politics",
+      "story_id": "politics-federal-agents-raid-home-of-rep-ilhan-omar-amid-"
+    },
+    {
+      "section": "world",
+      "story_id": "world-us-threatens-to-cut-ukraine-aid-as-russia-strike"
+    },
+    {
+      "section": "tech-ai",
+      "story_id": "tech-ai-meta-launches-muse-wonder-its-first-frontier-ai-"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-bristol-myers-squibb-stock-surges-on-dual-phase-"
+    },
+    {
+      "section": "world",
+      "story_id": "world-saudi-arabia-vows-serious-response-after-deadly-"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Russia continues strikes on Ukrainian energy sites despite Trump's ceasefire announcement",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Elon Musk gives $276 million to Republican super PACs ahead of midterms",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Strait of Hormuz shipping risks mount after tanker attack",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "14-year-old pupil arrested after shooting teachers at French school",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "UK says RAF base incidents 'likely coordinated' by Iran, sanctions two",
+      "reason": "synthesis failed: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Hall and Woodford win Nobel economics prize for central bank models",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Retatrutide Achieves Nearly 19% Weight Loss in Phase 3 Trial for Obesity and Type 2 Diabetes",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "DeepMind's AlphaProof Nexus solves dozens of open math problems in peer-reviewed study",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
