@@ -1,0 +1,3562 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-15",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-15T14:19:25+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-judge-extends-block-on-trump-s-white-house-press",
+          "section": "politics",
+          "headline": "Judge extends block on Trump's White House press ban",
+          "beat_label": "White House",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "PBS",
+            "NBC News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/show/attorney-for-banned-outlets-on-legal-fight-over-white-house-press-access",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/politics/trump-administration/prewrite-not-pub-judge-extends-order-blocking-trump-white-house-media-rcna602264",
+              "lean": -0.3,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "President Trump announced on Sept. 18 via Truth Social that MS NOW, CNN and Politico would be banned from the White House, revoking their 'hard pass' credentials.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "U.S. District Judge Timothy Kelly, a Trump nominee, first issued a temporary restraining order blocking the ban.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "On Tuesday night, Judge Kelly issued a preliminary injunction extending that block, allowing the three outlets to retain access while the underlying lawsuit proceeds.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The preliminary injunction is not a final ruling; it preserves the outlets' access 'for the foreseeable future' pending further litigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Kelly found the outlets are likely to succeed on claims that the ban violated due process (no advance notice or opportunity to be heard) and the First Amendment (unlawful viewpoint discrimination and retaliation).",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Kelly wrote there is no evidence Trump cited national security as the reason for the ban at the time it was announced, calling later national-security justifications a 'post-hoc justification.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Department of Justice filed a notice of appeal on Wednesday to the U.S. Court of Appeals for the District of Columbia Circuit.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The lawsuit names as defendants President Trump, White House Chief of Staff Susie Wiles, Secret Service Director Sean Curran, and White House communications director Steven Cheung.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Ted Boutrous represents the three outlets.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A Reporters Committee for Freedom of the Press amicus brief supporting the outlets was signed by more than 70 news organizations, including PBS.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The White House Correspondents' Association's president, Jacqui Heinrich of Fox News, has also publicly advocated against the ban.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Courts have treated the White House press area as a 'nonpublic forum' that, once opened to credentialed press, cannot be restricted in ways that discriminate based on viewpoint or that strip access without notice or a hearing.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Judge Kelly's preliminary injunction found that the administration's national-security justifications for the ban were not supported by the record and that the real motivation was dissatisfaction with the outlets' coverage.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The DOJ has already moved to appeal to the D.C. Circuit.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The plaintiffs' attorney argued that the precedent at stake cuts both ways: if a president can strip press credentials from outlets based on disagreement with their coverage, a future administration of any political stripe could do the same to outlets it dislikes.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The plaintiffs' attorney said that argument is why press organizations across the political spectrum, including Fox News's White House Correspondents' Association president Jacqui Heinrich, joined in opposing the ban.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "With the DOJ appealing to the D.C. Circuit, the case will continue through the courts.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The preliminary injunction keeping the three outlets' access intact will remain in effect unless a higher court intervenes or the district court reaches a final decision.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "President Trump announced on Sept. 18 via Truth Social that MS NOW, CNN and Politico would be banned from the White House, revoking their 'hard pass' credentials.",
+              "U.S. District Judge Timothy Kelly, a Trump nominee, first issued a temporary restraining order blocking the ban, then on Tuesday night issued a preliminary injunction extending that block, allowing the three outlets to retain access while the underlying lawsuit proceeds.",
+              "The preliminary injunction is not a final ruling; it preserves the outlets' access 'for the foreseeable future' pending further litigation.",
+              "Kelly found the outlets are likely to succeed on claims that the ban violated due process (no advance notice or opportunity to be heard) and the First Amendment (unlawful viewpoint discrimination and retaliation).",
+              "Kelly wrote there is no evidence Trump cited national security as the reason for the ban at the time it was announced, calling later national-security justifications a 'post-hoc justification.'",
+              "The Department of Justice filed a notice of appeal on Wednesday to the U.S. Court of Appeals for the District of Columbia Circuit.",
+              "The lawsuit names as defendants President Trump, White House Chief of Staff Susie Wiles, Secret Service Director Sean Curran, and White House communications director Steven Cheung.",
+              "Ted Boutrous represents the three outlets; a Reporters Committee for Freedom of the Press amicus brief supporting them was signed by more than 70 news organizations, including PBS. The White House Correspondents' Association's president, Jacqui Heinrich of Fox News, has also publicly advocated against the ban."
+            ],
+            "analysis": "This dispute centers on the legal boundary between a president's discretion over White House access and constitutional limits on retaliating against journalists for their coverage. Courts have treated the White House press area as a 'nonpublic forum' that, once opened to credentialed press, cannot be restricted in ways that discriminate based on viewpoint or that strip access without notice or a hearing. Judge Kelly's preliminary injunction found that the administration's national-security justifications for the ban were not supported by the record and that the real motivation was dissatisfaction with the outlets' coverage. The case is far from over: it remains a preliminary ruling, and the DOJ has already moved to appeal to the D.C. Circuit, meaning the ultimate legal outcome is still undetermined.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "The plaintiffs' attorney argued that the precedent at stake cuts both ways: if a president can strip press credentials from outlets based on disagreement with their coverage, a future administration of any political stripe could do the same to outlets it dislikes—an argument he said is why press organizations across the political spectrum, including Fox News's White House Correspondents' Association president Jacqui Heinrich, joined in opposing the ban.",
+            "implications": "With the DOJ appealing to the D.C. Circuit, the case will continue through the courts, and the preliminary injunction keeping the three outlets' access intact will remain in effect unless a higher court intervenes or the district court reaches a final decision. The outcome could establish broader precedent for how much discretion any administration has to restrict White House press access based on the content or tone of coverage."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-shipping-disruption-in-strait-of-hormuz-threaten",
+          "section": "world",
+          "headline": "UN warns Hormuz shipping disruption threatens global food supply as two container ships sink",
+          "beat_label": "Strait of Hormuz",
+          "byline": "International & World desk · anchored on AP, Reuters",
+          "body": [
+            "Two container ships have sunk near the Strait of Hormuz after being struck by missiles, amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran. The disruption is threatening global food supplies, a senior United Nations official warned on Wednesday, saying parts of Asia and Africa could face a food security crisis unless Iran and the United States quickly agree to a UN-backed plan to move fertiliser through the embattled waterway.",
+            "The Singapore-flagged GFS Pride sank on Wednesday after an attack the previous day, followed hours later by the Antigua- and Barbuda-flagged Cape Dao, which had been hit by a projectile on 23 September, according to International Maritime Organization data. The GFS Pride was carrying 2,500 containers, Iran's state television said, showing the vessel tilted in the water and spewing smoke. Iran's Islamic Revolutionary Guard Corps (IRGC) said the ship had struck a naval mine while travelling on an \"illegal and dangerous route\" during an unauthorised passage, but UK Maritime Trade Operations (UKMTO) suggested both vessels had been hit by unidentified projectiles, raising questions over Tehran's account. UKMTO reported at least five incidents, including drone strikes, in the previous 48 hours, with six vessels attacked on Sunday alone, according to its monitoring. A Financial Times analysis counted 24 ships hit in the two weeks to 11 October, of which three were tankers carrying refined energy products and two were crude oil tankers. \"There is a tempo increase in strikes, which looks deliberate,\" one maritime security source said.",
+            "The increase in attacks suggests Iran is trying to fully close the strategic waterway to frustrate Donald Trump's efforts to bring down fuel prices before the US midterm elections on 3 November. Two Iranian officials said Iran had recently begun using new tactics against vessels it considers in violation of its restrictions, changing both the type and pace of attacks with the goal of influencing the outcome of the US vote. \"The aim is to frustrate efforts by the United States and its allies to bring down global oil prices,\" one of the officials told Reuters. US fuel prices have surged by almost 70% since Trump launched the war on Iran, and his administration has tried to deflect attention from the conflict's economic impact by blaming Ukraine's attacks on Russian refineries. Iran has repeatedly warned ships against transiting the strait without its approval, and the US military has been guiding vessels on a route nearer to Oman's coast. A US military official said that after the US destroyed much of Iran's radar capability, the IRGC began using unarmed spotters in small boats to identify targets, including American naval vessels; in a previously unreported incident, US forces confronted a dhow from which spotters were operating, told its occupants to abandon ship and destroyed it, with no casualties.",
+            "Traffic in the Strait of Hormuz has been severely disrupted since the war began, with Iran targeting vessels and the US and Iran exchanging fire in and around the waterway. The disruption has hit global supplies of urea, the world's most widely used nitrogen fertiliser, as well as seaborne sulphur, a key input. Before the war, roughly a third of global urea shipments and nearly half of seaborne sulphur passed through the strait. Although some ships have been able to sail through amid the crisis, fertiliser products have made up a \"very negligible\" share of moving cargo, according to the Washington-based International Food Policy Research Institute.",
+            "UN Under-Secretary-General Jorge Moreira da Silva said it was \"absolutely critical\" that Iran and the US agree within weeks to the UN-backed fertiliser plan, drawn up in March, as the planting season approaches. The proposal calls for a UN-staffed coordination centre in Oman to help register vessels and oversee their safe passage; UN monitors would work alongside local authorities at Gulf ports to verify cargo loading, ships would be tracked during transit, and additional inspections could be carried out if countries raised concerns about a vessel or its cargo. Speaking on the sidelines of the International Monetary Fund and World Bank meetings in Bangkok, Moreira da Silva said the mechanism could be activated within seven to 10 days of an agreement and that the passage of just five vessels per day could keep fertiliser supplies flowing to countries in critical need. \"If we miss that planting season, the productivity of agriculture would significantly drop and the impact on prices will significantly increase,\" he said, noting that farmers operate strict crop calendars and even slight delays can severely affect yield.",
+            "Iran and the US have exchanged proposals through intermediaries since a June interim ceasefire collapsed, and efforts to reopen the strait have stalled over Tehran's conditions and Washington's insistence on addressing Iran's nuclear programme from the outset. \"What we are telling them is, while you continue your discussions towards a comprehensive deal, let us work, let us do our job,\" Moreira da Silva said. In May, the UN's Food and Agriculture Organization warned that fertiliser scarcity could tighten food supplies from late 2026 into 2027 and would likely hit countries facing climate or other crises much harder. In South Asia, where most farmers rely on imported fertiliser, growers are already struggling with soaring costs and scarcity, and on Wednesday farmers in Spain took to the streets to protest rising production costs amid high oil and fertiliser prices."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Guardian",
+            "AP",
+            "Reuters",
+            "Al Jazeera"
+          ],
+          "anchored_on": [
+            "AP",
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/14/container-ship-sinks-strait-of-hormuz-surge-iranian-attacks-iran-us-midterm-elections",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/mideast-israel-palestinians-iran-october-14-2026-7e2c57a29fd5c3afc7ffe0cf63954bf3",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/failure-activate-hormuz-fertilizer-plan-could-trigger-food-crisis-un-official-2026-10-14/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/14/un-official-warns-of-looming-food-crisis-as-hormuz-fertiliser-plan-stalls"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Two container ships have sunk near the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The two container ships sank after being struck by missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The sinkings occurred amid the sharpest rise in Iranian attacks on shipping since the start of the US-Israel war with Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "A senior United Nations official warned on Wednesday that the disruption is threatening global food supplies.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The UN official said parts of Asia and Africa could face a food security crisis unless Iran and the United States quickly agree to a UN-backed plan to move fertiliser through the waterway.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The GFS Pride was Singapore-flagged.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The GFS Pride sank on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The GFS Pride sank after an attack the previous day.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The Cape Dao was Antigua- and Barbuda-flagged.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The Cape Dao sank hours later.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The Cape Dao had been hit by a projectile on 23 September.",
+                "status": "supported",
+                "source_ids": [
+                  "International Maritime Organization"
+                ]
+              },
+              {
+                "text": "The GFS Pride was carrying 2,500 containers.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran's state television"
+                ]
+              },
+              {
+                "text": "Iran's state television showed the vessel tilted in the water and spewing smoke.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran's state television"
+                ]
+              },
+              {
+                "text": "The IRGC said the ship had struck a naval mine.",
+                "status": "supported",
+                "source_ids": [
+                  "Islamic Revolutionary Guard Corps"
+                ]
+              },
+              {
+                "text": "The IRGC said the ship was travelling on an \"illegal and dangerous route\" during an unauthorised passage.",
+                "status": "supported",
+                "source_ids": [
+                  "Islamic Revolutionary Guard Corps"
+                ]
+              },
+              {
+                "text": "UKMTO suggested both vessels had been hit by unidentified projectiles.",
+                "status": "supported",
+                "source_ids": [
+                  "UK Maritime Trade Operations"
+                ]
+              },
+              {
+                "text": "The UKMTO's suggestion raised questions over Tehran's account.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "UKMTO reported at least five incidents, including drone strikes, in the previous 48 hours.",
+                "status": "supported",
+                "source_ids": [
+                  "UK Maritime Trade Operations"
+                ]
+              },
+              {
+                "text": "UKMTO reported six vessels attacked on Sunday alone.",
+                "status": "supported",
+                "source_ids": [
+                  "UK Maritime Trade Operations"
+                ]
+              },
+              {
+                "text": "A Financial Times analysis counted 24 ships hit in the two weeks to 11 October.",
+                "status": "supported",
+                "source_ids": [
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Of the 24 ships counted, three were tankers carrying refined energy products.",
+                "status": "supported",
+                "source_ids": [
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Of the 24 ships counted, two were crude oil tankers.",
+                "status": "supported",
+                "source_ids": [
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "One maritime security source said there is a tempo increase in strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "maritime security source"
+                ]
+              },
+              {
+                "text": "The maritime security source said the increase looks deliberate.",
+                "status": "supported",
+                "source_ids": [
+                  "maritime security source"
+                ]
+              },
+              {
+                "text": "The increase in attacks suggests Iran is trying to fully close the strategic waterway.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The increase in attacks suggests Iran is trying to frustrate Donald Trump's efforts to bring down fuel prices before the US midterm elections on 3 November.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Two Iranian officials said Iran had recently begun using new tactics against vessels it considers in violation of its restrictions.",
+                "status": "supported",
+                "source_ids": [
+                  "Iranian officials"
+                ]
+              },
+              {
+                "text": "The Iranian officials said the new tactics change both the type and pace of attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Iranian officials"
+                ]
+              },
+              {
+                "text": "The Iranian officials said the goal of the new tactics is to influence the outcome of the US vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Iranian officials"
+                ]
+              },
+              {
+                "text": "One of the officials told Reuters that the aim is to frustrate efforts by the United States and its allies to bring down global oil prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "US fuel prices have surged by almost 70% since Trump launched the war on Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Trump's administration has tried to deflect attention from the conflict's economic impact by blaming Ukraine's attacks on Russian refineries.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Iran has repeatedly warned ships against transiting the strait without its approval.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The US military has been guiding vessels on a route nearer to Oman's coast.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "A US military official said that after the US destroyed much of Iran's radar capability, the IRGC began using unarmed spotters in small boats.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "A US military official said the spotters were used to identify targets, including American naval vessels.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "In a previously unreported incident, US forces confronted a dhow from which spotters were operating.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "US forces told the occupants of the dhow to abandon ship.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "US forces destroyed the dhow.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "There were no casualties in the incident.",
+                "status": "supported",
+                "source_ids": [
+                  "US military official"
+                ]
+              },
+              {
+                "text": "Traffic in the Strait of Hormuz has been severely disrupted since the war began.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Iran has been targeting vessels in and around the waterway.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The US and Iran have exchanged fire in and around the waterway.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The disruption has hit global supplies of urea.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Urea is the world's most widely used nitrogen fertiliser.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The disruption has hit global supplies of seaborne sulphur.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Sulphur is a key input.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Before the war, roughly a third of global urea shipments passed through the strait.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Before the war, nearly half of seaborne sulphur passed through the strait.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Some ships have been able to sail through amid the crisis.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Fertiliser products have made up a \"very negligible\" share of moving cargo.",
+                "status": "supported",
+                "source_ids": [
+                  "International Food Policy Research Institute"
+                ]
+              },
+              {
+                "text": "UN Under-Secretary-General Jorge Moreira da Silva said it was \"absolutely critical\" that Iran and the US agree within weeks to the UN-backed fertiliser plan.",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "The UN-backed fertiliser plan was drawn up in March.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The agreement is needed as the planting season approaches.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The proposal calls for a UN-staffed coordination centre in Oman to help register vessels and oversee their safe passage.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The proposal calls for UN monitors to work alongside local authorities at Gulf ports to verify cargo loading.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The proposal calls for ships to be tracked during transit.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The proposal calls for additional inspections if countries raised concerns about a vessel or its cargo.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Moreira da Silva spoke on the sidelines of the International Monetary Fund and World Bank meetings in Bangkok.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Moreira da Silva said the mechanism could be activated within seven to 10 days of an agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "Moreira da Silva said the passage of just five vessels per day could keep fertiliser supplies flowing to countries in critical need.",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "Moreira da Silva said: \"If we miss that planting season, the productivity of agriculture would significantly drop and the impact on prices will significantly increase.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "Moreira da Silva noted that farmers operate strict crop calendars and even slight delays can severely affect yield.",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "Iran and the US have exchanged proposals through intermediaries since a June interim ceasefire collapsed.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Efforts to reopen the strait have stalled over Tehran's conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Efforts to reopen the strait have stalled over Washington's insistence on addressing Iran's nuclear programme from the outset.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Moreira da Silva said: \"What we are telling them is, while you continue your discussions towards a comprehensive deal, let us work, let us do our job.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Jorge Moreira da Silva"
+                ]
+              },
+              {
+                "text": "In May, the UN's Food and Agriculture Organization warned that fertiliser scarcity could tighten food supplies from late 2026 into 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Food and Agriculture Organization"
+                ]
+              },
+              {
+                "text": "The FAO warned that the tightening would likely hit countries facing climate or other crises much harder.",
+                "status": "supported",
+                "source_ids": [
+                  "Food and Agriculture Organization"
+                ]
+              },
+              {
+                "text": "In South Asia, most farmers rely on imported fertiliser.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "Growers in South Asia are already struggling with soaring costs and scarcity.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "On Wednesday, farmers in Spain took to the streets to protest rising production costs.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              },
+              {
+                "text": "The protest in Spain was amid high oil and fertiliser prices.",
+                "status": "supported",
+                "source_ids": [
+                  "This article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75,
+          "significance": 0.8,
+          "image": {
+            "url": "static/img/2026-10-15/world-shipping-disruption-in-strait-of-hormuz-threaten.jpg",
+            "alt": "Photograph of Strait of Hormuz with container ships",
+            "credit": "Photo: MC2 Indra Beaufort / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 611
+          }
+        },
+        {
+          "id": "world-houthis-step-up-attacks-on-saudi-arabia-as-yemen",
+          "section": "world",
+          "headline": "Houthi attacks on Saudi Arabia escalate as Yemen fighting intensifies",
+          "beat_label": "Yemen War",
+          "byline": "International & World desk",
+          "body": [
+            "Forces aligned with Yemen’s government on Thursday said they had intercepted a drone headed toward Medina and a missile fired toward Riyadh, the latest in a surge of Houthi attacks on Saudi infrastructure. The attacks come amid an escalation in fighting along Yemen’s western Red Sea coast, where Saudi-backed government forces are battling the Iran-aligned Houthi group.",
+            "The Houthis, also known as Ansar Allah, have in recent days struck key Saudi sites. On Wednesday, a Houthi spokesman said the group had conducted “a high-quality military operation targeting Aramco in Dhahran,” as well as strikes on Riyadh’s King Khalid International Airport and a refinery in the capital. A Saudi Ministry of Energy official confirmed a building belonging to Aramco in Dhahran was hit, causing a “limited fire” but no casualties. Houthi attacks on Riyadh airport over the weekend killed 14 people and wounded more than 300; authorities said the airport would remain shut at least until Saturday as airlines cancelled flights. Attacks on Abha International Airport in southern Saudi Arabia killed two people.",
+            "Fighting on the ground in Yemen has also intensified. Yemeni government forces launched a counteroffensive called “Dawn of Yemen” to retake coastal territory seized by the Houthis near the Bab al-Mandeb strait, a vital maritime chokepoint. A government spokesperson said forces had carried out 2,309 “targeting operations” using combat aircraft, drones, artillery and rocket launchers, destroying 460 Houthi military vehicles. Government forces said they had retaken areas in Taiz governorate and repelled a large Houthi attack west of Taiz city, which remains under siege. The Houthi siege has caused severe shortages of fuel, gas and supplies; the UN World Food Programme reported that wheat flour stocks were nearly exhausted. The Red Cross said front-line hospitals in Marib, Taiz and along the Red Sea coast were registering unprecedented numbers of weapon-wounded patients, with some facilities admitting more than 700 casualties in a single week.",
+            "The Saudi-led coalition launched strikes on the Houthi-held capital, Sanaa, which the group seized in 2014. A 2022 ceasefire has broken down in recent months. Al Jazeera’s correspondent in Sanaa described the war as a tit-for-tat exchange of blows, with the Houthis seeking “air strike for air strike, capital for capital, airport for airport, and energy facility for energy facility.” Saudi Arabia “has much more to lose” from disruptions to air traffic, as Sanaa airport has been closed for years. The Houthis also signaled that the kingdom will face mounting economic costs: earlier this year they began striking Saudi-linked shipping near the Bab al-Mandeb strait, a route on which Saudi Arabia increasingly relies for oil exports since Iran closed the Strait of Hormuz in March.",
+            "The escalation has already disrupted major events. The Six Kings Slam tennis tournament in Riyadh, originally scheduled for next week, was pushed to December. Australia’s football team said it was monitoring the situation, and the Korea Professional Footballers Association expressed “serious concern regarding the safety of all players participating in the Asian Cup.” The Asian Football Confederation president said the 2027 Asian Cup, scheduled to begin January 7 in Jeddah, Riyadh and al-Khobar, could be postponed by a year if needed, but organizers are in “no hurry” to decide. A decision is possible by the end of November, with the AFC president noting that “things can change very quickly.”"
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "The National",
+            "The Hill"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss"
+            },
+            {
+              "outlet": "The National",
+              "url": "https://www.thenationalnews.com/news/mena/2026/10/15/live-saudi-arabia-drone-houthis-yemen/"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/ap/ap-international/ap-saudi-arabia-says-it-thwarted-a-missile-strike-on-medina-and-other-middle-east-developments/",
+              "lean": 0.0,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Forces aligned with Yemen’s government on Thursday said they had intercepted a drone headed toward Medina.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Forces aligned with Yemen’s government on Thursday said they had intercepted a missile fired toward Riyadh.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The interception was the latest in a surge of Houthi attacks on Saudi infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "There is an escalation in fighting along Yemen’s western Red Sea coast.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Saudi-backed government forces are battling the Iran-aligned Houthi group along Yemen’s western Red Sea coast.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Houthis have in recent days struck key Saudi sites.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "On Wednesday, a Houthi spokesman said the group had conducted a military operation targeting Aramco in Dhahran.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "On Wednesday, a Houthi spokesman said the group had conducted strikes on Riyadh’s King Khalid International Airport.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "On Wednesday, a Houthi spokesman said the group had conducted strikes on a refinery in the capital.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "A Saudi Ministry of Energy official confirmed a building belonging to Aramco in Dhahran was hit.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The official said the hit caused a limited fire but no casualties.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Houthi attacks on Riyadh airport over the weekend killed 14 people.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Houthi attacks on Riyadh airport over the weekend wounded more than 300 people.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Authorities said the airport would remain shut at least until Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Airlines cancelled flights due to the shutdown of Riyadh airport.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Attacks on Abha International Airport in southern Saudi Arabia killed two people.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Fighting on the ground in Yemen has intensified.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Yemeni government forces launched a counteroffensive called Dawn of Yemen.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The counteroffensive aims to retake coastal territory seized by the Houthis near the Bab al-Mandeb strait.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Bab al-Mandeb strait is a vital maritime chokepoint.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "A government spokesperson said forces had carried out 2,309 targeting operations.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The operations used combat aircraft, drones, artillery and rocket launchers.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The operations destroyed 460 Houthi military vehicles.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Government forces said they had retaken areas in Taiz governorate.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Government forces said they repelled a large Houthi attack west of Taiz city.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Taiz city remains under siege.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Houthi siege has caused severe shortages of fuel, gas and supplies.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The UN World Food Programme reported that wheat flour stocks were nearly exhausted.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Red Cross said front-line hospitals in Marib, Taiz and along the Red Sea coast were registering unprecedented numbers of weapon-wounded patients.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Some facilities admitted more than 700 casualties in a single week.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition launched strikes on the Houthi-held capital, Sanaa.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Houthis seized Sanaa in 2014.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "A 2022 ceasefire has broken down in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Al Jazeera’s correspondent in Sanaa described the war as a tit-for-tat exchange of blows.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The correspondent said the Houthis seek air strike for air strike, capital for capital, airport for airport, and energy facility for energy facility.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The correspondent said Saudi Arabia has much more to lose from disruptions to air traffic.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Sanaa airport has been closed for years.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Houthis signaled that the kingdom will face mounting economic costs.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Earlier this year, the Houthis began striking Saudi-linked shipping near the Bab al-Mandeb strait.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Saudi Arabia increasingly relies on the Bab al-Mandeb route for oil exports since Iran closed the Strait of Hormuz in March.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Iran closed the Strait of Hormuz in March.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The escalation has already disrupted major events.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Six Kings Slam tennis tournament in Riyadh was originally scheduled for next week.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The tournament was pushed to December.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Australia’s football team said it was monitoring the situation.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Korea Professional Footballers Association expressed serious concern regarding the safety of all players participating in the Asian Cup.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The Asian Football Confederation president said the 2027 Asian Cup is scheduled to begin January 7 in Jeddah, Riyadh and al-Khobar.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The president said it could be postponed by a year if needed.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The president said organizers are in no hurry to decide.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "A decision is possible by the end of November.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The AFC president noted that things can change very quickly.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-ai-driven-tech-sell-off-deepens-as-inflation-fea",
+          "section": "markets",
+          "headline": "AI-Driven Tech Sell-Off Deepens Globally as Inflation and Debt Fears Rattle Markets",
+          "beat_label": "Markets",
+          "byline": "Financial & Markets desk · anchored on Reuters, AP",
+          "body": [
+            "Technology stocks tumbled for a second consecutive day on Thursday, as hotter-than-expected inflation data and mounting concerns about debt-heavy artificial intelligence companies drove a global sell-off. The Nasdaq Composite fell 1.2% in early trading after posting a 1.88% decline on Wednesday, its worst daily drop since July. The S&P 500 slipped 0.4%, while the Dow Jones Industrial Average edged higher, supported by gains in healthcare stocks such as UnitedHealth and Amgen.",
+            "Investors reacted to September inflation figures that came in above expectations. The consumer price index rose 0.6% month over month and 3.7% year over year, compared with the 3.6% annual gain economists had anticipated. Core CPI, excluding food and energy, increased 0.3% monthly and 2.6% annually, also slightly above forecasts. A separate report showed wholesale inflation surged to its highest level in more than four years. “This puts the Federal Reserve very much in play for December,” said Philip Blancato, chief market strategist at Osaic. U.S. oil prices rose, with West Texas Intermediate settling at $95.09 per barrel.",
+            "The sell-off was led by semiconductor and AI-related names. Nvidia shares fell 2%, bringing their decline from a record high earlier this month to 10%. Advanced Micro Devices dropped 4%, Sandisk tumbled 6%, and Micron Technology sank 4%. TSMC, the world's largest contract chipmaker, fell 2% despite reporting record profit, after its CEO cautioned about rising component prices and macroeconomic uncertainty. CoreWeave, a data-center provider backed by Nvidia, lost as much as 7% on Thursday, extending a 15.5% plunge the prior day, as analysts scrutinized its tens of billions of dollars in debt amid rising interest rates.",
+            "Concerns extended beyond individual stocks to the broader AI ecosystem. Reports indicated that Anthropic, the AI startup planning an IPO, told investors its sales grew 45% to $17 billion last quarter—a sharp deceleration from more than 100% growth in the second quarter. The slowdown, combined with competitive pressure from Chinese chipmaker CXMT’s progress on advanced memory chips, fueled doubts about the sustainability of the AI buildout. The sell-off cascaded across global markets: South Korea’s Kospi plunged 7.6%, triggering a circuit breaker, with SK Hynix down 11% and Samsung Electronics down 9.5%. Japan’s Nikkei fell 4.9%, Hong Kong’s Hang Seng dropped 1%, and European technology stocks lost 3%, led by a 5% decline in Dutch semiconductor maker ASML.",
+            "Investor unease has been amplified by the heavy debt loads carried by so-called neocloud providers, which borrow aggressively to build data centers. Research firm Gartner forecast Wednesday that over 80% of such providers will cease operations by 2030, citing high costs and lack of unique business models. “Worries about the AI buildout, bubbly valuations, lower-than-expected earnings growth at leading US frontier labs, Chinese competition, inflation and rates sent investors running for the covers,” said Neil Wilson, a strategist at Saxo. Treasury bonds rallied, pushing yields lower, as investors sought safety.",
+            "The selling pressure comes ahead of the US midterm elections, adding another layer of uncertainty for AI stocks that have seen volatile valuations all year. Jefferies chief European economist Mohit Kumar noted that the US is spending more on AI as a percentage of GDP than it did on building railways in the 1800s, but cautioned that a potential Democratic win in Congress could be negative for the sector. “We expect the earnings season to justify that earnings and demand remain robust,” Kumar said, but recommended taking some profits before the midterms. The Federal Reserve’s next policy meeting in December now looms large, with inflation data keeping the possibility of further rate hikes on the table."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "CNBC",
+            "Investor's Business Daily",
+            "WSJ",
+            "Yahoo Finance",
+            "CNN",
+            "Reuters",
+            "Bloomberg",
+            "AP"
+          ],
+          "anchored_on": [
+            "Reuters",
+            "AP"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/micron-nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai-fears-swell-4e0dc989?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html"
+            },
+            {
+              "outlet": "Investor's Business Daily",
+              "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-amd-micron-ai-fears/"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-10-14-2026",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-amid-concerns-over-ai-financing-134237567.html"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/15/business/tech-selloff-nasdaq-ai-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-10-15/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/stock-markets-kospi-tech-shares-e889ad7dee2b7dd959f1b8bc87366914",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Technology stocks tumbled for a second consecutive day on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Nasdaq Composite fell 1.2% in early trading on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Nasdaq Composite posted a 1.88% decline on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Nasdaq Composite's 1.88% decline on Wednesday was its worst daily drop since July.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The S&P 500 slipped 0.4% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Dow Jones Industrial Average edged higher on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Dow Jones Industrial Average was supported by gains in healthcare stocks such as UnitedHealth and Amgen.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "September inflation figures came in above expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The consumer price index rose 0.6% month over month in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The consumer price index rose 3.7% year over year in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Economists had anticipated a 3.6% annual gain in the consumer price index.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Core CPI, excluding food and energy, increased 0.3% monthly in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Core CPI, excluding food and energy, increased 2.6% annually in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Core CPI figures were slightly above forecasts.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A separate report showed wholesale inflation surged to its highest level in more than four years.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Philip Blancato is chief market strategist at Osaic.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Philip Blancato said, 'This puts the Federal Reserve very much in play for December.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "U.S. oil prices rose.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "West Texas Intermediate settled at $95.09 per barrel.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The sell-off was led by semiconductor and AI-related names.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia shares fell 2% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's decline from a record high earlier this month is 10%.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Advanced Micro Devices dropped 4% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sandisk tumbled 6% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Micron Technology sank 4% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "TSMC fell 2% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "TSMC reported record profit.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "TSMC's CEO cautioned about rising component prices and macroeconomic uncertainty.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "CoreWeave is a data-center provider backed by Nvidia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "CoreWeave lost as much as 7% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "CoreWeave extended a 15.5% plunge the prior day.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Analysts scrutinized CoreWeave's tens of billions of dollars in debt amid rising interest rates.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic is an AI startup planning an IPO.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Reports indicated that Anthropic told investors its sales grew 45% to $17 billion last quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's 45% sales growth was a sharp deceleration from more than 100% growth in the second quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chinese chipmaker CXMT is making progress on advanced memory chips.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "South Korea’s Kospi plunged 7.6% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Kospi's 7.6% plunge triggered a circuit breaker.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "SK Hynix was down 11% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Samsung Electronics was down 9.5% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Japan’s Nikkei fell 4.9% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hong Kong’s Hang Seng dropped 1% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "European technology stocks lost 3% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dutch semiconductor maker ASML declined 5% on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Research firm Gartner forecast on Wednesday that over 80% of neocloud providers will cease operations by 2030.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gartner cited high costs and lack of unique business models for its forecast.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Neil Wilson is a strategist at Saxo.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Neil Wilson said, 'Worries about the AI buildout, bubbly valuations, lower-than-expected earnings growth at leading US frontier labs, Chinese competition, inflation and rates sent investors running for the covers.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Treasury bonds rallied, pushing yields lower.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The selling pressure comes ahead of the US midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jefferies chief European economist Mohit Kumar noted that the US is spending more on AI as a percentage of GDP than it did on building railways in the 1800s.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mohit Kumar cautioned that a potential Democratic win in Congress could be negative for the AI sector.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mohit Kumar said, 'We expect the earnings season to justify that earnings and demand remain robust.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mohit Kumar recommended taking some profits before the midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Federal Reserve’s next policy meeting is in December.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Inflation data keeps the possibility of further rate hikes on the table.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "markets-wholesale-prices-jump-6-3-in-september-reinforci",
+          "section": "markets",
+          "headline": "Wholesale prices jump 6.3% in September, reinforcing Fed rate-hike expectations",
+          "beat_label": "Central Banks",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Wholesale prices jumped 6.3% in September from a year earlier, the largest annual gain since December 2022, the Bureau of Labor Statistics reported Thursday. The producer price index rose 1.3% on the month, also the biggest monthly increase since March 2022, and both readings were well above the 0.6% monthly and 5.5% annual advances economists surveyed by Dow Jones had forecast. Energy was the primary driver, with the Middle East conflict curtailing oil supply and sending prices higher; the BLS said nearly half of September's increase in processed goods for immediate demand was tied to rising diesel fuel prices. Excluding volatile food and energy, core PPI rose 0.7% on the month and 5% over 12 months.",
+            "The wholesale inflation data landed a day after the consumer price index showed September prices rose 0.6% from August and 3.7% on a 12-month basis, versus forecasts of 0.6% and 3.6%. Core CPI, stripping out food and energy, increased 0.3% for the month and 2.6% from a year ago, also hotter than the 0.2% and 2.5% expected. Surging energy costs were again the main culprit: the energy index jumped 5.2% as tensions continued in the U.S. war with Iran launched in late February, gasoline prices soared 9.1% and accounted for about half of the headline gain, and over the past year gasoline has risen 34.2% while fuel oil has climbed 74.2%. Food prices were flat on the month and up 2.5% from a year earlier, while shelter rose 0.4%, used car and truck prices jumped 0.7%, and apparel increased 0.3%, up 3.4% annually.",
+            "The reports underscore how entrenched above-target inflation has become. CPI has now registered about 65 months — more than five years — of consecutive annual readings above the Fed's 2% goal, the longest streak of the 21st century, according to a CNBC analysis of BLS data, with only two longer stretches since the late 1940s. Since inflation began running above 2% in early 2021, the average monthly CPI reading has been about 4.5%; the last time a streak had a mean that high ended in the 1980s.",
+            "Federal Reserve officials are watching for signs that high prices are becoming a self-fulfilling reality. Cleveland Fed President Beth Hammack said in a social media post last week that consumers are \"starting to accept high inflation as just a fact of life. That's concerning.\" At a gathering of economists this week, Hammack said she does not take anchored long-run expectations \"for granted\" and warned that the risk of an \"inflationary mindset\" grows with each hot month. Minneapolis Fed President Neel Kashkari said a labor union leader told him inflation was \"worse\" than a recession for members, a conversation that shaped his view of the Fed's dual mandate. \"Inflation expectations have to be anchored for monetary policy to affect the economy in an effective and predictable manner,\" said Gary Richardson, an economist and former Fed historian, calling that the number-one goal of any central bank.",
+            "The data has shifted expectations for Fed policy. According to CME's FedWatch tool, traders priced in a nearly 34% likelihood that the Fed raises borrowing costs at its Oct. 27-28 meeting, up from under 18% a week earlier, and about 90% expect at least one hike by the end of the year. In reaction to Wednesday's CPI release, futures traders put the odds of an October hike at about 54%, with better than 96% odds of a hike before year-end and a near 50-50 chance of a half-point increase by December. That CPI report was the final one FOMC officials will receive before their meeting. \"With a second day in a row of higher-than-expected inflation numbers, it seems the Fed will have no choice but to raise rates again this year,\" said Chris Zaccarelli, investing chief at Northlight Asset Management. Economists widely view rate hikes as the Fed's main tool to cool demand and slow price growth.",
+            "Consumers are already feeling the strain. Retail sales grew 0.8% in September, beating the 0.4% expected but slowing from more than 1% in August; excluding autos and gas stations, retail sales rose just 0.25%, a sharp drop from roughly 1.1% prior, suggesting fuel costs are causing households to pull back elsewhere. The University of Michigan's consumer sentiment survey fell to its lowest levels on record earlier this year, and the share of respondents blaming high prices for worse personal finances surpassed 50% for the first time on record in 2026. Survey director Joanne Hsu said high prices are \"dominating consumer thinking,\" and that consumers \"still consider it an unacceptable fact of life.\" Olena Nicks, an analyst and local lawmaker in Long Island, New York, said she has cut back on restaurant meals and cheaper social outings like bowling: \"Frustrated is an understatement. It feels like you're stuck.\" The reports come ahead of next month's midterm elections, with voters angered by the cost of living potentially shifting control in Washington away from Republicans and President Donald Trump."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "Reuters",
+            "MarketWatch",
+            "The Hill"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/finance/feds-daly-says-rate-hikes-likely-needed-not-urgently-2026-10-14/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/heres-what-the-fed-might-do-at-this-months-meeting-after-todays-hot-inflation-reading-087511b6"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/business/6148963-september-cpi-data-fed-rate-pressure/",
+              "lean": 0.0,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Wholesale prices rose 6.3% in September from a year earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The 6.3% annual wholesale price gain was the largest since December 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The Bureau of Labor Statistics reported the wholesale price data on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The producer price index rose 1.3% on the month.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The 1.3% monthly PPI increase was the biggest since March 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Economists surveyed by Dow Jones had forecast a 0.6% monthly PPI increase.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Dow Jones"
+                ]
+              },
+              {
+                "text": "Economists surveyed by Dow Jones had forecast a 5.5% annual PPI increase.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Dow Jones"
+                ]
+              },
+              {
+                "text": "The actual monthly and annual wholesale inflation readings were above the Dow Jones survey forecasts.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Energy was the primary driver of the September wholesale price increase.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The Middle East conflict curtailed oil supply.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The Middle East conflict sent oil prices higher.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The BLS said nearly half of September's increase in processed goods for immediate demand was tied to rising diesel fuel prices.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Excluding volatile food and energy, core PPI rose 0.7% on the month in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Core PPI rose 5% over the 12 months through September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The consumer price index report was released on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The wholesale inflation data was released one day after the consumer price index report.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The September CPI rose 0.6% from August.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The September CPI rose 3.7% on a 12-month basis.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Forecasts for CPI were 0.6% monthly and 3.6% annual.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Core CPI increased 0.3% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Core CPI increased 2.6% from a year ago in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The 0.3% monthly core CPI increase was above the 0.2% expected.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The 2.6% annual core CPI increase was above the 2.5% expected.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Surging energy costs were the main culprit in the September CPI increase.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The energy index jumped 5.2% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The U.S. war with Iran was launched in late February.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Tensions continued in the U.S. war with Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Gasoline prices rose 9.1% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Gasoline accounted for about half of the headline CPI gain in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Over the past year, gasoline prices have risen 34.2%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Over the past year, fuel oil prices have climbed 74.2%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Food prices were flat on the month in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Food prices were up 2.5% from a year earlier in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Shelter prices rose 0.4% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Used car and truck prices rose 0.7% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Apparel prices increased 0.3% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Apparel prices were up 3.4% annually in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "CPI has registered about 65 months of consecutive annual readings above the Fed's 2% goal.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The streak of above-2% CPI readings is more than five years long.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The streak is the longest of the 21st century.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "There have been only two longer stretches since the late 1940s.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Since inflation began running above 2% in early 2021, the average monthly CPI reading has been about 4.5%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The last time a streak had a mean that high ended in the 1980s.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Federal Reserve officials are watching for signs that high prices are becoming a self-fulfilling reality.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Cleveland Fed President Beth Hammack said in a social media post last week that consumers are \"starting to accept high inflation as just a fact of life. That's concerning.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "At a gathering of economists this week, Cleveland Fed President Beth Hammack said she does not take anchored long-run expectations \"for granted.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Hammack warned that the risk of an \"inflationary mindset\" grows with each hot month.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Minneapolis Fed President Neel Kashkari said a labor union leader told him inflation was \"worse\" than a recession for members.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The conversation with the labor union leader shaped Kashkari's view of the Fed's dual mandate.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Gary Richardson, an economist and former Fed historian, said inflation expectations have to be anchored for monetary policy to affect the economy in an effective and predictable manner.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Gary Richardson called anchoring inflation expectations the number-one goal of any central bank.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The data has shifted expectations for Fed policy.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "According to CME's FedWatch tool, traders priced in a nearly 34% likelihood that the Fed raises borrowing costs at its Oct. 27-28 meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "The 34% October-hike likelihood was up from under 18% a week earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "About 90% of traders expect at least one Fed rate hike by the end of the year.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "In reaction to Wednesday's CPI release, futures traders put the odds of an October Fed hike at about 54%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "Futures traders put better than 96% odds of a Fed hike before year-end.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "Futures traders put a near 50-50 chance of a half-point Fed rate increase by December.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "The Wednesday CPI report was the final one FOMC officials will receive before their meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Chris Zaccarelli, investing chief at Northlight Asset Management, said: \"With a second day in a row of higher-than-expected inflation numbers, it seems the Fed will have no choice but to raise rates again this year.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Economists widely view rate hikes as the Fed's main tool to cool demand and slow price growth.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Retail sales grew 0.8% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The 0.8% retail sales gain was above the 0.4% expected.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Retail sales growth slowed from more than 1% in August.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Excluding autos and gas stations, retail sales rose 0.25% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The prior month's retail sales gain excluding autos and gas stations was roughly 1.1%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The retail sales data suggested that fuel costs are causing households to pull back elsewhere.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The University of Michigan's consumer sentiment survey fell to its lowest levels on record earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "University of Michigan"
+                ]
+              },
+              {
+                "text": "The share of respondents blaming high prices for worse personal finances surpassed 50% for the first time on record in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "University of Michigan"
+                ]
+              },
+              {
+                "text": "University of Michigan survey director Joanne Hsu said high prices are \"dominating consumer thinking.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "University of Michigan"
+                ]
+              },
+              {
+                "text": "Hsu said consumers \"still consider it an unacceptable fact of life.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC",
+                  "University of Michigan"
+                ]
+              },
+              {
+                "text": "Olena Nicks, an analyst and local lawmaker in Long Island, New York, said she has cut back on restaurant meals and cheaper social outings like bowling.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Olena Nicks said: \"Frustrated is an understatement. It feels like you're stuck.\"",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The reports come ahead of next month's midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Voters are angered by the cost of living.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Voters angered by the cost of living could shift control in Washington away from Republicans and President Donald Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.75
+        },
+        {
+          "id": "markets-trump-s-fed-pressure-campaigns-draw-legal-challe",
+          "section": "markets",
+          "headline": "Fed Governor Lisa Cook’s lawyers call White House panel ‘biased’ as Trump pushes to fire her",
+          "beat_label": "Fed Politics",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Federal Reserve Governor Lisa Cook’s lawyers have told the White House that a newly formed committee of inquiry set up to investigate an accusation against her is “demonstrably biased,” but did not rule out her eventual appearance before the panel. Lawyer Abbe Lowell said in a letter Tuesday that Cook cannot attend a hearing scheduled for Nov. 5 because she will be in Europe fulfilling official duties at financial and monetary policy meetings. The earliest she could appear would be after the Fed’s policy meeting Dec. 8-9, the letter stated.",
+            "The committee was announced last Friday by the White House as part of President Donald Trump’s extended effort to fire Cook from her seat on the seven-member board of governors. Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board — a claim she has denied. No criminal charges have been filed. The White House memo said the committee will ultimately recommend whether there is “cause” to remove Cook. Under federal law, a president may fire a Fed governor only for cause, though no president has ever done so, reflecting the central bank’s traditional independence from politics.",
+            "Lowell’s letter, sent to White House counsel William Scharf, also raised concerns about the committee’s composition and process. All three members are Trump appointees: top economic adviser Kevin Hassett, Labor Secretary Keith Sonderling, and Equal Employment Opportunity Commission Chair Andrea Rich. The letter noted that Hassett has already stated publicly that the president has cause to fire Cook. “A hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any additional evidence … is not a process that respects the appearance or history of independence,” Lowell wrote.",
+            "Trump first attempted to fire Cook in August 2025, but the Supreme Court ruled earlier this year that she could remain in her position while litigation continued. In a footnote to that ruling, the court suggested Trump could try again if he provided adequate notice and an opportunity to respond — conditions the new committee of inquiry is designed to meet. The Supreme Court did not address whether Cook’s alleged actions meet the legal standard of cause.",
+            "Cook was appointed by former President Joe Biden and is the first Black woman to serve on the Fed’s board. The push to remove her is the latest in a series of moves by Trump that economists say have threatened the Fed’s political independence. The Justice Department earlier this year investigated then-Fed Chair Jerome Powell over testimony about a building renovation, though a judge threw out subpoenas in that case and it was later dropped. Trump has repeatedly demanded that the central bank lower its key interest rate."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.15,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "ABC News - Breaking News, Latest News and Videos",
+            "Reuters",
+            "Charleston Gazette-Mail",
+            "NYT"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Politics/wireStory/lawyers-federal-reserves-lisa-cook-white-house-hearing-137265267"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/markets/us/warshs-quest-quiet-fed-gets-vocal-pushback-2026-10-15/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Charleston Gazette-Mail",
+              "url": "https://www.wvgazettemail.com/ap/business/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is/article_54523214-4b8c-541c-a85d-980b03ae8f87.html"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/14/business/trump-lisa-cook-federal-reserve-hearing.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Lisa Cook is a Federal Reserve Governor.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "A newly formed committee of inquiry was set up to investigate an accusation against Lisa Cook.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Lisa Cook’s lawyers have told the White House that the committee is “demonstrably biased.”",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Lisa Cook’s lawyers did not rule out her eventual appearance before the panel.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Abbe Lowell is a lawyer.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Abbe Lowell said in a letter Tuesday that Cook cannot attend a hearing scheduled for Nov. 5 because she will be in Europe fulfilling official duties at financial and monetary policy meetings.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The letter stated that the earliest Cook could appear would be after the Fed’s policy meeting Dec. 8-9.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The committee was announced last Friday by the White House.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The committee is part of President Donald Trump’s extended effort to fire Cook from her seat on the seven-member board of governors.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The Federal Reserve’s board of governors has seven members.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Cook has denied the accusation of mortgage fraud.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "No criminal charges have been filed.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The White House memo said the committee will ultimately recommend whether there is “cause” to remove Cook.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Under federal law, a president may fire a Fed governor only for cause.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "No president has ever fired a Fed governor for cause.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The central bank has a traditional independence from politics.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Lowell’s letter was sent to White House counsel William Scharf.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "William Scharf is White House counsel.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Lowell’s letter raised concerns about the committee’s composition and process.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "All three members of the committee are Trump appointees.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The committee members are Kevin Hassett, Keith Sonderling, and Andrea Rich.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Kevin Hassett is a top economic adviser.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Keith Sonderling is Labor Secretary.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Andrea Rich is Equal Employment Opportunity Commission Chair.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The letter noted that Kevin Hassett has already stated publicly that the president has cause to fire Cook.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Lowell wrote that a hearing with demonstrably biased members, unspecified additional allegations, and an unclear schedule for the disclosure of any additional evidence is not a process that respects the appearance or history of independence.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Trump first attempted to fire Cook in August 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The Supreme Court ruled earlier this year that Cook could remain in her position while litigation continued.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "In a footnote to that ruling, the court suggested Trump could try again if he provided adequate notice and an opportunity to respond.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The new committee of inquiry is designed to meet the conditions of adequate notice and an opportunity to respond.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The Supreme Court did not address whether Cook’s alleged actions meet the legal standard of cause.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Cook was appointed by former President Joe Biden.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Cook is the first Black woman to serve on the Fed’s board.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The push to remove Cook is the latest in a series of moves by Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Economists say that the moves by Trump have threatened the Fed’s political independence.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The Justice Department earlier this year investigated then-Fed Chair Jerome Powell over testimony about a building renovation.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Jerome Powell was then-Fed Chair at the time of the investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "A judge threw out subpoenas in the Powell case.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "The Powell case was later dropped.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              },
+              {
+                "text": "Trump has repeatedly demanded that the central bank lower its key interest rate.",
+                "status": "supported",
+                "source_ids": [
+                  "The text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.65
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,699.52",
+            "chg": "−1.53%",
+            "dir": "down",
+            "spark": "1.5,2.5 8.3,6.0 15.2,1.5 22.0,1.9 28.8,2.1 35.7,10.6 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,478.95",
+            "chg": "−4.06%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.1 15.2,3.3 22.0,4.5 28.8,5.0 35.7,10.3 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,896.37",
+            "chg": "+0.73%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,11.7 15.2,5.2 22.0,2.2 28.8,5.0 35.7,5.7 42.5,1.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,740.42",
+            "chg": "−3.18%",
+            "dir": "down",
+            "spark": "1.5,3.5 8.3,3.3 15.2,1.5 22.0,3.3 28.8,4.9 35.7,12.5 42.5,11.0"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.05%",
+            "chg": "-22 bp",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,3.8 15.2,3.1 22.0,3.3 28.8,4.5 35.7,5.8 42.5,12.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$94.98",
+            "chg": "+3.81%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,11.4 17.9,5.6 26.1,4.4 34.3,1.5 42.5,1.8"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,168.60",
+            "chg": "+0.28%",
+            "dir": "up",
+            "spark": "1.5,7.5 9.7,1.5 17.9,4.1 26.1,5.5 34.3,12.5 42.5,6.3"
+          },
+          {
+            "sym": "BTC",
+            "val": "$81,077",
+            "chg": "−1.78%",
+            "dir": "down",
+            "spark": "1.5,6.3 8.3,4.7 15.2,1.5 22.0,9.6 28.8,4.0 35.7,10.4 42.5,12.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "17.5",
+            "chg": "+15.8%",
+            "dir": "up",
+            "spark": "1.5,11.5 8.3,10.1 15.2,12.5 22.0,11.0 28.8,10.7 35.7,4.0 42.5,1.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−17.3%",
+            "dir": "down"
+          },
+          {
+            "sym": "WMT",
+            "chg": "+12.0%",
+            "dir": "up"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "−9.78%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−9.71%",
+            "dir": "down"
+          },
+          {
+            "sym": "LLY",
+            "chg": "+8.90%",
+            "dir": "up"
+          },
+          {
+            "sym": "UNH",
+            "chg": "+8.60%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "10:21 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": []
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-forty-percent-of-high-school-students-report-bin",
+          "section": "health-science",
+          "headline": "Forty percent of high school students report binge eating in new CDC survey",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "About 40% of high school students reported binge eating in the past month, according to a large new government survey by the Centers for Disease Control and Prevention. The biennial Youth Risk Behavior Survey found that 17% of nearly 7,000 students said they had engaged in binge eating within the last three days. This is the first time the survey has included a question on binge eating, providing the first data on disordered eating collected by the survey in a decade.",
+            "Binge eating was more prevalent among female students (19%) than male students (16%). It was also more common among Black (19%), Hispanic (20%), and multiracial (20%) students compared to white (15%) and Middle Eastern or North African students (10%). Researcher Ariel Beccia of Boston Children's Hospital said the finding counters longstanding stereotypes that eating disorders primarily affect white girls and young women. “Eating disorders are so underfunded and under-studied, in part because we did not have these kinds of epidemiologic data,” Beccia said.",
+            "The survey question defined binge eating as eating an unusually large amount of food in a short period with a loss of control. Questions on disordered eating were removed from the survey in 2015 to make room for queries about vaping, which was then on the rise. A coalition of eating disorder advocacy and research groups pushed for the binge-eating question because prior research showed it was the most pervasive form of disordered eating among youth, and because young people experiencing food insecurity are more likely to engage in binge eating.",
+            "The survey also found links between binge eating and frequent social media use (checking platforms at least hourly), poor mental health, and suicidality. Researchers noted the potential role of the ultra-processed food environment, with nutrition epidemiologist Lindsey Smith-Taillie pointing out that many such foods are engineered for overconsumption. Beccia emphasized that disordered eating is fundamentally a mental health issue, and she hopes the data will convince funders that eating disorders are a true public health issue requiring directed resources."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "About 40% of high school students reported binge eating in the past month, according to a large new government survey by the Centers for Disease Control and Prevention.",
+                "status": "supported",
+                "source_ids": [
+                  "Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "The biennial Youth Risk Behavior Survey found that 17% of nearly 7,000 students said they had engaged in binge eating within the last three days.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "This is the first time the survey has included a question on binge eating.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "This survey provides the first data on disordered eating collected by the survey in a decade.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "Binge eating was more prevalent among female students (19%) than male students (16%).",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "Binge eating was more common among Black (19%), Hispanic (20%), and multiracial (20%) students compared to white (15%) and Middle Eastern or North African students (10%).",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "Researcher Ariel Beccia of Boston Children's Hospital said the finding counters longstanding stereotypes that eating disorders primarily affect white girls and young women.",
+                "status": "supported",
+                "source_ids": [
+                  "Ariel Beccia",
+                  "Boston Children's Hospital"
+                ]
+              },
+              {
+                "text": "Ariel Beccia said: 'Eating disorders are so underfunded and under-studied, in part because we did not have these kinds of epidemiologic data.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ariel Beccia",
+                  "Boston Children's Hospital"
+                ]
+              },
+              {
+                "text": "The survey question defined binge eating as eating an unusually large amount of food in a short period with a loss of control.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "Questions on disordered eating were removed from the survey in 2015 to make room for queries about vaping, which was then on the rise.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "A coalition of eating disorder advocacy and research groups pushed for the binge-eating question because prior research showed it was the most pervasive form of disordered eating among youth.",
+                "status": "supported",
+                "source_ids": [
+                  "coalition of eating disorder advocacy and research groups"
+                ]
+              },
+              {
+                "text": "A coalition of eating disorder advocacy and research groups pushed for the binge-eating question because young people experiencing food insecurity are more likely to engage in binge eating.",
+                "status": "supported",
+                "source_ids": [
+                  "coalition of eating disorder advocacy and research groups"
+                ]
+              },
+              {
+                "text": "The survey found links between binge eating and frequent social media use (checking platforms at least hourly).",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "The survey found links between binge eating and poor mental health.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "The survey found links between binge eating and suicidality.",
+                "status": "supported",
+                "source_ids": [
+                  "Youth Risk Behavior Survey"
+                ]
+              },
+              {
+                "text": "Researchers noted the potential role of the ultra-processed food environment.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "Nutrition epidemiologist Lindsey Smith-Taillie pointed out that many such foods are engineered for overconsumption.",
+                "status": "supported",
+                "source_ids": [
+                  "Lindsey Smith-Taillie"
+                ]
+              },
+              {
+                "text": "Beccia emphasized that disordered eating is fundamentally a mental health issue.",
+                "status": "supported",
+                "source_ids": [
+                  "Ariel Beccia",
+                  "Boston Children's Hospital"
+                ]
+              },
+              {
+                "text": "Beccia hopes the data will convince funders that eating disorders are a true public health issue requiring directed resources.",
+                "status": "supported",
+                "source_ids": [
+                  "Ariel Beccia",
+                  "Boston Children's Hospital"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-arctic-sea-ice-hits-another-troubling-low-in-202",
+          "section": "health-science",
+          "headline": "Arctic sea ice hits another troubling low in 2026",
+          "beat_label": "Climate",
+          "byline": "Health & Science desk",
+          "body": [
+            "Arctic sea ice reached its annual minimum extent on September 12, 2026, covering approximately 4.6 million square kilometers (1.78 million square miles), according to NASA and the National Snow and Ice Data Center (NSIDC). The figure ties the minimums recorded in 2008, 2010, and 2025 for the 10th-lowest level since satellite monitoring began in late 1978.",
+            "Nearly five decades of satellite observations show that Arctic sea ice is shrinking in both summer and winter, and the remaining ice is becoming younger and thinner. The proportion of multiyear ice—thicker, more resilient ice that survives at least one summer melt—has declined significantly, replaced by thinner first-year ice that is more vulnerable to melting. In March 2026, the winter maximum statistically tied the March 2025 maximum for the lowest winter peak on record.",
+            "Every summer from 2007 through 2026 ranks among the 20 lowest September sea ice extents in the satellite record, with the smallest extent ever observed occurring in September 2012. The rate of summer loss has slowed in the past decade, partly due to increased cloud cover that reduces sunlight reaching the ice, but coverage remains far below the historical average. Natural climate patterns such as the Arctic Oscillation influence year-to-year variability, but they cannot account for the persistent long-term decline.",
+            "Scientists warn that rising global temperatures, combined with natural variability, are driving the ongoing loss. Looking ahead, researchers project that the Arctic Ocean could become essentially free of sea ice during the summer at least once before the middle of the 21st century—a profound change for a region that has maintained extensive seasonal ice cover for millennia.",
+            "Satellite measurements rely on passive microwave sensors, which detect microwave energy naturally emitted by the surface. Sea ice emits more energy than open water, allowing discrimination even through clouds. The continuous record began with NASA's Nimbus-7 in 1978, followed by DMSP satellites starting in 1987 and NASA's Aqua from 2002 to 2011. In 2025, observations from Japan's GCOM-W satellite were incorporated. A small region at the North Pole, the 'pole hole,' lies beyond sensor coverage and is assumed to be ice-covered in extent calculations."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Arctic sea ice reached its annual minimum extent on September 12, 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The minimum extent covered approximately 4.6 million square kilometers (1.78 million square miles).",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The figure ties the minimums recorded in 2008, 2010, and 2025 for the 10th-lowest level since satellite monitoring began in late 1978.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Nearly five decades of satellite observations show that Arctic sea ice is shrinking in both summer and winter.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The remaining ice is becoming younger and thinner.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The proportion of multiyear ice—thicker, more resilient ice that survives at least one summer melt—has declined significantly.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Multiyear ice has been replaced by thinner first-year ice that is more vulnerable to melting.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "In March 2026, the winter maximum statistically tied the March 2025 maximum for the lowest winter peak on record.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Every summer from 2007 through 2026 ranks among the 20 lowest September sea ice extents in the satellite record.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The smallest extent ever observed occurred in September 2012.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The rate of summer loss has slowed in the past decade.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The slowdown in summer loss is partly due to increased cloud cover that reduces sunlight reaching the ice.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Coverage remains far below the historical average.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Natural climate patterns such as the Arctic Oscillation influence year-to-year variability.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Natural climate patterns cannot account for the persistent long-term decline.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Scientists warn that rising global temperatures, combined with natural variability, are driving the ongoing loss.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Researchers project that the Arctic Ocean could become essentially free of sea ice during the summer at least once before the middle of the 21st century.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The Arctic region has maintained extensive seasonal ice cover for millennia.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Satellite measurements rely on passive microwave sensors, which detect microwave energy naturally emitted by the surface.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "Sea ice emits more microwave energy than open water, allowing discrimination even through clouds.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The continuous satellite record began with NASA's Nimbus-7 in 1978.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The satellite record was followed by DMSP satellites starting in 1987.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "NASA's Aqua satellite contributed from 2002 to 2011.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "In 2025, observations from Japan's GCOM-W satellite were incorporated.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "A small region at the North Pole, the 'pole hole,' lies beyond sensor coverage.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              },
+              {
+                "text": "The 'pole hole' is assumed to be ice-covered in extent calculations.",
+                "status": "supported",
+                "source_ids": [
+                  "NASA",
+                  "National Snow and Ice Data Center (NSIDC)"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-study-reveals-93-of-australia-s-indigenous-popul",
+          "section": "health-science",
+          "headline": "Study reveals 93% of Australia's Indigenous population was lost within 73 years of colonization",
+          "beat_label": "History / Demography",
+          "byline": "Health & Science desk",
+          "body": [
+            "A groundbreaking study published in Nature Human Behaviour estimates that Australia's Indigenous population before European colonization was approximately 2.22 million — far higher than previous estimates — and that 93% of that population was lost within 73 years of the arrival of the First Fleet in 1788. Researchers from Flinders University and the Australian Research Council Centre of Excellence for Indigenous and Environmental Histories and Futures (CIEHF) calculated that roughly 2.06 million excess deaths occurred between 1788 and 1861, an average of about 28,200 per year, reducing the Indigenous population to just 7% of its pre-colonial size by 1861.",
+            "The study challenges long-held assumptions based on anthropologist Alfred Radcliffe-Brown's 1930s estimate of around 250,000 Indigenous people prior to colonization. By combining advanced computer models with ethnographic observations, archaeological findings, genetic reconstructions, and environmental carrying-capacity data, the team derived a median population density of 0.29 people per square kilometer across Australia. Lead author Associate Professor Alan Williams, a Partner Investigator in CIEHF and Adjunct Research Fellow at James Cook University, noted that the findings 'highlight the major impacts of invasion experienced by Indigenous Australians, and demonstrate their remarkable survival, resilience and recovery over the past century.'",
+            "Earlier estimates were likely low because they did not fully account for the devastating effects of disease, frontier violence, and systemic oppression that occurred before the earliest Australian censuses. According to the study, the population collapse after 1788 was driven by these same forces, with the 93% reduction representing a demographic catastrophe far greater than previously recognized. Co-author Distinguished Professor Lynette Russell of Monash University's Indigenous Studies Centre said the findings call for a 'heightened understanding of intergenerational trauma and to inform future policy that assists Indigenous people,' adding that it is 'time to recognize intergenerational privilege.'",
+            "The researchers emphasized the importance of multiple independent methods — genetics, archaeology, environmental modeling, and historical records — to reconstruct population histories when written records are incomplete or biased. Distinguished Professor Larissa Behrendt AO, Chair of the CIEHF Centre Advisory Committee, stated: 'These research findings challenge us to rethink the scale of what happened after 1788. We are not talking about a marginal consequence of colonization but a demographic catastrophe at the heart of the Australian story.' She also highlighted the resilience of Indigenous Australians, calling their survival 'one of Australian history's most remarkable stories.'",
+            "According to the 2021 Australian census, the Indigenous population has recovered to approximately 37% of its estimated pre-colonial size. If current growth trends continue, the researchers project that the population may not return to its pre-colonial level until around 2047. The study, titled 'Large estimated size of the Australian Indigenous population before its extensive decline following colonial invasion,' was jointly funded by the Australian Research Council through the Centre of Excellence for Indigenous and Environmental Histories and Futures and the Centre of Excellence for Australian Biodiversity and Heritage. The authors include Alan Williams, Raymond Tobler, Billy Griffiths, Sean Ulm, Matthew Nitschke, Michael Bird, Shane Ingrey, Frédérik Saltré, Kirsty Beller, Ian McNiven, Nicholas Pitt, Lynette Russell, Alistair Paterson, Christopher Wilson, and Corey Bradshaw."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261013015807.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A study was published in Nature Human Behaviour.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The study estimates that Australia's Indigenous population before European colonization was approximately 2.22 million.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "The study's estimate of 2.22 million is far higher than previous estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The study estimates that 93% of Australia's Indigenous population was lost within 73 years of the arrival of the First Fleet in 1788.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "The First Fleet arrived in 1788.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The period from 1788 to 1861 is 73 years.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Researchers from Flinders University and the Australian Research Council Centre of Excellence for Indigenous and Environmental Histories and Futures (CIEHF) calculated that roughly 2.06 million excess deaths occurred between 1788 and 1861.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "Researchers calculated an average of about 28,200 excess deaths per year between 1788 and 1861.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "The Indigenous population was reduced to 7% of its pre-colonial size by 1861.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "Alfred Radcliffe-Brown was an anthropologist.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Alfred Radcliffe-Brown's 1930s estimate of the Indigenous population prior to colonization was around 250,000.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The study challenges assumptions based on Alfred Radcliffe-Brown's estimate.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "The team combined computer models with ethnographic observations, archaeological findings, genetic reconstructions, and environmental carrying-capacity data.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "The team derived a median population density of 0.29 people per square kilometer across Australia.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "Alan Williams is the lead author of the study.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Alan Williams is an Associate Professor.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Alan Williams is a Partner Investigator in CIEHF.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Alan Williams is an Adjunct Research Fellow at James Cook University.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Alan Williams noted that the findings highlight the major impacts of invasion experienced by Indigenous Australians.",
+                "status": "supported",
+                "source_ids": [
+                  "Alan Williams"
+                ]
+              },
+              {
+                "text": "Alan Williams noted that the findings demonstrate the survival, resilience, and recovery of Indigenous Australians over the past century.",
+                "status": "supported",
+                "source_ids": [
+                  "Alan Williams"
+                ]
+              },
+              {
+                "text": "Earlier estimates of the pre-colonial Indigenous population were likely low.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Earlier estimates did not fully account for the effects of disease, frontier violence, and systemic oppression that occurred before the earliest Australian censuses.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Disease, frontier violence, and systemic oppression occurred before the earliest Australian censuses.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "According to the study, the population collapse after 1788 was driven by disease, frontier violence, and systemic oppression.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "According to the study, the 93% reduction was a demographic catastrophe far greater than previously recognized.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "Lynette Russell is a co-author of the study.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Lynette Russell is a Distinguished Professor at Monash University's Indigenous Studies Centre.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Lynette Russell said the findings call for a heightened understanding of intergenerational trauma.",
+                "status": "supported",
+                "source_ids": [
+                  "Lynette Russell"
+                ]
+              },
+              {
+                "text": "Lynette Russell said the findings should inform future policy that assists Indigenous people.",
+                "status": "supported",
+                "source_ids": [
+                  "Lynette Russell"
+                ]
+              },
+              {
+                "text": "Lynette Russell said it is time to recognize intergenerational privilege.",
+                "status": "supported",
+                "source_ids": [
+                  "Lynette Russell"
+                ]
+              },
+              {
+                "text": "The researchers emphasized the importance of using multiple independent methods — genetics, archaeology, environmental modeling, and historical records — to reconstruct population histories when written records are incomplete or biased.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt is a Distinguished Professor.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt is Chair of the CIEHF Centre Advisory Committee.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt stated that the research findings challenge us to rethink the scale of what happened after 1788.",
+                "status": "supported",
+                "source_ids": [
+                  "Larissa Behrendt"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt stated that what happened after 1788 was not a marginal consequence of colonization but a demographic catastrophe at the heart of the Australian story.",
+                "status": "supported",
+                "source_ids": [
+                  "Larissa Behrendt"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt highlighted the resilience of Indigenous Australians.",
+                "status": "supported",
+                "source_ids": [
+                  "Larissa Behrendt"
+                ]
+              },
+              {
+                "text": "Larissa Behrendt called the survival of Indigenous Australians 'one of Australian history's most remarkable stories.'",
+                "status": "supported",
+                "source_ids": [
+                  "Larissa Behrendt"
+                ]
+              },
+              {
+                "text": "According to the 2021 Australian census, the Indigenous population has recovered to approximately 37% of its estimated pre-colonial size.",
+                "status": "supported",
+                "source_ids": [
+                  "2021 Australian census"
+                ]
+              },
+              {
+                "text": "The researchers project that, if current growth trends continue, the Indigenous population may not return to its pre-colonial level until around 2047.",
+                "status": "supported",
+                "source_ids": [
+                  "researchers"
+                ]
+              },
+              {
+                "text": "The study is titled 'Large estimated size of the Australian Indigenous population before its extensive decline following colonial invasion.'",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "The study was jointly funded by the Australian Research Council through the Centre of Excellence for Indigenous and Environmental Histories and Futures and the Centre of Excellence for Australian Biodiversity and Heritage.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              },
+              {
+                "text": "The authors of the study include Alan Williams, Raymond Tobler, Billy Griffiths, Sean Ulm, Matthew Nitschke, Michael Bird, Shane Ingrey, Frédérik Saltré, Kirsty Beller, Ian McNiven, Nicholas Pitt, Lynette Russell, Alistair Paterson, Christopher Wilson, and Corey Bradshaw.",
+                "status": "supported",
+                "source_ids": [
+                  "the study"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": []
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-shipping-disruption-in-strait-of-hormuz-threaten"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "White House press secretary Katie Zacharia did not pass bar exam",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Supreme Court sides with Trump in political ad rate dispute",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Inflation rises more than expected, producer prices surge",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "DOJ gives California 48 hours to address noncitizen voter concerns",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ukraine resumes strikes on Russian oil refineries as brief truce collapses",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ukraine’s military satellite access restricted, disrupting drone operations; Musk says US government controls limits",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Infantino apologises to Fifa Council but faces calls to step down; Wenger emerges as potential challenger",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Kenya reports second Ebola case as Congo outbreak worsens",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Former FDA officials blast DOGE staff cuts as 'one of the biggest disasters in American history'",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Citizen Lab links Israeli ad firm to zero-click spyware infections via online ads",
+      "reason": "re-verification error after revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Ukraine blindsided by Starlink throttling and intelligence gaps",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
