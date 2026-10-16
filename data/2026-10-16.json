@@ -1,0 +1,3807 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-16T14:08:44+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": []
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-zelenskyy-rallies-eu-support-as-trump-escalates-",
+          "section": "world",
+          "headline": "Zelenskyy rallies EU support as Trump escalates criticism over Ukraine's oil refinery strikes",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "President Volodymyr Zelenskyy on Friday rallied European Union support in Brussels as his relationship with U.S. President Donald Trump deteriorated sharply. Trump, in a Newsmax interview, called Zelenskyy \"not a good guy for us to deal with\" and accused him of not wanting to settle the war. The U.S. president also branded Ukraine's renewed strikes on Russian oil refineries a \"disgrace,\" saying they drive up global oil prices. Zelenskyy, standing alongside European Commission President Ursula von der Leyen and European Council President António Costa, said he was \"only standing up for Ukraine's interests\" and could not accept a recent U.S.-Russia diesel deal that he called an investment in prolonging the war.",
+            "The summit's agenda focused on funding for Ukraine and preparing for a fifth winter since Russia's full-scale invasion. Von der Leyen said the EU had supported Trump's proposed energy ceasefire but noted that Russia \"did not respect it, not a single minute,\" and argued that sanctions on Russia \"[had] to increase.\" Zelenskyy said Ukraine wanted the war to end \"as quick as possible\" but that Russia was not showing the same desire. Deadly attacks continued overnight: a Russian drone strike killed several people in Kharkiv, and about 270,000 households lost power after strikes in the western Volyn region.",
+            "Tensions between Washington and Kyiv have escalated over the diesel deal and restrictions placed on the Starlink internet network, which is critical for Ukraine's military. On Tuesday night, when the network was slowed, deadly Russian strikes hit Ukraine with no prior warning, residents said. Zelenskyy called the slowdown a \"very dangerous and unpleasant surprise\" and said speeds were still not fully restored. The Trump administration has previously warned it could withhold intelligence-sharing if Kyiv does not stop hitting Russian oil refineries.",
+            "At a news conference after the summit, Zelenskyy was asked by Sky News if he felt Trump was using him as a scapegoat for his own political problems. He remained silent for 15 seconds, then broke into a grin, prompting laughter from journalists. \"This is my answer,\" he said. The Kremlin later agreed with Trump's assertion that Zelenskyy did not want to make a deal with Russia—the same accusation Kyiv has leveled at Moscow.",
+            "In a speech to EU leaders, Zelenskyy warned against allowing Russian oil and gas to \"tempt the world into looking the other way\" and called for a strong 22nd EU sanctions package. He laid out Ukraine's financial needs, saying the war would cost 155 billion euros next year and that Kyiv needs at least 70 billion euros more from the EU for defense, weapons, and resilience. He also thanked European leaders who he said were \"trying to keep Europe and the United States together,\" expressing hope that most Americans still want to be allies. \"At the end of the day, the American people will have their say,\" he said."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.23,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 4,
+              "center": 4,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "The Guardian",
+            "Bloomberg",
+            "CNN",
+            "Washington Post",
+            "Newser",
+            "NBC News",
+            "PBS"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/live/2026/oct/16/eu-von-der-leyen-russia-sanctions-diesel-fuel-zelenskyy-donald-trump-membership-migration-latest-news-updates",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/newsletters/2026-10-16/ukraine-s-zelenskyy-meets-eu-leaders-in-brussels-and-plays-down-trump-tensions",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/16/politics/ukraine-trump-russia-starlink",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Washington Post",
+              "url": "https://www.washingtonpost.com/national-security/2026/10/15/ukraine-critically-low-patriot-interceptors-russian-strikes-intensify/",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Newser",
+              "url": "https://www.newser.com/story/398253/ukraine-out-of-patriot-missiles-amid-zelensky-trump-tiff.html"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/show/ukraine-resumes-strikes-on-energy-targets-saying-russia-never-stopped-its-attacks",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Volodymyr Zelenskyy on Friday rallied European Union support in Brussels.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy's relationship with U.S. President Donald Trump deteriorated sharply.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump, in a Newsmax interview, called Zelenskyy 'not a good guy for us to deal with'.",
+                "status": "supported",
+                "source_ids": [
+                  "Newsmax"
+                ]
+              },
+              {
+                "text": "Trump accused Zelenskyy of not wanting to settle the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Newsmax"
+                ]
+              },
+              {
+                "text": "Trump branded Ukraine's renewed strikes on Russian oil refineries a 'disgrace'.",
+                "status": "supported",
+                "source_ids": [
+                  "Newsmax"
+                ]
+              },
+              {
+                "text": "Trump said Ukraine's strikes on Russian oil refineries drive up global oil prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Newsmax"
+                ]
+              },
+              {
+                "text": "Zelenskyy, standing alongside European Commission President Ursula von der Leyen and European Council President António Costa, said he was 'only standing up for Ukraine's interests'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy could not accept a recent U.S.-Russia diesel deal that he called an investment in prolonging the war.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The summit's agenda focused on funding for Ukraine and preparing for a fifth winter since Russia's full-scale invasion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Von der Leyen said the EU had supported Trump's proposed energy ceasefire.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Von der Leyen noted that Russia 'did not respect it, not a single minute' regarding the proposed energy ceasefire.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Von der Leyen argued that sanctions on Russia 'had to increase'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said Ukraine wanted the war to end 'as quick as possible'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said Russia was not showing the same desire for the war to end.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A Russian drone strike killed several people in Kharkiv.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "About 270,000 households lost power after strikes in the western Volyn region.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tensions between Washington and Kyiv have escalated over the diesel deal and restrictions placed on the Starlink internet network.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Tuesday night, when the Starlink network was slowed, deadly Russian strikes hit Ukraine with no prior warning, according to residents.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy called the Starlink slowdown a 'very dangerous and unpleasant surprise'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said Starlink speeds were still not fully restored.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration has previously warned it could withhold intelligence-sharing if Kyiv does not stop hitting Russian oil refineries.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "At a news conference after the summit, Zelenskyy was asked by Sky News if he felt Trump was using him as a scapegoat for his own political problems.",
+                "status": "supported",
+                "source_ids": [
+                  "Sky News"
+                ]
+              },
+              {
+                "text": "Zelenskyy remained silent for 15 seconds after the question from Sky News, then broke into a grin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said 'This is my answer' after the silence and grin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Kremlin later agreed with Trump's assertion that Zelenskyy did not want to make a deal with Russia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The accusation that Zelenskyy did not want to make a deal with Russia is the same accusation Kyiv has leveled at Moscow.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy warned against allowing Russian oil and gas to 'tempt the world into looking the other way'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy called for a strong 22nd EU sanctions package.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said the war would cost 155 billion euros next year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said Kyiv needs at least 70 billion euros more from the EU for defense, weapons, and resilience.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy thanked European leaders who he said were 'trying to keep Europe and the United States together'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy expressed hope that most Americans still want to be allies.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelenskyy said 'At the end of the day, the American people will have their say'.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.9,
+          "significance": 0.94,
+          "image": {
+            "url": "static/img/2026-10-16/world-zelenskyy-rallies-eu-support-as-trump-escalates.jpg",
+            "alt": "Photograph of Volodymyr Zelenskyy speaking at a podium with EU flags",
+            "credit": "Photo: President Of Ukraine from Україна / Wikimedia Commons (CC0)",
+            "license": "CC0",
+            "width": 1000,
+            "height": 667
+          }
+        },
+        {
+          "id": "world-ship-attacks-near-hormuz-reach-record-high-as-oi",
+          "section": "world",
+          "headline": "Ship attacks near Hormuz hit record high as oil exports slow; Iran says strait will reopen if US leaves region",
+          "beat_label": "Middle East Conflict",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "Ship attack reports in and around the Strait of Hormuz have reached a record high, with 12 vessels targeted between Oct. 5 and Oct. 11 — the highest weekly total since the U.S.-Israeli war with Iran began and up from 10 the previous week, according to BBC Verify analysis of UK Maritime Trade Operations (UKMTO) data. Six vessels were struck in a single day, a one-day high, and four more attacks have been reported so far this week. The surge comes as Iranian army spokesman Mohammad Akraminia said Friday that the strait will reopen if the U.S. leaves the region: \"If the United States leaves the region, the Strait of Hormuz will reopen and collective security will be established with the participation of the countries of the region, and the global economy will improve.\" \"If it does not leave, we will expel it,\" he wrote on X.",
+            "The recent attacks include the Nicaragua-flagged tanker Petro Dolphin, struck by a drone near Oman's Sohar Anchorage, more than 250km (150 miles) from the strait; 11 Indian seafarers were rescued and two remain missing, the Forward Seamen's Union of India said. The container ship GFS Pride sank Tuesday after being hit by an unknown projectile in the strait, with all 21 crew evacuated; Iran's Islamic Revolutionary Guard Corps (IRGC) published footage of the sinking and said the vessel was carrying \"2,500 containers of contraband\" on an \"unauthorised route.\" Attacks have also extended far from the waterway: a tanker was struck by multiple projectiles north of Qatar on Oct. 8, more than 500km (310 miles) from the strait, and another was attacked near the UAE town of Al-Jazirah al-Hamra on Oct. 9, according to maritime intelligence firm Vanguard.",
+            "Middle East oil exports have slowed as the strikes have risen. About 12.6 million barrels per day transited the strait on Oct. 13, down from 15 million at the end of September and below the pre-war baseline of about 17 million, according to trade intelligence firm Kpler. U.S. Navy data shows the number of vessels given assistance to navigate the strait in the first 10 days of October was up 85% compared with the same period in August. Most Gulf Arab oil has recently moved via a \"shuttle\" system, in which tankers load up, sail through the strait and transfer cargo to larger tankers in the Gulf of Oman, using a route close to Oman's coast that Iran deems \"unauthorised.\" Iranian exports have completely stalled as a result of the U.S. blockade of Iranian ports and ships. The U.S. military's Central Command said commercial traffic \"continues to flow through the Strait of Hormuz with co-ordinated protection from US forces and regional partners.\"",
+            "Experts say Tehran is widening its campaign in response to U.S.-assisted transits. Martin Kelly, CEO of Orbital Risk Intelligence, said Iran has \"evolved its strategy\" with \"near daily or multiple attacks every single day,\" adding: \"The aim here is to stop the ships going through and to deter others.\" The IRGC's navy has said strikes will not be \"limited to the Strait of Hormuz\" and announced a \"new deployment formation\" across the region, according to state media. The Iranian navy said Friday it had identified a tanker on fire in a prohibited area in the Gulf of Oman after it switched off its tracking systems, adding that \"the consequences of uncoordinated movements along routes and in prohibited areas are the creation of insecurity and serious hazards for other vessels.\" Greek maritime risk firm Marisks warned Thursday that ships continue to face \"indiscriminate attacks\" even if they turn off tracking systems to avoid detection. The U.S. insists the strait is open, while Tehran claims it is closed to all traffic unless Iranian authorities grant permission.",
+            "The war's economic toll extends well beyond shipping. Iraq has lost around $60 billion in oil export revenue during the conflict, Foreign Minister Fuad Hussein said Thursday. Iraq was producing about four million barrels per day and exporting about 3.5 million before the war, almost all via the Persian Gulf through the Strait of Hormuz. Iran's threat to vessels that fail to seek permission has forced Baghdad, which lacks sufficient storage capacity, to halt most production and rely on limited exports by truck through Syria and by pipeline through Turkey; the head of Syrian Petroleum Co. said Syria is set to expand overland routes. Iraqi exports recovered modestly to 2.6 million barrels per day between Sept. 1 and 21, but foreign currency reserves have shrunk by $20 billion and consumer prices have risen sharply.",
+            "Elsewhere, the Iran-backed Houthis launched a strike Thursday on the presidential palace in Yemen's government-held de facto capital of Aden, causing multiple deaths and injuries among security staff, the internationally recognized government said. Iranian President Masoud Pezeshkian urged countries Friday to condemn what he called \"ecocide\" caused by \"wars of aggression\" against his country, telling a nature summit in Armenia attended by UN Secretary-General Antonio Guterres: \"What has occurred in our region as a result of wars of aggression is ecocide, or environmental genocide, and it must be condemned.\" He also cited an \"atmosphere of distrust\" with Washington, telling CBS News: \"As long as they don't cease doing what they're imposing on us every day, it's difficult to trust them.\" In a separate Iran-linked case, a Norwegian teenager, Johannes Kongsnes Natland, 19, was sentenced Friday in Britain to 20 years in prison for conspiracy to murder as part of a Swedish organized crime network with links to the Iranian government; he had agreed to shoot an unknown target for $28,000 and was arrested in Huddersfield with two guns and ammunition."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "CBS News",
+            "Yahoo Finance",
+            "Reuters",
+            "CNBC",
+            "Crude Oil Prices Today | OilPrice.com"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+              "lean": -0.2,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/energy/articles/oil-edges-down-investors-weigh-010642305.html"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/16/oil-eases-small-weekly-gain-middle-east-supply.html"
+            },
+            {
+              "outlet": "Crude Oil Prices Today | OilPrice.com",
+              "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Fuel-Oil-Shortage-Deepens-as-Middle-East-and-Russia-Supplies-Collapse.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The U.S.-Israeli war with Iran has begun.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Ship attack reports in and around the Strait of Hormuz have reached a record high.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Twelve vessels were targeted between Oct. 5 and Oct. 11.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "The 12-vessel weekly total was the highest since the U.S.-Israeli war with Iran began.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "The weekly total was up from 10 the previous week.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Six vessels were struck in a single day.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "That single-day total was a one-day high.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Four more attacks have been reported so far this week.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Verify",
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Mohammad Akraminia, Iranian army spokesman, said Friday that if the United States leaves the region, the Strait of Hormuz will reopen, collective security will be established with the participation of the countries of the region, and the global economy will improve.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Akraminia"
+                ]
+              },
+              {
+                "text": "Akraminia wrote on X that if the United States does not leave the region, Iran will expel it.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Akraminia",
+                  "X"
+                ]
+              },
+              {
+                "text": "The Nicaragua-flagged tanker Petro Dolphin was struck by a drone near Oman's Sohar Anchorage, more than 250km (150 miles) from the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Eleven Indian seafarers from the Petro Dolphin were rescued and two remain missing, according to the Forward Seamen's Union of India.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Forward Seamen's Union of India"
+                ]
+              },
+              {
+                "text": "The container ship GFS Pride sank Tuesday after being hit by an unknown projectile in the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "All 21 crew members of the GFS Pride were evacuated.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's Islamic Revolutionary Guard Corps published footage of the GFS Pride sinking.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "IRGC"
+                ]
+              },
+              {
+                "text": "The IRGC said the GFS Pride was carrying 2,500 containers of contraband on an unauthorised route.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "IRGC"
+                ]
+              },
+              {
+                "text": "A tanker was struck by multiple projectiles north of Qatar on Oct. 8, more than 500km (310 miles) from the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Vanguard"
+                ]
+              },
+              {
+                "text": "Another tanker was attacked near the UAE town of Al-Jazirah al-Hamra on Oct. 9.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Vanguard"
+                ]
+              },
+              {
+                "text": "Middle East oil exports have slowed as strikes have risen.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "About 12.6 million barrels per day transited the Strait of Hormuz on Oct. 13.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "That Oct. 13 total was down from 15 million barrels per day at the end of September.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "That Oct. 13 total was below the pre-war baseline of about 17 million barrels per day.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "U.S. Navy data shows the number of vessels given assistance to navigate the Strait of Hormuz in the first 10 days of October was up 85% compared with the same period in August.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "U.S. Navy"
+                ]
+              },
+              {
+                "text": "Most Gulf Arab oil has recently moved via a shuttle system.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The shuttle system uses a route close to Oman's coast that Iran deems unauthorised.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In the shuttle system, tankers load up, sail through the Strait of Hormuz and transfer cargo to larger tankers in the Gulf of Oman.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The U.S. has blockaded Iranian ports and ships.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iranian exports have completely stalled.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The complete stalling of Iranian exports resulted from the U.S. blockade of Iranian ports and ships.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "U.S. Central Command said commercial traffic continues to flow through the Strait of Hormuz with co-ordinated protection from U.S. forces and regional partners.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "U.S. Central Command"
+                ]
+              },
+              {
+                "text": "Experts say Tehran is widening its campaign in response to U.S.-assisted transits.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Martin Kelly, CEO of Orbital Risk Intelligence, said Iran has evolved its strategy with near daily or multiple attacks every single day.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Orbital Risk Intelligence"
+                ]
+              },
+              {
+                "text": "Martin Kelly said the aim is to stop the ships going through and to deter others.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Orbital Risk Intelligence"
+                ]
+              },
+              {
+                "text": "The IRGC's navy has said strikes will not be limited to the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "IRGC",
+                  "state media"
+                ]
+              },
+              {
+                "text": "The IRGC's navy announced a new deployment formation across the region.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "IRGC",
+                  "state media"
+                ]
+              },
+              {
+                "text": "The Iranian navy said Friday it had identified a tanker on fire in a prohibited area in the Gulf of Oman after it switched off its tracking systems.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Iranian navy"
+                ]
+              },
+              {
+                "text": "The Iranian navy said the consequences of uncoordinated movements along routes and in prohibited areas are the creation of insecurity and serious hazards for other vessels.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Iranian navy"
+                ]
+              },
+              {
+                "text": "Greek maritime risk firm Marisks warned Thursday that ships continue to face indiscriminate attacks even if they turn off tracking systems to avoid detection.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Marisks"
+                ]
+              },
+              {
+                "text": "The U.S. insists the Strait of Hormuz is open.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "U.S."
+                ]
+              },
+              {
+                "text": "Tehran claims the Strait of Hormuz is closed to all traffic unless Iranian authorities grant permission.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Tehran"
+                ]
+              },
+              {
+                "text": "Iraq has lost around $60 billion in oil export revenue during the conflict, Foreign Minister Fuad Hussein said.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Fuad Hussein"
+                ]
+              },
+              {
+                "text": "Iraq was producing about four million barrels per day before the war.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iraq was exporting about 3.5 million barrels per day before the war.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iraq's pre-war oil exports were almost all via the Persian Gulf through the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's threat to vessels that fail to seek permission has forced Baghdad to halt most production.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Baghdad lacks sufficient storage capacity.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Baghdad relies on limited exports by truck through Syria and by pipeline through Turkey.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The head of Syrian Petroleum Co. said Syria is set to expand overland routes.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Syrian Petroleum Co."
+                ]
+              },
+              {
+                "text": "Iraqi exports recovered to 2.6 million barrels per day between Sept. 1 and 21.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iraq's foreign currency reserves have shrunk by $20 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Consumer prices in Iraq have risen sharply.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Houthis are backed by Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Iran-backed Houthis launched a strike Thursday on the presidential palace in Yemen's government-held de facto capital of Aden.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "internationally recognized government"
+                ]
+              },
+              {
+                "text": "The Houthi strike caused multiple deaths and injuries among security staff, according to the internationally recognized government.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "internationally recognized government"
+                ]
+              },
+              {
+                "text": "Iranian President Masoud Pezeshkian urged countries Friday to condemn what he called ecocide caused by wars of aggression against his country.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Pezeshkian"
+                ]
+              },
+              {
+                "text": "Pezeshkian made his remarks at a nature summit in Armenia attended by UN Secretary-General Antonio Guterres.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Pezeshkian said: “What has occurred in our region as a result of wars of aggression is ecocide, or environmental genocide, and it must be condemned.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Pezeshkian"
+                ]
+              },
+              {
+                "text": "Pezeshkian cited an atmosphere of distrust with Washington.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Pezeshkian"
+                ]
+              },
+              {
+                "text": "Pezeshkian told CBS News: “As long as they don't cease doing what they're imposing on us every day, it's difficult to trust them.”",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "CBS News"
+                ]
+              },
+              {
+                "text": "Norwegian teenager Johannes Kongsnes Natland, 19, was sentenced Friday in Britain to 20 years in prison for conspiracy to murder.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Natland was sentenced as part of a Swedish organized crime network with links to the Iranian government.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Natland had agreed to shoot an unknown target for $28,000.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Natland was arrested in Huddersfield with two guns and ammunition.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-10-16/world-ship-attacks-near-hormuz-reach-record-high-as-oi.jpg",
+            "alt": "Photograph of Strait of Hormuz oil tanker",
+            "credit": "Photo: U.S. Navy photo by Mass Communication Specialist 3rd Class Jonathan Sunderman / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 665
+          }
+        },
+        {
+          "id": "world-ukraine-strikes-russian-oil-refinery-after-mosco",
+          "section": "world",
+          "headline": "Ukraine strikes Russian oil refinery after Moscow breaks energy ceasefire",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "Ukraine struck a major oil refinery in Russia's Ryazan region early Thursday, setting it ablaze, hours after President Volodymyr Zelensky said Kyiv would resume such attacks because Moscow had not honored a U.S.-brokered energy ceasefire. Russia's Defense Ministry said it intercepted four missiles and dozens of drones, with falling debris causing a fire at the refinery about 300 kilometers (180 miles) southeast of Moscow. A senior Ukrainian official, speaking on condition of anonymity, confirmed Ukraine had hit the refinery.",
+            "Zelensky said he had restricted Ukrainian strikes on Russian oil infrastructure for three days at Washington's request, while Russia continued striking Ukraine's energy facilities, leaving hundreds of thousands of people without power. The Kremlin never formally agreed to the ceasefire announced by President Donald Trump on Sunday. \"We're done,\" Zelensky told the Financial Times, adding that he would now call off strikes on Russian oil infrastructure—which Kyiv says are vital to cutting revenue for Russia's war machine—only if the U.S. supplied more Patriot air defense missiles. Ukraine has faced a shortage of those U.S.-made defenses since the Iran war consumed stockpiles.",
+            "Zelensky accused the U.S. of withdrawing intelligence-sharing to pressure Kyiv into ending attacks and said Ukrainian officials had been told by U.S. counterparts, \"If you will not stop [the strikes], we will block intelligence.\" He also said Washington imposed restrictions on Starlink internet terminals, which Ukraine relies on throughout its war effort to guide drones and protect its skies. Ukrainian defence sources later told the BBC that some Starlink functionality, specifically \"operation while on the move\" in the military Starshield service, had been restored, though it remained unclear whether restrictions on drone flight speeds had been fully lifted. Trump denied halting intelligence-sharing, while Starlink owner Elon Musk appeared to deny a technical glitch and suggested it was the Trump administration's doing.",
+            "In an interview with British journalist Piers Morgan, Zelensky said he felt betrayed by Trump's deal with Putin, the ceasefire announcement and the Starlink problems. \"Really, yes, between us,\" he said. \"We are losing a strong partner,\" he added, while acknowledging Trump might position himself as \"in the middle.\" Italy's Defence Minister Guido Crosetto told the BBC that any U.S. restriction on intelligence-sharing would be \"a complete mistake\" because it would deny Ukraine the ability to defend itself. \"Peace will be achieved when Putin will be convinced that there is a stalemate,\" he said, warning that if the U.S. takes resources away, \"Putin will think he can win.\"",
+            "Zelensky also criticized a U.S.-Russian agreement last week to release 300,000 tonnes of Russian diesel to the U.S. and global market, saying it effectively invested in Russia's war effort. \"The question will be: when will the next deal be? Maybe it will be gas. Definitely it will be gas,\" he told the Financial Times. Striking a more defiant tone, he said it was not up to him to mend U.S.-Ukraine relations given the events of the past week: \"We didn't destroy any relationship.\" He met NATO chief Mark Rutte, who said they discussed \"the importance of implementing an energy ceasefire as well as Nato allies' continuous support for Ukraine.\"",
+            "Amid the dispute, Russia continued large-scale aerial attacks on Ukraine. Zelensky said more than 850 drones had been launched at dozens of cities and communities over the past day, hitting 15 regions and leaving at least 13 people dead on Wednesday. In Kirovohrad, Ukraine's Emergency Services said three people were killed and six injured after nearly 360 drones struck during a 10-hour barrage—the region's largest attack since Russia's full-scale invasion began in 2022. Ukrainian air defenses intercepted 536 drones, but impacts were recorded at 31 locations. Zelensky wrote on social media that Russia had \"deliberately escalated these attacks, taking advantage of the easing of sanctions and seeing attempts to pressure Ukraine.\"",
+            "In a separate development, seven people were missing after a drone attack set a chemical tanker on fire off Romania's coast, according to naval officials. Moscow said it had hit two cargo ships carrying military cargo heading to Ukraine's Odesa port, without naming them. Ukrainian officials were still working to clarify the reasons and circumstances behind the recent restrictions on U.S. support, including whether limits on Starlink drone operations had been fully lifted."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.07,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "NPR",
+            "WSJ"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/16/nx-s1-6004281/russias-view-amid-ukraines-strikes-and-zelenskyys-growing-rift-with-the-u-s",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/world/ukraine-strikes-russian-refinery-after-moscow-breaks-trumps-energy-ceasefire-35b3ee40",
+              "lean": 0.2,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Ukraine struck a major oil refinery in Russia's Ryazan region early Thursday, setting it ablaze.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "President Volodymyr Zelensky said Kyiv would resume such attacks because Moscow had not honored a U.S.-brokered energy ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Russia's Defense Ministry said it intercepted four missiles and dozens of drones, with falling debris causing a fire at the refinery about 300 kilometers (180 miles) southeast of Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A senior Ukrainian official, speaking on condition of anonymity, confirmed Ukraine had hit the refinery.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said he had restricted Ukrainian strikes on Russian oil infrastructure for three days at Washington's request.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Russia continued striking Ukraine's energy facilities, leaving hundreds of thousands of people without power.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Kremlin never formally agreed to the ceasefire announced by President Donald Trump on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky told the Financial Times that he would now call off strikes on Russian oil infrastructure only if the U.S. supplied more Patriot air defense missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Ukraine has faced a shortage of those U.S.-made defenses since the Iran war consumed stockpiles.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky accused the U.S. of withdrawing intelligence-sharing to pressure Kyiv into ending attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said Ukrainian officials had been told by U.S. counterparts, 'If you will not stop [the strikes], we will block intelligence.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said Washington imposed restrictions on Starlink internet terminals, which Ukraine relies on throughout its war effort to guide drones and protect its skies.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Ukrainian defence sources later told the BBC that some Starlink functionality, specifically 'operation while on the move' in the military Starshield service, had been restored.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "It remained unclear whether restrictions on drone flight speeds had been fully lifted.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Trump denied halting intelligence-sharing.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Starlink owner Elon Musk appeared to deny a technical glitch and suggested it was the Trump administration's doing.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In an interview with British journalist Piers Morgan, Zelensky said he felt betrayed by Trump's deal with Putin, the ceasefire announcement and the Starlink problems.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said, 'We are losing a strong partner,' while acknowledging Trump might position himself as 'in the middle.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Italy's Defence Minister Guido Crosetto told the BBC that any U.S. restriction on intelligence-sharing would be 'a complete mistake' because it would deny Ukraine the ability to defend itself.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Crosetto said, 'Peace will be achieved when Putin will be convinced that there is a stalemate,' warning that if the U.S. takes resources away, 'Putin will think he can win.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky criticized a U.S.-Russian agreement last week to release 300,000 tonnes of Russian diesel to the U.S. and global market, saying it effectively invested in Russia's war effort.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Zelensky told the Financial Times, 'The question will be: when will the next deal be? Maybe it will be gas. Definitely it will be gas.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Zelensky said it was not up to him to mend U.S.-Ukraine relations given the events of the past week: 'We didn't destroy any relationship.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky met NATO chief Mark Rutte, who said they discussed 'the importance of implementing an energy ceasefire as well as Nato allies' continuous support for Ukraine.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said more than 850 drones had been launched at dozens of cities and communities over the past day, hitting 15 regions and leaving at least 13 people dead on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Kirovohrad, Ukraine's Emergency Services said three people were killed and six injured after nearly 360 drones struck during a 10-hour barrage—the region's largest attack since Russia's full-scale invasion began in 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Ukrainian air defenses intercepted 536 drones, but impacts were recorded at 31 locations.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky wrote on social media that Russia had 'deliberately escalated these attacks, taking advantage of the easing of sanctions and seeing attempts to pressure Ukraine.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Seven people were missing after a drone attack set a chemical tanker on fire off Romania's coast, according to naval officials.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Moscow said it had hit two cargo ships carrying military cargo heading to Ukraine's Odesa port, without naming them.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Ukrainian officials were still working to clarify the reasons and circumstances behind the recent restrictions on U.S. support, including whether limits on Starlink drone operations had been fully lifted.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-houthi-missile-attack-on-yemeni-presidential-pal",
+          "section": "world",
+          "headline": "Houthi missile attack on Yemen's presidential palace in Aden kills five",
+          "beat_label": "Yemen Conflict",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "Five people were killed and 16 wounded when Houthi rebels fired five ballistic missiles at the presidential palace in the southern Yemeni port city of Aden on Thursday, officials said, in a rare attack on the seat of the internationally recognised government. The missiles hit the al-Maashiq Palace, where Prime Minister Shaya al-Zindani and other ministers were unharmed, Information Minister Moammar al-Eryani told the BBC. Houthi military spokesman Yahya Sarea said the strike targeted what he called \"the Saudi enemy's military operations headquarters in Aden\", and Houthi-affiliated media said it hit a military operations headquarters led by Saudi officers as well as weapons depots at the palace.",
+            "Yemeni Health Minister Qasim Buhaibeh said the casualties included \"those working to guard the site and civilian employees\". Yemen's Information Ministry said two members of the prime minister's security detail were killed, while other reports citing government officials put the wounded at 10. Prime Minister Zindani condemned the attack as \"cowardly\" and a \"continuation of their criminal behaviour\", saying the government would continue to carry out its duties and that the assault would not weaken the resolve of its forces to continue operations against the Houthis on Yemen's south-western Red Sea coast and other front lines.",
+            "The attack came as the Houthis denied launching a missile at Saudi Arabia's Medina region on Thursday, after the Saudi-led coalition said it had intercepted a cruise missile over the area, home to one of Islam's holiest shrines. The Houthis have previously pledged not to attack airports in the holy cities of Mecca and Medina. Saudi authorities separately said a drone was destroyed over the oil-producing Eastern Province. The coalition said the Houthis have carried out 20 attacks this month on Riyadh's King Khaled International Airport, killing 17 people; a strike last Saturday killed 13 and wounded about 300, in the deadliest attack on Saudi Arabia in more than a decade. The UN Security Council condemned the Houthi attacks \"in the strongest terms\", calling strikes on civilian airports and other facilities \"reckless\".",
+            "Saudi Deputy Foreign Minister Rayed Krimly accused Iran of encouraging the escalation. \"Iran continues to arm, train and support the Houthi militia in violation of UN Security Council resolutions,\" he told reporters, adding: \"We think that the escalation by the Houthis at this latest stage of the conflict is encouraged by Iran.\" There was no immediate response from Iran's government. Tehran has previously denied supplying weapons to the Houthis and said it supports them only politically; Iran's foreign minister has said Tehran is ready to provide \"any assistance necessary to facilitate the start of talks\" between Saudi Arabia and the Houthis.",
+            "Aden has been the interim seat of the internationally recognised government since 2014, when the Iran-backed Houthis ousted the government from the capital, Sanaa. The conflict escalated in 2015, when a Saudi-led coalition of Arab states intervened to try to restore the government's rule. A four-year informal ceasefire began to unravel in July, when the Houthis announced a \"maritime embargo\" against Saudi Arabia and began launching missiles and drones at Saudi airports, oil facilities and tankers in the Red Sea in retaliation for what they called a Saudi blockade of their territory, and an air strike on Sanaa airport they blamed on the kingdom. The war escalated further in September, when the Houthis seized part of Yemen's south-western Red Sea coast near the Bab al-Mandab Strait, a chokepoint for global shipping, contributing to a rise in oil prices amid the wider war between the US, Israel and Iran. Last week, pro-government forces said they had regained control of territory overlooking the strait after a counter-offensive supported by Saudi air strikes. Yemen's health ministry says at least 1,282 people have been killed and 5,890 injured in the fighting since 6 August; the UN says another 201,000 people have been displaced and that there has been an alarming surge in suspected cholera cases.",
+            "Elsewhere in the region, Iran's military said an oil tanker caught fire in the Gulf of Oman on Thursday, south of the Strait of Hormuz, after trying to pass through a \"prohibited\" area; the US military had not commented. The incident came a day after Iran's Revolutionary Guards said a cargo vessel sank in the strait after striking a mine. Singapore's Maritime and Port Authority said the Singapore-flagged container ship GFS Pride was hit by \"unknown projectiles\" on Tuesday and sank — CNN cited expert assessment that a drone strike likely caused the sinking — while a second vessel, the GFS Giselle, was damaged but reached safe anchorage. The authority called the attacks \"unprovoked, unjustifiable, and a breach of international law\". According to the International Maritime Organization, the GFS Pride was one of only two ships sunk among 114 reported incidents in the Strait of Hormuz since the US launched its war with Iran in February."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "DW",
+            "thenationalnews.com",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880"
+            },
+            {
+              "outlet": "thenationalnews.com",
+              "url": "https://www.thenationalnews.com/news/mena/2026/10/16/live-houthi-attacks-saudi-arabia-yemen/"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Five people were killed in a Houthi missile attack on the presidential palace in Aden on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "16 people were wounded in a Houthi missile attack on the presidential palace in Aden on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Houthi rebels fired five ballistic missiles at the presidential palace in Aden on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The attack occurred in the southern Yemeni port city of Aden.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Officials said the attack was a rare attack on the seat of the internationally recognised government.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The missiles hit the al-Maashiq Palace.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Prime Minister Shaya al-Zindani was unharmed in the attack.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Other ministers were unharmed in the attack.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Information Minister Moammar al-Eryani told the BBC that the prime minister and other ministers were unharmed.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Houthi military spokesman Yahya Sarea said the strike targeted what he called 'the Saudi enemy's military operations headquarters in Aden'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Houthi-affiliated media said the strike hit a military operations headquarters led by Saudi officers.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Houthi-affiliated media said the strike hit weapons depots at the palace.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Yemeni Health Minister Qasim Buhaibeh said the casualties included 'those working to guard the site and civilian employees'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Yemen's Information Ministry said two members of the prime minister's security detail were killed.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Other reports citing government officials put the wounded at 10.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Prime Minister Zindani condemned the attack as 'cowardly'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Prime Minister Zindani condemned the attack as a 'continuation of their criminal behaviour'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Prime Minister Zindani said the government would continue to carry out its duties.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Prime Minister Zindani said the assault would not weaken the resolve of its forces to continue operations against the Houthis on Yemen's south-western Red Sea coast and other front lines.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Houthis denied launching a missile at Saudi Arabia's Medina region on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition said it had intercepted a cruise missile over the Medina region.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Houthis have previously pledged not to attack airports in the holy cities of Mecca and Medina.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Saudi authorities separately said a drone was destroyed over the oil-producing Eastern Province.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The coalition said the Houthis have carried out 20 attacks this month on Riyadh's King Khaled International Airport.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The coalition said those attacks killed 17 people.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A strike last Saturday killed 13 and wounded about 300.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The UN Security Council condemned the Houthi attacks 'in the strongest terms'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The UN Security Council called strikes on civilian airports and other facilities 'reckless'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Saudi Deputy Foreign Minister Rayed Krimly accused Iran of encouraging the escalation.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Rayed Krimly said 'Iran continues to arm, train and support the Houthi militia in violation of UN Security Council resolutions'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Rayed Krimly said 'We think that the escalation by the Houthis at this latest stage of the conflict is encouraged by Iran'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "There was no immediate response from Iran's government.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Tehran has previously denied supplying weapons to the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Tehran has said it supports the Houthis only politically.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's foreign minister has said Tehran is ready to provide 'any assistance necessary to facilitate the start of talks' between Saudi Arabia and the Houthis.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Aden has been the interim seat of the internationally recognised government since 2014.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Iran-backed Houthis ousted the government from the capital, Sanaa, in 2014.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The conflict escalated in 2015 when a Saudi-led coalition of Arab states intervened to try to restore the government's rule.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A four-year informal ceasefire began to unravel in July.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In July, the Houthis announced a 'maritime embargo' against Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Houthis began launching missiles and drones at Saudi airports, oil facilities and tankers in the Red Sea in retaliation for what they called a Saudi blockade of their territory.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Houthis retaliated for an air strike on Sanaa airport they blamed on the kingdom.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The war escalated further in September when the Houthis seized part of Yemen's south-western Red Sea coast near the Bab al-Mandab Strait.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The Bab al-Mandab Strait is a chokepoint for global shipping.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The escalation contributed to a rise in oil prices amid the wider war between the US, Israel and Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Last week, pro-government forces said they had regained control of territory overlooking the strait after a counter-offensive supported by Saudi air strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Yemen's health ministry says at least 1,282 people have been killed in the fighting since 6 August.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Yemen's health ministry says 5,890 people have been injured in the fighting since 6 August.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The UN says another 201,000 people have been displaced.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The UN says there has been an alarming surge in suspected cholera cases.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's military said an oil tanker caught fire in the Gulf of Oman on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The tanker fire occurred south of the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's military said the tanker caught fire after trying to pass through a 'prohibited' area.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The US military had not commented on the tanker fire.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Iran's Revolutionary Guards said a cargo vessel sank in the Strait of Hormuz after striking a mine on Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Singapore's Maritime and Port Authority said the Singapore-flagged container ship GFS Pride was hit by 'unknown projectiles' on Tuesday and sank.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "CNN cited expert assessment that a drone strike likely caused the sinking of the GFS Pride.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A second vessel, the GFS Giselle, was damaged but reached safe anchorage.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Singapore's Maritime and Port Authority called the attacks 'unprovoked, unjustifiable, and a breach of international law'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "According to the International Maritime Organization, the GFS Pride was one of only two ships sunk among 114 reported incidents in the Strait of Hormuz since the US launched its war with Iran in February.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-wholesale-prices-jump-6-3-in-september-biggest-g",
+          "section": "markets",
+          "headline": "Wholesale Prices Jump 6.3% in September, Biggest Annual Gain Since 2022",
+          "beat_label": "Inflation",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Wholesale prices in the U.S. jumped more than expected in September, with the producer price index rising 1.3% from August and 6.3% from a year earlier, the Bureau of Labor Statistics reported Thursday. The monthly gain was the largest since March 2022 — more than double the 0.6% economists had forecast — and the annual increase was the biggest since December 2022, far exceeding the 5.5% expected.",
+            "The surge was led by a 20% jump in gasoline prices, as the U.S. war with Iran curtailed oil supplies. The core producer price index, which excludes food and energy, rose 0.7% for the month and 5% from a year earlier. Even stripping out food, energy, and trade services, prices advanced 0.5%, a sign the inflation was broader than energy alone. The BLS said nearly half of September's increase in processed goods for immediate demand was tied to rising diesel fuel costs.",
+            "The data follow several days of hot inflation readings. Wednesday's consumer price index rose 0.6% in September, matching expectations, and 3.7% from a year earlier, above the 3.6% forecast; excluding food and energy, core CPI rose 0.3% monthly and 2.6% annually, both topping estimates. The Federal Reserve's Beige Book, published Wednesday, contained the highest number of inflation-related mentions on record, according to Bespoke Investment Group. Also Thursday, the government said retail sales grew 0.8% in September, beating the 0.4% expected but slowing from the prior month's rise of more than 1%, and excluding autos and gas stations, sales rose just 0.25% — a pullback from about 1.1% — suggesting consumers are trimming other spending amid high fuel prices.",
+            "Traders reacted by raising bets on Fed rate increases. Fed funds futures showed roughly a 29% probability of a hike at the central bank's Oct. 28 meeting, while CME FedWatch data put the odds at nearly 34%, up from under 18% a week earlier. About 90% of traders expect at least one hike by the end of the year. \"With a second day in a row of higher-than-expected inflation numbers, it seems the Fed will have no choice but to raise rates again this year,\" said Chris Zaccarelli, investing chief at Northlight Asset Management.",
+            "Wall Street economists now expect the Fed's preferred inflation measure to accelerate as well. An average of seven estimates compiled by CNBC forecasts the core personal consumption expenditures price index rose 0.32% in September, up from 0.25% in August, which would push the annual core rate to 3.1% from 3.01%. Estimates ranged from Barclays' 0.35% to Oxford Economics' 0.29%. \"We see real risks the Fed will deliver another rate hike in two weeks' time even as recent Fedspeak tempered expectations for back-to-back increases,\" said Kathy Bostjancic, chief economist at Nationwide. Alex Pelle, senior U.S. economist at Mizuho Securities, wrote: \"The picture is not benign with inflation elevated and intensifying. On the economic data alone, there is little reason for the Fed to hesitate to continue moving the policy rate higher.\"",
+            "The Fed favors the PCE gauge because it believes it more closely mirrors how Americans actually spend and adjusts its weightings as consumers change their behavior. Chairman Kevin Warsh has said one test for holding off on a hike is confidence that inflation will return in a timely way to the Fed's 2% target. Both headline and core PCE have been above target since 2021, inched steadily higher since tariffs were introduced in April 2025, and accelerated since the Iran war began. Several Fed officials have argued the central bank does not need to hurry, though they have said more hikes are needed. Thursday's figures are among the last major inflation readings before the midterm election, which could shift the balance of power in Washington."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Bureau of Labor Statistics reported Thursday that the producer price index rose 1.3% from August in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The Bureau of Labor Statistics reported Thursday that the producer price index rose 6.3% from a year earlier in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Wholesale prices in the U.S. jumped more than expected in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "Economists had forecast a 0.6% monthly increase in the producer price index for September.",
+                "status": "supported",
+                "source_ids": [
+                  "Economists"
+                ]
+              },
+              {
+                "text": "The September monthly PPI gain was the largest since March 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The September monthly PPI gain was more than double the 0.6% economists had forecast.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "Economists had expected a 5.5% annual increase in the producer price index for September.",
+                "status": "supported",
+                "source_ids": [
+                  "Economists"
+                ]
+              },
+              {
+                "text": "The September annual PPI increase was the biggest since December 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The September annual PPI increase far exceeded the 5.5% economists expected.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "A 20% jump in gasoline prices led the September producer price index surge.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The U.S. war with Iran curtailed oil supplies.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The core producer price index excludes food and energy.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The core producer price index rose 0.7% from August in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The core producer price index rose 5% from a year earlier in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Prices excluding food, energy, and trade services advanced 0.5% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The 0.5% advance excluding food, energy, and trade services was a sign that inflation was broader than energy alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The BLS said nearly half of September's increase in processed goods for immediate demand was tied to rising diesel fuel costs.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "The PPI data followed several days of hot inflation readings.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Wednesday's consumer price index rose 0.6% in September from August, matching expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "Wednesday's consumer price index rose 3.7% in September from a year earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Economists had forecast a 3.6% annual increase in the consumer price index for September.",
+                "status": "supported",
+                "source_ids": [
+                  "Economists"
+                ]
+              },
+              {
+                "text": "The September annual CPI rise of 3.7% was above the 3.6% forecast.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "Excluding food and energy, the core CPI rose 0.3% in September from August.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Excluding food and energy, the core CPI rose 2.6% in September from a year earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics"
+                ]
+              },
+              {
+                "text": "Both the monthly and annual core CPI readings topped estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "Bureau of Labor Statistics",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "The Federal Reserve's Beige Book was published Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "According to Bespoke Investment Group, the Federal Reserve's Beige Book contained the highest number of inflation-related mentions on record.",
+                "status": "supported",
+                "source_ids": [
+                  "Bespoke Investment Group"
+                ]
+              },
+              {
+                "text": "The government said retail sales grew 0.8% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. government"
+                ]
+              },
+              {
+                "text": "The 0.8% September retail sales growth beat the 0.4% expected.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. government",
+                  "Economists"
+                ]
+              },
+              {
+                "text": "September retail sales growth slowed from the prior month's rise of more than 1%.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. government"
+                ]
+              },
+              {
+                "text": "Excluding autos and gas stations, retail sales rose 0.25% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. government"
+                ]
+              },
+              {
+                "text": "Excluding autos and gas stations, retail sales growth was a pullback from about 1.1% in the prior month.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. government"
+                ]
+              },
+              {
+                "text": "The retail sales data suggested consumers are trimming other spending amid high fuel prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Traders reacted to the inflation data by raising bets on Fed rate increases.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Fed funds futures showed roughly a 29% probability of a rate hike at the Federal Reserve's October 28 meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "Fed funds futures"
+                ]
+              },
+              {
+                "text": "CME FedWatch data put the odds of a rate hike at the Federal Reserve's October 28 meeting at nearly 34%.",
+                "status": "supported",
+                "source_ids": [
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "The CME FedWatch odds of a rate hike at the October 28 meeting were up from under 18% a week earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "CME FedWatch"
+                ]
+              },
+              {
+                "text": "About 90% of traders expect at least one Fed rate hike by the end of the year.",
+                "status": "supported",
+                "source_ids": [
+                  "Traders"
+                ]
+              },
+              {
+                "text": "Chris Zaccarelli, investing chief at Northlight Asset Management, said that with a second day in a row of higher-than-expected inflation numbers, it seems the Fed will have no choice but to raise rates again this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Northlight Asset Management"
+                ]
+              },
+              {
+                "text": "Wall Street economists expect the Fed's preferred inflation measure to accelerate.",
+                "status": "supported",
+                "source_ids": [
+                  "Economists"
+                ]
+              },
+              {
+                "text": "An average of seven estimates compiled by CNBC forecasts that the core personal consumption expenditures price index rose 0.32% in September.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The estimated September core PCE monthly increase is up from 0.25% in August.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "The estimated September core PCE increase would push the annual core rate to 3.1% from 3.01%.",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Estimates for the September core PCE price index ranged from Barclays' 0.35% to Oxford Economics' 0.29%.",
+                "status": "supported",
+                "source_ids": [
+                  "Barclays",
+                  "Oxford Economics"
+                ]
+              },
+              {
+                "text": "Kathy Bostjancic, chief economist at Nationwide, said they see real risks that the Fed will deliver another rate hike in two weeks' time even as recent Fedspeak tempered expectations for back-to-back increases.",
+                "status": "supported",
+                "source_ids": [
+                  "Nationwide"
+                ]
+              },
+              {
+                "text": "Alex Pelle, senior U.S. economist at Mizuho Securities, wrote that the picture is not benign with inflation elevated and intensifying and that on the economic data alone, there is little reason for the Fed to hesitate to continue moving the policy rate higher.",
+                "status": "supported",
+                "source_ids": [
+                  "Mizuho Securities"
+                ]
+              },
+              {
+                "text": "The Fed favors the PCE gauge.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "The Fed believes the PCE gauge more closely mirrors how Americans actually spend.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "The Fed believes the PCE gauge adjusts its weightings as consumers change their behavior.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "Federal Reserve Chairman Kevin Warsh has said one test for holding off on a hike is confidence that inflation will return in a timely way to the Fed's 2% target.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "Both headline and core PCE have been above the Fed's 2% target since 2021.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "Tariffs were introduced in April 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Both headline and core PCE inched steadily higher since tariffs were introduced in April 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Both headline and core PCE accelerated since the Iran war began.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Several Fed officials have argued the central bank does not need to hurry.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "Several Fed officials have said more hikes are needed.",
+                "status": "supported",
+                "source_ids": [
+                  "Federal Reserve"
+                ]
+              },
+              {
+                "text": "Thursday's figures are among the last major inflation readings before the midterm election.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The midterm election could shift the balance of power in Washington.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,734.14",
+            "chg": "−0.87%",
+            "dir": "down",
+            "spark": "1.5,7.0 8.3,1.5 15.2,2.0 22.0,2.2 28.8,12.5 35.7,9.5 42.5,10.7"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,508.72",
+            "chg": "−3.74%",
+            "dir": "down",
+            "spark": "1.5,3.7 8.3,1.5 15.2,3.0 22.0,3.6 28.8,10.1 35.7,9.9 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "52,400.34",
+            "chg": "+2.38%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,8.5 15.2,6.7 22.0,8.4 28.8,8.8 35.7,3.6 42.5,1.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,766.29",
+            "chg": "−0.96%",
+            "dir": "down",
+            "spark": "1.5,3.3 8.3,1.5 15.2,3.3 22.0,4.9 28.8,12.5 35.7,7.1 42.5,7.3"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.09%",
+            "chg": "-14 bp",
+            "dir": "down",
+            "spark": "1.5,2.4 8.3,1.5 15.2,1.8 22.0,3.4 28.8,5.3 35.7,12.5 42.5,12.1"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$95.78",
+            "chg": "+4.28%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,9.1 17.9,8.4 26.1,6.7 34.3,1.5 42.5,5.4"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,209.70",
+            "chg": "−0.16%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,4.1 17.9,5.5 26.1,12.5 34.3,6.2 42.5,2.2"
+          },
+          {
+            "sym": "BTC",
+            "val": "$81,867",
+            "chg": "−1.26%",
+            "dir": "down",
+            "spark": "1.5,5.5 8.3,1.5 15.2,11.5 22.0,4.5 28.8,12.5 35.7,9.5 42.5,10.9"
+          },
+          {
+            "sym": "VIX",
+            "val": "16.0",
+            "chg": "+3.63%",
+            "dir": "up",
+            "spark": "1.5,9.4 8.3,12.5 15.2,10.5 22.0,10.2 28.8,1.5 35.7,3.7 42.5,6.4"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−15.8%",
+            "dir": "down"
+          },
+          {
+            "sym": "WMT",
+            "chg": "+10.2%",
+            "dir": "up"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−10.2%",
+            "dir": "down"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "−8.84%",
+            "dir": "down"
+          },
+          {
+            "sym": "V",
+            "chg": "+8.34%",
+            "dir": "up"
+          },
+          {
+            "sym": "XOM",
+            "chg": "+7.30%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "10:11 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-brewers-sweep-dodgers-to-reach-world-series-for-",
+          "section": "sports",
+          "headline": "Brewers sweep Dodgers to reach World Series for first time since 1982",
+          "beat_label": "MLB",
+          "byline": "Sports desk",
+          "body": [
+            "The Milwaukee Brewers swept the Los Angeles Dodgers in four games in the National League Championship Series, sending the two-time defending World Series champions home and clinching their first World Series appearance since 1982. Thursday's Game 4 loss ended the Dodgers' run of eight consecutive postseason series wins dating back to 2024, a stunningly swift exit for a team that had been baseball's dominant club of the decade.",
+            "Shohei Ohtani, the Dodgers' two-way star, played through a difficult second half and postseason, and after the loss he addressed his health and whether he might need surgery. He was placed on the injured list in mid-September with right biceps inflammation and returned for the final week of the regular season, but he managed just a .630 OPS in eight playoff games. His second-inning home run in Game 4 was his first since Aug. 18 and his only extra-base hit of the postseason. Asked whether he might need surgery, Ohtani said through an interpreter, \"Hard to tell at this point,\" adding that the team would analyze the situation in the offseason. He also said he plans to pitch in 2027: \"Yes, definitely. Looking forward to having a better season next year.\"",
+            "The Dodgers' exit has put the roster under scrutiny. According to CBS Sports, Los Angeles fielded the oldest collection of position players in baseball this season when weighted by playing time, including Will Smith (31), Ohtani (32), Mookie Betts (34), Teoscar Hernández (34), and Freddie Freeman (37). The club could look to move on from some longtime contributors, including Teoscar Hernández, Enrique Hernández, Max Muncy, and bullpen arms such as Blake Treinen and Alex Vesia, in an effort to get younger and more athletic, though free-agent market dynamics and contracts complicate some decisions.",
+            "Another pressing question is the future of Tarik Skubal, the team's major trade-deadline addition. Skubal declined to discuss his plans after Game 4, saying, \"I'm not going to comment on my future really at all. Today sucks, you know, and that's kind of where my head's at.\" The Dodgers have the financial resources to re-sign him, according to CBS Sports, but they already have Tyler Glasnow, Blake Snell, and Yoshinobu Yamamoto returning, with Ohtani expected back on the mound as well. Whether a new collective bargaining agreement or other spending constraints affect the club's ability to make a competitive offer remains an open issue.",
+            "For the Brewers, the sweep was a breakthrough after more than four decades without a pennant. The Dodgers, meanwhile, face the first real uncertainty of their recent dynasty, with an aging core, Ohtani's health questions, and a pivotal offseason ahead."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports",
+            "CBS Sports",
+            "NYT",
+            "Bleacher Report",
+            "FOX Sports",
+            "Sportico.com"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/shohei-ohtani-revealed-injuries-nlcs-135402168.html"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/mlb/news/whats-next-dodgers-questions-shohei-ohtani-tarik-skubal/"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-dodgers-live-updates-mlb-playoffs-game-4-score-result/h62TVnxCQjWn/",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bleacher Report",
+              "url": "https://bleacherreport.com/articles/25511911-2026-dodgers-and-top-10-most-expensive-mlb-payrolls-didnt-win-world-series"
+            },
+            {
+              "outlet": "FOX Sports",
+              "url": "https://www.foxsports.com/watch/fmc-1acw5katiwiq7whv"
+            },
+            {
+              "outlet": "Sportico.com",
+              "url": "https://www.sportico.com/business/media/2026/world-series-ratings-projection-mlb-small-market-1234952310/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Milwaukee Brewers swept the Los Angeles Dodgers in four games in the National League Championship Series.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Los Angeles Dodgers were the two-time defending World Series champions at the time of the NLCS.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Brewers clinched their first World Series appearance since 1982.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dodgers lost Game 4 on Thursday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dodgers' loss in Game 4 ended their run of eight consecutive postseason series wins.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dodgers' eight consecutive postseason series wins dated back to 2024.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Shohei Ohtani is a two-way player for the Dodgers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "After the Game 4 loss, Ohtani addressed his health and whether he might need surgery.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani was placed on the injured list in mid-September with right biceps inflammation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani returned for the final week of the regular season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani had a .630 OPS in eight playoff games.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani hit a home run in the second inning of Game 4.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani's home run in Game 4 was his first since Aug. 18.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani's home run in Game 4 was his only extra-base hit of the postseason.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani was asked whether he might need surgery.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani said through an interpreter, \"Hard to tell at this point.\"",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani added that the team would analyze the situation in the offseason.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani said he plans to pitch in 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani said \"Yes, definitely\" when asked about pitching in 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani said \"Looking forward to having a better season next year.\"",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dodgers' exit put the roster under scrutiny.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to CBS Sports, Los Angeles fielded the oldest collection of position players in baseball this season when weighted by playing time.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "According to CBS Sports, Will Smith is 31 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "According to CBS Sports, Shohei Ohtani is 32 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "According to CBS Sports, Mookie Betts is 34 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "According to CBS Sports, Teoscar Hernández is 34 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "According to CBS Sports, Freddie Freeman is 37 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The club could look to move on from some longtime contributors, including Teoscar Hernández, Enrique Hernández, Max Muncy, and bullpen arms such as Blake Treinen and Alex Vesia.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The club's effort is to get younger and more athletic.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Free-agent market dynamics and contracts complicate some roster decisions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tarik Skubal is the Dodgers' major trade-deadline addition.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Skubal declined to discuss his plans after Game 4.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Skubal said \"I'm not going to comment on my future really at all. Today sucks, you know, and that's kind of where my head's at.\"",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to CBS Sports, the Dodgers have the financial resources to re-sign Skubal.",
+                "status": "supported",
+                "source_ids": [
+                  "CBS Sports"
+                ]
+              },
+              {
+                "text": "The Dodgers already have Tyler Glasnow, Blake Snell, and Yoshinobu Yamamoto returning.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ohtani is expected back on the mound as well.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Whether a new collective bargaining agreement or other spending constraints affect the club's ability to make a competitive offer remains an open issue.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Before this sweep, the Brewers had gone more than four decades without a pennant.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.85
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": []
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-iphone-duo-preorders-open-at-1-999-deliveries-sl",
+          "section": "tech-ai",
+          "headline": "iPhone Duo preorders open at $1,999, deliveries slip to 2027",
+          "beat_label": "Apple",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Apple opened preorders for its first foldable iPhone, the iPhone Duo, at 8AM ET on Friday — and delivery estimates slipped into 2027 within less than an hour. The phone starts at $1,999 for the 256GB model, and every configuration on Apple's website was showing late January delivery dates as of this writing.",
+            "The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event alongside the iPhone 18 Pro and the Apple Watch Series 12 and Ultra 4 models. It features a 5.4-inch outer screen and unfolds into a 7.6-inch Super Retina XDR display, with Apple Pencil support arriving later this year. Instead of Face ID, the Duo has a Touch ID sensor along its edge, and it carries an IP68 rating, Ceramic Shield 2 on its back, and Ceramic Shield on the front display. It runs on the same A20 Pro chipset as the iPhone 18 Pro and includes the same 48-megapixel fusion camera, although without variable aperture. The foldable comes in Star White and Night Sky and launches in stores on Friday, October 23rd, with unlocked preorders available from Apple and Best Buy.",
+            "The rapid delivery slip could be due to high demand for Apple's first foldable, low supply, or a combination of both. Apple typically reserves some units for in-store availability, so while online orders are delayed, shoppers might be able to get one sooner at an Apple Store. The Duo was announced in September and features the shorter passport-style design Samsung introduced earlier this year.",
+            "Carrier deals are available alongside Apple's preorder. AT&T is offering new and existing customers up to $1,200 off the iPhone Duo with a qualifying trade-in via 36 monthly bill credits; customers switching to AT&T can receive up to $800 through a reward card to help pay off their existing phone balance, and those activating a new eligible line online can save up to $200 per line. T-Mobile will provide up to $1,000 off with eligible trade-ins on an Experience Beyond or Go5G Next plan, or the same discount without a trade-in when adding a new line and switching from another carrier. Verizon is waiving its $40 activation fee for new customers who preorder, offering the phone at $55.55 per month over 36 months at 0% APR, or a $72.22-per-month Simplicity Pro package that bundles perks like two extra TravelPass days per month and allows upgrades up to two times within a rolling 12-month period.",
+            "Preorders remain open on Apple's website, but customers ordering now face a long wait before they get the device. The delivery delays underline both the anticipation for Apple's first foldable — one of the most highly awaited phones in years — and the possibility of supply constraints as the October 23rd launch approaches."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Apple opened preorders for the iPhone Duo at 8AM ET on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo is Apple's first foldable iPhone.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Delivery estimates for the iPhone Duo slipped into 2027 within less than an hour of preorders opening.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo starts at $1,999 for the 256GB model.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "As of this writing, every configuration on Apple's website was showing late January delivery dates.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo was unveiled during Apple's \"Surprise and shine\" event.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo was unveiled alongside the iPhone 18 Pro.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo was unveiled alongside the Apple Watch Series 12.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo was unveiled alongside the Apple Watch Ultra 4.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo features a 5.4-inch outer screen.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo unfolds into a 7.6-inch Super Retina XDR display.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Apple Pencil support for the iPhone Duo is arriving later this year.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo has a Touch ID sensor along its edge instead of Face ID.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo has an IP68 rating.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo has Ceramic Shield 2 on its back.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo has Ceramic Shield on its front display.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo runs on the same A20 Pro chipset as the iPhone 18 Pro.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo includes the same 48-megapixel fusion camera as the iPhone 18 Pro.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo's 48-megapixel fusion camera does not have variable aperture.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo comes in Star White and Night Sky.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo launches in stores on Friday, October 23rd.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Unlocked preorders for the iPhone Duo are available from Apple and Best Buy.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The rapid delivery slip could be due to high demand for Apple's first foldable, low supply, or a combination of both.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Apple typically reserves some units for in-store availability.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Online orders for the iPhone Duo are delayed.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Shoppers might be able to get an iPhone Duo sooner at an Apple Store while online orders are delayed.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo was announced in September.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The iPhone Duo features the shorter passport-style design.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Samsung introduced the shorter passport-style design earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Carrier deals are available alongside Apple's preorder.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "AT&T is offering new and existing customers up to $1,200 off the iPhone Duo with a qualifying trade-in via 36 monthly bill credits.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Customers switching to AT&T can receive up to $800 through a reward card to help pay off their existing phone balance.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Those activating a new eligible line online with AT&T can save up to $200 per line.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "T-Mobile will provide up to $1,000 off with eligible trade-ins on an Experience Beyond or Go5G Next plan.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "T-Mobile will provide up to $1,000 off without a trade-in when adding a new line and switching from another carrier.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Verizon is waiving its $40 activation fee for new customers who preorder.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Verizon is offering the iPhone Duo at $55.55 per month over 36 months at 0% APR.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Verizon offers a $72.22-per-month Simplicity Pro package.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Simplicity Pro package bundles perks like two extra TravelPass days per month.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Simplicity Pro package allows upgrades up to two times within a rolling 12-month period.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Preorders remain open on Apple's website.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Customers ordering now face a wait before they get the device.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85
+        },
+        {
+          "id": "tech-ai-targeted-ads-found-delivering-zero-click-spyware",
+          "section": "tech-ai",
+          "headline": "Targeted ads delivered zero-click spyware to Al Jazeera devices, Citizen Lab finds",
+          "beat_label": "Cybersecurity",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Security researchers at the University of Toronto's Citizen Lab have uncovered what they say is the first confirmed case of mercenary spyware delivered through online targeted ads — a campaign dubbed \"AdFection\" that infected 45 devices at international media organization Al Jazeera in 2024 and 2025 without targets having to click or open anything. In a report published Thursday, the lab said the zero-click attacks worked on iOS and Android and were invisible unless users ran specialized forensic software or hardware.",
+            "The ads were brokered by Discover-Tech, an Israeli company that brands itself as a legitimate advertising firm but, according to Citizen Lab, operates as a \"bridge between ad vendors and the mercenary spyware ecosystem\" — a role that appears to be Discover-Tech's primary purpose. At least two makers of zero-click spyware, Candiru and Bindecy, used the company's platform, called Controlium, to target people. The Al Jazeera infections came via Candiru's spyware; TechCrunch reported the affected devices were 45 Windows computers.",
+            "Citizen Lab said it obtained more than 4 billion bidding records handled by Discover-Tech, which revealed its ads were displayed in over 70,000 mobile apps and more than 120,000 websites between March and June 2026. The ad-bidding process allows brokers to use a user's unique mobile ID, location, IP address, and other data to assemble detailed profiles of millions of people. The bidding records showed ads were shown on devices used by militaries, governments, critical infrastructure, and national cyber agencies, though it was unclear whether those ads resulted in infection.",
+            "The researchers found that Discover-Tech's Controlium platform left some source code exposed on its login pages, allowing Citizen Lab to recreate its web-based control panel without logging in; the dashboard \"appears to be specifically designed to allow them to push malicious content to individual targeted users alongside advertisements.\" A publicly accessible part of Discover-Tech's site also allowed researchers to download login records without a password, including credentials belonging to at least two Candiru employees and some from Bindecy. Ad quality firm Confiant, which worked with Citizen Lab, separately found evidence that potentially malicious ads were shown on the networks of the International Atomic Energy Agency and the International Criminal Court.",
+            "\"There has been a lot of buzz that online ads can be used to identify and automatically hack targets with pinpoint precision, but now for the first time, we have concrete technical evidence showing this process in action,\" said Bill Marczak, a senior researcher at Citizen Lab. He said Discover-Tech is \"surely just the tip of the iceberg\" and urged people who might be targeted to \"disable ad tracking on your devices or even block ads altogether.\" While so-called malvertising is not new, using online ads to deliver powerful government-grade spyware that silently hacks devices is a notable escalation.",
+            "Citizen Lab called the investigation \"a clear warning signal to news organizations around the world that they may be being actively targeted via this new threat,\" including \"both in newsrooms and to individual journalists, editors, and other staff members.\" The report added that \"the distribution of spyware via targeted ads represents a security risk not only for potential victims but also for states and civil society at large.\" Al Jazeera did not respond to a request for comment, nor did Discover-Tech; Candiru maker Integrity Labs could not be reached. It was not clear which governments were behind the attacks."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Security researchers at Citizen Lab said they uncovered the first confirmed case of mercenary spyware delivered through online targeted ads.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The campaign is dubbed AdFection.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The campaign infected 45 devices at international media organization Al Jazeera in 2024 and 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The infections occurred without targets having to click or open anything.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab published a report on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab said the zero-click attacks worked on iOS and Android.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab said the attacks were invisible unless users ran specialized forensic software or hardware.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The ads were brokered by Discover-Tech.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Discover-Tech is an Israeli company.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Discover-Tech brands itself as a legitimate advertising firm.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Citizen Lab said Discover-Tech operates as a bridge between ad vendors and the mercenary spyware ecosystem.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The role as a bridge between ad vendors and the mercenary spyware ecosystem appears to be Discover-Tech's primary purpose.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "At least two makers of zero-click spyware, Candiru and Bindecy, used Discover-Tech's platform called Controlium to target people.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The Al Jazeera infections came via Candiru's spyware.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "TechCrunch reported that the affected devices were 45 Windows computers.",
+                "status": "supported",
+                "source_ids": [
+                  "TechCrunch"
+                ]
+              },
+              {
+                "text": "Citizen Lab said it obtained more than 4 billion bidding records handled by Discover-Tech.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The bidding records revealed that Discover-Tech's ads were displayed in over 70,000 mobile apps and more than 120,000 websites between March and June 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The ad-bidding process allows brokers to use a user's unique mobile ID, location, IP address, and other data to assemble detailed profiles of millions of people.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The bidding records showed ads were shown on devices used by militaries, governments, critical infrastructure, and national cyber agencies.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "It was unclear whether those ads resulted in infection.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Researchers found that Discover-Tech's Controlium platform left some source code exposed on its login pages.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab was able to recreate Controlium's web-based control panel without logging in because of the exposed source code.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab said the dashboard appears to be specifically designed to allow them to push malicious content to individual targeted users alongside advertisements.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "A publicly accessible part of Discover-Tech's site allowed researchers to download login records without a password.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "The login records included credentials belonging to at least two Candiru employees and some from Bindecy.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Confiant, an ad quality firm, worked with Citizen Lab.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Confiant separately found evidence that potentially malicious ads were shown on the networks of the International Atomic Energy Agency and the International Criminal Court.",
+                "status": "supported",
+                "source_ids": [
+                  "Confiant"
+                ]
+              },
+              {
+                "text": "Bill Marczak is a senior researcher at Citizen Lab.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bill Marczak said there has been a lot of buzz that online ads can be used to identify and automatically hack targets with pinpoint precision, but now for the first time there is concrete technical evidence showing this process in action.",
+                "status": "supported",
+                "source_ids": [
+                  "Bill Marczak (Citizen Lab)"
+                ]
+              },
+              {
+                "text": "Bill Marczak said Discover-Tech is surely just the tip of the iceberg.",
+                "status": "supported",
+                "source_ids": [
+                  "Bill Marczak (Citizen Lab)"
+                ]
+              },
+              {
+                "text": "Bill Marczak urged people who might be targeted to disable ad tracking on their devices or even block ads altogether.",
+                "status": "supported",
+                "source_ids": [
+                  "Bill Marczak (Citizen Lab)"
+                ]
+              },
+              {
+                "text": "So-called malvertising is not new.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Citizen Lab called the investigation a clear warning signal to news organizations around the world that they may be being actively targeted via this new threat, including both in newsrooms and to individual journalists, editors, and other staff members.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Citizen Lab's report added that the distribution of spyware via targeted ads represents a security risk not only for potential victims but also for states and civil society at large.",
+                "status": "supported",
+                "source_ids": [
+                  "Citizen Lab"
+                ]
+              },
+              {
+                "text": "Al Jazeera did not respond to a request for comment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Discover-Tech did not respond to a request for comment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Integrity Labs, the maker of Candiru, could not be reached.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "It was not clear which governments were behind the attacks.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.76,
+          "image": {
+            "url": "static/img/2026-10-16/tech-ai-targeted-ads-found-delivering-zero-click-spyware.jpg",
+            "alt": "Photograph of Al Jazeera media network headquarters",
+            "credit": "Photo: Al Jazeera English / Wikimedia Commons (CC BY-SA 2.0)",
+            "license": "CC BY-SA 2.0",
+            "width": 1000,
+            "height": 562
+          }
+        },
+        {
+          "id": "tech-ai-tesla-roadster-demos-flying-and-0-60-in-under-a-",
+          "section": "tech-ai",
+          "headline": "Tesla Roadster flies, drives upside down, and hits 60 mph in under a second in Waco demo",
+          "beat_label": "Electric Vehicles",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the company said the electric supercar drove upside down, briefly flew, and accelerated from 0 to 60 mph in 0.81 seconds. CEO Elon Musk said Tesla will build the long-delayed vehicle in 2028, but he did not announce a price. The event felt more like a stunt show than a product reveal, with Musk promising the hypercar would go into production in 2028 while skipping mundane details such as release timing or cost.",
+            "In the demonstration, the Roadster drove up a tall, multi-story ramp, using downforce to cling to the vertical roadway before flipping around with cold-gas thrusters and easing itself back down. It then flew over a row of Tesla vehicles — the Model 3, Model Y, Cybertruck, Semi, and Cybercab — performing what Tesla VP of Engineering Lars Moravy called a “kick flip.” The car uses a fan-based suction system supplied by SpaceX and mounted underneath, capable of generating up to two Gs of suction force, along with attitude-control thrusters and main thrusters at the rear. Tesla said the system runs on two ultra-high-pressure air tanks with a combined volume of 600 liters containing roughly 250 kilograms of air, fed through 10 nozzles, and can recharge its own tank without specialized chemical propellant. Tesla added that “every usable void in the car is packed with Carbon Fiber Overwrapped Pressure Vessels (COPVs),” the type of vessel at the root of multiple SpaceX rocket explosions.",
+            "“So it can basically fly like a rocket,” Musk said. “It could do rolls. It could do, like, crazy gymnastics. Whatever you want, really.” He described the Roadster as “the last best driver’s car” and said the production version should improve on the demonstrated 0.81-second 0-60 time, while acknowledging the extreme forces involved. “You’ve got to crack halfway to the speed of sound, I think. Mach 0.5. Maybe a little higher,” he teased. But the company later admitted the car would not be road legal, which would require satisfying regulations from both the Federal Aviation Administration and the National Highway Traffic Safety Administration. Musk was candid about the design priorities: “This is not necessarily a safety-optimized car. But it takes the fun meter to 11 out of 10.” He has said Tesla would “aspire not to kill anyone in this car.”",
+            "Tesla’s website now lists three trims. The entry-level Performance (Road Ready) seats two, pairs active aerodynamics with a multi-mode suction system, claims a 0-60 time under 1.6 seconds, and targets more than 300 miles of range. The mid-tier Thrust (Race Ready) adds rear-mounted cold-gas thrusters, cutting 0-60 to under 0.9 seconds, and is slated for “limited release.” The flagship Rocket (Air Ready) is a single-seat model with a full perimeter-mounted array of cold-gas thrusters, enabling lateral and rotational movement in midair; Tesla claims a 0-60 time under 0.59 seconds and a top speed over 230 mph, but says it is “invite only” and “not approved for public road use.” Tesla says all three trims offer 300 miles of range and top speeds exceeding 230 mph. Reservations are open at $50,000 for Performance and $250,000 for Thrust, with Rocket available by invitation only.",
+            "The Roadster’s road to this demo spans nearly nine years. It was revealed as a surprise at Tesla’s Semi event in 2017 with promised specs of 0-60 mph in 1.9 seconds, a top speed over 250 mph, a 200 kWh battery delivering up to 620 miles of range, and a $200,000 starting price, with deliveries planned for 2020. Early adopters put down $50,000 deposits — or $250,000 for the Founders Series — but deadlines slipped as Tesla prioritized the Model Y and wrestled with the Cybertruck, cementing the Roadster’s reputation as vaporware. Musk later promised a “SpaceX package” with cold-gas thrusters and sub-one-second acceleration. He has downplayed the car’s financial significance, calling it a “small potato situation,” and framed it as a joint engineering effort with SpaceX, questioning whether it is “even a car anymore.” The final design is more angular than the 2017 prototype, inspired, Tesla said, by the SR-71 reconnaissance aircraft and the F-35 fighter jet; the cabin has seats molded directly into the chassis, steer-by-wire controls including a yoke, and a retractable rear wing. Musk, who owns the Lotus Esprit from “The Spy Who Loved Me” — on display at the event — said the result is “better than any James Bond car.”",
+            "At the event, Musk called the Roadster “the culmination of incredible work by Tesla and SpaceX Engineers working closely together to make something you haven’t seen in any movie, better than any James Bond car.” He has positioned the car as a halo vehicle, and some analysts theorize the re-release could set the stage for a rumored Tesla-SpaceX merger. While competitors such as Rimac, Porsche, and BYD spent the intervening years producing their own high-performance EVs, The Verge noted that none of those cars flew. Musk also floated a possible attempt to jump the Snake River Canyon, the site of Evel Knievel’s famous rocket-powered crossing attempt. Whether the Roadster reaches production in 2028 — or another decade of missed deadlines follows — remains to be seen; at the event, at least, the car flew."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Tesla demonstrated its next-generation Roadster at an event in Waco, Texas.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Tesla said the electric supercar drove upside down at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the electric supercar briefly flew at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the electric supercar accelerated from 0 to 60 mph in 0.81 seconds at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Elon Musk said Tesla will build the Roadster in 2028.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk did not announce a price for the Roadster at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk did not announce release timing for the Roadster at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "In the demonstration, the Roadster drove up a tall, multi-story ramp.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Roadster used downforce to cling to the vertical roadway.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Roadster flipped around with cold-gas thrusters and eased itself back down.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Roadster flew over a row of Tesla vehicles.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The row of Tesla vehicles included the Model 3, Model Y, Cybertruck, Semi, and Cybercab.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Lars Moravy called the maneuver a \"kick flip.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Lars Moravy"
+                ]
+              },
+              {
+                "text": "The car uses a fan-based suction system supplied by SpaceX.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "The fan-based suction system is mounted underneath the car.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "The system is capable of generating up to two Gs of suction force.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "The car has attitude-control thrusters.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "The car has main thrusters at the rear.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the system runs on two ultra-high-pressure air tanks.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the combined volume of the two air tanks is 600 liters.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the air tanks contain roughly 250 kilograms of air.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the system is fed through 10 nozzles.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the system can recharge its own tank without specialized chemical propellant.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said every usable void in the car is packed with Carbon Fiber Overwrapped Pressure Vessels (COPVs).",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "COPVs are the type of vessel at the root of multiple SpaceX rocket explosions.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk said the Roadster can basically fly like a rocket.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said the Roadster could do rolls.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said the Roadster could do \"crazy gymnastics.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk described the Roadster as \"the last best driver's car.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said the production version should improve on the demonstrated 0.81-second 0-60 time.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk acknowledged the extreme forces involved.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said the car would reach Mach 0.5, maybe a little higher.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Tesla later admitted the car would not be road legal.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Road legality for the Roadster would require satisfying regulations from both the Federal Aviation Administration and the National Highway Traffic Safety Administration.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk said \"This is not necessarily a safety-optimized car.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said it \"takes the fun meter to 11 out of 10.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk said Tesla would \"aspire not to kill anyone in this car.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Tesla's website lists three Roadster trims.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "The entry-level Performance (Road Ready) seats two.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Performance pairs active aerodynamics with a multi-mode suction system.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla claims Performance has a 0-60 time under 1.6 seconds.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Performance targets more than 300 miles of range.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "The mid-tier Thrust (Race Ready) adds rear-mounted cold-gas thrusters.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla claims Thrust has a 0-60 time under 0.9 seconds.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Thrust is slated for \"limited release.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "The flagship Rocket (Air Ready) is a single-seat model.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Rocket has a full perimeter-mounted array of cold-gas thrusters.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Rocket's thrusters enable lateral and rotational movement in midair.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla claims Rocket has a 0-60 time under 0.59 seconds.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla claims Rocket has a top speed over 230 mph.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla says Rocket is \"invite only.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla says Rocket is \"not approved for public road use.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla says all three trims offer 300 miles of range.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Tesla says all three trims offer top speeds exceeding 230 mph.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Reservations for Performance are open at $50,000.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Reservations for Thrust are open at $250,000.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "Rocket is available by invitation only.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla's website"
+                ]
+              },
+              {
+                "text": "The Roadster's road to this demo spans nearly nine years.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Roadster was revealed as a surprise at Tesla's Semi event in 2017.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla promised a 0-60 mph time of 1.9 seconds for the Roadster.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla promised a top speed over 250 mph.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla promised a 200 kWh battery.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla promised up to 620 miles of range.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla promised a $200,000 starting price.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "At the 2017 reveal, Tesla planned deliveries for 2020.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Early adopters put down $50,000 deposits for the Roadster.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Early adopters put down $250,000 for the Founders Series Roadster.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Deadlines slipped as Tesla prioritized the Model Y.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Deadlines slipped as Tesla wrestled with the Cybertruck.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Tesla's missed deadlines cemented the Roadster's reputation as vaporware.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk later promised a \"SpaceX package\" with cold-gas thrusters and sub-one-second acceleration.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk downplayed the car's financial significance, calling it a \"small potato situation.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk framed the Roadster as a joint engineering effort with SpaceX.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk questioned whether the Roadster is \"even a car anymore.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "The final Roadster design is more angular than the 2017 prototype.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Tesla said the final design was inspired by the SR-71 reconnaissance aircraft.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "Tesla said the final design was inspired by the F-35 fighter jet.",
+                "status": "supported",
+                "source_ids": [
+                  "Tesla"
+                ]
+              },
+              {
+                "text": "The cabin has seats molded directly into the chassis.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The cabin has steer-by-wire controls including a yoke.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The cabin has a retractable rear wing.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk owns the Lotus Esprit from \"The Spy Who Loved Me.\"",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Lotus Esprit was on display at the event.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk said the result is \"better than any James Bond car.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk called the Roadster \"the culmination of incredible work by Tesla and SpaceX Engineers working closely together to make something you haven't seen in any movie, better than any James Bond car.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Musk has positioned the car as a halo vehicle.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Some analysts theorize the re-release could set the stage for a rumored Tesla-SpaceX merger.",
+                "status": "supported",
+                "source_ids": [
+                  "Some analysts"
+                ]
+              },
+              {
+                "text": "Competitors such as Rimac, Porsche, and BYD spent the intervening years producing their own high-performance EVs.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "The Verge noted that none of those cars flew.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "Musk floated a possible attempt to jump the Snake River Canyon.",
+                "status": "supported",
+                "source_ids": [
+                  "Elon Musk"
+                ]
+              },
+              {
+                "text": "Snake River Canyon is the site of Evel Knievel's famous rocket-powered crossing attempt.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              },
+              {
+                "text": "At the event, the Roadster flew.",
+                "status": "supported",
+                "source_ids": [
+                  "The Verge"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-zelenskyy-rallies-eu-support-as-trump-escalates-"
+    },
+    {
+      "section": "world",
+      "story_id": "world-ship-attacks-near-hormuz-reach-record-high-as-oi"
+    },
+    {
+      "section": "tech-ai",
+      "story_id": "tech-ai-targeted-ads-found-delivering-zero-click-spyware"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Teen kills 4 at Oregon elementary school; bystander stops attack",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Trump blasts Zelensky as report says White House ordered limit on Ukraine's Starshield access",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "White House prepares plans to use 'mother of all bombs' on Iran, sources say",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Suspicious mailings with white powder sent to election officials and members of Congress",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Trump lashes out at Republicans as Paxton struggles in Texas Senate race",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Fed Chair Warsh Withholds Rate Signal, Markets Pare Rate-Hike Bets",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Indonesian Stocks Plunge Most Since 1998 on MSCI Downgrade Warning",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Former FDA commissioners criticize HHS leadership over staff exodus",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Merck and Moderna to seek approval for personalized mRNA cancer vaccine, plot broader expansion after melanoma success",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Black Sea drone attacks enter NATO country's territorial waters for first time",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "FTC probes Anthropic and OpenAI over AI safety incidents, consumer harms",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
