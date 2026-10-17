@@ -1,0 +1,3636 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-17",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-17T13:05:26+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-trump-waives-russian-sanctions-passed-by-congres",
+          "section": "politics",
+          "headline": "Trump waives Russian sanctions passed by Congress",
+          "beat_label": "Foreign Policy",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.1,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 2,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "BBC",
+            "USA Today",
+            "WSJ",
+            "Washington Post"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/17/nx-s1-5998079/week-in-politics-trumps-russian-diesel-deal-update-why-the-doj-is-suing-california",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6155621-trump-waives-russian-sanctions-act-tariffs/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "USA Today",
+              "url": "https://www.usatoday.com/story/news/world/2026/10/16/trump-wont-impose-sanctions-on-russia/92292456007/",
+              "lean": -0.1,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/politics/policy/trump-waives-most-russia-sanctions-passed-by-congress-4c36bc93",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Washington Post",
+              "url": "https://www.washingtonpost.com/politics/2026/10/17/trump-signs-executive-order-waiving-sanctions-against-russia/",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Trump signed a Russia sanctions package into law last month.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The sanctions package was posthumously dedicated to the late Sen. Lindsey Graham (R-S.C.) and is referred to as the Graham Act.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The law gave Trump broad powers to impose tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The top five purchasers of Russian oil and gas include China and India.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The law included sanctions on senior Russian officials (including Putin).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The law included sanctions on Russian financial institutions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The law included sanctions on Russia's 'shadow fleet' of vessels used to evade existing embargoes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "On Friday evening, two days before the sanctions were due to take effect, Trump signed an executive order waiving most of them.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump's executive order stated that suspending the sanctions was in the US 'national interest.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russian presidential envoy Kirill Dmitriev called the waiver 'an important and truly historic moment' in a post on X.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Rep. Don Beyer (D-Va.) said Trump's move was a 'surrender to Putin' that 'betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky said the sanctions 'could have helped enormously.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky accused the US of deciding to 'completely disregard' the law's intent.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelensky said Ukrainian and US negotiating teams spoke Friday and could meet again the following week.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "There was a US deal to import Russian diesel aimed at easing domestic fuel prices.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "There were reports of disruptions to Ukraine's Starlink satellite access.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Continued Russian strikes on Ukrainian energy infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The US diesel deal and Starlink disruptions fueled accusations that the administration is tilting toward Moscow at Ukraine's expense.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Trump signed a Russia sanctions package into law last month; it was posthumously dedicated to the late Sen. Lindsey Graham (R-S.C.) and is referred to as the Graham Act.",
+              "The law gave Trump broad powers to impose tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas, most significantly China and India, and included sanctions on senior Russian officials (including Putin), Russian financial institutions, and Russia's 'shadow fleet' of vessels used to evade existing embargoes.",
+              "On Friday evening, two days before the sanctions were due to take effect, Trump signed an executive order waiving most of them.",
+              "Trump's executive order stated that suspending the sanctions was in the US 'national interest.'",
+              "Russian presidential envoy Kirill Dmitriev called the waiver 'an important and truly historic moment' in a post on X.",
+              "Rep. Don Beyer (D-Va.) criticized the move on X, calling it a 'surrender to Putin' that 'betrays our Ukrainian partners.'",
+              "Ukrainian President Volodymyr Zelensky said the sanctions 'could have helped enormously' and accused the US of deciding to 'completely disregard' the law's intent.",
+              "Zelensky said Ukrainian and US negotiating teams spoke Friday and could meet again the following week."
+            ],
+            "analysis": "The waiver concerns a sanctions package Trump himself signed into law last month, which Congress designed to pressure the Kremlin economically—through potential tariffs on major buyers of Russian energy like China and India, and direct sanctions on Russian officials, banks, and oil-shipping networks. By issuing an executive order to block many of these measures just before they took effect, Trump stated the move was in the US 'national interest.' The move comes amid a broader rupture between Washington and Kyiv, following a separate controversial US deal to import Russian diesel (aimed at easing domestic fuel prices) and reports of disruptions to Ukraine's Starlink satellite access, both of which have fueled accusations that the administration is tilting toward Moscow at Ukraine's expense.",
+            "debate": {
+              "dem": [
+                "Rep. Don Beyer (D-Va.) said Trump's move was a 'surrender to Putin' that 'betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression.'"
+              ],
+              "rep": [
+                "President Trump stated in his executive order that waiving the sanctions was in the US 'national interest.'"
+              ]
+            },
+            "steelman": "The core tension is between a law Congress passed to constrain Russia economically and a president issuing an executive order to waive many of those sanctions, citing US national interest—leaving both the sanctions' deterrent effect and Washington's reliability as an ally to Kyiv in question.",
+            "implications": "The waiver is likely to intensify friction between the White House and both Congress and Kyiv, while Ukrainian and US negotiating teams are expected to meet again soon amid continued Russian strikes on Ukrainian energy infrastructure."
+          },
+          "interestingness": 0.9
+        },
+        {
+          "id": "politics-white-house-press-secretary-katie-zacharia-exits",
+          "section": "politics",
+          "headline": "White House press secretary Katie Zacharia exits after five days",
+          "beat_label": "White House",
+          "byline": "Politics desk · anchored on Reuters",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "Fox News",
+            "CNBC",
+            "NYT",
+            "PBS",
+            "NBC News",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/16/nx-s1-6005302/katie-zacharia-is-out-as-press-secretary-white-house-says",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6155603-katie-zacharia-press-secretary-exit-statement/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/trump-casts-doubt-new-press-secretarys-future-after-rocky-white-house-debut",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/politics/trump-casts-doubt-on-press-secretary-katie-zacharias-future",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/nightly-news/video/white-house-press-secretary-out-after-5-days-on-the-job-271724613540",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/trump-says-zacharia-should-reconsider-white-house-spokeswoman-role-2026-10-16/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Katie Zacharia served as White House press secretary for about a week.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR",
+                  "The Hill",
+                  "CNBC",
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "A White House official announced Friday she was 'transitioning out' of the role.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR",
+                  "The Hill",
+                  "CNBC",
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "NPR, The Hill and CNBC described the tenure as five days.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR",
+                  "The Hill",
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Fox News put it at seven days, citing an Oct. 9 start date and an Oct. 13 first briefing.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Zacharia held her first and only press briefing on Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The briefing lasted about 14 minutes.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The briefing included questions from only three reporters.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Fox News's 'Hannity' Thursday night, Zacharia acknowledged she never obtained a U.S. law license.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Zacharia said she had pre-registered for a bar exam before moving to China and 'sat for it' so as not to have 'withdraw status'.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "President Trump referred to Zacharia as an attorney when he announced her appointment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia maintained a distinction between calling herself a 'lawyer' versus an 'attorney'.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Zacharia said past social media posts calling her an attorney were retweets that she had corrected.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "On Friday, President Trump told reporters on the South Lawn that he asked Zacharia, 'Is this for you?'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump said Zacharia had been treated 'pretty nastily' by the media.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump advised Zacharia 'you should reconsider' continuing in the job.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump said he was not firing her: 'I want her to have a good life.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A senior White House official confirmed to multiple outlets that Zacharia was 'transitioning out' of the press secretary position.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia posted on X Friday night calling the job 'an honor'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia praised Trump as 'a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man' in her X post.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia is a graduate of Pepperdine Caruso School of Law.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia worked at the Beijing-based law firm Zhong Lun roughly 2011–2013.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia served as a communications advisor for Trump Media & Technology Group.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia served as a pro-Trump commentator on Fox News and Newsmax before becoming press secretary.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The press secretary post is now vacant again.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Predecessor Karoline Leavitt left the role roughly two months earlier.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The White House has not held regular press briefings since Karoline Leavitt's departure.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump frequently fields reporters' questions himself.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The episode marks one of the shortest tenures for a senior White House communications official in recent history.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Anthony Scaramucci's stint as communications director in 2017 lasted 10 days.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zacharia's debut briefing was widely criticized and unusually brief compared with her predecessors'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There were unresolved questions about whether Zacharia could accurately describe herself as a practicing attorney.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The position has sat largely dormant for press briefings since Karoline Leavitt's departure roughly two months prior.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump increasingly acts as his own spokesperson.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump's approval ratings are at lows for his presidency.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Republicans are working to shore up support ahead of the midterm elections.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Katie Zacharia served as White House press secretary for about a week before a White House official announced Friday she was \"transitioning out\" of the role; NPR, The Hill and CNBC described the tenure as five days, while Fox News put it at seven days, citing an Oct. 9 start date and an Oct. 13 first briefing.",
+              "Zacharia held her first and only press briefing on Tuesday, which lasted about 14 minutes and included questions from only three reporters.",
+              "On Fox News's \"Hannity\" Thursday night, Zacharia acknowledged she never obtained a U.S. law license, saying she had pre-registered for a bar exam before moving to China and \"sat for it\" so as not to have \"withdraw status,\" despite having been referred to as an attorney by President Trump when he announced her appointment; Zacharia maintained a distinction between calling herself a \"lawyer\" versus an \"attorney,\" saying past social media posts calling her an attorney were retweets that she had corrected.",
+              "On Friday, President Trump told reporters on the South Lawn that he asked Zacharia, \"Is this for you?\", said she had been treated \"pretty nastily\" by the media, and advised her \"you should reconsider\" continuing in the job, while saying he was not firing her: \"I want her to have a good life.\"",
+              "A senior White House official confirmed to multiple outlets that Zacharia was \"transitioning out\" of the press secretary position.",
+              "Zacharia posted on X Friday night calling the job \"an honor\" and praising Trump as \"a kind, wonderful, gracious, thoughtful, enthusiastic, and hardworking man.\"",
+              "Zacharia is a graduate of Pepperdine Caruso School of Law who worked at the Beijing-based law firm Zhong Lun roughly 2011–2013, and more recently served as a communications advisor for Trump Media & Technology Group and as a pro-Trump commentator on Fox News and Newsmax before becoming press secretary.",
+              "The press secretary post is now vacant again; predecessor Karoline Leavitt left the role roughly two months earlier, and the White House has not held regular press briefings since, with Trump frequently fielding reporters' questions himself."
+            ],
+            "analysis": "The episode marks one of the shortest tenures for a senior White House communications official in recent history, drawing comparisons to Anthony Scaramucci's 10-day stint as communications director in 2017. Zacharia's exit followed two compounding problems: a widely criticized debut briefing that was unusually brief compared with her predecessors', and unresolved questions about whether she could accurately describe herself as a practicing attorney. The turnover comes as the position has already sat largely dormant for press briefings since Karoline Leavitt's departure roughly two months prior, with Trump increasingly acting as his own spokesperson. It also lands at a politically sensitive moment, with Trump's approval ratings at lows for his presidency and Republicans working to shore up support ahead of the midterm elections, giving added weight to how the administration manages its public-facing communications operation.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "The episode is widely covered as a rapid, credential-driven collapse of a high-visibility hire, underscoring the practical risk of elevating media-friendly messaging figures into scrutiny-heavy spokesperson roles without the credentials or preparation to withstand sustained press questioning.",
+            "implications": "The White House will need to decide whether to name another press secretary or continue relying on Trump speaking directly to reporters without regular briefings, a pattern already in place for about two months. The episode may also prompt closer vetting of professional credentials for future communications hires, particularly as the administration heads into a competitive midterm campaign season under pressure from low approval ratings."
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "politics-federal-agents-raid-ilhan-omar-s-home-search-tra",
+          "section": "politics",
+          "headline": "Federal agents raid Ilhan Omar's home, search trash in immigration fraud probe",
+          "beat_label": "Congress/Investigation",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.25,
+            "tilt_pill": "Coverage tilts slightly center-right",
+            "spread": {
+              "liberal": 0,
+              "center": 1,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "Fox News"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/6155559-federal-raid-ilhan-omar-dna-trash/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/ilhan-omars-turbulent-week-explained-dueling-probes-threw-somali-born-progressive-chaos",
+              "lean": 0.5,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Homeland Security Investigations (HSI) agents executed a judicially authorized search warrant on Rep. Ilhan Omar's Washington, D.C. home on Monday morning.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal reported that agents seized Omar's personal cell phone, computers and passport during the search.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "The Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Sources told The Hill that investigators had earlier searched Omar's trash for DNA before the raid.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "The Hill"
+                ]
+              },
+              {
+                "text": "The immigration probe is examining whether Omar or her late father committed fraud on paperwork related to her 1995 arrival in the U.S. and her 2000 naturalization, including whether her age was accurately reported.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal reported that the probe's goal is to determine whether Omar could be stripped of citizenship.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts",
+                  "The Wall Street Journal"
+                ]
+              },
+              {
+                "text": "More than a dozen subpoenas have been issued in the immigration investigation, including to members of Omar's family.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "U.S. Attorney for the District of Columbia Jeanine Pirro confirmed her office is separately investigating discrepancies in Omar's congressional financial disclosures.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar's 2023 disclosure listed $15,000-$51,000 in assets tied to her husband's venture capital firm and winery.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar's May 2025 filing for 2024 listed $6 million-$30 million in the same assets.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar later amended the filing to $18,004-$95,000, stating the businesses had zero value after liabilities and blaming an accounting error.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The National Legal and Policy Center filed a complaint over the disclosures in February 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "In September, the Office of Congressional Conduct voted 5-1 to recommend the House Ethics Committee dismiss the misconduct allegations.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The immigration probe is a Homeland Security Investigations criminal probe into whether Omar or her father committed immigration fraud decades ago.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The stated aim of the immigration probe is denaturalization of a sitting member of Congress, which would be a highly unusual legal outcome.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Legal experts cited in the reporting disagree on Omar's potential criminal exposure.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "One former FBI agent noted that Omar likely couldn't be held criminally liable for paperwork her father filled out while she was a minor.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Omar could still face denaturalization if her citizenship was obtained through materially false information.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The financial disclosure matter stems from a watchdog complaint over a one-year spike and subsequent correction in reported assets tied to her husband's businesses.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The House's own ethics review process had already moved to dismiss the financial disclosure matter before Pirro's office took it up.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The raid occurred roughly three weeks before the November general election.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The search warrant required a federal judge's finding of probable cause.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Probable cause legally establishes only that evidence related to the investigation was likely to be found at the location, not that any crime was committed.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Rep. Ilhan Omar stated the raid was 'an outrageous abuse of power and an unprecedented escalation in the weaponization of federal law enforcement to target political enemies.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Rep. Ilhan Omar said she 'has done nothing wrong.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Omar said Trump has 'relentlessly targeted' her for a decade with 'inflammatory rhetoric.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Omar argued 'no president should be able to use the power of the federal government to intimidate his political enemies.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "President Trump said of the raid, 'I understand they're looking at her very carefully... I've always found her to be totally crooked, personally.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "President Trump added 'that has nothing to do with me' and 'that's really up to the DOJ.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Vice President JD Vance said the administration wants 'the law, the facts' to drive the matter rather than being 'like the Biden administration' in going after political opponents.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Vice President JD Vance called Omar 'a very unprecedented person' with 'disdain' for the country.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Oversight Project President Mike Howell argued that securing a federal search warrant in Washington, D.C. suggests investigators have strong evidence, saying 'they probably got the goods on her.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Vance argued that the investigations should be allowed to proceed on the facts and the law.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "Vance explicitly rejected the idea of pursuing political opponents the way he accuses the Biden administration of doing.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "Omar and her defenders argue that the probes themselves, given their timing before the election and the House ethics committee's prior recommendation to dismiss the financial disclosure allegations, amount to the kind of political weaponization Vance says he wants to avoid.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The outcome of the immigration probe could set a rare precedent for denaturalization proceedings against a sitting member of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The separate financial disclosure investigation adds a second track of federal scrutiny that could outlast the House's own ethics review, which has already recommended dismissal.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Monday morning, Homeland Security Investigations (HSI) agents executed a judicially authorized search warrant on Rep. Ilhan Omar's Washington, D.C. home.",
+              "The Wall Street Journal reported agents seized Omar's personal cell phone, computers and passport during the search; sources told The Hill that investigators had earlier searched Omar's trash for DNA before the raid, a technique used when a search warrant is not available.",
+              "The immigration probe is examining whether Omar or her late father committed fraud on paperwork related to her 1995 arrival in the U.S. and her 2000 naturalization, including whether her age was accurately reported; the Journal reported the probe's goal is to determine whether she could be stripped of citizenship.",
+              "More than a dozen subpoenas have been issued in the immigration investigation, including to members of Omar's family.",
+              "On Tuesday, U.S. Attorney for the District of Columbia Jeanine Pirro confirmed her office is separately investigating discrepancies in Omar's congressional financial disclosures.",
+              "Omar's 2023 disclosure listed $15,000-$51,000 in assets tied to her husband's venture capital firm and winery; her May 2025 filing for 2024 listed $6 million-$30 million in the same assets; she later amended the filing to $18,004-$95,000, stating the businesses had zero value after liabilities and blaming an accounting error.",
+              "The National Legal and Policy Center filed a complaint over the disclosures in February 2025; in September the Office of Congressional Conduct voted 5-1 to recommend the House Ethics Committee dismiss the misconduct allegations."
+            ],
+            "analysis": "Rep. Ilhan Omar, D-Minn., is currently the subject of two distinct federal inquiries that converged publicly within days of each other: a Homeland Security Investigations criminal probe into whether she or her father committed immigration fraud decades ago, and a separate U.S. Attorney's office review of recent discrepancies in her congressional financial disclosures. The immigration probe is notable because its stated aim—denaturalization of a sitting member of Congress—would be a highly unusual legal outcome; legal experts cited in the reporting disagree on Omar's potential criminal exposure, with one former FBI agent noting she likely couldn't be held criminally liable for paperwork her father filled out while she was a minor, though she could still face denaturalization if her citizenship was obtained through materially false information. The financial disclosure matter stems from a watchdog complaint over a one-year spike and subsequent correction in reported assets tied to her husband's businesses, a matter the House's own ethics review process had already moved to dismiss before Pirro's office took it up.\n\nThe timing—roughly three weeks before the November general election—has made the raid a flashpoint, with the search warrant requiring a federal judge's finding of probable cause, which legally establishes only that evidence related to the investigation was likely to be found at the location, not that any crime was committed.",
+            "debate": {
+              "dem": [
+                "Rep. Ilhan Omar stated the raid was 'an outrageous abuse of power and an unprecedented escalation in the weaponization of federal law enforcement to target political enemies,' and said she 'has done nothing wrong.'",
+                "Omar said Trump has 'relentlessly targeted' her for a decade with 'inflammatory rhetoric' and argued 'no president should be able to use the power of the federal government to intimidate his political enemies.'"
+              ],
+              "rep": [
+                "President Trump said of the raid, 'I understand they're looking at her very carefully... I've always found her to be totally crooked, personally,' while adding 'that has nothing to do with me' and 'that's really up to the DOJ.'",
+                "Vice President JD Vance said the administration wants 'the law, the facts' to drive the matter rather than being 'like the Biden administration' in going after political opponents, while calling Omar 'a very unprecedented person' with 'disdain' for the country.",
+                "Oversight Project President Mike Howell argued that securing a federal search warrant in Washington, D.C. suggests investigators have strong evidence, saying 'they probably got the goods on her.'"
+              ]
+            },
+            "steelman": "Vance and Howell argue the investigations should be allowed to proceed on the facts and the law, with Vance explicitly rejecting the idea of pursuing political opponents the way he accuses the Biden administration of doing. Omar and her defenders counter that the probes themselves—given their timing before the election and the House ethics committee's prior recommendation to dismiss the financial disclosure allegations—amount to the kind of political weaponization Vance says he wants to avoid.",
+            "implications": "The outcome of the immigration probe could set a rare precedent for denaturalization proceedings against a sitting member of Congress, while the separate financial disclosure investigation adds a second track of federal scrutiny that could outlast the House's own ethics review, which has already recommended dismissal."
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "politics-trump-denies-white-house-role-in-ukraine-starlin",
+          "section": "politics",
+          "headline": "Trump denies White House role in Ukraine Starlink restrictions; senators press Pentagon",
+          "beat_label": "Foreign Policy/Ukraine",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.05,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "CNBC",
+            "Axios"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/newsletters/technology/6155378-gop-senators-press-pentagon-starlink-newsletter/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html"
+            },
+            {
+              "outlet": "Axios",
+              "url": "https://www.axios.com/2026/10/16/trump-starlink-musk-ukraine-zelensky",
+              "lean": -0.1,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Ukrainian officials said on Tuesday and Wednesday that SpaceX had restricted use of Starshield, a military-grade version of Starlink, without prior warning.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The restrictions cut off connectivity for drones or other vehicles traveling above 160 kilometers per hour.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Friday, President Trump denied that the White House ordered the restrictions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Trump said 'it wasn't me, and I don't think it was Elon'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Trump said the situation is 'the same as it's always been'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Elon Musk wrote on X that 'Starshield systems are owned and controlled by the US government'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Four Republican senators joined Democratic colleagues in asking the Pentagon for information on whether officials ordered the Starshield restrictions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Reuters reported Thursday, citing two U.S. officials, that the call to restrict Starlink in Ukraine came from the White House, without identifying who gave the order.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The Telegraph reported Friday that Musk had approached Trump with the idea of slowing Starlink in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "The Telegraph"
+                ]
+              },
+              {
+                "text": "The Telegraph reported that both Musk and Trump had a role in imposing the restrictions.",
+                "status": "supported",
+                "source_ids": [
+                  "The Telegraph"
+                ]
+              },
+              {
+                "text": "SpaceX shares fell about 11% during the week.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The company's quarterly earnings report was scheduled for the following Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's military has relied heavily on Starlink and its military-grade variant, Starshield, for drone operations and battlefield communications.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The restrictions reportedly disrupted some military missions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukrainian officials and allies, including Poland's deputy prime minister, sought clarity on who ordered the change.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Musk has a recent advisory role to the Pentagon through Project Meridian.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "Ukrainian officials said Tuesday and Wednesday that SpaceX had restricted use of Starshield, a military-grade version of Starlink, without prior warning",
+              "The restrictions cut off connectivity for drones or other vehicles traveling above 160 kilometers per hour",
+              "On Friday, President Trump denied the White House ordered the restrictions, saying \"it wasn't me, and I don't think it was Elon\" and that the situation is \"the same as it's always been\"",
+              "Elon Musk wrote on X that \"Starshield systems are owned and controlled by the US government\"",
+              "Four Republican senators joined Democratic colleagues in asking the Pentagon for information on whether officials ordered the Starshield restrictions",
+              "Reuters reported Thursday, citing two U.S. officials, that the call to restrict Starlink in Ukraine came from the White House, without identifying who gave the order",
+              "The Telegraph reported Friday that Musk had approached Trump with the idea of slowing Starlink in Ukraine, and that both had a role in imposing the restrictions",
+              "SpaceX shares fell about 11% during the week, with the company's quarterly earnings report scheduled for the following Tuesday"
+            ],
+            "analysis": "Ukraine's military has relied heavily on Starlink and its military-grade variant, Starshield, for drone operations and battlefield communications. This week's unannounced restrictions reportedly disrupted some military missions, prompting Ukrainian officials and allies, including Poland's deputy prime minister, to seek clarity on who ordered the change. The episode has become politically charged because SpaceX CEO Elon Musk publicly attributed control of Starshield to the U.S. government, while President Trump denied White House involvement—leaving open the question of who within the government, if anyone, authorized the restrictions. Musk's recent advisory role to the Pentagon through Project Meridian adds another layer of scrutiny to his relationship with U.S. military technology decisions affecting Ukraine.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Despite partisan divides on other issues, senators from both parties are aligned in demanding transparency from the Pentagon about who controls and restricts a critical wartime communications system—underscoring that accountability for military decisions affecting an active conflict is treated as a bipartisan concern rather than a partisan one.",
+            "implications": "The Pentagon's response to the bipartisan Senate inquiry could clarify the chain of command behind Starshield access decisions and may prompt further congressional scrutiny of Musk's advisory role on military technology. SpaceX's upcoming earnings report may also draw questions about the financial and reputational impact of this week's stock decline and the Ukraine controversy."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-trump-waives-new-russia-sanctions-as-rift-with-z",
+          "section": "world",
+          "headline": "Trump waives new Russia sanctions as rift with Zelenskyy deepens",
+          "beat_label": "Ukraine-US Relations",
+          "byline": "International & World desk",
+          "body": [
+            "US President Donald Trump on Friday issued an executive order waiving sweeping sanctions and tariffs targeting Russia’s energy revenues, two days before they were due to take effect under the Lindsey Graham Act. Ukrainian President Volodymyr Zelenskyy on Saturday called the move a boost for Russian President Vladimir Putin, saying, “A US sanctions blackout, easing pressure on the aggressor, financial rewards for Putin – all of this only encourages him to keep attacking.” The waiver came as Moscow intensified attacks on Ukrainian energy infrastructure, with Zelenskyy reporting that more than 15 critical power generation and transmission facilities were targeted overnight across multiple regions.",
+            "The sanctions law, passed by Congress and signed by Trump in September, aimed to impose tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas – particularly China and India – and included sanctions against senior Russian figures including Putin, Russian financial institutions, and Moscow’s “shadow fleet” used to circumvent existing embargoes. Trump’s executive order suspended many of those provisions, citing the “national interest.” The law had given the president broad powers to levy such tariffs, which he now waived.",
+            "The deepening rift between Washington and Kyiv has been evident in recent days. Trump told Newsmax: “I think I find Zelenskyy to be more difficult to deal with than Putin.” On October 12, the US struck a deal to buy Russian diesel, a step back from previous sanctions. Zelenskyy also said Ukraine experienced “deep and unpleasant” disruptions to its Starlink satellite internet service, critical for battlefield communications, and complained that US-built missiles were being sent to the Middle East, leaving Ukraine “not a priority.” Speaking at an EU summit in Brussels on Friday, Zelenskyy urged European leaders to back Kyiv with nearly $80 billion in additional support for 2027. EU Council President Antonio Costa said Ukraine “remains a priority” and asked the European Commission to develop a funding proposal, but no concrete promises were made.",
+            "Russian envoy Kirill Dmitriev hailed the waiver as “an important and truly historic moment,” arguing the sanctions would have caused “serious damage first and foremost to the US economy and global markets.” US lawmakers, including Virginia Democrat Don Beyer, criticized Trump for “capitulating to Moscow” and defying congressional intent. Zelenskyy said the sanctions “could have helped enormously” and that the law was “supposed to impose truly effective pressure on Russia to bring this war to an end.” He added that Russia is “trying to cause a blackout in Ukraine – right before winter” and has expanded its attacks on the energy system to stretch Ukraine’s reserves and repair capacity. One person was killed and 19 injured, including a child, in a Russian airstrike on Kherson; Russian state media reported one woman killed by Ukrainian drone strikes in Russia’s Belgorod region.",
+            "Zelenskyy attended the EU summit amid what experts describe as the most difficult winter since the 2022 invasion. Olena Prokopenko, senior fellow at the German Marshall Fund, said Ukraine is “arguably entering the most difficult winter since the full-scale invasion.” Zelenskyy told reporters at the summit: “Putin wants to destroy us” and that Ukraine must prepare for a hard winter, but concluded: “We will keep living and fighting with dignity.” European Commission President Ursula von der Leyen promised the EU would “continue to lead” but urged international partners to step up. The Starlink slowdown, which Zelenskyy said had not been fully restored, remains a critical vulnerability, as the EU’s top diplomat Kaja Kallas noted that “in the short term Europe can’t replace this capability.”"
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.3,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 2,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "DW",
+            "BBC",
+            "CNN",
+            "CNBC",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.com/news/articles/cxr5yvzv7rp0o",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "US President Donald Trump issued an executive order on Friday waiving sweeping sanctions and tariffs targeting Russia’s energy revenues.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The sanctions and tariffs were due to take effect under the Lindsey Graham Act in two days.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelenskyy on Saturday called the move a boost for Russian President Vladimir Putin.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said: 'A US sanctions blackout, easing pressure on the aggressor, financial rewards for Putin – all of this only encourages him to keep attacking.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Moscow intensified attacks on Ukrainian energy infrastructure at the time of the waiver.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy reported that more than 15 critical power generation and transmission facilities were targeted overnight across multiple regions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The sanctions law was passed by Congress and signed by Trump in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The law aimed to impose tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas, particularly China and India.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The law included sanctions against senior Russian figures including Putin, Russian financial institutions, and Moscow’s 'shadow fleet' used to circumvent existing embargoes.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump’s executive order suspended many of those provisions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The executive order cited the 'national interest'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The law gave the president broad powers to levy such tariffs.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump waived those tariffs.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The rift between Washington and Kyiv has deepened in recent days.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump told Newsmax: 'I think I find Zelenskyy to be more difficult to deal with than Putin.'",
+                "status": "supported",
+                "source_ids": [
+                  "Newsmax"
+                ]
+              },
+              {
+                "text": "On October 12, the US struck a deal to buy Russian diesel.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Ukraine experienced 'deep and unpleasant' disruptions to its Starlink satellite internet service.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy complained that US-built missiles were being sent to the Middle East, leaving Ukraine 'not a priority'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy spoke at an EU summit in Brussels on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy urged European leaders to back Kyiv with nearly $80 billion in additional support for 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "EU Council President Antonio Costa said Ukraine 'remains a priority'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Antonio Costa asked the European Commission to develop a funding proposal.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "No concrete promises were made at the summit.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Russian envoy Kirill Dmitriev hailed the waiver as 'an important and truly historic moment'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Dmitriev argued the sanctions would have caused 'serious damage first and foremost to the US economy and global markets'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "US lawmakers, including Virginia Democrat Don Beyer, criticized Trump for 'capitulating to Moscow' and defying congressional intent.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the sanctions 'could have helped enormously'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the law was 'supposed to impose truly effective pressure on Russia to bring this war to an end'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Russia is 'trying to cause a blackout in Ukraine – right before winter'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Russia has expanded its attacks on the energy system to stretch Ukraine’s reserves and repair capacity.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "One person was killed and 19 injured, including a child, in a Russian airstrike on Kherson.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Russian state media reported one woman killed by Ukrainian drone strikes in Russia’s Belgorod region.",
+                "status": "supported",
+                "source_ids": [
+                  "Russian state media"
+                ]
+              },
+              {
+                "text": "Zelenskyy attended the EU summit amid what experts describe as the most difficult winter since the 2022 invasion.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Olena Prokopenko, senior fellow at the German Marshall Fund, said Ukraine is 'arguably entering the most difficult winter since the full-scale invasion'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy told reporters at the summit: 'Putin wants to destroy us'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Ukraine must prepare for a hard winter.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy concluded: 'We will keep living and fighting with dignity'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "European Commission President Ursula von der Leyen promised the EU would 'continue to lead'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Von der Leyen urged international partners to step up.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Starlink slowdown has occurred.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the Starlink slowdown had not been fully restored.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "EU’s top diplomat Kaja Kallas noted that 'in the short term Europe can’t replace this capability'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85
+        },
+        {
+          "id": "world-strait-of-hormuz-attacks-reach-record-high-as-us",
+          "section": "world",
+          "headline": "Strait of Hormuz attacks hit record as US and Iran trade claims over control",
+          "beat_label": "Middle East Oil",
+          "byline": "International & World desk",
+          "body": [
+            "Dozens of ships were attacked in or near the Strait of Hormuz in October, marking the highest monthly tally since the start of the US-Israel war on Iran on February 28, according to the United Kingdom Maritime Trade Operations (UKMTO). At least 12 vessels were confirmed attacked in the week ending October 16, with UKMTO warning it is struggling to accurately report the true number because most vessel owners refuse to report incidents. Of the 12 confirmed attacks, half continued to their destination or reached port, one sank, two were disabled, and three were damaged or had an unconfirmed outcome. Over the same week, UKMTO recorded 125 outbound transits and 129 inbound transits through the waterway, mostly dry bulk cargo.",
+            "The US and Iran each claimed control of the strategic waterway. US Central Command (CENTCOM) chief Brad Cooper said in a video message that despite Iranian attacks, 400 ships and 100 million barrels of oil moved through the Strait over the past week. \"Let me be clear: The Strait of Hormuz is controlled by the United States and our regional partners, not Iran,\" he said, attributing the surge in attacks to \"desperation\" by Iran's Islamic Revolutionary Guard Corps (IRGC). Iran has not provided its own figures but says Washington is exaggerating numbers to project success. The IRGC increasingly reports that vessels are hitting naval mines set in the strait and says the waterway remains unsafe for vessels that do not coordinate with Iran's Persian Gulf Strait Authority. CENTCOM, however, says it has cleared the strait of mines and that vessels are being struck by projectiles. On Thursday, the US military said the container ship M/V GFS Pride was hit by an IRGC projectile, not a mine as Iran claimed; the ship sank while being towed to shore.",
+            "The conflict has severely disrupted global oil supplies. Before the war began, the Strait of Hormuz handled roughly one-fifth of global oil and natural gas flows. Oil flows through Hormuz were 11.6 million barrels per day (bpd) over the seven days to October 13, about 68 percent of the pre-war baseline of 17.1 million bpd, according to Kpler data. On Friday, Brent crude touched $110 a barrel for the first time since May amid ongoing attacks, exacerbated by Iran-aligned Houthi attacks on Saudi energy infrastructure and their capture of the Bab al-Mandeb strait. Goldman Sachs Research forecasts that benchmark Brent crude will trade at $90 per barrel in December 2026 and average $80 in 2027, but notes that spot prices include a nearly $25 risk premium due to potential escalation. The firm estimates Persian Gulf oil exports have rebounded to near their 2025 average since late September, including an estimated 4 million bpd of \"dark\" exports on tankers with transponders turned off.",
+            "The US military says its naval blockade of Iran has cost Tehran $25 billion in oil export income and that it recently seized $350 million in Iranian cryptocurrency financing. The US has refrained from responding militarily to the recent vessel attacks, but President Donald Trump has reportedly ordered the military to remain prepared for launching bigger attacks after the November 3 midterm elections, potentially including the use of the GBU-43/B Massive Ordnance Air Blast bomb, according to US media. Iran's acting Defence Minister Majid Ibn Reza said on Saturday that Iranian missiles will determine the war's future, vowing continued attacks. Diplomacy has not fully halted, with messages relayed by regional mediators including Pakistan and Qatar, but no breakthrough is expected soon.",
+            "Goldman Sachs maintains a base case that continued adaptation of Middle East supply will eventually reduce oil prices, but warns that renewed escalation poses significant upside risk. The oil market was nearly balanced in September, with demand exceeding supply by just 0.3 million bpd, a dramatic easing from a 7.2 million bpd deficit in March. Global oil demand in the third quarter of 2026 was down by 3.3 million bpd year-over-year, with weakness concentrated in China, the Middle East, and OECD Asia. The shock has accelerated behavioral changes such as increased use of electric vehicles in China, but analysts expect most of the demand gap to close by late 2027. The UKMTO also reported a new type of attack on Saturday: a tanker was hit by a rocket-propelled grenade from a small boat 78 nautical miles northeast of Saudi Arabia's Jubail, damaging the aft port quarter."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.2,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "Goldman Sachs",
+            "CBS News",
+            "Investopedia"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss"
+            },
+            {
+              "outlet": "Goldman Sachs",
+              "url": "https://www.goldmansachs.com/insights/articles/will-oil-prices-decline-as-middle-east-supply-recovers"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+              "lean": -0.2,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Investopedia",
+              "url": "https://www.investopedia.com/oil-is-getting-through-from-the-middle-east-heres-why-prices-are-still-high-12177905"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Dozens of ships were attacked in or near the Strait of Hormuz in October.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "That number is the highest monthly tally since the start of the US-Israel war on Iran on February 28.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "At least 12 vessels were confirmed attacked in the week ending October 16.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "UKMTO is struggling to accurately report the true number because most vessel owners refuse to report incidents.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Of the 12 confirmed attacks, half continued to their destination or reached port.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "One of the 12 confirmed attacks sank.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Two of the 12 confirmed attacks were disabled.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Three of the 12 confirmed attacks were damaged or had an unconfirmed outcome.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "UKMTO recorded 125 outbound transits through the waterway in that week.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "UKMTO recorded 129 inbound transits through the waterway in that week.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Those transits were mostly dry bulk cargo.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "The US claimed control of the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran claimed control of the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Brad Cooper said that despite Iranian attacks, 400 ships moved through the Strait over the past week.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "Brad Cooper said that 100 million barrels of oil moved through the Strait over the past week.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "Brad Cooper said the Strait of Hormuz is controlled by the United States and its regional partners, not Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "Brad Cooper attributed the surge in attacks to 'desperation' by Iran's IRGC.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "Iran has not provided its own figures.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iran says Washington is exaggerating numbers to project success.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran"
+                ]
+              },
+              {
+                "text": "The IRGC increasingly reports that vessels are hitting naval mines set in the strait.",
+                "status": "supported",
+                "source_ids": [
+                  "IRGC"
+                ]
+              },
+              {
+                "text": "The IRGC says the waterway remains unsafe for vessels that do not coordinate with Iran's Persian Gulf Strait Authority.",
+                "status": "supported",
+                "source_ids": [
+                  "IRGC"
+                ]
+              },
+              {
+                "text": "CENTCOM says it has cleared the strait of mines.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "CENTCOM says vessels are being struck by projectiles.",
+                "status": "supported",
+                "source_ids": [
+                  "CENTCOM"
+                ]
+              },
+              {
+                "text": "On Thursday, the US military said the container ship M/V GFS Pride was hit by an IRGC projectile.",
+                "status": "supported",
+                "source_ids": [
+                  "US military"
+                ]
+              },
+              {
+                "text": "Iran claimed the container ship M/V GFS Pride was hit by a mine.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran"
+                ]
+              },
+              {
+                "text": "The container ship M/V GFS Pride sank while being towed to shore.",
+                "status": "supported",
+                "source_ids": [
+                  "US military"
+                ]
+              },
+              {
+                "text": "The conflict has severely disrupted global oil supplies.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Before the war began, the Strait of Hormuz handled roughly one-fifth of global oil and natural gas flows.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Oil flows through Hormuz were 11.6 million barrels per day (bpd) over the seven days to October 13.",
+                "status": "supported",
+                "source_ids": [
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "Oil flows through Hormuz were about 68 percent of the pre-war baseline of 17.1 million bpd.",
+                "status": "supported",
+                "source_ids": [
+                  "Kpler"
+                ]
+              },
+              {
+                "text": "On Friday, Brent crude touched $110 a barrel for the first time since May.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "That occurred amid ongoing attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "That was exacerbated by Iran-aligned Houthi attacks on Saudi energy infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Houthis captured the Bab al-Mandeb strait.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Goldman Sachs Research forecasts that benchmark Brent crude will trade at $90 per barrel in December 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs Research"
+                ]
+              },
+              {
+                "text": "Goldman Sachs Research forecasts that benchmark Brent crude will average $80 in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs Research"
+                ]
+              },
+              {
+                "text": "Goldman Sachs Research notes that spot prices include a nearly $25 risk premium due to potential escalation.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs Research"
+                ]
+              },
+              {
+                "text": "Goldman Sachs estimates Persian Gulf oil exports have rebounded to near their 2025 average since late September.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "Goldman Sachs estimates that includes an estimated 4 million bpd of 'dark' exports on tankers with transponders turned off.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "The US military says its naval blockade of Iran has cost Tehran $25 billion in oil export income.",
+                "status": "supported",
+                "source_ids": [
+                  "US military"
+                ]
+              },
+              {
+                "text": "The US military says it recently seized $350 million in Iranian cryptocurrency financing.",
+                "status": "supported",
+                "source_ids": [
+                  "US military"
+                ]
+              },
+              {
+                "text": "The US has refrained from responding militarily to the recent vessel attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "President Donald Trump has reportedly ordered the military to remain prepared for launching bigger attacks after the November 3 midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "US media"
+                ]
+              },
+              {
+                "text": "Those bigger attacks could potentially include the use of the GBU-43/B Massive Ordnance Air Blast bomb.",
+                "status": "supported",
+                "source_ids": [
+                  "US media"
+                ]
+              },
+              {
+                "text": "Iran's acting Defence Minister Majid Ibn Reza said on Saturday that Iranian missiles will determine the war's future.",
+                "status": "supported",
+                "source_ids": [
+                  "Majid Ibn Reza"
+                ]
+              },
+              {
+                "text": "Majid Ibn Reza vowed continued attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Majid Ibn Reza"
+                ]
+              },
+              {
+                "text": "Diplomacy has not fully halted.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Messages have been relayed by regional mediators including Pakistan and Qatar.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "No breakthrough is expected soon.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Goldman Sachs maintains a base case that continued adaptation of Middle East supply will eventually reduce oil prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "Goldman Sachs warns that renewed escalation poses significant upside risk.",
+                "status": "supported",
+                "source_ids": [
+                  "Goldman Sachs"
+                ]
+              },
+              {
+                "text": "The oil market was nearly balanced in September, with demand exceeding supply by just 0.3 million bpd.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "That is a dramatic easing from a 7.2 million bpd deficit in March.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Global oil demand in the third quarter of 2026 was down by 3.3 million bpd year-over-year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Weakness was concentrated in China, the Middle East, and OECD Asia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The shock has accelerated behavioral changes such as increased use of electric vehicles in China.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Analysts expect most of the demand gap to close by late 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The UKMTO reported a new type of attack on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "A tanker was hit by a rocket-propelled grenade from a small boat 78 nautical miles northeast of Saudi Arabia's Jubail.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "The attack damaged the aft port quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75,
+          "significance": 0.56,
+          "image": {
+            "url": "static/img/2026-10-17/world-strait-of-hormuz-attacks-reach-record-high-as-us.jpg",
+            "alt": "Photograph of Strait of Hormuz waterway with ships",
+            "credit": "Photo: NASA / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 1000
+          }
+        },
+        {
+          "id": "world-ukraine-expands-strikes-into-russia-as-war-enter",
+          "section": "world",
+          "headline": "Ukraine expands strikes into Russia as war enters new phase",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "Ukraine has intensified attacks on Russian digital infrastructure, damaging three of the five major data centers powering Yandex, a Russian technology company, since October 8, disrupting services for millions of users across Russia and neighboring countries. The strikes have affected everything from online payments and ride-hailing to search and navigation, exposing vulnerabilities in Russia's domestic digital economy. The attacks come as Russian President Vladimir Putin declared that Moscow is establishing a non-negotiable “security zone” inside Ukrainian territory along the border, spanning 660 kilometers (410 miles), of which 70% is currently under Russian control, according to Kremlin spokesperson Dmitry Peskov.",
+            "The Yandex data center strikes have caused widespread disruption: users in St. Petersburg reported smart bulbs not working, a Moscow taxi driver said the Yandex Pro app malfunctioned, preventing orders and withdrawals, and a Moscow resident lost access to 1.5 million rubles (about $17,830) in her Yandex Pay account. Yandex said customers' money was safe and it was working to restore services. Ukrainian defense company Fire Point trolled Yandex on social media, responding to a statement from the tech giant's fintech division head with: \"Dima, have you tried turning it off and on again.\" Kyiv has framed the attacks as retaliation for Russian strikes on Ukrainian data centers in September, which the Russian Defense Ministry described as a “digital detox.” Putin himself has acknowledged the impact of Ukrainian strikes, which Ukrainian President Volodymyr Zelensky has called “long-range sanctions.”",
+            "The expanding Ukrainian strikes against Russian territory—including attacks on oil refineries and major online retailers Wildberries and Ozon—have led to fuel shortages and economic disruption. Meanwhile, Russia has continued its own devastating aerial campaign against Ukraine. On Friday, Russian attacks killed at least eight people and injured 60 across Ukraine, hit two shopping centers, and cut power to more than 1 million people after strikes on the energy grid, officials said. A drone strike on a food-processing facility in the northwestern Volyn region killed one and wounded eight, leaving 370,000 people temporarily without power. Separately, a Russian airstrike on Kherson killed an ambulance driver and injured 19, including a child. A new United Nations report said civilian casualties from Russia's invasion have climbed steeply: at least 328 civilians were killed and 2,105 wounded last month, an increase of 85% from the same month last year. The first two weeks of October were among the deadliest periods for civilians in years, said Danielle Bell, head of the UN human rights office in Kyiv.",
+            "Putin, speaking in military uniform during a visit to a command post, said the security zone inside Ukraine was in response to Ukraine's 2024-25 incursion into Russia's Kursk region, and that Russia does not plan to make this zone a subject for peace negotiations. The zone requires carving land in Sumy and Kharkiv regions, which Russia is not illegally claiming as its own. Concurrently, US President Donald Trump has put on hold a sweeping new sanctions package targeting Russia, waiving many sanctions and restrictions, citing national interest, while calling Ukraine's strikes on refineries “a disgrace” after a purported “energy ceasefire” failed to take hold. Ukrainian President Zelenskyy, meeting European leaders in Brussels, asked for another €70 billion ($79 billion) next year to fund defense, while saying Starlink satellite internet access for the military had not yet been full restored, with reports suggesting the order to throttle service came from within the White House.",
+            "The disruption hits at the heart of Russia's efforts to build a domestica controlled digital economy following Western sanctions. Across Russia, users have expressed war fatigue. A 31-year-old history teacher from St. Petersburg said after his smart bulbs failed because of the Yandex outage: “Every time you run into something like this, it's incredibly irritating. In my case, every time I just think about how sick and tired I am of (President Vladimir) Putn.” He added that people around him do not blame Ukraine, but instead think “when is all this finally going to end?” The Kremlin has placed the onus on private businesses to protect critical infrastructure from Ukrainian drones."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Forbes",
+            "Bloomberg",
+            "NYT",
+            "CNN",
+            "The Guardian",
+            "The Telegraph"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Forbes",
+              "url": "https://www.forbes.com/sites/guneyyildiz/2026/10/17/ukraines-widening-strikes-from-refineries-to-data-centers-show-the-limits-of-attrition/"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/opinion/newsletters/2026-10-17/russia-s-claim-to-ukraine-is-an-existential-crisis-for-putin-and-strongmen",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/interactive/2026/10/17/world/europe/ukraine-russia-war-drones-kill-zone.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/17/europe/russia-yandex-data-center-internet-ukraine-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/17/ukraine-war-briefing-russia-building-non-negotiable-security-zone-inside-ukrainian-border-putin-declares",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Telegraph",
+              "url": "https://www.telegraph.co.uk/us/news/2026/10/17/iuliia-mendel-zelensky-aide-who-wants-ukraine-surrender/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Ukraine has intensified attacks on Russian digital infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukraine damaged three of the five major data centers powering Yandex since October 8.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The attacks on Yandex data centers disrupted services for millions of users across Russia and neighboring countries.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The strikes affected online payments, ride-hailing, search, and navigation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russian President Vladimir Putin declared that Moscow is establishing a non-negotiable 'security zone' inside Ukrainian territory along the border.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The security zone spans 660 kilometers (410 miles).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "70% of the security zone is currently under Russian control, according to Kremlin spokesperson Dmitry Peskov.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Users in St. Petersburg reported smart bulbs not working due to the Yandex data center strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A Moscow taxi driver said the Yandex Pro app malfunctioned, preventing orders and withdrawals.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A Moscow resident lost access to 1.5 million rubles (about $17,830) in her Yandex Pay account.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Yandex said customers' money was safe and it was working to restore services.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian defense company Fire Point trolled Yandex on social media.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Fire Point responded to a statement from Yandex's fintech division head with: 'Dima, have you tried turning it off and on again.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kyiv has framed the attacks as retaliation for Russian strikes on Ukrainian data centers in September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Russian Defense Ministry described the September strikes on Ukrainian data centers as a 'digital detox.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Putin has acknowledged the impact of Ukrainian strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky has called the Ukrainian strikes 'long-range sanctions.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian strikes have expanded against Russian territory, including attacks on oil refineries and major online retailers Wildberries and Ozon.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The attacks on oil refineries and online retailers have led to fuel shortages and economic disruption.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russia has continued its own aerial campaign against Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "On Friday, Russian attacks killed at least eight people and injured 60 across Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russian attacks hit two shopping centers in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russian strikes on the energy grid cut power to more than 1 million people in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A drone strike on a food-processing facility in the northwestern Volyn region killed one and wounded eight.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The drone strike left 370,000 people temporarily without power.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A Russian airstrike on Kherson killed an ambulance driver and injured 19, including a child.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A new United Nations report said civilian casualties from Russia's invasion have climbed steeply.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "At least 328 civilians were killed and 2,105 wounded last month, according to the UN report.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The civilian casualties increased by 85% from the same month last year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The first two weeks of October were among the deadliest periods for civilians in years, said Danielle Bell, head of the UN human rights office in Kyiv.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Putin spoke in military uniform during a visit to a command post.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Putin said the security zone inside Ukraine was in response to Ukraine's 2024-25 incursion into Russia's Kursk region.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Putin said Russia does not plan to make this zone a subject for peace negotiations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The security zone requires carving land in Sumy and Kharkiv regions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Russia is not illegally claiming the land in Sumy and Kharkiv regions as its own.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "US President Donald Trump has put on hold a sweeping new sanctions package targeting Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump waived many sanctions and restrictions, citing national interest.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump called Ukraine's strikes on refineries 'a disgrace' after a purported 'energy ceasefire' failed to take hold.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Zelenskyy met European leaders in Brussels.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy asked for another €70 billion ($79 billion) next year to fund defense.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Starlink satellite internet access for the military had not yet been fully restored.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Reports suggest the order to throttle Starlink service came from within the White House.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The disruption hits at the heart of Russia's efforts to build a domestically controlled digital economy following Western sanctions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A 31-year-old history teacher from St. Petersburg said after his smart bulbs failed because of the Yandex outage: 'Every time you run into something like this, it's incredibly irritating.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The teacher added: 'In my case, every time I just think about how sick and tired I am of (President Vladimir) Putn.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The teacher said people around him do not blame Ukraine, but instead think 'when is all this finally going to end?'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Kremlin has placed the onus on private businesses to protect critical infrastructure from Ukrainian drones.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-tech-sell-off-deepens-thursday-s-p-500-and-nasda",
+          "section": "markets",
+          "headline": "Tech sell-off deepens Friday, capping worst week since June for S&P 500 and Nasdaq",
+          "beat_label": "Markets",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "U.S. stocks ended sharply lower Friday, capping a volatile week in which the technology sector suffered its steepest decline since June. The tech-heavy Nasdaq Composite dropped 2.1%, while the S&P 500 fell 1% and the Dow Jones Industrial Average slipped 0.4%. For the week, the Nasdaq lost 4.5% — snapping a monthlong winning streak with its worst weekly performance since late June — and the S&P 500 declined 1.95%. The Dow managed a 0 .7% weekly gain as investors rotated out of technology. The Cboe Volatility Index surged more than four points to a high of 22 .31 , its highest intraday level since June11 , while Brent crude touched$110 a barrel for the first time since May and West Texas Inter mediate crude neared$100 , adding to inflation concerns after this week’s hot price reports.",
+            "The sell-off deepened across software and semiconductor stocks, which had diverged for much of the year but fell in tandem Friday amid renewed scrutiny of artificial-intelligence spending and sensitivity to rising interest rates. Shares of the neocloud provider CoreWeave fell10 %, extending pressure this week as investors fretted over the company’s debt-heavy balance sheet;the stock had bounced Thursday after Nvidia CEO Jensen Huang voiced optimism. The broader AI trade remained under scrutiny, though Bank of America analysts led by Vivek Arya argued it is “resilient,” citing that “deployed AI infrastructure runs near100 % utilization rate”and that GPU rental rates have risen12 % to37 % year to date. The analysts acknowledged risks from a potential credit wipeout at a neocloud company and pressure from higher rates, but wrote: “We think the risk is priced in.”",
+            "Several individual stocks moved on earnings and corporate news. Aluminum producer Alcoa rose more than6 % after third-quarter earnings beat estimates, helped by a rebound in its alumina business. Tesla shares erased early gains to fall2 % after the EV maker unveiled its second-generation Roadster, which uses SpaceX-developed rocket-style thrusters and is described as the world’s first flying car, with production expected to begin in2028 . Netflix fell2 % after announcing a leadership shake-up: chief content officer Bela Bajaria is leaving, to be replaced by former Disney executive Peter Rice, a day after Netflix said it would cut roughly6 % of its workforce, about1 ,000 jobs. Trucking giant J..B. Hunt slipped3 % on mixed quarterly results;revenue exceeded estimates but adjusted earnings per share fell just short. Fox Factory tumbled9 % after CEO Mike Dennison stepped down and the company trimmed its full-year outlook. Moog rose4 % after Morgan Stanley upgraded the stock to overweight with a$448 price target. Independent Bank and Regions Financial each gained on earnings beats. Travelers fell4 % even after reporting a sizable earnings and revenue beat. Palantir fell7 %, erasing about$34 billion in market value and heading toward a correction from its record close on October9 . Moderna sank9 % as investors took profits and Goldman Sachs maintained a neutral rating while raising its price target.",
+            "MarketWatch noted that the S&P 500’s tech sector just had its worst week in a year and a half, while an equal-weighted version of the index cemented a second-straight weekly advance, signaling a broadening of market leadership away from mega-cap technology. The shift comes as the10 -year Treasury yield hovered near5 .10%. Earnings season continues next week with results from Tesla, Netflix, and Meta Platforms expected."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "MarketWatch",
+            "Yahoo Finance",
+            "Morningstar",
+            "Reuters",
+            "CNN",
+            "Yahoo Finance Singapore",
+            "Forbes"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/16/stocks-making-the-biggest-moves-midday-crwv-moga-jbht-aa.html"
+            },
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/it-was-another-great-week-for-the-average-stock-as-market-leadership-shifts-away-from-tech-8e8516da?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+            },
+            {
+              "outlet": "Morningstar",
+              "url": "https://www.morningstar.com/markets/weekly-market-update-stocks-down-consumer-defensives-climb-technology-tumbles"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/legal/transactional/wall-st-week-ahead-ai-rally-wobbles-stock-markets-spotlight-turns-earnings-2026-10-16/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/16/investing/tech-stocks-ai-coreweave",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Yahoo Finance Singapore",
+              "url": "https://sg.finance.yahoo.com/news/stock-market-today-oct-16-141132915.html"
+            },
+            {
+              "outlet": "Forbes",
+              "url": "https://www.forbes.com/sites/jimosman/2026/10/16/ai-chip-earnings-soared-why-micron-tsmc-and-asml-shares-may-fall/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "U.S. stocks ended lower on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The technology sector suffered its steepest decline since June.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Nasdaq Composite dropped 2.1% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The S&P 500 fell 1% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Dow Jones Industrial Average slipped 0.4% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "For the week, the Nasdaq lost 4.5%.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Nasdaq snapped a monthlong winning streak.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Nasdaq had its worst weekly performance since late June.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The S&P 500 declined 1.95% for the week.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Dow managed a 0.7% weekly gain.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Investors rotated out of technology.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Cboe Volatility Index surged more than four points to a high of 22.31.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "22.31 was the Cboe Volatility Index's highest intraday level since June 11.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Brent crude touched $110 a barrel for the first time since May.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "West Texas Intermediate crude neared $100.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "This week's price reports were hot.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The hot price reports added to inflation concerns.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The sell-off deepened across software and semiconductor stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Software and semiconductor stocks had diverged for much of the year.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Software and semiconductor stocks fell in tandem on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "There was renewed scrutiny of artificial-intelligence spending.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "There was sensitivity to rising interest rates.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Shares of CoreWeave fell 10% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Pressure extended on CoreWeave this week.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Investors fretted over CoreWeave's debt-heavy balance sheet.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "CoreWeave stock bounced on Thursday after Nvidia CEO Jensen Huang voiced optimism.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The broader AI trade remained under scrutiny.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Bank of America analysts led by Vivek Arya argued that the AI trade is 'resilient'.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Deployed AI infrastructure runs near 100% utilization rate.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "GPU rental rates have risen 12% to 37% year to date.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Bank of America analysts acknowledged risks from a potential credit wipeout at a neocloud company.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Bank of America analysts acknowledged pressure from higher rates.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Bank of America analysts wrote that the risk is priced in.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Alcoa rose more than 6% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Alcoa's third-quarter earnings beat estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Alcoa's alumina business rebounded.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Tesla shares erased early gains to fall 2% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Tesla unveiled its second-generation Roadster.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Roadster uses SpaceX-developed rocket-style thrusters.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The Roadster is described as the world's first flying car.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Production of the Roadster is expected to begin in 2028.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Netflix fell 2% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Netflix announced a leadership shake-up.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Chief content officer Bela Bajaria is leaving Netflix.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Peter Rice will replace Bela Bajaria as chief content officer.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Netflix said it would cut roughly 6% of its workforce, about 1,000 jobs.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "J.B. Hunt slipped 3% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "J.B. Hunt's quarterly results were mixed.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "J.B. Hunt's revenue exceeded estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "J.B. Hunt's adjusted earnings per share fell just short of estimates.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Fox Factory tumbled 9% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Fox Factory CEO Mike Dennison stepped down.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Fox Factory trimmed its full-year outlook.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Moog rose 4% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Morgan Stanley upgraded Moog stock to overweight.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Morgan Stanley set a $448 price target for Moog.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Independent Bank gained on an earnings beat.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Regions Financial gained on an earnings beat.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Travelers fell 4% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Travelers reported a sizable earnings beat.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Travelers reported a sizable revenue beat.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Palantir fell 7% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Palantir erased about $34 billion in market value.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Palantir was heading toward a correction from its record close on October 9.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Moderna sank 9% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Investors took profits in Moderna.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Goldman Sachs maintained a neutral rating on Moderna.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Goldman Sachs raised its price target on Moderna.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The S&P 500's tech sector had its worst week in a year and a half.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "An equal-weighted version of the S&P 500 cemented a second-straight weekly advance.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The shift signaled a broadening of market leadership away from mega-cap technology.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "The 10-year Treasury yield hovered near 5.10%.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Earnings season continues next week.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              },
+              {
+                "text": "Results from Tesla, Netflix, and Meta Platforms are expected next week.",
+                "status": "supported",
+                "source_ids": [
+                  "MarketWatch"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7,
+          "significance": 0.727,
+          "image": {
+            "url": "static/img/2026-10-17/markets-tech-sell-off-deepens-thursday-s-p-500-and-nasda.jpg",
+            "alt": "Photograph of Nasdaq stock exchange building",
+            "credit": "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons (CC BY-SA 2.0)",
+            "license": "CC BY-SA 2.0",
+            "width": 1000,
+            "height": 750
+          }
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,659.44",
+            "chg": "−1.82%",
+            "dir": "down",
+            "spark": "1.5,4.8 8.3,1.5 15.2,1.8 22.0,1.9 28.8,8.2 35.7,6.4 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,140.03",
+            "chg": "−5.08%",
+            "dir": "down",
+            "spark": "1.5,3.1 8.3,1.5 15.2,2.6 22.0,3.0 28.8,7.5 35.7,7.4 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "52,002.41",
+            "chg": "+1.61%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,7.6 15.2,5.3 22.0,7.4 28.8,8.0 35.7,1.5 42.5,3.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,721.37",
+            "chg": "−2.57%",
+            "dir": "down",
+            "spark": "1.5,3.2 8.3,1.5 15.2,3.1 22.0,4.5 28.8,11.5 35.7,6.6 42.5,12.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "5.10%",
+            "chg": "-13 bp",
+            "dir": "down",
+            "spark": "1.5,2.4 8.3,1.5 15.2,1.8 22.0,3.4 28.8,5.3 35.7,12.5 42.5,11.9"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$99.02",
+            "chg": "+7.81%",
+            "dir": "up",
+            "spark": "1.5,12.5 9.7,10.3 17.9,9.9 26.1,8.8 34.3,5.5 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,181.10",
+            "chg": "−0.83%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,4.1 17.9,5.5 26.1,12.5 34.3,6.2 42.5,5.1"
+          },
+          {
+            "sym": "BTC",
+            "val": "$81,466",
+            "chg": "−2.64%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,11.0 15.2,4.4 22.0,12.0 28.8,9.1 35.7,12.3 42.5,12.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "20.0",
+            "chg": "+29.7%",
+            "dir": "up",
+            "spark": "1.5,11.3 8.3,12.5 15.2,11.7 22.0,11.6 28.8,8.2 35.7,9.0 42.5,1.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−18.1%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−12.7%",
+            "dir": "down"
+          },
+          {
+            "sym": "WMT",
+            "chg": "+9.85%",
+            "dir": "up"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "−9.83%",
+            "dir": "down"
+          },
+          {
+            "sym": "XOM",
+            "chg": "+9.10%",
+            "dir": "up"
+          },
+          {
+            "sym": "V",
+            "chg": "+8.20%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "9:07 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": []
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-cdc-sends-disease-detective-to-pennsylvania-as-m",
+          "section": "health-science",
+          "headline": "CDC sends disease detective to Pennsylvania as measles outbreak grows; 4,410 cases nationwide",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "The Centers for Disease Control and Prevention (CDC) announced Thursday it will deploy a 'disease detective' from its Epidemic Intelligence Service to assist Pennsylvania as the state grapples with a measles outbreak that has grown to at least 1,200 cases and six deaths, according to state officials. Nationwide, the CDC reported 4,410 confirmed cases as of Friday, with 18 cases among international visitors, marking an increase of 330 from the previous week. The outbreak, concentrated in Lancaster County—which has 415 confirmed cases and lacks its own health department—has prompted the CDC to also release nearly $4 million to support the state's response.",
+            "The CDC’s Epi-Aid program, which provides rapid, short-term field investigations for urgent public health problems, will supply additional workforce and epidemiologic capacity. A CDC spokesperson told ABC News, 'CDC will continue working closely with Pennsylvania health officials to provide the expertise and support needed to respond to the outbreak and protect public health.' About 96% of cases nationally are among unvaccinated individuals or those with unknown status, and fewer than 1% of Pennsylvania’s cases are in fully vaccinated people, according to state health data. The CDC recommends two doses of the MMR vaccine—93% effective with one dose, 97% with two—but vaccination rates have fallen; 92.4% of kindergartners received the MMR in the 2025-26 school year, down from 95.2% in 2019-20.",
+            "Lancaster County, home to a large Amish community (about 8% of the population) with historically lower vaccination rates, is the largest county in Pennsylvania without a local health department. Alice Yoder, a county commissioner and former critical care nurse, told The Guardian that the county learns of cases only through media announcements and is 'very concerned.' She said, 'By having a local health department... we would have local data, it would be in real time, and we would have that information quickly.' In contrast, counties with their own health departments, such as Montgomery County, can leverage community immunization coalitions. Susan Wenrick, vice-chair of the Montgomery County Immunization Coalition, noted the challenge of misinformation: 'These are challenging times due to the amount of misinformation that is available.'",
+            "In August, Pennsylvania Governor Josh Shapiro criticized Health Secretary Robert F. Kennedy Jr. for spreading vaccine misinformation, saying, 'There’s real-life consequences to spreading misinformation. There’s real-life consequences to scaring people.' Kennedy, when pressed Thursday, said Pennsylvania initially refused federal help and later requested it, adding, 'I’m confident I will bring that outbreak to a quick close.' He attributed the outbreak to people going unvaccinated during the COVID-19 pandemic. The CDC’s director, Dr. Erica Schwartz, and Kennedy continue to recommend the MMR vaccine as the most effective prevention.",
+            "John Brownstein, an epidemiologist and ABC News contributor, called the deployment of federal disease detectives 'pretty extraordinary' for a preventable disease. 'We're seeing measles come back at a scale we haven't experienced in decades,' he said. The CDC has shifted to using mortality data from the National Center for Health Statistics for measles-related deaths, a change that has drawn scrutiny. As the outbreak spreads, Yoder reflected, 'I never thought I would see measles again in my lifetime, but once it occurred I thought that we probably should have been prepared for it.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Guardian",
+            "ABC News - Breaking News, Latest News and Videos"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/us-news/2026/oct/17/measles-pennsylvania-cdc-disease-detective",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id=137315190"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The CDC announced Thursday it will deploy a 'disease detective' from its Epidemic Intelligence Service to assist Pennsylvania.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The measles outbreak in Pennsylvania has grown to at least 1,200 cases.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The measles outbreak in Pennsylvania has at least six deaths.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Nationwide, the CDC reported 4,410 confirmed measles cases as of Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Among those nationwide cases, 18 cases are among international visitors.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The nationwide total increased by 330 from the previous week.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The outbreak is concentrated in Lancaster County.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Lancaster County has 415 confirmed cases.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Lancaster County lacks its own health department.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The CDC released nearly $4 million to support the state's response.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The CDC’s Epi-Aid program provides rapid, short-term field investigations for urgent public health problems.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The Epi-Aid program will supply additional workforce and epidemiologic capacity for this response.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "A CDC spokesperson told ABC News 'CDC will continue working closely with Pennsylvania health officials to provide the expertise and support needed to respond to the outbreak and protect public health.'",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "About 96% of cases nationally are among unvaccinated individuals or those with unknown status.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Fewer than 1% of Pennsylvania’s cases are in fully vaccinated people.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The CDC recommends two doses of the MMR vaccine.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "One dose of the MMR vaccine is 93% effective.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Two doses of the MMR vaccine are 97% effective.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Vaccination rates have fallen.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "92.4% of kindergartners received the MMR vaccine in the 2025-26 school year.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The MMR vaccination rate among kindergartners was 95.2% in the 2019-20 school year.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Lancaster County is home to a large Amish community.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The Amish community comprises about 8% of Lancaster County's population.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The Amish community has historically lower vaccination rates.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Lancaster County is the largest county in Pennsylvania without a local health department.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Alice Yoder is a county commissioner and former critical care nurse.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Yoder told The Guardian that the county learns of cases only through media announcements.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Yoder said the county is 'very concerned.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Yoder said that by having a local health department, the county would have local data in real time and quickly.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Counties with their own health departments, such as Montgomery County, can leverage community immunization coalitions.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Susan Wenrick is vice-chair of the Montgomery County Immunization Coalition.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Susan Wenrick noted the challenge of misinformation, saying 'These are challenging times due to the amount of misinformation that is available.'",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "In August, Pennsylvania Governor Josh Shapiro criticized Health Secretary Robert F. Kennedy Jr. for spreading vaccine misinformation.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Shapiro said 'There’s real-life consequences to spreading misinformation. There’s real-life consequences to scaring people.'",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Kennedy said Pennsylvania initially refused federal help and later requested it.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Kennedy said 'I’m confident I will bring that outbreak to a quick close.'",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Kennedy attributed the outbreak to people going unvaccinated during the COVID-19 pandemic.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The CDC’s director is Dr. Erica Schwartz.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Dr. Schwartz and Kennedy continue to recommend the MMR vaccine as the most effective prevention.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "John Brownstein is an epidemiologist and ABC News contributor.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "John Brownstein called the deployment of federal disease detectives 'pretty extraordinary' for a preventable disease.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "John Brownstein said 'We're seeing measles come back at a scale we haven't experienced in decades.'",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "The CDC has shifted to using mortality data from the National Center for Health Statistics for measles-related deaths.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "This change has drawn scrutiny.",
+                "status": "supported",
+                "source_ids": [
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Yoder reflected 'I never thought I would see measles again in my lifetime, but once it occurred I thought that we probably should have been prepared for it.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8,
+          "significance": 0.9,
+          "image": {
+            "url": "static/img/2026-10-17/health-science-cdc-sends-disease-detective-to-pennsylvania-as-m.jpg",
+            "alt": "Photograph of Centers for Disease Control and Prevention headquarters",
+            "credit": "Photo: U.S. Department of State / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 667
+          }
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-apple-enters-smart-home-market-with-homeview-lin",
+          "section": "tech-ai",
+          "headline": "Apple launches HomeView smart display and Home Collection devices",
+          "beat_label": "Smart Home",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Apple this week entered the smart home hardware market with the introduction of the HomeView smart display and the Apple Home Collection, a line of devices including cameras, a thermostat, a smart door lock, and a video doorbell co-developed with LG Electronics and Schneider Electric. The HomeView, revealed in a three-minute ad showing a chaotic family morning routine, is a kitchen-focused smart display that uses Siri AI to pull up recipes, calendars, and messages. The Apple Home Collection starts at $200 per device and promises one-tap setup, tight integration, and data privacy.",
+            "The HomeView’s recipe function is designed to strip online recipes down to ingredient lists, step-by-step instructions, and timers, controlled hands-free by voice. While this simplifies cooking, it removes the ads, affiliate links, and contextual writing that many recipe writers rely on for income. Bettina Makalintal, senior reporter at Eater, said such tools “break apart that unspoken social contract with recipe developers and audiences.” The feature requires users to first open the recipe on an iPhone or Safari on the HomeView, guaranteeing at least one visit to the original page, but that’s less valuable than the repeated ad impressions from scrolling through a full page, the article notes.",
+            "Apple’s move comes after more than a decade of relying on third-party partners for HomeKit-compatible devices. Kaiann Drance, Apple’s vice president of product marketing for home, said the timing was driven by two technologies: the Matter open smart home standard, which provides ecosystem interoperability, and advanced Siri AI, which enables a more conversational experience. “With the magic of Siri AI, it comes together in a way that we haven’t been able to deliver before,” Drance said. The HomeView is positioned as a gateway device: once users try a smart home product and find it easy, Drance argued, they are more likely to add cameras or locks.",
+            "Apple is not the first company to streamline online recipes. Amazon’s Echo Show offers similar hands-free cooking with partner sites like Allrecipes, while Google previously had a step-by-step recipe feature on Nest Hubs but removed it in 2024 as “underutilized.” More recently, Google Search uses Gemini AI to amalgamate recipes directly on the search page, bypassing original sources entirely. Makalintal said the threat from Apple’s HomeView is “below AI summaries” because AI summaries are more “opaque” and “really erasing labor.”",
+            "Recipe writers face ongoing challenges from these tools. Jaya Saxena, co-founder of the food website Ravenous, said the complaints about recipe intros are overblown: “Nearly every food blog has a ‘jump to recipe’ button right up at the top, so you don’t actually have to scroll. So if you’re still out here complaining about these essays, you’re just an asshole.” Larger platforms like Allrecipes and NYT Cooking can cast apps to the HomeView using CarPlay-like technology, presenting content on their own terms, but independent writers lack that option. Many are turning to Substack and paywalls, though Makalintal noted that subscription fatigue among home cooks limits that model’s reach.",
+            "Saxena emphasized that quality recipes require significant time and expense. “A good, creative recipe that has been tested to ensure it really works takes time and effort and money … People should probably be more comfortable paying for that,” she said. Apple has not yet responded to questions about how the HomeView will handle paywalled recipes. The long-term impact may depend on adoption: unless the HomeView sells in large volumes, the recipe feature will reach far fewer users than Google’s AI summaries, which Saxena said is “more like a continuation of the threats they’ve already seen.”"
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Apple this week entered the smart home hardware market with the introduction of the HomeView smart display and the Apple Home Collection.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "The Apple Home Collection includes cameras, a thermostat, a smart door lock, and a video doorbell co-developed with LG Electronics and Schneider Electric.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "The HomeView was revealed in a three-minute ad showing a chaotic family morning routine.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The HomeView is a kitchen-focused smart display that uses Siri AI to pull up recipes, calendars, and messages.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Apple Home Collection starts at $200 per device.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "The Apple Home Collection promises one-tap setup, tight integration, and data privacy.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "The HomeView’s recipe function is designed to strip online recipes down to ingredient lists, step-by-step instructions, and timers, controlled hands-free by voice.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The recipe function removes the ads, affiliate links, and contextual writing that many recipe writers rely on for income.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Bettina Makalintal, senior reporter at Eater, said such tools 'break apart that unspoken social contract with recipe developers and audiences.'",
+                "status": "supported",
+                "source_ids": [
+                  "Eater"
+                ]
+              },
+              {
+                "text": "The feature requires users to first open the recipe on an iPhone or Safari on the HomeView, guaranteeing at least one visit to the original page.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The article notes that one visit is less valuable than the repeated ad impressions from scrolling through a full page.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Apple’s move comes after more than a decade of relying on third-party partners for HomeKit-compatible devices.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Kaiann Drance, Apple’s vice president of product marketing for home, said the timing was driven by the Matter open smart home standard, which provides ecosystem interoperability, and advanced Siri AI, which enables a more conversational experience.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "Drance said: 'With the magic of Siri AI, it comes together in a way that we haven’t been able to deliver before.'",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "The HomeView is positioned as a gateway device; Drance argued that once users try a smart home product and find it easy, they are more likely to add cameras or locks.",
+                "status": "supported",
+                "source_ids": [
+                  "Apple"
+                ]
+              },
+              {
+                "text": "Apple is not the first company to streamline online recipes.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Amazon’s Echo Show offers similar hands-free cooking with partner sites like Allrecipes.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Google previously had a step-by-step recipe feature on Nest Hubs but removed it in 2024 as 'underutilized'.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Google Search uses Gemini AI to amalgamate recipes directly on the search page, bypassing original sources entirely.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Makalintal said the threat from Apple’s HomeView is 'below AI summaries' because AI summaries are more 'opaque' and 'really erasing labor.'",
+                "status": "supported",
+                "source_ids": [
+                  "Eater"
+                ]
+              },
+              {
+                "text": "Jaya Saxena, co-founder of the food website Ravenous, said the complaints about recipe intros are overblown.",
+                "status": "supported",
+                "source_ids": [
+                  "Ravenous"
+                ]
+              },
+              {
+                "text": "Saxena said: 'Nearly every food blog has a “jump to recipe” button right up at the top, so you don’t actually have to scroll. So if you’re still out here complaining about these essays, you’re just an asshole.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ravenous"
+                ]
+              },
+              {
+                "text": "Larger platforms like Allrecipes and NYT Cooking can cast apps to the HomeView using CarPlay-like technology, presenting content on their own terms, but independent writers lack that option.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Many recipe writers are turning to Substack and paywalls, though Makalintal noted that subscription fatigue among home cooks limits that model’s reach.",
+                "status": "supported",
+                "source_ids": [
+                  "the article",
+                  "Eater"
+                ]
+              },
+              {
+                "text": "Saxena emphasized that quality recipes require significant time and expense.",
+                "status": "supported",
+                "source_ids": [
+                  "Ravenous"
+                ]
+              },
+              {
+                "text": "Saxena said: 'A good, creative recipe that has been tested to ensure it really works takes time and effort and money … People should probably be more comfortable paying for that.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ravenous"
+                ]
+              },
+              {
+                "text": "Apple has not yet responded to questions about how the HomeView will handle paywalled recipes.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The long-term impact may depend on adoption: unless the HomeView sells in large volumes, the recipe feature will reach far fewer users than Google’s AI summaries.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Saxena said Google’s AI summaries are 'more like a continuation of the threats they’ve already seen.'",
+                "status": "supported",
+                "source_ids": [
+                  "Ravenous"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "health-science",
+      "story_id": "health-science-cdc-sends-disease-detective-to-pennsylvania-as-m"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-tech-sell-off-deepens-thursday-s-p-500-and-nasda"
+    },
+    {
+      "section": "world",
+      "story_id": "world-strait-of-hormuz-attacks-reach-record-high-as-us"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Four killed in Oregon elementary school shooting; bystander stops attacker",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Italian minister calls US restrictions on Ukraine support a 'complete mistake' as Kyiv recaptures ground amid Starlink concerns",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Houthi attacks on Saudi Arabia and Yemen's Aden escalate, killing five, wounding dozens",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "U.S. budget deficit hits nearly $2 trillion for fiscal 2026, up 12% from prior year",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Rain postpones ALCS Game 4; Guardians, Rays adjust to revised four-game sprint",
+      "reason": "re-verification error after revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Jury awards $6 million to ousted scientist David Sabatini in defamation case",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "RFK Jr. advances anti-vaccine group's goals as HHS secretary",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
