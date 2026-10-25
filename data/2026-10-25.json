@@ -1,0 +1,3878 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-25T13:50:06+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-independent-candidates-sense-a-moment-some-democ",
+          "section": "politics",
+          "headline": "Independent candidates sense a moment. Some Democrats hope they're right.",
+          "beat_label": "",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "President Trump won Nebraska handily.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "President Trump won Montana handily.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "President Trump won Idaho handily.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "President Trump won South Dakota handily.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Dan Osborn is an independent candidate for U.S. Senate in Nebraska.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Seth Bodnar is an independent candidate for U.S. Senate in Montana.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "An independent candidate is running for U.S. Senate in Idaho.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "An independent candidate is running for U.S. Senate in South Dakota.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "No Democrat is on the ballot for the Nebraska Senate race.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Nebraska Democratic Party chair Jane Kleeb said the party is backing independent Dan Osborn instead.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn is a mechanic.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn led a 2021 strike at a Kellogg's plant.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn came within seven points of incumbent GOP Sen. Deb Fischer in his prior Senate run.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn is now running against GOP Sen. Pete Ricketts.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn is on a 93-county tour.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Alani Bankhead is the Democratic nominee in Montana.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Alani Bankhead has remained in the Senate race against independent Seth Bodnar.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Former Sen. Jon Tester has endorsed Seth Bodnar instead of Alani Bankhead.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Former Gov. Steve Bullock has endorsed Seth Bodnar instead of Alani Bankhead.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Bankhead said she was pressured to exit the race.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Bankhead claimed in an interview with Montana PBS she was offered a DNC job to drop out.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The DNC denies that it offered Bankhead a job to drop out.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "A Democratic primary candidate ran for Senate in Nebraska with the stated intention of dropping out to clear the field for Osborn.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "After she won the primary and withdrew, a lawsuit sought to force the party to replace her.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Osborn says if elected he would not caucus with either party.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Bodnar says if elected he would not caucus with either party.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Senate's two current independents, Bernie Sanders (VT) and Angus King (ME), both caucus with Democrats.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Some state Democratic parties are backing independent Senate candidates in red states instead of fielding their own nominee.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "These independent candidates argue that the two-party system itself is the problem.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "President Trump's approval ratings are sinking.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Voters are frustrated over costs and affordability.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Independents hope to capture voter frustration over costs/affordability.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Democratic Party recognizes that its own brand is weak in states like Nebraska and Montana.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Some Democrats (like Kleeb in Nebraska) have embraced transparent coordination with independents.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Others (like Schweitzer in Montana) argue that running independents instead of Democrats costs the party winnable races and weakens its long-term infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Republicans are attempting to brand these independents as Democrats in disguise to blunt their appeal to conservative-leaning voters.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Independents are trying to convert anti-establishment, anti-party frustration into votes.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The viability of independents in several states depends on tacit or explicit cooperation from the very party apparatus whose brand they are distancing themselves from.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The outcomes in Nebraska, Montana, Idaho and South Dakota could shape Senate control margins.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Four independent candidates are running for U.S. Senate in 2025-26 in states President Trump won handily: Dan Osborn in Nebraska, Seth Bodnar in Montana, and independents in Idaho and South Dakota.",
+              "No Democrat is on the ballot for the Nebraska Senate race; Nebraska Democratic Party chair Jane Kleeb has said the party is backing independent Dan Osborn instead.",
+              "Osborn, a mechanic who led a 2021 strike at a Kellogg's plant, came within seven points of incumbent GOP Sen. Deb Fischer in his prior Senate run and is now running against GOP Sen. Pete Ricketts on a 93-county tour.",
+              "In Montana, Democratic nominee Alani Bankhead has remained in the Senate race against independent Seth Bodnar; prominent state Democrats including former Sen. Jon Tester and former Gov. Steve Bullock have endorsed Bodnar instead of Bankhead.",
+              "Bankhead has said she was pressured to exit the race and claimed in an interview with Montana PBS she was offered a DNC job to drop out; the DNC denies this.",
+              "In Nebraska, a Democratic primary candidate ran for Senate with the stated intention of dropping out to clear the field for Osborn; after she won the primary and withdrew, a lawsuit sought to force the party to replace her.",
+              "Both Osborn and Bodnar say that, if elected, they would not caucus with either party; the Senate's two current independents, Bernie Sanders (VT) and Angus King (ME), both caucus with Democrats."
+            ],
+            "analysis": "The story examines a strategic bet by some state Democratic parties: rather than fielding their own nominee in red states, they are backing independent Senate candidates who argue the two-party system itself is the problem. This approach reflects two forces described in the reporting — President Trump's sinking approval ratings and voter frustration over costs/affordability, which independents hope to capture, and the Democratic Party's recognition that its own brand is weak in states like Nebraska and Montana. The strategy carries internal tension: some Democrats (like Kleeb in Nebraska) have embraced transparent coordination with independents, while others (like Schweitzer in Montana) argue that running independents instead of Democrats costs the party winnable races and weakens its long-term infrastructure. Republicans, meanwhile, are attempting to brand these independents as Democrats in disguise to blunt their appeal to conservative-leaning voters.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "The core tension in these races is structural, not just partisan: independents are trying to convert anti-establishment, anti-party frustration into votes, even though their viability in several states depends on tacit or explicit cooperation from the very party apparatus whose brand they are distancing themselves from.",
+            "implications": "The outcomes in Nebraska, Montana, Idaho and South Dakota could shape Senate control margins."
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "politics-the-rise-of-the-economic-populist-what-voters-wa",
+          "section": "politics",
+          "headline": "The rise of the economic populist: What voters want from both parties this year",
+          "beat_label": "",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Republican candidates and officials including Rep. French Hill, Mike Rogers, and Joe Mitchell have run campaign ads using populist language criticizing Wall Street, pharmaceutical companies, and political enrichment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A poll of 500 working-class Americans (no college degree, income under $150,000), commissioned by the Friedrich Ebert Foundation (affiliated with Germany's Social Democratic Party) and conducted by Democratic pollster Celinda Lake, found about 40% are cynical that the American dream is still attainable.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The same poll found 70% blame extreme wealth inequality for the cynicism about the American dream.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The same poll found 69% say government has an obligation to address wealth inequality.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "NPR focus groups of voters who backed Biden in 2020 and Trump in 2024 (identified only as Jennifer, Tony, and Jeff) expressed concern about wealth concentration and support for taxing the wealthy more heavily.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "A Wall Street Journal survey found majority support for policies historically associated with Democrats, including capping prescription drug costs, childcare costs, and credit card interest rates, raising taxes on the wealthy, and Medicare for All.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Steve Bannon and Bernie Sanders both spoke at the same anti-AI conference.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration has replaced traditional Republican free-trade and immigration policy with tariffs and deportations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration has pledged to protect Social Security and Medicare.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration has taken ownership stakes in more than 30 private companies.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Trump administration has cut taxes for the wealthy and reduced the social safety net.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Georgetown historian Michael Kazin and American Compass chief economist Oren Cass are cited discussing a rightward shift away from libertarian economics toward what Republicans like Josh Hawley, JD Vance, and Marco Rubio call 'covenant economics' or 'common good capitalism.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Historically, right-wing populism focused on cultural grievances against coastal elites, while left-wing populism targeted billionaires and corporations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "NPR's reporting drew on polling and voter focus groups.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Candidates in both parties are now using language about wealth inequality, corporate power, and affordability that previously was associated mainly with the left.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The blurring of categories is framed as emerging from voter anxiety about cost of living, wealth concentration, and uncertainty about the future tied to forces like AI and China's economic rise.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "Republican candidates and officials including Rep. French Hill, Mike Rogers, and Joe Mitchell have run campaign ads using populist language criticizing Wall Street, pharmaceutical companies, and political enrichment.",
+              "A poll of 500 working-class Americans (no college degree, income under $150,000), commissioned by the Friedrich Ebert Foundation (affiliated with Germany's Social Democratic Party) and conducted by Democratic pollster Celinda Lake, found about 40% are cynical that the American dream is still attainable, 70% blame extreme wealth inequality for this, and 69% say government has an obligation to address it.",
+              "NPR focus groups of voters who backed Biden in 2020 and Trump in 2024 (identified only as Jennifer, Tony, and Jeff) expressed concern about wealth concentration and support for taxing the wealthy more heavily.",
+              "A Wall Street Journal survey found majority support for policies historically associated with Democrats, including capping prescription drug costs, childcare costs, and credit card interest rates, raising taxes on the wealthy, and Medicare for All.",
+              "Steve Bannon and Bernie Sanders both spoke at the same anti-AI conference.",
+              "The Trump administration has replaced traditional Republican free-trade and immigration policy with tariffs and deportations, pledged to protect Social Security and Medicare, and taken ownership stakes in more than 30 private companies, while also cutting taxes for the wealthy and reducing the social safety net.",
+              "Georgetown historian Michael Kazin and American Compass chief economist Oren Cass are cited discussing a rightward shift away from libertarian economics toward what Republicans like Josh Hawley, JD Vance, and Marco Rubio call 'covenant economics' or 'common good capitalism.'"
+            ],
+            "analysis": "The story describes a shift in how economic populism functions in American politics. Historically, right-wing populism focused on cultural grievances against coastal elites, while left-wing populism targeted billionaires and corporations. NPR's reporting, drawing on polling and voter focus groups, suggests these categories are blurring: candidates in both parties are now using language about wealth inequality, corporate power, and affordability that previously was associated mainly with the left. This is framed as emerging from voter anxiety about cost of living, wealth concentration, and uncertainty about the future tied to forces like AI and China's economic rise. The report treats this as a potentially significant political opening — whichever party can credibly promise government action on these concerns, according to the sources quoted, could build a more durable electoral majority rather than the narrow, alternating majorities of recent elections.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Across the political spectrum, polling and voter focus groups cited in the story point to a shared, non-ideological anxiety — that extreme wealth inequality and economic insecurity are undermining the American dream — suggesting the real contest this cycle may be less about left versus right and more about which party can credibly claim to address that shared anxiety.",
+            "implications": "As the midterm campaign unfolds, both parties may increasingly test populist economic messaging—on inequality, corporate power, and cost of living—to see which resonates with voters feeling financially squeezed, with analysts suggesting the party that credibly owns this message could reshape the current pattern of narrow, alternating electoral majorities."
+          },
+          "interestingness": 0.63
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-brazilians-vote-in-presidential-runoff-between-l",
+          "section": "world",
+          "headline": "Brazilians vote in presidential runoff between Lula and Flávio Bolsonaro",
+          "beat_label": "Elections",
+          "byline": "International & World desk",
+          "body": [
+            "Voters in Brazil headed to the polls on Sunday in a closely fought presidential runoff between incumbent left-wing President Luiz Inácio Lula da Silva, 80, and far-right Senator Flávio Bolsonaro, 45, the son of former President Jair Bolsonaro. Polls opened at 8 a.m. (11:00 GMT) and close at 5 p.m. local time (20:00 GMT), with nearly 160 million citizens eligible to vote. The election follows a first round on October 4 in which Bolsonaro led Lula by 47% to 45% — the narrowest gap ever recorded in a Brazilian first round — making him the slight favorite to win. No candidate who has trailed after the first round has ever gone on to win a Brazilian runoff since the country’s return to democracy in the 1980s.",
+            "Bolsonaro, a congressman for more than 20 years with few passed bills, has promised to release his father, Jair Bolsonaro, who is serving a 27-year prison sentence under house arrest for plotting a coup after losing the 2022 election to Lula. The younger Bolsonaro has vowed to \"change the constitution and re-democratise this country,\" proposals that have alarmed many Brazilians who fear he could follow his father's authoritarian path. He has also pledged a tough crackdown on organized crime, including building five \"mega-prisons\" inspired by El Salvador's Nayib Bukele, as well as tax and public spending cuts. Lula, who is seeking an unprecedented fourth non-consecutive term, has cast the election as a \"battle for democracy,\" arguing that \"Bolsonarismo\" constitutes a threat to democratic institutions.",
+            "Both candidates held massive final rallies on Saturday. More than one million Lula supporters — according to Rio de Janeiro's City Hall — packed the 2.5-mile Copacabana beach in a giant protest meant to boost turnout after abstention reached a record high in the first round, disproportionately affecting Lula's voters. Lula also addressed a huge crowd on Paulista Avenue in São Paulo. \"We're going to win the election for one simple reason: it's true that the people want change [but] they want to move forward,\" Lula said. Bolsonaro held a rally in Belo Horizonte, the capital of Minas Gerais, a must-win state where no presidential candidate has won without securing it. \"The time is almost here,\" he told supporters in a social media video, adding that there were \"only a few hours left before we shape the future of our nation for the next 30 or 40 years.\"",
+            "Lula's administration has accused the United States of interfering in Brazil's election, an allegation Washington has called \"baseless.\" Lula has insisted that Brazil \"does not fit into anyone's backyard,\" an apparent reference to President Donald Trump's so-called \"Donroe Doctrine\" asserting U.S. dominance in the Western hemisphere. Bolsonaro, by contrast, argues that working with Washington to combat powerful criminal gangs will restore state sovereignty in gang-controlled areas. Many analysts believe that if Lula overturns his first-round defeat, Bolsonaro could refuse to concede, and that Trump — a longtime ally of the Bolsonaro clan — could refuse to recognize the result. A Bolsonaro victory would mean \"losing Brazil to a model of autocracy backed by the US,\" said political scientist Helcimara de Souza Telles.",
+            "Outside polling stations and at rallies, voters expressed contrasting visions. \"Brazil needs change, and Flávio is the person that represents that today, after so many years of the Left destroying the economy and the country,\" one Bolsonaro supporter told BBC News. Another said she liked his promise to \"end violence in Brazil, end terrorism, narco-trafficking, and to reduce interest rates.\" Lula supporter Roberta said: \"This movement is to show we have strength. We've woken up, we're coming to the street to make a difference and turn the vote around.\" Many Lula supporters cited fears of dictatorship if the Bolsonaro family returns to power. \"I lost four members of my family because of Bolsonaro's neglect\" during the COVID-19 pandemic, said Marta Moraes, a 59-year-old restaurateur at the Copacabana rally. Both sides claimed confidence, but the race is expected to be decided by a razor-thin margin, with the winner likely determined by the small number of undecided voters and turnout. Lula plans to watch the results in São Paulo, while Bolsonaro will be in Brasília, where his father is under house arrest."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.25,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Voters in Brazil headed to the polls on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "The presidential runoff is between Luiz Inácio Lula da Silva and Flávio Bolsonaro.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Luiz Inácio Lula da Silva is the incumbent left-wing president, aged 80.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro is a far-right senator, aged 45.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro is the son of former President Jair Bolsonaro.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Polls opened at 8 a.m. (11:00 GMT) and close at 5 p.m. local time (20:00 GMT).",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Nearly 160 million citizens are eligible to vote.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "The election follows a first round on October 4.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "In the first round, Bolsonaro led Lula by 47% to 45%.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "That gap is the narrowest ever recorded in a Brazilian first round.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Bolsonaro was the slight favorite to win after the first round.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "No candidate who has trailed after the first round has ever gone on to win a Brazilian runoff since the country’s return to democracy in the 1980s.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has been a congressman for more than 20 years.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has few passed bills.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has promised to release his father, Jair Bolsonaro.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Jair Bolsonaro is serving a 27-year prison sentence under house arrest for plotting a coup after losing the 2022 election to Lula.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has vowed to 'change the constitution and re-democratise this country'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "These proposals have alarmed many Brazilians who fear he could follow his father's authoritarian path.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has pledged a tough crackdown on organized crime, including building five 'mega-prisons' inspired by El Salvador's Nayib Bukele.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Flávio Bolsonaro has pledged tax and public spending cuts.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula is seeking an unprecedented fourth non-consecutive term.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula has cast the election as a 'battle for democracy'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula argued that 'Bolsonarismo' constitutes a threat to democratic institutions.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Both candidates held massive final rallies on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Rio de Janeiro's City Hall said more than one million Lula supporters packed the 2.5-mile Copacabana beach in a giant protest meant to boost turnout.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Abstention reached a record high in the first round.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Abstention disproportionately affected Lula's voters.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula also addressed a huge crowd on Paulista Avenue in São Paulo.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula said: 'We're going to win the election for one simple reason: it's true that the people want change [but] they want to move forward.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Bolsonaro held a rally in Belo Horizonte, the capital of Minas Gerais.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Minas Gerais is a must-win state where no presidential candidate has won without securing it.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Bolsonaro told supporters in a social media video: 'The time is almost here,' and 'only a few hours left before we shape the future of our nation for the next 30 or 40 years.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula's administration has accused the United States of interfering in Brazil's election.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Washington has called the allegation 'baseless.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula has insisted that Brazil 'does not fit into anyone's backyard.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Bolsonaro argues that working with Washington to combat powerful criminal gangs will restore state sovereignty in gang-controlled areas.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Many analysts believe that if Lula overturns his first-round defeat, Bolsonaro could refuse to concede.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Many analysts believe that Trump could refuse to recognize the result.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Political scientist Helcimara de Souza Telles said that a Bolsonaro victory would mean 'losing Brazil to a model of autocracy backed by the US'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "One Bolsonaro supporter told BBC News: 'Brazil needs change, and Flávio is the person that represents that today, after so many years of the Left destroying the economy and the country.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Another Bolsonaro supporter said she liked his promise to 'end violence in Brazil, end terrorism, narco-trafficking, and to reduce interest rates.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula supporter Roberta said: 'This movement is to show we have strength. We've woken up, we're coming to the street to make a difference and turn the vote around.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Many Lula supporters cited fears of dictatorship if the Bolsonaro family returns to power.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Marta Moraes, a 59-year-old restaurateur at the Copacabana rally, said: 'I lost four members of my family because of Bolsonaro's neglect' during the COVID-19 pandemic.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Both sides claimed confidence.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "The race is expected to be decided by a razor-thin margin.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "The winner likely determined by the small number of undecided voters and turnout.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Lula plans to watch the results in São Paulo.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              },
+              {
+                "text": "Bolsonaro will be in Brasília, where his father is under house arrest.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC News"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.9,
+          "significance": 0.9
+        },
+        {
+          "id": "world-us-evacuates-mideast-outposts-as-iran-plot-advan",
+          "section": "world",
+          "headline": "US evacuates Mideast outposts as Iran plot advances; Trump prepares for escalation",
+          "beat_label": "Iran-US conflict",
+          "byline": "International & World desk",
+          "body": [
+            "The State Department has ordered staffing reductions at multiple U.S. embassies in the Middle East, including in Lebanon, the United Arab Emirates, Qatar and Jordan, and placed the U.S. Embassy in Saudi Arabia under “ordered departure,” following a Director of National Intelligence memo warning that Iranian lethal plots against U.S. personnel have reached “advanced stages,” according to U.S. officials and the memo obtained by Axios. The memo, sent Friday by DNI Jay Clayton to Secretary of State Marco Rubio, said Iran had “substantially increased efforts to target US personnel” and that the risk is “relevant to more individuals than are currently cleared to receive this information.” Separately, the U.S. military has been quietly scaling back its troop presence at bases across the region, mirroring drawdowns at the start of the war with Iran in February.",
+            "The Pentagon has drawn up options for renewed strikes on Iran, the Washington-based outlet The Hill reported, raising the prospect of a resumption of major combat operations. Military planners have prepared several options for Defense Secretary Pete Hegseth, including targeting Iran’s energy facilities, infrastructure, nuclear sites, as well as strategic islands such as Kharg Island—which handles the vast majority of Iran’s oil production—and Qeshm in the Strait of Hormuz, according to U.S. officials. President Donald Trump suggested at a rally Friday that Washington “may do another little Epic Fury,” referring to the codename of the U.S.-Israeli operation that began on February 28, and on Saturday said the U.S. could strike as soon as “tomorrow,” while also holding out the possibility of a “big, beautiful” agreement with Tehran. The U.S. is deploying a third aircraft carrier strike group, the USS Theodore Roosevelt, along with roughly 10,000 additional soldiers and the 13th Marine Expeditionary Unit to the Middle East by the end of November.",
+            "Iranian President Masoud Pezeshkian accused Washington of derailing negotiations but said efforts to reach an agreement should continue. “We were having negotiations, the cowards [Americans] messed everything up,” he said in remarks broadcast Saturday. The Islamic Revolutionary Guard Corps spokesman Hossein Mohebi announced a shift toward an “offensive” military doctrine, warning that countries hosting bases used in U.S. attacks could become targets. On Sunday, Iran’s army said it shot down a U.S.-developed LUCAS drone over Bandar Abbas, according to the semi-official Tasnim news agency. Reuters reported, citing Iranian security officials, that Tehran has drawn up plans to target undersea communications cables in the Gulf in the event of a resumption of U.S. and Israeli attacks. Earlier in the week, Iran claimed seven oil tankers had caught fire or sustained damage in and around the Strait of Hormuz.",
+            "October has become the worst month for attacks on ships since the war began in February, with more than 120 attacks reported so far. The initial U.S.-Israeli operation, dubbed “Epic Fury,” began on February 28 after months of strikes on shipping in the Strait of Hormuz and limited progress toward a long-term ceasefire. Trump faces political pressure ahead of the November 3 U.S. midterm elections, while Israeli Prime Minister Benjamin Netanyahu—who has said overthrowing Iran’s government remains Israel’s “primary objective”—has been pushing for an attack as his support dwindles ahead of Tuesday’s election. Analysts caution that renewed escalation carries high risks. “There is a very high risk of miscalculation by either side, a very high risk of rapid escalation,” said Julie Norman, associate fellow at Chatham House. Mohamad Elmasry, a professor at the Doha Institute, said “all of that would suggest that the US and Israel are planning [another round of attacks] on Iran, either soon or very soon,” and warned that “this next round of fighting could actually be more dangerous, more catastrophic than the previous round.”"
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.03,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "NBC News",
+            "Institute for the Study of War",
+            "WSJ",
+            "Bloomberg"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Institute for the Study of War",
+              "url": "https://understandingwar.org/research/middle-east/iran-update-october-24-2026/"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-10-24/trump-prepares-for-iran-escalation-after-us-israeli-elections",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The State Department ordered staffing reductions at U.S. embassies in Lebanon, the United Arab Emirates, Qatar, and Jordan.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The State Department placed the U.S. Embassy in Saudi Arabia under 'ordered departure'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "A Director of National Intelligence memo warned that Iranian lethal plots against U.S. personnel have reached 'advanced stages'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The DNI memo was sent Friday by DNI Jay Clayton to Secretary of State Marco Rubio.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The memo said Iran had 'substantially increased efforts to target US personnel'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The memo said the risk is 'relevant to more individuals than are currently cleared to receive this information'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The U.S. military has been scaling back its troop presence at bases across the region.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The scaling back mirrors drawdowns at the start of the war with Iran in February.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The Pentagon has drawn up options for renewed strikes on Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "The Hill"
+                ]
+              },
+              {
+                "text": "Military planners have prepared several options for Defense Secretary Pete Hegseth.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The options include targeting Iran's energy facilities, infrastructure, and nuclear sites.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The options include targeting Kharg Island, which handles the vast majority of Iran's oil production.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The options include targeting Qeshm in the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "President Donald Trump suggested at a rally Friday that Washington 'may do another little Epic Fury'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "'Epic Fury' is the codename of the U.S.-Israeli operation that began on February 28.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "On Saturday, Trump said the U.S. could strike as soon as 'tomorrow'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Trump held out the possibility of a 'big, beautiful' agreement with Tehran.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The U.S. is deploying a third aircraft carrier strike group, the USS Theodore Roosevelt, to the Middle East by the end of November.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The U.S. is deploying approximately 10,000 additional soldiers to the Middle East by the end of November.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The U.S. is deploying the 13th Marine Expeditionary Unit to the Middle East by the end of November.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Iranian President Masoud Pezeshkian accused Washington of derailing negotiations.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Pezeshkian said efforts to reach an agreement should continue.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Pezeshkian said 'We were having negotiations, the cowards [Americans] messed everything up' in remarks broadcast Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The Islamic Revolutionary Guard Corps spokesman Hossein Mohebi announced a shift toward an 'offensive' military doctrine.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Mohebi warned that countries hosting bases used in U.S. attacks could become targets.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "On Sunday, Iran's army said it shot down a U.S.-developed LUCAS drone over Bandar Abbas.",
+                "status": "supported",
+                "source_ids": [
+                  "Tasnim"
+                ]
+              },
+              {
+                "text": "Reuters reported, citing Iranian security officials, that Tehran has drawn up plans to target undersea communications cables in the Gulf in the event of a resumption of U.S. and Israeli attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Iran claimed seven oil tankers had caught fire or sustained damage in and around the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "October has become the worst month for attacks on ships since the war began in February.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "More than 120 attacks on ships have been reported so far in October.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The initial U.S.-Israeli operation was dubbed 'Epic Fury'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The initial U.S.-Israeli operation began on February 28.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "The operation followed months of strikes on shipping in the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "There was limited progress toward a long-term ceasefire before the operation.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Trump faces political pressure ahead of the November 3 U.S. midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Israeli Prime Minister Benjamin Netanyahu has said overthrowing Iran's government remains Israel's 'primary objective'.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Netanyahu has been pushing for an attack on Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Netanyahu's support is dwindling ahead of Tuesday's election.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Julie Norman, associate fellow at Chatham House, said there is a very high risk of miscalculation by either side and a very high risk of rapid escalation.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Mohamad Elmasry, a professor at the Doha Institute, said all of that suggests the US and Israel are planning another round of attacks on Iran either soon or very soon.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              },
+              {
+                "text": "Elmasry warned that the next round of fighting could be more dangerous and catastrophic than the previous round.",
+                "status": "supported",
+                "source_ids": [
+                  "Axios"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.861,
+          "image": {
+            "url": "static/img/2026-10-25/world-us-evacuates-mideast-outposts-as-iran-plot-advan.jpg",
+            "alt": "Photograph of U.S. embassy building in the Middle East",
+            "credit": "Photo: President (1981-1989 : Reagan). White House Photographic Office. 1981-1989 / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 662
+          }
+        },
+        {
+          "id": "world-french-protests-escalate-with-clashes-and-mass-a",
+          "section": "world",
+          "headline": "French protests escalate with clashes and mass arrests",
+          "beat_label": "International protests",
+          "byline": "International & World desk",
+          "body": [
+            "More than 1,300 people were arrested across France on Saturday as hundreds of thousands of protesters demonstrated against the cost of living and poor school conditions, with clashes erupting after largely peaceful marches in multiple cities, officials said. The interior ministry estimated 410,000 protesters nationwide, while unions put the number at about 800,000. Police deployed 70,000 officers and used tear gas and water cannon to disperse crowds in several cities, including Paris, while clashes also occurred in Marseille, Bordeaux, and Lyon. The interior ministry reported 53 officers injured and two protesters seriously hurt—one in Toulouse who had several fingers torn off by an explosive device, and another in Clermont-Ferrand.",
+            "In Paris, 142 people were arrested after an elite police unit intervened when masked youths smashed car dealership windows and pelted officers with projectiles. Interior Minister Laurent Nuñez said “several thousand radical activists gathered at the rear of the march, including around 500 individuals identified as rioters,” according to AFP. In Marseille, rubbish bins were set ablaze and metal sheets blocked streets; a law enforcement vehicle drove through a burning barricade. In Bordeaux, protesters used boards removed from a building to build a street barricade, while in Lyon police fired tear gas grenades at a crowd that included secondary school and university students. One protester, Zelie, 26, told the BBC that people were “really frustrated” and had been “suffering a lot” since President Emmanuel Macron came to office. Two masked teenage protesters said their generation felt abandoned, adding that looting stemmed from “poverty and the violence of the police.”",
+            "Saturday’s demonstrations follow a weekend of even larger unrest that saw 550,000 protesters, more than 2,500 arrests, and damage to an estimated 2,000 shops and businesses across France, with losses running into “hundreds of millions euros,” according to the French Chambers of Commerce and Industry. Macron decreed earlier this week that only protests organized by recognized trade unions would be permitted, and hundreds of people have been jailed in fast-track hearings for vandalism, arson, and looting. The unrest comes six months before a presidential election in which Macron will not stand, leaving voters a choice between far-right National Rally candidate Marine Le Pen and radical-left La France Insoumise (France Unbowed) candidate Jean-Luc Mélenchon. Mélenchon blamed the government, saying police had created “a setup deliberately designed to provoke chaos” that “mutilated two people.” Right-wing figures criticized rioters while left-wing leaders backed the union-led protests.",
+            "Similar protests erupted in several other European cities on Saturday. In Barcelona, more than 120 people were arrested after a student protest turned into what local authorities called “gratuitous violence.” In Albania’s capital Tirana, riot police fired tear gas to disperse thousands of anti-government demonstrators, and clashes were reported in Brussels. In Italy, authorities deployed 500 additional soldiers to Milan alongside about 5,000 police and other security personnel, with army vehicles and boarded-up luxury stores in the city center. While Milan’s demonstration remained peaceful, brief clashes occurred in Rome and Turin. Police in Milan detained several minors as a preventive measure after last week’s violence and looting, which involved about 2,000 very young protesters, many of them “naturalized, second-generation Italians,” alongside foreign nationals. In Rome, a small number of protesters tried to force their way into the Colosseum but were ushered out by guards.",
+            "The protests across Europe reflect a broad range of grievances including education, corruption, anti-war movements, pensions, and housing. French authorities said the number of arrests nationwide would likely rise as unrest continued into the early hours of Sunday. In the Bouches-du-Rhône region around Marseille, seven businesses were looted or damaged. Meanwhile, a peaceful rally of about 13,000 people against the far-right National Rally party proceeded in Orléans. The sustained unrest underscores deep political polarization in France, with all leading contenders blaming Macron and his ministers for the crisis."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "More than 1,300 people were arrested across France on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hundreds of thousands of protesters demonstrated against the cost of living and poor school conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The interior ministry estimated 410,000 protesters nationwide.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Unions put the number at about 800,000.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Police deployed 70,000 officers.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Police used tear gas and water cannon to disperse crowds in several cities, including Paris.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Clashes occurred in Marseille, Bordeaux, and Lyon.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The interior ministry reported 53 officers injured.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The interior ministry reported two protesters seriously hurt—one in Toulouse who had several fingers torn off by an explosive device, and another in Clermont-Ferrand.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Paris, 142 people were arrested.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "An elite police unit intervened when masked youths smashed car dealership windows and pelted officers with projectiles.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Interior Minister Laurent Nuñez said that several thousand radical activists gathered at the rear of the march, including around 500 individuals identified as rioters.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "In Marseille, rubbish bins were set ablaze and metal sheets blocked streets.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A law enforcement vehicle drove through a burning barricade in Marseille.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Bordeaux, protesters used boards removed from a building to build a street barricade.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Lyon, police fired tear gas grenades at a crowd that included secondary school and university students.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Protester Zelie, 26, told the BBC that people were 'really frustrated' and had been 'suffering a lot' since President Emmanuel Macron came to office.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Two masked teenage protesters said their generation felt abandoned, adding that looting stemmed from 'poverty and the violence of the police.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The previous weekend saw 550,000 protesters.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The previous weekend saw more than 2,500 arrests.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The previous weekend saw damage to an estimated 2,000 shops and businesses across France.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Losses from the previous weekend ran into hundreds of millions of euros, according to the French Chambers of Commerce and Industry.",
+                "status": "supported",
+                "source_ids": [
+                  "French Chambers of Commerce and Industry"
+                ]
+              },
+              {
+                "text": "Macron decreed earlier this week that only protests organized by recognized trade unions would be permitted.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Hundreds of people have been jailed in fast-track hearings for vandalism, arson, and looting.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The unrest comes six months before a presidential election in which Macron will not stand.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Voters have a choice between far-right National Rally candidate Marine Le Pen and radical-left La France Insoumise candidate Jean-Luc Mélenchon.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Mélenchon blamed the government, saying police had created 'a setup deliberately designed to provoke chaos' that 'mutilated two people.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Right-wing figures criticized rioters while left-wing leaders backed the union-led protests.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Similar protests erupted in several other European cities on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Barcelona, more than 120 people were arrested after a student protest turned into what local authorities called 'gratuitous violence.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Albania’s capital Tirana, riot police fired tear gas to disperse thousands of anti-government demonstrators.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Clashes were reported in Brussels.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Italy, authorities deployed 500 additional soldiers to Milan alongside about 5,000 police and other security personnel, with army vehicles and boarded-up luxury stores in the city center.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "While Milan’s demonstration remained peaceful, brief clashes occurred in Rome and Turin.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Police in Milan detained several minors as a preventive measure after last week’s violence and looting, which involved about 2,000 very young protesters, many of them 'naturalized, second-generation Italians,' alongside foreign nationals.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In Rome, a small number of protesters tried to force their way into the Colosseum but were ushered out by guards.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The protests across Europe reflect a broad range of grievances including education, corruption, anti-war movements, pensions, and housing.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "French authorities said the number of arrests nationwide would likely rise as unrest continued into the early hours of Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "In the Bouches-du-Rhône region around Marseille, seven businesses were looted or damaged.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "A peaceful rally of about 13,000 people against the far-right National Rally party proceeded in Orléans.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The sustained unrest underscores deep political polarization in France, with all leading contenders blaming Macron and his ministers for the crisis.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,623.68",
+            "chg": "−1.23%",
+            "dir": "down",
+            "spark": "1.5,2.6 8.3,9.6 15.2,7.0 22.0,5.2 28.8,1.5 35.7,9.2 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "25,955.34",
+            "chg": "−2.76%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,9.8 15.2,5.6 22.0,5.7 28.8,1.6 35.7,11.7 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "52,215.16",
+            "chg": "+1.15%",
+            "dir": "up",
+            "spark": "1.5,9.9 8.3,12.1 15.2,12.5 22.0,6.0 28.8,1.6 35.7,1.5 42.5,9.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,775.90",
+            "chg": "+1.70%",
+            "dir": "up",
+            "spark": "1.5,4.4 8.3,12.5 15.2,11.3 22.0,3.4 28.8,2.0 35.7,1.5 42.5,2.9"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.99%",
+            "chg": "-10 bp",
+            "dir": "down",
+            "spark": "1.5,4.7 8.3,4.2 15.2,2.1 22.0,3.2 28.8,1.5 35.7,12.5 42.5,10.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$103.27",
+            "chg": "−0.38%",
+            "dir": "down",
+            "spark": "1.5,1.5 11.8,4.7 22.0,12.5 32.2,8.6 42.5,2.2"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,007.90",
+            "chg": "−3.66%",
+            "dir": "down",
+            "spark": "1.5,1.5 11.8,2.8 22.0,2.2 32.2,8.7 42.5,12.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$80,268",
+            "chg": "−1.94%",
+            "dir": "down",
+            "spark": "1.5,7.8 8.3,4.6 15.2,1.5 22.0,9.4 28.8,10.1 35.7,11.0 42.5,12.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "19.4",
+            "chg": "+18.2%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,1.5 15.2,6.3 22.0,9.9 28.8,11.8 35.7,4.5 42.5,3.2"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "META",
+            "chg": "−12.9%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−9.47%",
+            "dir": "down"
+          },
+          {
+            "sym": "GOOGL",
+            "chg": "−7.89%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−7.10%",
+            "dir": "down"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−6.69%",
+            "dir": "down"
+          },
+          {
+            "sym": "UNH",
+            "chg": "+5.68%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "9:51 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-brewers-rally-past-rays-for-5-4-win-take-2-0-wor",
+          "section": "sports",
+          "headline": "Brewers rally past Rays for 5-4 win, take 2-0 World Series lead",
+          "beat_label": "MLB",
+          "byline": "Sports desk",
+          "body": [
+            "MILWAUKEE — The Milwaukee Brewers overcame a four-run first-inning deficit for the second time this postseason, rallying past the Tampa Bay Rays 5-4 on Saturday night at American Family Field to take a 2-0 lead in the World Series. The Brewers, who also erased a 4-0 hole to sweep the defending champion Los Angeles Dodgers in the NLCS, have now won seven of their nine playoff games after falling behind. Down 4-0 just five batters into the game, Milwaukee methodically chipped away, tying the score in the sixth inning and taking the lead in the seventh to stun the Rays and seize control of the series.",
+            "The Rays jumped ahead early when Liam Hicks crushed a two-run home run — the first homer of the World Series — to cap a four-run first inning against rookie Brewers starter Logan Henderson, who gave up four runs in a game for the first time in his short MLB career. But Tampa Bay would not score again. The Brewers began their comeback with two runs in the bottom of the first against Rays ace Drew Rasmussen. David Hamilton cut the deficit to 4-3 in the fourth inning with a run-scoring grounder that went through the legs of Rays first baseman Jonathan Aranda. In the sixth, Sal Frelick — who had gone 103 plate appearances without a home run since July 11 — tied the game by driving a fastball over the center-field fence off Rays pitcher Ian Seymour. Frelick circled the bases in 18.72 seconds. \"I was just pumped to try to get back to the dugout,\" Frelick said. \"I don't hit a lot of home runs, especially to center, so I was happy it went out.\"",
+            "The go-ahead run came in the seventh inning. Brice Turang doubled against losing pitcher Tyler Wells on the second pitch of the bottom half, advanced on Garrett Mitchell's flyout to right, and scored when 22-year-old rookie Cooper Pratt looped a sinker from Kevin Kelly into short right field. \"As long as there's game left, we have a chance,\" Pratt said. \"I think we've all bought into that. We're never out of it.\" The Brewers' bullpen — JoJo Romero, Dustin May and DL Hall — kept the game within reach after the first-inning disaster, and late-inning beasts Abner Uribe and Aaron Ashby closed it out. Even when the Rays got a leadoff double from Jonny DeLuca in the ninth and moved a runner to third with Yandy Díaz coming to the plate, manager Pat Murphy stuck with Ashby, who got a strikeout to end the game.",
+            "The final play sparked controversy. Díaz checked his swing, but the umpire ruled he had swung, ending the game. After seeing the replay, Dodgers announcer Joe Davis called on MLB to implement a replay system for check swings similar to the automated balls/strikes system (ABS) introduced this year. \"We got ABS for the first time this year, getting the balls and strikes right; we need to get a system that can get [check-swings] right,\" Davis said. Díaz was frustrated, maintaining he had not swung. The Rays also hurt themselves with a series of defensive miscues: Jonathan Aranda botched a foul-ball catch in the first inning and let a weak grounder go through his legs in the fourth; Liam Hicks was thrown out at home plate by Jackson Chourio on a send that was a poor decision despite Chourio's excellent throw; Chandler Simpson dropped a Christian Yelich pop fly in the sixth; and backup catcher Nick Fuentes bobbled a pitch that contributed to a Brewers double steal in the eighth. \"Look, we didn't play our cleanest baseball game by any stretch,\" Rays manager Kevin Cash said. \"We pride ourselves on doing everything we can to support the pitchers and making plays behind them. Today was probably not our best day.\"",
+            "The Brewers, who won 103 regular-season games and posted the best run differential in baseball, are now one of only five teams in MLB playoff history to win multiple games after falling behind by at least four runs, and just the third to trail by four runs at home in the World Series and come back to win, joining the 2017 Astros and 2002 Angels. \"We're down to the end of the season here,\" Brewers manager Pat Murphy said. \"They're going to tap us on the shoulder here at some point and tell us no more. Guys just, they don't give up. They believe, and they don't give up. They just keep going.\" The Brewers need two more wins to secure the first World Series championship in franchise history. Game 3 is scheduled for Monday night at Tropicana Field in St. Petersburg, Florida."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ESPN",
+            "Milwaukee Journal Sentinel",
+            "CBS Sports",
+            "Sporting News",
+            "NBC News",
+            "Sports Illustrated"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/mlb/story/_/id/50273821/brewers-rally-vs-rays-game-2-take-2-0-world-series-lead"
+            },
+            {
+              "outlet": "Milwaukee Journal Sentinel",
+              "url": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/25/aaron-ashby-world-series-scoreless-outing-save/92427821007/"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/mlb/news/2026-world-series-brewers-rays-mistakes/"
+            },
+            {
+              "outlet": "Sporting News",
+              "url": "https://www.sportingnews.com/us/mlb/tampa-bay-rays/news/dodgers-announcer-calls-mlb-make-major-change-after-rays-yandy-diaz-check-swing-controversy/2a9361816d9f91c078156022"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/sports/mlb/frelick-pratt-lift-brewers-5-4-comeback-win-rays-2-0-world-series-lead-rcna605483",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Sports Illustrated",
+              "url": "https://www.si.com/mlb/world-series/comeback-crew-brewers-erase-another-early-deficit-stun-rays-game-2"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Milwaukee Brewers overcame a four-run first-inning deficit.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "This was the second time the Brewers overcame a four-run first-inning deficit this postseason.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers defeated the Tampa Bay Rays 5-4.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The game was on Saturday night.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The game was at American Family Field.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The win gave the Brewers a 2-0 lead in the World Series.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers erased a 4-0 deficit to sweep the Los Angeles Dodgers in the NLCS.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Los Angeles Dodgers were the defending champions at that time.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers have won seven of their nine playoff games this postseason after falling behind.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers were down 4-0 after just five batters.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers tied the score in the sixth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers took the lead in the seventh inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Liam Hicks hit a two-run home run.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "This home run was the first home run of the World Series.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The home run capped a four-run first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The home run was hit against rookie Brewers starter Logan Henderson.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Logan Henderson is a rookie.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Logan Henderson started for the Brewers.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Logan Henderson gave up four runs in a game for the first time in his MLB career.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Tampa Bay did not score any more runs after the first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers scored two runs in the bottom of the first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Those runs were against Drew Rasmussen.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "David Hamilton hit a run-scoring grounder in the fourth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The grounder cut the deficit to 4-3.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The grounder went through the legs of Jonathan Aranda.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Jonathan Aranda is the Rays first baseman.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Sal Frelick hit a home run in the sixth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The home run tied the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Sal Frelick had gone 103 plate appearances without a home run since July 11.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The home run was off Rays pitcher Ian Seymour.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The pitch was a fastball.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The home run went over the center-field fence.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Frelick circled the bases in 18.72 seconds.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Sal Frelick said, 'I was just pumped to try to get back to the dugout. I don't hit a lot of home runs, especially to center, so I was happy it went out.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The go-ahead run came in the seventh inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Brice Turang hit a double against Tyler Wells on the second pitch of the bottom half of the seventh inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Tyler Wells was the losing pitcher.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Brice Turang advanced to third on a flyout by Garrett Mitchell to right field.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Cooper Pratt is a 22-year-old rookie.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Cooper Pratt hit a single (looped a sinker) into short right field off Kevin Kelly.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Brice Turang scored on that play.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Cooper Pratt said, 'As long as there's game left, we have a chance. I think we've all bought into that. We're never out of it.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "JoJo Romero, Dustin May, and DL Hall pitched for the Brewers after the first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers bullpen held the Rays scoreless after the first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Abner Uribe and Aaron Ashby pitched in late innings and closed the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Rays got a leadoff double from Jonny DeLuca in the ninth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The runner moved to third base.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Yandy Díaz came to the plate.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Manager Pat Murphy kept Aaron Ashby in the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Aaron Ashby struck out Yandy Díaz to end the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The final play sparked controversy.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Yandy Díaz checked his swing.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The umpire ruled Díaz had swung.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The game ended on that ruling.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Joe Davis is a Dodgers announcer.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Joe Davis called on MLB to implement a replay system for check swings similar to ABS introduced this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Joe Davis said, 'We got ABS for the first time this year, getting the balls and strikes right; we need to get a system that can get [check-swings] right.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Yandy Díaz maintained he had not swung.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Jonathan Aranda botched a foul-ball catch in the first inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Jonathan Aranda let a grounder go through his legs in the fourth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Liam Hicks was thrown out at home plate by Jackson Chourio during the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Chandler Simpson dropped a Christian Yelich pop fly in the sixth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Nick Fuentes bobbled a pitch that contributed to a Brewers double steal in the eighth inning.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Rays manager Kevin Cash said, 'Look, we didn't play our cleanest baseball game by any stretch. We pride ourselves on doing everything we can to support the pitchers and making plays behind them. Today was probably not our best day.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers won 103 regular-season games.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers had the best run differential in baseball.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers are one of only five teams in MLB playoff history to win multiple games after falling behind by at least four runs.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers are the third team to trail by four runs at home in the World Series and come back to win.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The previous two teams to do so are the 2017 Astros and 2002 Angels.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Brewers manager Pat Murphy said, 'We're down to the end of the season here. They're going to tap us on the shoulder here at some point and tell us no more. Guys just, they don't give up. They believe, and they don't give up. They just keep going.'",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "The Brewers need two more wins to secure the first World Series championship in franchise history.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              },
+              {
+                "text": "Game 3 is scheduled for Monday night at Tropicana Field in St. Petersburg, Florida.",
+                "status": "supported",
+                "source_ids": [
+                  "Article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.9,
+          "significance": 0.75,
+          "image": {
+            "url": "static/img/2026-10-25/sports-brewers-rally-past-rays-for-5-4-win-take-2-0-wor.jpg",
+            "alt": "Photograph of American Family Field baseball stadium",
+            "credit": "Photo: DiscoA340 / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 546
+          }
+        },
+        {
+          "id": "sports-nfl-trade-deadline-looms-with-multiple-star-play",
+          "section": "sports",
+          "headline": "Colts RB Jonathan Taylor emerges as top trade target as NFL deadline nears",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "With the NFL trade deadline set for 4 p.m. ET on Tuesday, November 10, the Indianapolis Colts are facing decisions on multiple veteran players after firing general manager Chris Ballard. Interim GM Ed Dodds must weigh whether to follow the Miami Dolphins' fire-sale model from last season when they dealt key assets after a front-office shakeup. According to ESPN's Stephen Holder, 'multiple teams' are interested in acquiring three-time Pro Bowl running back Jonathan Taylor if the Colts make him available.",
+            "Taylor, 27, remains productive despite playing in a Colts offense that ranks 22nd in both passing and total yards. He is seventh in the NFL with 655 scrimmage yards and tied for sixth with seven combined touchdowns. However, his contract escalates sharply: his base salary jumps from $7 million this season to $15 million in 2027, and trading him would leave Indianapolis with $10 million in dead money next year. The Colts would likely demand a first-round pick to open talks, though a conditional second-rounder or a package similar to the 2022 Christian McCaffrey trade (a second-, third-, fourth- and fifth-round pick) might suffice.",
+            "Taylor has not sought a move. \"I think it would be a discredit and a disservice to my teammates and this whole organization to think about what could, what should, what may be,\" he told Holder. But the Colts' front-office transition — and the possibility of future coaching changes — opens the door for dealing veterans. Yahoo Sports reported that the Colts could trade Taylor and/or others, with the deadline still 16 days away at the time of reporting.",
+            "Several contending teams have been identified as logical landing spots. The Denver Broncos (30th in yards per carry, 31st in total offense) could pair Taylor with Sean Payton's offense and treat him as a long-term piece. The Seattle Seahawks, defending Super Bowl champions, rank 18th in yards per carry and have struggled with quarterback Sam Darnold's seven interceptions; adding Taylor could stabilize the offense even as Zach Charbonnet and rookie Jadarian Price return from injury. The Minnesota Vikings, one of three undefeated teams, have a championship defense and could give Taylor a chance to chase a title while upgrading a backfield led by Aaron Jones, who will turn 32 in December. The Cincinnati Bengals, despite a potent passing attack, rank 28th in rushing and have shown an aggressive new approach after trading for defensive tackle Dexter Lawrence and signing multiple defensive free agents; head coach Zac Taylor said after a Week 4 loss, \"We got to be better… We will be better moving forward.\"",
+            "The New York Giants present a different scenario: first place in the NFC East at 3-2-1 despite losing second-year quarterback Jaxson Dart to a season-ending knee injury. Coach John Harbaugh has publicly expressed desire for a high-volume every-down back, saying, \"I would love for us to be in that kind of a circumstance. A Derrick Henry circumstance or a Saquon Barkley circumstance… that would be great, and we haven't.\" Taylor, who played high school football roughly two hours from MetLife Stadium in New Jersey, could give the Giants a centerpiece for their rebuild while also keeping them in playoff contention this season. With the deadline just over two weeks away, any trade would reshape the contending landscape."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Bleacher Report",
+            "Yahoo Sports",
+            "Bleeding Green Nation",
+            "Sports Illustrated",
+            "Cleveland.com",
+            "New York Post",
+            "NBC Sports Bay Area & California",
+            "Tampa Bay Times",
+            "ESPN",
+            "Silver And Black Pride"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Bleacher Report",
+              "url": "https://bleacherreport.com/articles/25519333-top-landing-spots-colts-rb-jonathan-taylor-amid-latest-nfl-trade-rumors"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/colts-could-trade-jonathan-taylor-124515797.html"
+            },
+            {
+              "outlet": "Bleeding Green Nation",
+              "url": "https://www.bleedinggreennation.com/news/188118/eagles-news-will-howie-roseman-sell-ahead-of-the-nfl-trade-deadline"
+            },
+            {
+              "outlet": "Sports Illustrated",
+              "url": "https://www.si.com/nfl/49ers/onsi/49ers-expected-pursue-trade-colts-deforest-buckner"
+            },
+            {
+              "outlet": "Cleveland.com",
+              "url": "https://www.cleveland.com/pluto/2026/10/terry-pluto-on-why-fans-shouldnt-expect-the-browns-to-swing-for-the-fences-at-the-nfl-trade-deadline.html"
+            },
+            {
+              "outlet": "New York Post",
+              "url": "https://nypost.com/2026/10/24/sports/jaguars-brian-thomas-jr-expected-to-be-on-nfl-trade-block/"
+            },
+            {
+              "outlet": "NBC Sports Bay Area & California",
+              "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/trade-deadline-brian-thomas-jr-jaguars/1973864/"
+            },
+            {
+              "outlet": "Tampa Bay Times",
+              "url": "https://www.tampabay.com/sports/bucs/2026/10/25/nfl-trade-deadline-vita-vea-chris-godwin-kenny-gainwell-david-walker/"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nfl/story/_/id/50272352/sources-decisions-loom-colts-nfl-trade-deadline"
+            },
+            {
+              "outlet": "Silver And Black Pride",
+              "url": "https://www.silverandblackpride.com/las-vegas-raiders-analysis/143857/raiders-mailbag-nfl-trade-deadline-jeffery-simmons-quenton-nelson-brian-thomas"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The NFL trade deadline is set for 4 p.m. ET on Tuesday, November 10.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Indianapolis Colts have fired general manager Chris Ballard.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Colts are facing decisions on multiple veteran players.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Ed Dodds is the interim general manager.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Ed Dodds must weigh whether to follow the Miami Dolphins' fire-sale model from last season.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Miami Dolphins dealt key assets after a front-office shakeup last season.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "According to ESPN's Stephen Holder, multiple teams are interested in acquiring Jonathan Taylor if the Colts make him available.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN's Stephen Holder"
+                ]
+              },
+              {
+                "text": "Jonathan Taylor is a three-time Pro Bowl running back.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor is 27 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Colts offense ranks 22nd in passing yards.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Colts offense ranks 22nd in total yards.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor is seventh in the NFL with 655 scrimmage yards.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor is tied for sixth with seven combined touchdowns.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor's base salary jumps from $7 million this season to $15 million in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Trading Taylor would leave Indianapolis with $10 million in dead money next year.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Colts would likely demand a first-round pick to open talks.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "A conditional second-rounder might suffice for a trade.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "A trade package similar to the 2022 Christian McCaffrey trade (a second-, third-, fourth- and fifth-round pick) might suffice.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The 2022 Christian McCaffrey trade involved a second-, third-, fourth- and fifth-round pick.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor has not sought a move.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Taylor told ESPN's Stephen Holder: 'I think it would be a discredit and a disservice to my teammates and this whole organization to think about what could, what should, what may be.'",
+                "status": "supported",
+                "source_ids": [
+                  "Taylor",
+                  "ESPN's Stephen Holder"
+                ]
+              },
+              {
+                "text": "The Colts' front-office transition opens the door for dealing veterans.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Yahoo Sports reported that the Colts could trade Taylor and/or others.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Sports"
+                ]
+              },
+              {
+                "text": "The deadline was still 16 days away at the time of Yahoo Sports reporting.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Sports"
+                ]
+              },
+              {
+                "text": "Several contending teams have been identified as logical landing spots.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Denver Broncos are 30th in yards per carry.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Denver Broncos are 31st in total offense.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Denver Broncos could pair Taylor with Sean Payton's offense.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Seattle Seahawks are defending Super Bowl champions.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Seattle Seahawks rank 18th in yards per carry.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Sam Darnold has thrown seven interceptions.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Zach Charbonnet is returning from injury.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Jadarian Price is returning from injury.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Minnesota Vikings are one of three undefeated teams.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Vikings' backfield is led by Aaron Jones.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Aaron Jones will turn 32 in December.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Cincinnati Bengals rank 28th in rushing.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Cincinnati Bengals traded for defensive tackle Dexter Lawrence.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Cincinnati Bengals signed multiple defensive free agents.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Head coach Zac Taylor said after a Week 4 loss: 'We got to be better… We will be better moving forward.'",
+                "status": "supported",
+                "source_ids": [
+                  "Zac Taylor"
+                ]
+              },
+              {
+                "text": "The New York Giants are in first place in the NFC East with a record of 3-2-1.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The Giants lost second-year quarterback Jaxson Dart to a season-ending knee injury.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Jaxson Dart is a second-year quarterback.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "Coach John Harbaugh has publicly expressed desire for a high-volume every-down back.",
+                "status": "supported",
+                "source_ids": [
+                  "John Harbaugh"
+                ]
+              },
+              {
+                "text": "Harbaugh said: 'I would love for us to be in that kind of a circumstance. A Derrick Henry circumstance or a Saquon Barkley circumstance… that would be great, and we haven't.'",
+                "status": "supported",
+                "source_ids": [
+                  "John Harbaugh"
+                ]
+              },
+              {
+                "text": "Taylor played high school football roughly two hours from MetLife Stadium in New Jersey.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              },
+              {
+                "text": "The trade deadline is just over two weeks away from the time of writing.",
+                "status": "supported",
+                "source_ids": [
+                  "article"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-stat-the-esmo-presentation-everyone-s-been-waiti",
+          "section": "health-science",
+          "headline": "ESMO Day 2: Nearly 40,000 Attendees in Madrid; STAT+ Subscribers Get Exclusive Daily Coverage",
+          "beat_label": "",
+          "byline": "Health & Science desk",
+          "body": [
+            "The European Society for Medical Oncology's annual meeting is entering its second day in Madrid, with nearly 40,000 people in attendance, according to a STAT newsletter report from the conference.",
+            "STAT's \"ESMO in 30 Seconds\" newsletter, which provided the update, said it will publish one more edition wrapping up the conference on Monday afternoon. On Thursday, STAT will host a live recap and question-and-answer session covering all the ESMO news.",
+            "The article is exclusive to STAT+ subscribers, who also receive daily coverage and analysis of the biotech sector."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/24/the-esmo-2026-merck-moderna-presentation-amgen-imdelltra-news/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The European Society for Medical Oncology's annual meeting is entering its second day in Madrid.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Nearly 40,000 people are in attendance at the meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "STAT's 'ESMO in 30 Seconds' newsletter provided the update about the meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The newsletter will publish one more edition wrapping up the conference on Monday afternoon.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "On Thursday, STAT will host a live recap and question-and-answer session covering all the ESMO news.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The article is exclusive to STAT+ subscribers.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "STAT+ subscribers receive daily coverage and analysis of the biotech sector.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "health-science-opinion-christina-applegate-puts-a-face-on-one-o",
+          "section": "health-science",
+          "headline": "Christina Applegate’s MS Misdiagnosis Spotlights the Challenge of Early, Accurate Diagnosis in Neurology",
+          "beat_label": "",
+          "byline": "Health & Science desk",
+          "body": [
+            "Five years after being diagnosed with multiple sclerosis, actor Christina Applegate revealed this week that she had initially been misdiagnosed, according to an opinion piece published by STAT. Bruce Bebo, Ph.D., chief research and medical affairs officer at the National Multiple Sclerosis Society, wrote that Applegate’s experience “puts a public face on one of the most consequential challenges in neurology: how to diagnose a complex disease early enough to prevent irreversible damage without sacrificing accuracy.”",
+            "The diagnostic process for MS has evolved dramatically over the past four decades, Bebo noted. When he began his career, physicians often had to wait for symptoms to recur before confirming MS. Today, advances in imaging, biomarkers, and diagnostic criteria — including the McDonald Diagnostic Criteria, which the National MS Society helped advance in partnership with the European Committee for Treatment and Research in Multiple Sclerosis — have shortened the diagnostic process from years to months in many cases. One promising technique is an MRI method that identifies the central vein sign, which can help distinguish MS lesions from abnormalities caused by other conditions.",
+            "Despite these advances, Bebo wrote that “too many people still spend years searching for an accurate diagnosis, while others are told they have MS when another condition is responsible for their symptoms.” MS symptoms such as numbness, vision changes, fatigue, and difficulty walking overlap with many other neurological disorders, and even MRI abnormalities are not unique to MS. The consequences of misdiagnosis include unnecessary treatments and risks for patients who do not have MS, while delayed diagnosis can mean missing the window for early treatment, which research shows is critical to preventing irreversible neurological damage.",
+            "Bebo emphasized that “the future of MS diagnosis cannot be about speed alone.” He called for continued investment in research to develop and validate better diagnostic tools, improved education for primary care providers who often first evaluate unexplained neurological symptoms, and better access to neurologists and MS specialists. “Access to neurological care across the country is uneven,” he wrote, noting that some communities face shortages of neurologists, long wait times, and travel burdens for patients.",
+            "Applegate’s willingness to share her story, Bebo concluded, “has brought attention to an issue that extends far beyond any one person’s diagnosis.” He stressed that while scientific progress has transformed the ability to recognize and treat MS, the next challenge is ensuring that advances translate into earlier, more accurate diagnoses and better outcomes for everyone affected by the disease. “The goal is not simply to diagnose MS faster. It is to get the diagnosis right, as early as possible, so that no one loses precious time, or the opportunity for appropriate treatment, while searching for answers,” he wrote."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/24/christina-applegate-multiple-sclerosis-why-ms-misdiagnosis-happens/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Actor Christina Applegate was diagnosed with multiple sclerosis five years ago.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Christina Applegate revealed this week that she had initially been misdiagnosed.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The revelation was made in an opinion piece published by STAT.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bruce Bebo, Ph.D., is the chief research and medical affairs officer at the National Multiple Sclerosis Society.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bruce Bebo wrote that Applegate’s experience “puts a public face on one of the most consequential challenges in neurology: how to diagnose a complex disease early enough to prevent irreversible damage without sacrificing accuracy.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The diagnostic process for MS has evolved dramatically over the past four decades.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "When Bebo began his career, physicians often had to wait for symptoms to recur before confirming MS.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Today, advances in imaging, biomarkers, and diagnostic criteria — including the McDonald Diagnostic Criteria — have shortened the diagnostic process from years to months in many cases.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The National MS Society helped advance the McDonald Diagnostic Criteria in partnership with the European Committee for Treatment and Research in Multiple Sclerosis.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "One promising technique is an MRI method that identifies the central vein sign.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The central vein sign can help distinguish MS lesions from abnormalities caused by other conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo wrote that “too many people still spend years searching for an accurate diagnosis, while others are told they have MS when another condition is responsible for their symptoms.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "MS symptoms such as numbness, vision changes, fatigue, and difficulty walking overlap with many other neurological disorders.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Even MRI abnormalities are not unique to MS.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The consequences of misdiagnosis include unnecessary treatments and risks for patients who do not have MS.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Delayed diagnosis can mean missing the window for early treatment.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Research shows that early treatment is critical to preventing irreversible neurological damage.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo emphasized that “the future of MS diagnosis cannot be about speed alone.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo called for continued investment in research to develop and validate better diagnostic tools.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo called for improved education for primary care providers who often first evaluate unexplained neurological symptoms.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo called for better access to neurologists and MS specialists.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo wrote that “access to neurological care across the country is uneven.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo noted that some communities face shortages of neurologists, long wait times, and travel burdens for patients.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo concluded that Applegate’s willingness to share her story “has brought attention to an issue that extends far beyond any one person’s diagnosis.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo stressed that while scientific progress has transformed the ability to recognize and treat MS, the next challenge is ensuring that advances translate into earlier, more accurate diagnoses and better outcomes for everyone affected by the disease.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Bebo wrote: “The goal is not simply to diagnose MS faster. It is to get the diagnosis right, as early as possible, so that no one loses precious time, or the opportunity for appropriate treatment, while searching for answers.”",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "health-science-opinion-stat-readers-on-elizabeth-holmes-cancer-",
+          "section": "health-science",
+          "headline": "STAT publishes reader responses on Theranos, cancer screening, medication adherence, and integrative oncology",
+          "beat_label": "",
+          "byline": "Health & Science desk",
+          "body": [
+            "STAT has published a collection of Letters to the Editor responding to recent First Opinion essays, covering topics ranging from Elizabeth Holmes and the Theranos fraud to multi-cancer screening tests, medication adherence, and integrative oncology. The letters, selected to encourage robust discussion, include critiques and personal perspectives from physicians, filmmakers, and patients.",
+            "In response to a First Opinion essay by Tyler Shultz, a former Theranos whistleblower, Dr. Kent Zimmerman, former medical director of Sonora Quest Laboratories in Phoenix, argued that Theranos’s failure extended beyond the flawed Edison device. He wrote that finger sticks are more painful than venipuncture, that a single drop of blood cannot provide excess serum for repeat or follow-up tests, and that the company’s model of self-directed testing does not fit the insurance-based system. “Even if Theranos had a functioning testing machine, the economic model on which it was based would result in failure,” Zimmerman said.",
+            "Filmmaker Beret E. Strong expressed gratitude for Shultz’s essay but noted that filmmakers sometimes lean too far toward their subjects, raising questions about manipulation in the documentary about Holmes. Another reader, Katherine Reed, defended the documentary, arguing it is not about reprosecuting Holmes but about exploring how deceit is practiced. “Unlike Tyler, I think the film is a kind of masterpiece as a documentary,” she wrote.",
+            "On medication adherence, reader Jeanne McDonough-Jarvis, a home health worker who takes medication after mitral valve replacement, wrote that clinicians often assume non-adherence stems from lack of understanding or funds, but rarely discuss psychological factors such as patients’ reluctance to depend on medication for life. “So thank you for bringing this factor to the forefront,” she said, urging clinicians to have those conversations.",
+            "In response to Lorenzo Cohen’s essay on integrative oncology, Dr. Paul A. Delaney, clinical assistant professor at Wake Forest University School of Medicine, accused Cohen of a “bait-and-switch,” claiming that energy therapies such as biofield treatments have never been proven to exist. He cited a 1998 JAMA study showing practitioners could not detect the energy field they claim to manipulate. “Researching the effects of an undemonstrated biofield is what Harriet Hall, M.D., termed ‘Tooth Fairy science,’” Delaney wrote.",
+            "Responding to H. Gilbert Welch’s essay against FDA approval of the Galleri multi-cancer screening test, Diana Zuckerman and Dr. Akashleena Mallick of the National Center for Health Research agreed, citing data that the test missed 86% and 79% of stage 1 cancers in two studies and about two-thirds of stage 2 cancers. They warned that false reassurance could delay cancer diagnoses, while false positives could lead to unnecessary invasive procedures and long waits for follow-up. “That’s not as good as a coin toss,” they wrote, adding that the test could overwhelm the healthcare system."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/24/you-can-see-everything-stat-letters-to-editor/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "STAT has published a collection of Letters to the Editor responding to recent First Opinion essays.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The collection covers topics ranging from Elizabeth Holmes and the Theranos fraud to multi-cancer screening tests, medication adherence, and integrative oncology.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The letters were selected to encourage robust discussion.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "The letters include critiques and personal perspectives from physicians, filmmakers, and patients.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Tyler Shultz is a former Theranos whistleblower.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Dr. Kent Zimmerman is the former medical director of Sonora Quest Laboratories in Phoenix.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Dr. Kent Zimmerman argued that Theranos’s failure extended beyond the flawed Edison device.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zimmerman wrote that finger sticks are more painful than venipuncture.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zimmerman wrote that a single drop of blood cannot provide excess serum for repeat or follow-up tests.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zimmerman wrote that the company’s model of self-directed testing does not fit the insurance-based system.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zimmerman said: 'Even if Theranos had a functioning testing machine, the economic model on which it was based would result in failure.'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Filmmaker Beret E. Strong expressed gratitude for Shultz’s essay.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Beret E. Strong noted that filmmakers sometimes lean too far toward their subjects, raising questions about manipulation in the documentary about Holmes.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Katherine Reed defended the documentary about Holmes.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Katherine Reed argued the documentary is not about reprosecuting Holmes but about exploring how deceit is practiced.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Katherine Reed said: 'Unlike Tyler, I think the film is a kind of masterpiece as a documentary.'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Jeanne McDonough-Jarvis is a home health worker who takes medication after mitral valve replacement.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Jeanne McDonough-Jarvis wrote that clinicians often assume non-adherence stems from lack of understanding or funds.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Jeanne McDonough-Jarvis wrote that clinicians rarely discuss psychological factors such as patients’ reluctance to depend on medication for life.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Jeanne McDonough-Jarvis said: 'So thank you for bringing this factor to the forefront.'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Jeanne McDonough-Jarvis urged clinicians to have conversations about psychological factors.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Lorenzo Cohen wrote an essay on integrative oncology.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Dr. Paul A. Delaney is a clinical assistant professor at Wake Forest University School of Medicine.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Dr. Paul A. Delaney accused Cohen of a 'bait-and-switch.'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Delaney claimed that energy therapies such as biofield treatments have never been proven to exist.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Delaney cited a 1998 JAMA study showing practitioners could not detect the energy field they claim to manipulate.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Delaney wrote: 'Researching the effects of an undemonstrated biofield is what Harriet Hall, M.D., termed “Tooth Fairy science.”'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "H. Gilbert Welch wrote an essay against FDA approval of the Galleri multi-cancer screening test.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Diana Zuckerman and Dr. Akashleena Mallick are of the National Center for Health Research.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Diana Zuckerman and Dr. Akashleena Mallick agreed with H. Gilbert Welch’s essay.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick cited data that the Galleri test missed 86% and 79% of stage 1 cancers in two studies.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick cited data that the Galleri test missed about two-thirds of stage 2 cancers.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick warned that false reassurance could delay cancer diagnoses.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick warned that false positives could lead to unnecessary invasive procedures and long waits for follow-up.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick wrote: 'That’s not as good as a coin toss.'",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              },
+              {
+                "text": "Zuckerman and Mallick added that the test could overwhelm the healthcare system.",
+                "status": "supported",
+                "source_ids": [
+                  "STAT"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "health-science-what-people-aged-50-and-older-need-to-know-about",
+          "section": "health-science",
+          "headline": "What people aged 50 and older need to know about flu shots",
+          "beat_label": "",
+          "byline": "Health & Science desk",
+          "body": [
+            "NPR's Ayesha Rascoe spoke with Dr. Ann Falsey of the University of Rochester Medical School about flu shots for people aged 50 and older, in an interview published by the outlet.",
+            "The discussion focused on key information that adults in this age group should consider when deciding whether to get a flu vaccination.",
+            "No further details from the interview were provided in the source material."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6013576/what-people-aged-50-and-older-need-to-know-about-flu-shots",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Ayesha Rascoe is a journalist for NPR.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Ayesha Rascoe spoke with Dr. Ann Falsey.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "Dr. Ann Falsey is affiliated with the University of Rochester Medical School.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The interview was published by NPR.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "The discussion focused on key information that adults aged 50 and older should consider when deciding whether to get a flu vaccination.",
+                "status": "supported",
+                "source_ids": [
+                  "NPR"
+                ]
+              },
+              {
+                "text": "No further details from the interview were provided in the source material.",
+                "status": "supported",
+                "source_ids": [
+                  "User"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.63
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-a-1-000-mile-cloud-on-mars-may-reveal-physics-ne",
+          "section": "tech-ai",
+          "headline": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "beat_label": "",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Every morning during the Martian spring and summer, a thin and extremely long cloud emerges near the volcano Arsia Mons, gradually elongating until it reaches over 1,000 miles—about the distance from New York to Kansas City—before dissipating. This cycle repeats for several months. Since it was first recorded by a probe in 2018, scientists have been unable to find a plausible explanation for the existence of this cloud, often referred to as the Arsia Mons Elongated Cloud (AMEC).",
+            "Recently, researchers successfully modeled the cloud's formation for the first time. Their results suggest that it may be driven by a physical process that has never been directly observed in any planet's atmosphere. Jorge Hernández-Bernal, a planetary scientist at Paris' Sorbonne Université and lead author of the study, said in a press release, 'We found that we needed to include some exotic physics… physics that, while included in textbooks, is treated as theoretical and usually thought not to happen in nature. It certainly hasn't been seen in action before. Once we included this physics in our simulations, the AMEC emerged just as we hoped.'",
+            "The cloud's persistence and extreme length have puzzled researchers since its discovery. The new modeling work provides the first plausible mechanism for its formation, relying on physics that has been considered theoretical and not expected to occur naturally. If confirmed, this would mark the first direct observation of such a process in any planetary atmosphere."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Every morning during the Martian spring and summer, a cloud emerges near the volcano Arsia Mons.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The cloud gradually elongates.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The cloud reaches over 1,000 miles in length.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The distance of over 1,000 miles is about the distance from New York to Kansas City.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This cycle repeats for several months.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The cloud was first recorded by a probe in 2018.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Since 2018, scientists have been unable to find a plausible explanation for the existence of this cloud (AMEC).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Recently, researchers successfully modeled the cloud's formation for the first time.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The researchers' results suggest that the cloud may be driven by a physical process that has never been directly observed in any planet's atmosphere.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jorge Hernández-Bernal is a planetary scientist at Paris' Sorbonne Université and lead author of the study.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hernández-Bernal said in a press release: 'We found that we needed to include some exotic physics.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hernández-Bernal said: 'That physics, while included in textbooks, is treated as theoretical and usually thought not to happen in nature.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hernández-Bernal said: 'It certainly hasn't been seen in action before.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hernández-Bernal said: 'Once we included this physics in our simulations, the AMEC emerged just as we hoped.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The cloud's persistence and extreme length have puzzled researchers since its discovery.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The new modeling work provides the first plausible mechanism for its formation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The mechanism relies on physics that has been considered theoretical and not expected to occur naturally.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "If confirmed, this would mark the first direct observation of such a process in any planetary atmosphere.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The cloud is often referred to as the Arsia Mons Elongated Cloud (AMEC).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "tech-ai-r-opensource-just-banned-ai-non-english-speakers",
+          "section": "tech-ai",
+          "headline": "r/opensource just banned AI, non-English speakers and more",
+          "beat_label": "",
+          "byline": "Tech / AI desk",
+          "body": [
+            "The moderators of the r/opensource subreddit posted new submission rules over the weekend that ban projects using artificial intelligence, effectively bar non-English speakers, and impose age and maintenance requirements on submissions. The post, made Saturday evening, stated: “If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.”",
+            "In addition to the AI prohibition, the rules require that any submitted project be at least one year old, actively maintained, and have multiple contributors, which would exclude solo developers seeking help. The moderators also said, “we can no longer field requests asking for maintainers or people to contribute.” Non-English speakers were effectively banned with the statement: “If you don’t speak English, you need to find a different community. We cannot distinguish between AI-written and AI-translated. Since you don’t speak English, you can’t even verify yourself if it translated correctly.”",
+            "The new restrictions have ignited a revolt among community members. Critics have created a rival subreddit, r/trueopensource, in response. Moderator Wolvereness attempted to clarify that there is nuance and room for selective enforcement, citing “software that incidentally has accessibility features that use AI,” such as automatic captioning, as potentially permissible. However, the explanation has done little to quell complaints that the rules are too broad, misguided, or vague.",
+            "Several commenters have pointed out that the Linux kernel now contains some AI-generated code, meaning projects relying on it could theoretically be banned under the new rules."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The moderators of the r/opensource subreddit posted new submission rules over the weekend.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The new submission rules ban projects that use artificial intelligence.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The new submission rules effectively bar non-English speakers.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The new submission rules impose age and maintenance requirements on submissions.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The post was made Saturday evening.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The post stated: \"If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The rules require that any submitted project be at least one year old.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The rules require that any submitted project be actively maintained.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The rules require that any submitted project have multiple contributors.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The rules would exclude solo developers seeking help.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The moderators said: \"we can no longer field requests asking for maintainers or people to contribute.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Non-English speakers were effectively banned with the statement: \"If you don’t speak English, you need to find a different community. We cannot distinguish between AI-written and AI-translated. Since you don’t speak English, you can’t even verify yourself if it translated correctly.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The new restrictions have ignited a revolt among community members.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Critics have created a rival subreddit, r/trueopensource, in response.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Moderator Wolvereness attempted to clarify that there is nuance and room for selective enforcement.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Wolvereness cited \"software that incidentally has accessibility features that use AI,\" such as automatic captioning, as potentially permissible.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The explanation has done little to quell complaints that the rules are too broad, misguided, or vague.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Several commenters have pointed out that the Linux kernel now contains some AI-generated code.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Projects relying on the Linux kernel could theoretically be banned under the new rules (according to commenters).",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.63
+        },
+        {
+          "id": "tech-ai-google-s-ai-search-changes-upended-online-publis",
+          "section": "tech-ai",
+          "headline": "Google’s AI search overhaul devastates publisher traffic, sparking lawsuits and strategic pivots",
+          "beat_label": "",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Google’s rollout of AI-powered search features, including AI Overviews and AI Mode, has upended the relationship between the search giant and online publishers. A June 2025 Wall Street Journal report, citing Similarweb data, found that search traffic to The New York Times fell from 44% to 35.5% over three years. Digiday reported that between May and June 2025, 19 members of the trade association Digital Content Next (DCN)—representing outlets such as Bloomberg, The Associated Press, and Condé Nast—experienced Google traffic losses of 1% to 25%. DMG Media, owner of Daily Mail and Metro, told the UK’s Competition and Markets Authority that click-through rates dropped by up to 89% between June and July 2025, attributing the plunge to AI Overviews.",
+            "The changes began in 2024 when Google introduced AI Overviews, which place an AI-generated summary—sourced from across the web—at the top of search results, with links below. In May 2025, the company launched AI Mode, a chatbot-like interface that replaces standard search entirely. A Press Gazette investigation found that in May 2024, AI Overviews appeared for nearly a quarter of news-related searches; by August, the feature had begun displacing media sites that previously held top search positions. The News/Media Alliance described the feature as potentially “catastrophic” for web traffic, and Pew Research found that users are “less likely” to click on links when they see an AI Overview.",
+            "For years, publishers optimized their content to rank high in Google Search, generating traffic and revenue in a reciprocal relationship. The shift to AI-generated summaries disrupts that dynamic: instead of vying for clicks, publishers must now rely on an AI system that may present their information without driving users to their sites. Google has defended its approach, with search head Liz Reid saying click volume remained “relatively stable” and that AI search sends more clicks to forums, videos, and podcasts. Senior vice president Nick Fox told the BBC, “From our point of view, the web is thriving.”",
+            "US District Judge Amit Mehta dismissed an antitrust case from Chegg and Penske Media (owner of Rolling Stone, Billboard, and The Verge) and rejected a proposed class action brought by Arkansas newspapers over AI Overviews. Meanwhile, Google has made some concessions: it began allowing publishers to opt out of AI Overviews and AI Mode without losing standard search visibility, following a UK order, and has started making source links more prominent, including hover pop-ups and more frequent in-line links. The company says 400 publishers—among them The Washington Post, CNN, Axios, and the Financial Times—are now part of its News AI pilot program, which licenses content for AI features. It is also reportedly testing a program to pay publishers for content used in AI Overviews and AI Mode, according to The Information and Digiday.",
+            "The long-term impact remains uncertain. Publishers are diversifying away from Google traffic by leaning on social media, newsletters, and subscriptions. Google continues to expand its AI search capabilities, with AI Overviews now automatically expanding for some queries. Separately, The Wall Street Journal reports that Reddit is considering cutting off Google due to dropping traffic. Nonprofit Common Sense Media has warned that AI Overviews pose an “unacceptable” risk to children in crisis by failing to respond appropriately. Whether Google’s nascent compensation programs will repair trust with the publishers that supply its search index has yet to be seen."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Google’s rollout of AI-powered search features, including AI Overviews and AI Mode, has upended the relationship between the search giant and online publishers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A June 2025 Wall Street Journal report, citing Similarweb data, found that search traffic to The New York Times fell from 44% to 35.5% over three years.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Digiday reported that between May and June 2025, 19 members of the trade association Digital Content Next (DCN)—representing outlets such as Bloomberg, The Associated Press, and Condé Nast—experienced Google traffic losses of 1% to 25%.",
+                "status": "supported",
+                "source_ids": [
+                  "Digiday"
+                ]
+              },
+              {
+                "text": "DMG Media, owner of Daily Mail and Metro, told the UK’s Competition and Markets Authority that click-through rates dropped by up to 89% between June and July 2025, attributing the plunge to AI Overviews.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The changes began in 2024 when Google introduced AI Overviews, which place an AI-generated summary—sourced from across the web—at the top of search results, with links below.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In May 2025, the company launched AI Mode, a chatbot-like interface that replaces standard search entirely.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A Press Gazette investigation found that in May 2024, AI Overviews appeared for nearly a quarter of news-related searches.",
+                "status": "supported",
+                "source_ids": [
+                  "Press Gazette"
+                ]
+              },
+              {
+                "text": "A Press Gazette investigation found that by August 2024, AI Overviews had begun displacing media sites that previously held top search positions.",
+                "status": "supported",
+                "source_ids": [
+                  "Press Gazette"
+                ]
+              },
+              {
+                "text": "The News/Media Alliance described the AI Overviews feature as potentially “catastrophic” for web traffic.",
+                "status": "supported",
+                "source_ids": [
+                  "News/Media Alliance"
+                ]
+              },
+              {
+                "text": "Pew Research found that users are “less likely” to click on links when they see an AI Overview.",
+                "status": "supported",
+                "source_ids": [
+                  "Pew Research"
+                ]
+              },
+              {
+                "text": "For years, publishers optimized their content to rank high in Google Search, generating traffic and revenue in a reciprocal relationship.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The shift to AI-generated summaries disrupts that dynamic: publishers must now rely on an AI system that may present their information without driving users to their sites.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google search head Liz Reid said click volume remained “relatively stable”.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google search head Liz Reid said AI search sends more clicks to forums, videos, and podcasts.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Senior vice president Nick Fox told the BBC, “From our point of view, the web is thriving.”",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "US District Judge Amit Mehta dismissed an antitrust case from Chegg and Penske Media (owner of Rolling Stone, Billboard, and The Verge) over AI Overviews.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "US District Judge Amit Mehta rejected a proposed class action brought by Arkansas newspapers over AI Overviews.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google began allowing publishers to opt out of AI Overviews and AI Mode without losing standard search visibility, following a UK order.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google started making source links more prominent, including hover pop-ups and more frequent in-line links.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The company says 400 publishers—among them The Washington Post, CNN, Axios, and the Financial Times—are now part of its News AI pilot program, which licenses content for AI features.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "It is also reportedly testing a program to pay publishers for content used in AI Overviews and AI Mode, according to The Information and Digiday.",
+                "status": "supported",
+                "source_ids": [
+                  "The Information",
+                  "Digiday"
+                ]
+              },
+              {
+                "text": "Publishers are diversifying away from Google traffic by leaning on social media, newsletters, and subscriptions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google continues to expand its AI search capabilities, with AI Overviews now automatically expanding for some queries.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Wall Street Journal reports that Reddit is considering cutting off Google due to dropping traffic.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Nonprofit Common Sense Media has warned that AI Overviews pose an “unacceptable” risk to children in crisis by failing to respond appropriately.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.63
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-brazilians-vote-in-presidential-runoff-between-l"
+    },
+    {
+      "section": "world",
+      "story_id": "world-us-evacuates-mideast-outposts-as-iran-plot-advan"
+    },
+    {
+      "section": "sports",
+      "story_id": "sports-brewers-rally-past-rays-for-5-4-win-take-2-0-wor"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Democrats see an opportunity to tilt Pennsylvania's state legislature their way",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "AI spending fears threaten to swamp Big Tech's strong earnings",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Jokić has 199th triple-double, says booing fans 'not welcome' after Nuggets rally from 23 down to beat Pelicans",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "STAT+: After a cancer vaccine’s first success, the race is on to expand the impact",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "reason": "writer returned no body",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Blue Planet III is keeping the rough edges in the age of AI",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
