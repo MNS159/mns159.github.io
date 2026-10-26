@@ -1,0 +1,3141 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-26T16:20:34+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": []
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-lula-wins-fourth-term-as-brazil-s-president-in-r",
+          "section": "world",
+          "headline": "Lula wins fourth term as Brazil's president in runoff victory",
+          "beat_label": "Latin America Politics",
+          "byline": "International & World desk",
+          "body": [
+            "Brazil's President Luiz Inácio Lula da Silva has won a historic fourth term in office, defeating far-right challenger Senator Flávio Bolsonaro in a dramatic runoff election. With 51.79% of the vote against Bolsonaro's 48.21%, Lula secured a margin of more than 4 million votes, becoming the first candidate since Brazil's return to democracy in 1985 to win a presidential runoff after finishing second in the first round. The result marked a stunning reversal from the October 4 first round, when Bolsonaro led with 47% against Lula's 45%.",
+            "Lula's comeback was driven by a revitalised grassroots campaign, youth mobilisation and a shift towards digital campaigning. A WhatsApp channel called 'Lula's Army', led by Congressman André Janones, grew to 10.8 million followers and helped turn online enthusiasm into real-world political engagement. Higher voter turnout also contributed: abstention fell from about 21% in the first round to approximately 19% in the runoff, with previously absent voters appearing to participate. Lula's campaign intensified local efforts and adapted its messaging, linking a Bolsonaro victory with concerns about potential changes to social programmes and the loss of rights.",
+            "Bolsonaro refused to concede and called for the result to be annulled, citing a Supreme Court decision to extend voting by two hours after both campaigns requested extensions due to transport disruptions and severe weather. However, electoral law experts said the chances of annulment were remote, noting that Bolsonaro's own campaign had requested the extension and that presidential election dates are fixed by the constitution. The controversy echoed the aftermath of the 2022 election, when Bolsonaro's father, former President Jair Bolsonaro, refused to accept his defeat and was later convicted of plotting a coup, serving a 27-year prison sentence.",
+            "In his victory speech to tens of thousands of supporters in São Paulo, Lula declared: 'Democracy always, dictatorship never again. Democracy always, fascism never again.' He pledged to give people a greater say in decision-making and said digital communication would play a much bigger role in his government. Lula also insisted that Brazil 'will not accept being anyone's backyard', a reference to US President Donald Trump's 'Donroe Doctrine'. Trump, who had shown support for Jair Bolsonaro and met Flávio Bolsonaro at the White House earlier this year, did not immediately react to the result.",
+            "World leaders from across the spectrum congratulated Lula. European Commission President Ursula von der Leyen said 'democracy and multilateralism' had won. Spanish Prime Minister Pedro Sánchez called it a 'great victory', saying 'the comeback of global progressivism has just begun'. French President Emmanuel Macron said the two nations should work 'in service of a more just world'. South African President Cyril Ramaphosa called Lula's victory one for the 'global south and progressive forces throughout the world'.",
+            "Despite his victory, Lula faces significant challenges. Bolsonaro's Liberal Party and its allies are projected to control majorities in both houses of Congress, potentially restricting Lula's legislative agenda. Economic pressures include public debt exceeding 82% of GDP and forecast growth of just 2.3% next year. Lula, who turns 81 on Tuesday, has already served three non-consecutive terms and will begin his fourth term on January 5. His win also has profound implications for the Amazon rainforest, with former environment minister Marina Silva expressing relief that Indigenous territories would be preserved and that there is no risk of illegal miners returning to destroy these populations."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "The Guardian",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Brazil's President Luiz Inácio Lula da Silva has won a fourth term in office.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula defeated far-right challenger Senator Flávio Bolsonaro in a runoff election.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula received 51.79% of the vote against Bolsonaro's 48.21%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula secured a margin of more than 4 million votes.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula became the first candidate since Brazil's return to democracy in 1985 to win a presidential runoff after finishing second in the first round.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In the first round on October 4, Bolsonaro led with 47% against Lula's 45%.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's comeback was driven by a revitalised grassroots campaign, youth mobilisation and a shift towards digital campaigning.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "A WhatsApp channel called 'Lula's Army', led by Congressman André Janones, grew to 10.8 million followers.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The WhatsApp channel 'Lula's Army' helped turn online enthusiasm into real-world political engagement.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Abstention fell from about 21% in the first round to approximately 19% in the runoff.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Previously absent voters appeared to participate in the runoff.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's campaign intensified local efforts and adapted its messaging.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's campaign linked a Bolsonaro victory with concerns about potential changes to social programmes and the loss of rights.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Bolsonaro refused to concede and called for the result to be annulled.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Bolsonaro cited a Supreme Court decision to extend voting by two hours after both campaigns requested extensions due to transport disruptions and severe weather.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Electoral law experts said the chances of annulment were remote.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Electoral law experts noted that Bolsonaro's own campaign had requested the extension.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Electoral law experts noted that presidential election dates are fixed by the constitution.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The controversy echoed the aftermath of the 2022 election.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In the 2022 election, former President Jair Bolsonaro refused to accept his defeat.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Jair Bolsonaro was later convicted of plotting a coup.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Jair Bolsonaro served a 27-year prison sentence.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In his victory speech to tens of thousands of supporters in São Paulo, Lula declared: 'Democracy always, dictatorship never again. Democracy always, fascism never again.'",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula pledged to give people a greater say in decision-making.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula said digital communication would play a much bigger role in his government.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula insisted that Brazil 'will not accept being anyone's backyard'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula's statement about being a backyard referenced US President Donald Trump's 'Donroe Doctrine'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump had shown support for Jair Bolsonaro.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump met Flávio Bolsonaro at the White House earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Trump did not immediately react to the result.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "World leaders from across the spectrum congratulated Lula.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "European Commission President Ursula von der Leyen said 'democracy and multilateralism' had won.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Spanish Prime Minister Pedro Sánchez called Lula's victory a 'great victory'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Pedro Sánchez said 'the comeback of global progressivism has just begun'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "French President Emmanuel Macron said the two nations should work 'in service of a more just world'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "South African President Cyril Ramaphosa called Lula's victory one for the 'global south and progressive forces throughout the world'.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Bolsonaro's Liberal Party and its allies are projected to control majorities in both houses of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Public debt exceeded 82% of GDP.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Forecast growth is just 2.3% next year.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula turns 81 on Tuesday (from the context of the text).",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula has already served three non-consecutive terms.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Lula will begin his fourth term on January 5.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Former environment minister Marina Silva expressed relief that Indigenous territories would be preserved.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Marina Silva expressed relief that there is no risk of illegal miners returning to destroy these populations.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.9,
+          "significance": 0.95,
+          "image": {
+            "url": "static/img/2026-10-26/world-lula-wins-fourth-term-as-brazil-s-president-in-r.jpg",
+            "alt": "Photograph of Brazilian President Luiz Inácio Lula da Silva",
+            "credit": "Photo: Foto: Ricardo Stuckert/PR / Wikimedia Commons (CC BY 3.0 br)",
+            "license": "CC BY 3.0 br",
+            "width": 1000,
+            "height": 667
+          }
+        },
+        {
+          "id": "world-serbia-s-vucic-concedes-defeat-after-student-led",
+          "section": "world",
+          "headline": "Serbia's Vucic concedes defeat as student-led movement wins snap election",
+          "beat_label": "Europe Politics",
+          "byline": "International & World desk",
+          "body": [
+            "Serbia's long-standing leader Aleksandar Vučić has admitted defeat to a student-led protest movement in snap parliamentary elections, ending more than a decade of his political dominance. With 97 percent of polling stations counted, the election commission said the Student List had won 52.7 percent of the vote (2.25 million votes) against 39.2 percent (1.67 million) for Vučić's Serbian Progressive Party (SNS). Voter turnout reached 68.78 percent, a record high in more than 30 years.",
+            "The election was called by Vučić after two years of protests triggered by the collapse of a canopy at Novi Sad railway station in 2024, which killed 16 people and was widely blamed on corruption and negligence. The Student List, formed less than two years ago, fielded candidates from across Serbian society — including doctors, actors, academics and sports personalities — and campaigned on a platform of fighting corruption, purging officials who cracked down on protesters, ending party loyalist control of public enterprises, and freeing the public broadcaster from political control.",
+            "Celebrations erupted in Belgrade, Novi Sad and other cities as the result became clear. “Serbia is free,” one student told the BBC. “It's a miracle.” Student List candidate Radomir Saicic said Serbians had shown “no obstacle was greater than their will”. Lead candidate Ilija Srdanović, a cardiologist and professor at the University of Novi Sad, told BBC Serbian: “This will be a free state.” Political scientist Nebojša Vladisavljević of the University of Belgrade described the outcome as “an avalanche that has wiped out an authoritarian regime”.",
+            "The Student List is projected to win 140 seats in the 250-seat parliament, well above the 126 needed for a majority, while Vučić's United Serbia list is expected to take 103. The remaining seats go to minority parties. Because the Student List has a clear majority, lengthy coalition talks are not required. The new National Assembly must convene within 30 days of the final results, and a government must be formed within 90 days thereafter. The Student List did not name a prime ministerial candidate during the campaign; Ilija Srdanović is seen as the most likely choice.",
+            "Vučić, who had served two terms as president and was constitutionally barred from a third, had hoped to return as prime minister after resigning the presidency on September 27. Parliament speaker Ana Brnabić is now acting president and must call a presidential election, which must be held no later than December 27. Vučić had backed Serbia's EU candidacy while refusing to impose sanctions on Russia. Kremlin spokesperson Dmitry Peskov praised Vučić's contribution to relations with Moscow and expressed hope the new force would continue cooperation. European Commissioner for Enlargement Marta Kos said “a new chapter can begin for Serbia” and that the EU door is open. Hungary's Prime Minister Péter Magyar, whose own party ended 16 years of Viktor Orbán rule in April, welcomed the victory as an inspiration."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Aleksandar Vučić admitted defeat to a student-led protest movement in snap parliamentary elections.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The elections were snap parliamentary elections.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The result ended more than a decade of Vučić's political dominance.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "97 percent of polling stations were counted.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "The election commission said the Student List won 52.7 percent of the vote.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "The Student List's vote share corresponds to 2.25 million votes.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "The Serbian Progressive Party (SNS) won 39.2 percent of the vote.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "The SNS vote share corresponds to 1.67 million votes.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "Voter turnout was 68.78 percent.",
+                "status": "supported",
+                "source_ids": [
+                  "election commission"
+                ]
+              },
+              {
+                "text": "Voter turnout was a record high in more than 30 years.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The election was called by Vučić after two years of protests.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The protests were triggered by the collapse of a canopy at Novi Sad railway station in 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "That collapse killed 16 people.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The collapse was widely blamed on corruption and negligence.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Student List was formed less than two years ago.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Student List fielded candidates from across Serbian society.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Those candidates included doctors, actors, academics and sports personalities.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Student List campaigned on a platform of fighting corruption, purging officials who cracked down on protesters, ending party loyalist control of public enterprises, and freeing the public broadcaster from political control.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Celebrations erupted in Belgrade, Novi Sad and other cities as the result became clear.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "A student told the BBC 'Serbia is free.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The same student said 'It's a miracle.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Student List candidate Radomir Saicic said Serbians had shown 'no obstacle was greater than their will.'",
+                "status": "supported",
+                "source_ids": [
+                  "Radomir Saicic"
+                ]
+              },
+              {
+                "text": "Ilija Srdanović is a cardiologist and professor at the University of Novi Sad.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Ilija Srdanović told BBC Serbian 'This will be a free state.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC Serbian"
+                ]
+              },
+              {
+                "text": "Nebojša Vladisavljević is a political scientist at the University of Belgrade.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Nebojša Vladisavljević described the outcome as 'an avalanche that has wiped out an authoritarian regime.'",
+                "status": "supported",
+                "source_ids": [
+                  "Nebojša Vladisavljević"
+                ]
+              },
+              {
+                "text": "The Student List is projected to win 140 seats in the 250-seat parliament.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "126 seats are needed for a majority.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić's United Serbia list is expected to take 103 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The remaining seats go to minority parties.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Student List has a clear majority.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Lengthy coalition talks are not required.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The new National Assembly must convene within 30 days of the final results.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "A government must be formed within 90 days after the convening of the National Assembly.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The Student List did not name a prime ministerial candidate during the campaign.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Ilija Srdanović is seen as the most likely choice for prime minister.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić had served two terms as president.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić was constitutionally barred from a third term.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić had hoped to return as prime minister after resigning the presidency on September 27.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić resigned the presidency on September 27.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Parliament speaker Ana Brnabić is now acting president.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Ana Brnabić must call a presidential election.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "That presidential election must be held no later than December 27.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić had backed Serbia's EU candidacy.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Vučić had refused to impose sanctions on Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Kremlin spokesperson Dmitry Peskov praised Vučić's contribution to relations with Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "Dmitry Peskov"
+                ]
+              },
+              {
+                "text": "Dmitry Peskov expressed hope the new force would continue cooperation.",
+                "status": "supported",
+                "source_ids": [
+                  "Dmitry Peskov"
+                ]
+              },
+              {
+                "text": "European Commissioner for Enlargement Marta Kos said 'a new chapter can begin for Serbia'.",
+                "status": "supported",
+                "source_ids": [
+                  "Marta Kos"
+                ]
+              },
+              {
+                "text": "Marta Kos said the EU door is open.",
+                "status": "supported",
+                "source_ids": [
+                  "Marta Kos"
+                ]
+              },
+              {
+                "text": "Hungary's Prime Minister Péter Magyar's own party ended 16 years of Viktor Orbán rule in April.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Péter Magyar welcomed the victory as an inspiration.",
+                "status": "supported",
+                "source_ids": [
+                  "Péter Magyar"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-regional-delegations-meet-in-tehran-to-defuse-ir",
+          "section": "world",
+          "headline": "Regional delegations meet in Tehran to defuse Iran-US and Yemen tensions",
+          "beat_label": "Middle East Diplomacy",
+          "byline": "International & World desk",
+          "body": [
+            "High-level security officials from Saudi Arabia, Pakistan and Turkey—the three signatories of the Mecca Joint Defence Agreement—arrived in Tehran on Monday for talks with Iranian leaders aimed at de-escalating tensions between the United States and Iran and addressing the conflict in Yemen, according to Iran’s Foreign Ministry and regional officials.",
+            "Saudi Defense Minister Khalid bin Salman Al Saud, Pakistani military chief Asim Munir and Turkish intelligence chief Ibrahim Kalin met with Iran’s President Masoud Pezeshkian and national security chief Mohsen Rezaei. The agenda was not set, but Iran’s Foreign Ministry spokesperson Esmail Baghaei said the talks would “undoubtedly address the most pressing threats to regional security.” Saudi Arabia said in a statement the delegations hoped to find “ways to de-escalate tensions, enhance regional security and promote its stability.”",
+            "The meetings come amid threats of renewed US strikes on Iran and escalating attacks by Yemen’s Iran-backed Houthi rebels, who have fired ballistic missiles at Saudi-backed government forces in Aden and Lahj provinces. Houthi media reported airstrikes targeting a solar power system and a water well in Sanaa, as well as strikes in Mokha, Saada and Taiz. The Saudi-led coalition said it destroyed five tunnels used for storing ballistic missiles, four missile launchers and another missile storage facility. Qatari mediators also traveled to Tehran on Sunday in coordination with the US as part of broader de-escalation efforts.",
+            "Analysts expressed skepticism that the visit alone could prevent a new outbreak of violence. “The Mecca pact’s 11th-hour visit to Tehran is an attempt to tip the balance in favour of those willing to compromise before the guns start blazing again,” said Ali Vaez of the International Crisis Group. “But unless they arrive with a credible formula to bridge the US-Iran divide, they may find themselves with little more than goodwill in a race against the clock.” Umer Karim, a researcher on Saudi foreign policy, said the talks were unlikely to reduce the risk of renewed war and were more focused on Saudi security, with Turkey and Pakistan trying to compel Iran to reach a compromise. Ayesha Siddiqa of King’s College London noted that while Riyadh is pressing for more action against the Houthis, Turkey and Pakistan “cannot afford to commit troops on the ground” in Yemen.",
+            "The diplomatic push follows a June agreement brokered by Pakistan and Qatar that aimed to reopen the Strait of Hormuz, end a US blockade of Iranian ports and open broader negotiations on Iran’s nuclear program—a deal that quickly unraveled as both sides resumed attacks. US President Donald Trump is reported to be considering new strikes to break the diplomatic deadlock, while Israeli Prime Minister Benjamin Netanyahu warned that Iran or its proxies could attack ahead of elections, adding, “You will suffer disproportionate blows far greater than you can imagine.” Iran’s Baghaei said Tehran has not closed the window of diplomacy but that the US persists in demands amounting to “complete surrender,” which no Iranian accepts. He said Iran will not hesitate to exercise its right to self-defense."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Al Jazeera",
+            "NBC News",
+            "CNN",
+            "New York Post",
+            "Washington Times"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/middle-east/delegations-meet-iran-middle-east-edge-potential-renewed-fighting-rcna605662",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/26/middleeast/iran-meeting-regional-powers-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "New York Post",
+              "url": "https://nypost.com/2026/10/26/world-news/delegations-meet-in-iran-with-middle-east-on-edge-over-potential-for-renewed-fighting/"
+            },
+            {
+              "outlet": "Washington Times",
+              "url": "https://www.washingtontimes.com/news/2026/oct/26/middle-east-delegations-meet-iran-fears-war-escalation-mount/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "High-level security officials from Saudi Arabia, Pakistan, and Turkey arrived in Tehran on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran’s Foreign Ministry",
+                  "regional officials"
+                ]
+              },
+              {
+                "text": "Saudi Arabia, Pakistan, and Turkey are the three signatories of the Mecca Joint Defence Agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The talks were aimed at de-escalating tensions between the United States and Iran and addressing the conflict in Yemen.",
+                "status": "supported",
+                "source_ids": [
+                  "Iran’s Foreign Ministry",
+                  "regional officials"
+                ]
+              },
+              {
+                "text": "Saudi Defense Minister Khalid bin Salman Al Saud, Pakistani military chief Asim Munir, and Turkish intelligence chief Ibrahim Kalin met with Iran’s President Masoud Pezeshkian and national security chief Mohsen Rezaei.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The agenda was not set.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Iran’s Foreign Ministry spokesperson Esmail Baghaei said the talks would “undoubtedly address the most pressing threats to regional security.”",
+                "status": "supported",
+                "source_ids": [
+                  "Esmail Baghaei",
+                  "Iran’s Foreign Ministry"
+                ]
+              },
+              {
+                "text": "Saudi Arabia said in a statement the delegations hoped to find “ways to de-escalate tensions, enhance regional security and promote its stability.”",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi Arabia"
+                ]
+              },
+              {
+                "text": "There are threats of renewed US strikes on Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Yemen’s Houthi rebels are backed by Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Escalating attacks by Yemen’s Iran-backed Houthi rebels are occurring.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Houthi rebels have fired ballistic missiles at Saudi-backed government forces in Aden and Lahj provinces.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The government forces in Yemen are backed by Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Houthi media reported airstrikes targeting a solar power system and a water well in Sanaa, as well as strikes in Mokha, Saada and Taiz.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi media"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition said it destroyed five tunnels used for storing ballistic missiles, four missile launchers and another missile storage facility.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi-led coalition"
+                ]
+              },
+              {
+                "text": "Qatari mediators traveled to Tehran on Sunday in coordination with the US as part of broader de-escalation efforts.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Analysts expressed skepticism that the visit alone could prevent a new outbreak of violence.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ali Vaez of the International Crisis Group said: “The Mecca pact’s 11th-hour visit to Tehran is an attempt to tip the balance in favour of those willing to compromise before the guns start blazing again.”",
+                "status": "supported",
+                "source_ids": [
+                  "Ali Vaez",
+                  "International Crisis Group"
+                ]
+              },
+              {
+                "text": "Ali Vaez said: “Unless they arrive with a credible formula to bridge the US-Iran divide, they may find themselves with little more than goodwill in a race against the clock.”",
+                "status": "supported",
+                "source_ids": [
+                  "Ali Vaez",
+                  "International Crisis Group"
+                ]
+              },
+              {
+                "text": "Umer Karim, a researcher on Saudi foreign policy, said the talks were unlikely to reduce the risk of renewed war and were more focused on Saudi security, with Turkey and Pakistan trying to compel Iran to reach a compromise.",
+                "status": "supported",
+                "source_ids": [
+                  "Umer Karim"
+                ]
+              },
+              {
+                "text": "Ayesha Siddiqa of King’s College London noted that while Riyadh is pressing for more action against the Houthis, Turkey and Pakistan “cannot afford to commit troops on the ground” in Yemen.",
+                "status": "supported",
+                "source_ids": [
+                  "Ayesha Siddiqa",
+                  "King’s College London"
+                ]
+              },
+              {
+                "text": "A June agreement was brokered by Pakistan and Qatar that aimed to reopen the Strait of Hormuz, end a US blockade of Iranian ports and open broader negotiations on Iran’s nuclear program.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The deal quickly unraveled as both sides resumed attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "US President Donald Trump is reported to be considering new strikes to break the diplomatic deadlock.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Israeli Prime Minister Benjamin Netanyahu warned that Iran or its proxies could attack ahead of elections, adding, “You will suffer disproportionate blows far greater than you can imagine.”",
+                "status": "supported",
+                "source_ids": [
+                  "Benjamin Netanyahu"
+                ]
+              },
+              {
+                "text": "Iran’s Baghaei said Tehran has not closed the window of diplomacy but that the US persists in demands amounting to “complete surrender,” which no Iranian accepts.",
+                "status": "supported",
+                "source_ids": [
+                  "Esmail Baghaei",
+                  "Iran’s Foreign Ministry"
+                ]
+              },
+              {
+                "text": "Baghaei said Iran will not hesitate to exercise its right to self-defense.",
+                "status": "supported",
+                "source_ids": [
+                  "Esmail Baghaei",
+                  "Iran’s Foreign Ministry"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-10-26/world-regional-delegations-meet-in-tehran-to-defuse-ir.jpg",
+            "alt": "Photograph of Iranian Foreign Ministry building in Tehran",
+            "credit": "Photo: GTVM92 / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 563
+          }
+        },
+        {
+          "id": "world-israel-expands-west-bank-expulsions-and-faces-un",
+          "section": "world",
+          "headline": "Israel displaces over 3,000 Palestinians in Hebron; UN warns of ethnic cleansing in earlier West Bank operations",
+          "beat_label": "Israel-Palestine Conflict",
+          "byline": "International & World desk",
+          "body": [
+            "Israel has forcibly displaced more than 3,100 Palestinians from the occupied West Bank city of Hebron since Friday, as part of a sweeping military operation that has included home demolitions, mass arrests and the conversion of houses into military barracks. The operation, code-named \"Roar of Judah\", was launched after two Palestinians killed two Israeli soldiers in a shooting. Hebron Governor Khaled Dudin said 488 families comprising 3,171 people had been displaced across the wider governorate, while Mayor Yousef al-Jabari reported that 3,043 of those forced from their homes are from within Hebron city limits alone. The Palestinian Prisoner’s Society says at least 71 people have been detained since the operation began.",
+            "The majority of the displaced are women, children and elderly individuals, according to municipal authorities. Israeli forces have systematically converted dozens of homes into military barracks and field interrogation centres, and demolished others. Mayar Amrish, a 23-year-old whose family home was razed, told Middle East Eye: \"My father worked incredibly hard to build our home so we could finally settle down in our own city.\" Hamza Shabana, displaced from an eight-storey building housing 160 people, said: \"We are all living in fear of an unknown future.\" Israeli Defence Minister Israel Katz said those displaced would not be allowed to return until what he called \"Hamas infrastructure\" in the city had been dismantled.",
+            "Israeli officials have explicitly linked the Hebron operation to previous campaigns, saying they intend to apply the \"Jenin camp model\". That earlier operation, named \"Iron Wall\", killed at least 102 people, displaced more than 33,000 and destroyed over half of the residential buildings in the Jenin, Nur Shams and Tulkarem refugee camps. A United Nations Human Rights Office report last month warned that the Israeli military’s actions at those camps \"appear to amount to collective punishment and raise concerns of ethnic cleansing\". Displaced Palestinians reported being told by Israeli officers that there would be no more refugee camps and that they should \"all go to Jordan\".",
+            "Analysts describe the Hebron crackdown as a calculated effort to permanently displace the Palestinian population. Noman Amr, a professor at al-Quds Open University, said the goal is to create a state of panic and fear and ultimately \"to impose a new reality… 'more land, fewer Arabs'.\" He noted deep collaboration between the army and armed settler groups, with settlers sometimes wearing military uniforms. Mayor al-Jabari accused Prime Minister Benjamin Netanyahu of exploiting the operation to secure votes in Israel’s upcoming general election. The Israeli army has also imposed a full closure of crossings into and out of the West Bank on election day, and has barred Palestinian workers from entering most areas until Monday."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "Middle East Eye",
+            "Yahoo"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss"
+            },
+            {
+              "outlet": "Middle East Eye",
+              "url": "https://www.middleeasteye.net/news/we-left-heavy-hearts-israels-assault-displaces-thousands-hebron"
+            },
+            {
+              "outlet": "Yahoo",
+              "url": "https://www.yahoo.com/news/world/articles/israel-committing-crimes-against-humanity-154459415.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Israel has forcibly displaced more than 3,100 Palestinians from the occupied West Bank city of Hebron since Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The displacement is part of a military operation that has included home demolitions, mass arrests, and the conversion of houses into military barracks.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The operation is code-named 'Roar of Judah'.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The operation was launched after two Palestinians killed two Israeli soldiers in a shooting.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Hebron Governor Khaled Dudin said 488 families comprising 3,171 people had been displaced across the wider governorate.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Mayor Yousef al-Jabari reported that 3,043 of those forced from their homes are from within Hebron city limits alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The Palestinian Prisoner’s Society says at least 71 people have been detained since the operation began.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The majority of the displaced are women, children and elderly individuals, according to municipal authorities.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Israeli forces have systematically converted dozens of homes into military barracks and field interrogation centres, and demolished others.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Mayar Amrish's family home was razed.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Mayar Amrish is 23 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Hamza Shabana was displaced from an eight-storey building housing 160 people.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Israeli Defence Minister Israel Katz said that displaced Palestinians would not be allowed to return until what he called 'Hamas infrastructure' in Hebron had been dismantled.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Israeli officials have explicitly linked the Hebron operation to previous campaigns, saying they intend to apply the 'Jenin camp model'.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The earlier operation, named 'Iron Wall', killed at least 102 people, displaced more than 33,000, and destroyed over half of the residential buildings in the Jenin, Nur Shams, and Tulkarem refugee camps.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "A United Nations Human Rights Office report warned that the Israeli military’s actions at Jenin, Nur Shams, and Tulkarem camps 'appear to amount to collective punishment and raise concerns of ethnic cleansing'.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Displaced Palestinians reported being told by Israeli officers that there would be no more refugee camps and that they should 'all go to Jordan'.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Analysts describe the Hebron crackdown as a calculated effort to permanently displace the Palestinian population.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Noman Amr, a professor at al-Quds Open University, said the goal is to create a state of panic and fear and ultimately 'to impose a new reality… more land, fewer Arabs'.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Noman Amr noted deep collaboration between the army and armed settler groups, with settlers sometimes wearing military uniforms.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "Mayor al-Jabari accused Prime Minister Benjamin Netanyahu of exploiting the operation to secure votes in Israel’s upcoming general election.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The Israeli army has imposed a full closure of crossings into and out of the West Bank on election day.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              },
+              {
+                "text": "The Israeli army has barred Palestinian workers from entering most areas until Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "Middle East Eye"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-brazil-stocks-real-plunge-after-lula-victory",
+          "section": "markets",
+          "headline": "Brazil Stocks, Real Plunge After Lula Victory",
+          "beat_label": "Emerging Markets",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Brazilian stocks and the real plunged on Monday after Luiz Inácio Lula da Silva won an unprecedented fourth term as Brazil's president, a dramatic comeback from a first-round vote in which he had trailed rival Bolsonaro. The iShares MSCI Brazil ETF (EWZ) fell more than 20% overnight on the result, a move that could mark the biggest one-day drop in the ETF's history, while November futures on the Brazilian real slid 10% in Asian trading.",
+            "U.S.-listed shares of Brazilian companies also fell in premarket trading, with state-controlled oil giant Petrobras down more than 20%, banking group Itaú Unibanco down almost 30%, and brewer Ambev off 19%.",
+            "Bolsonaro has refused to concede defeat, saying he would seek the annulment of the outcome, Reuters reported. He also called a ruling by Supreme Court Justice Cristiano Zanin to extend voting by two hours \"unacceptable.\"",
+            "Bolsonaro had been seen as the more market-friendly candidate, with expectations that he would push for fiscal austerity and deregulation, while Lula will now have to convince markets he can stabilize Brazil's debt trajectory. Reuters said the win ended a bullish run in Brazilian assets, with analysts having forecast a market plunge after Lula's turnaround victory.",
+            "The result also carries geopolitical stakes: U.S. President Donald Trump had celebrated Bolsonaro's lead in the first round, hoping that a fellow right-wing leader could bring closer alignment with U.S. foreign policy."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Reuters",
+            "WSJ",
+            "CNBC"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/finance/investors-expect-markets-unwind-brazils-lula-reelected-2026-10-26/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-26-2026/card/brazilian-markets-set-for-historic-selloff-after-lula-s-surprise-election-win-A77lFdTCkk7SiwGOsW6V",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/10/26/brazil-stocks-neoclouds-selloff.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Brazilian stocks plunged on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Brazilian real plunged on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Luiz Inácio Lula da Silva won a fourth term as Brazil's president.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula's fourth term is unprecedented.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lula trailed rival Bolsonaro in the first-round vote.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The iShares MSCI Brazil ETF (EWZ) fell more than 20% overnight on the result.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "November futures on the Brazilian real slid 10% in Asian trading.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "U.S.-listed shares of Brazilian companies fell in premarket trading.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Petrobras was down more than 20%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Itaú Unibanco was down almost 30%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ambev was off 19%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bolsonaro has refused to concede defeat.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Bolsonaro said he would seek the annulment of the outcome.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Bolsonaro called a ruling by Supreme Court Justice Cristiano Zanin to extend voting by two hours 'unacceptable'.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Bolsonaro had been seen as the more market-friendly candidate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There were expectations that Bolsonaro would push for fiscal austerity and deregulation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The win ended a bullish run in Brazilian assets.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Analysts had forecast a market plunge after Lula's turnaround victory.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "U.S. President Donald Trump had celebrated Bolsonaro's lead in the first round.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump hoped that a fellow right-wing leader could bring closer alignment with U.S. foreign policy.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,679.95",
+            "chg": "−0.83%",
+            "dir": "down",
+            "spark": "1.5,9.6 8.3,7.0 15.2,5.2 22.0,1.5 28.8,9.2 35.7,12.5 42.5,7.9"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "26,206.87",
+            "chg": "−1.89%",
+            "dir": "down",
+            "spark": "1.5,9.8 8.3,5.5 15.2,5.6 22.0,1.5 28.8,11.7 35.7,12.5 42.5,8.8"
+          },
+          {
+            "sym": "Dow",
+            "val": "52,352.06",
+            "chg": "+0.33%",
+            "dir": "up",
+            "spark": "1.5,12.1 8.3,12.5 15.2,6.0 22.0,1.6 28.8,1.5 35.7,9.5 42.5,7.8"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,795.13",
+            "chg": "+1.01%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,11.5 15.2,4.7 22.0,3.6 28.8,3.2 35.7,4.4 42.5,1.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.98%",
+            "chg": "-12 bp",
+            "dir": "down",
+            "spark": "1.5,4.2 8.3,2.1 15.2,3.2 22.0,1.5 28.8,12.5 35.7,10.5 42.5,10.8"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$102.91",
+            "chg": "−0.72%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,4.7 17.9,12.5 26.1,8.6 34.3,2.2 42.5,2.8"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,032.50",
+            "chg": "−3.07%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,2.8 17.9,2.2 26.1,8.7 34.3,12.5 42.5,10.7"
+          },
+          {
+            "sym": "BTC",
+            "val": "$80,074",
+            "chg": "−3.46%",
+            "dir": "down",
+            "spark": "1.5,4.5 8.3,1.5 15.2,8.9 22.0,9.6 28.8,10.4 35.7,12.5 42.5,12.4"
+          },
+          {
+            "sym": "VIX",
+            "val": "18.2",
+            "chg": "−8.70%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,6.7 15.2,10.4 22.0,12.5 28.8,4.7 35.7,3.3 42.5,7.3"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "META",
+            "chg": "−12.9%",
+            "dir": "down"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−12.7%",
+            "dir": "down"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "+8.83%",
+            "dir": "up"
+          },
+          {
+            "sym": "GOOGL",
+            "chg": "−8.53%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−5.77%",
+            "dir": "down"
+          },
+          {
+            "sym": "XOM",
+            "chg": "+5.23%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "12:22 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-thunder-s-jalen-williams-stretchered-off-with-le",
+          "section": "sports",
+          "headline": "Thunder's Jalen Williams stretchered off with significant leg injury after awkward landing",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "Oklahoma City Thunder guard Jalen Williams was taken off the court on a stretcher after suffering a significant leg injury late in Sunday's 108-101 victory over the Los Angeles Clippers. Williams' left foot was bent unnaturally, and a Thunder staffer quickly covered it with a towel.",
+            "Dunn was assessed a flagrant 1 foul on the play. Teammate Shai Gilgeous-Alexander took the resulting free throws on Williams' behalf. As medical personnel attended to Williams, several teammates, including Gilgeous-Alexander, became emotional and knelt on the court. Williams gave the crowd a thumbs up after being placed on the stretcher, prompting a standing ovation and chants of 'J-Dub' as he was wheeled off.",
+            "The Thunder did not provide an immediate update on Williams' condition or the specific nature of his injury. Head coach Mark Daigneault, speaking after the game, echoed the sense of concern. 'Those are tough, man. We're not doing great,' Daigneault said. 'That's tough on the guys.' Gilgeous-Alexander, fighting back tears during a postgame interview, added, 'I just feel bad for him. Nothing more than that.'",
+            "Williams missed a significant portion of last season due to various injuries, including a hamstring issue that sidelined him for multiple games during the Western Conference finals. He played in just 33 games last season. Gilgeous-Alexander expressed confidence in Williams' resilience: 'I have no doubt in my mind that he'll be back and be better than he was before. It's unfortunate, his luck so far, but he's equipped for it. He's a warrior.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "ESPN",
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50283862/thunder-g-jalen-williams-taken-significant-injury"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/nba/breaking-news/article/jalen-williams-suffers-gruesome-leg-injury-stretchered-off-court-in-thunders-victory-over-clippers-023719391.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Jalen Williams is a guard for the Oklahoma City Thunder.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Jalen Williams suffered a significant leg injury.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The injury occurred late in Sunday's game.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The game was a 108-101 victory over the Los Angeles Clippers.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Jalen Williams was taken off the court on a stretcher.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Williams' left foot was bent unnaturally.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "A Thunder staffer quickly covered Williams' foot with a towel.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "A player named Dunn was assessed a flagrant 1 foul on the play.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Shai Gilgeous-Alexander took the free throws that resulted from the foul on Williams' behalf.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Medical personnel attended to Williams.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Several teammates, including Gilgeous-Alexander, became emotional.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Those teammates knelt on the court.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Williams gave the crowd a thumbs up after being placed on the stretcher.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The crowd gave a standing ovation.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The crowd chanted 'J-Dub' as he was wheeled off.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The Thunder did not provide an immediate update on Williams' condition.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The Thunder did not provide the specific nature of his injury.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Mark Daigneault is the head coach of the Oklahoma City Thunder.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Daigneault spoke after the game.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Daigneault said, 'Those are tough, man. We're not doing great.'",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Daigneault said, 'That's tough on the guys.'",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Gilgeous-Alexander was fighting back tears during a postgame interview.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Gilgeous-Alexander said, 'I just feel bad for him. Nothing more than that.'",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Williams missed a significant portion of last season due to various injuries.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "One of those injuries was a hamstring issue.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "The hamstring issue sidelined him for multiple games during the Western Conference finals.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Williams played in only 33 games last season.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Gilgeous-Alexander expressed confidence in Williams' resilience.",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              },
+              {
+                "text": "Gilgeous-Alexander said, 'I have no doubt in my mind that he'll be back and be better than he was before. It's unfortunate, his luck so far, but he's equipped for it. He's a warrior.'",
+                "status": "supported",
+                "source_ids": [
+                  "Oklahoma City Thunder game report"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "sports-antonelli-s-us-grand-prix-win-strengthens-title-",
+          "section": "sports",
+          "headline": "Antonelli's US Grand Prix win strengthens title bid",
+          "beat_label": "Formula 1",
+          "byline": "Sports desk",
+          "body": [
+            "Kimi Antonelli moved to the brink of a record-breaking Formula 1 world championship with a commanding victory in the United States Grand Prix in Austin. The 20-year-old Mercedes driver's win leaves him in an impregnable position: he will clinch the title next weekend in Mexico City if he finishes ninth or, if Ferrari's Lewis Hamilton wins the race, 10th.",
+            "Mercedes team principal Toto Wolff described Antonelli's performance as 'the best he has delivered so far' and 'the race of a champion who isn't the champion yet.' Antonelli started from pole and dominated, while Russell struggled to eighth after a five-second penalty. Wolff said Antonelli 'outperformed the car,' noting that the upgraded Mercedes is 'difficult to operate' and that Antonelli's driving style 'just glues with the car.' Antonelli agreed that the execution was better than his spectacular comeback win at Monza, saying, 'This one probably, in terms of execution, was better, because the way we built up and the way we built the performance throughout the weekend was very good.'",
+            "Antonelli arrived in Austin with a strong championship lead, knowing he would secure the title if he won with Russell lower than eighth and Hamilton lower than fourth. He won, but Russell (eighth) and Hamilton (fourth) each did just enough to keep the title fight alive until Mexico. Wolff noted that Antonelli showed no signs of pressure, sitting in his chair after the race, saying, 'This is so funny. I'm not thinking about the championship at all.' Wolff added, 'The advantage helps. But it's also innate in him and I don't think that it's something to be trained for. He's not over-thinking it.'",
+            "When Antonelli clinches the title, he will become the first Italian champion since Alberto Ascari in 1953. McLaren team principal Andrea Stella, an Italian, said, 'As an Italian, wow, we need to go back to Ascari... To see an Italian achieving this level of performance and results in Formula 1, that's particularly thrilling.' Stella also noted Antonelli's aggressive yet effective driving style, saying he 'pretty much attacks all the times' but can also 'bring home the result.' Antonelli will also become the youngest champion in F1 history, beating Sebastian Vettel's 2010 record by more than three years.",
+            "Antonelli said he will approach the Mexico weekend with the same mindset: 'Just trying to have as much fun as possible, trying to hopefully fight for another win. It would be best to finish on a high, and that's the goal. But I'm just going to try to enjoy the rest of the season from now on.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/formula1/videos/cqly02nlknjno?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Kimi Antonelli moved to the brink of a record-breaking Formula 1 world championship with a commanding victory in the United States Grand Prix in Austin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The 20-year-old Mercedes driver's win leaves him in an impregnable position.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "He will clinch the title next weekend in Mexico City if he finishes ninth or, if Ferrari's Lewis Hamilton wins the race, 10th.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mercedes team principal Toto Wolff described Antonelli's performance as 'the best he has delivered so far'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mercedes team principal Toto Wolff described Antonelli's performance as 'the race of a champion who isn't the champion yet.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli started from pole and dominated.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russell struggled to eighth after a five-second penalty.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wolff said Antonelli 'outperformed the car'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wolff noted that the upgraded Mercedes is 'difficult to operate'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wolff said that Antonelli's driving style 'just glues with the car.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli agreed that the execution was better than his spectacular comeback win at Monza.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli said, 'This one probably, in terms of execution, was better, because the way we built up and the way we built the performance throughout the weekend was very good.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli arrived in Austin with a strong championship lead.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli knew he would secure the title if he won with Russell lower than eighth and Hamilton lower than fourth.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "He won.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russell finished eighth.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hamilton finished fourth.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russell and Hamilton each did just enough to keep the title fight alive until Mexico.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wolff noted that Antonelli showed no signs of pressure, sitting in his chair after the race.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli said, 'This is so funny. I'm not thinking about the championship at all.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wolff added, 'The advantage helps. But it's also innate in him and I don't think that it's something to be trained for. He's not over-thinking it.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "When Antonelli clinches the title, he will become the first Italian champion since Alberto Ascari in 1953.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "McLaren team principal Andrea Stella, an Italian, said, 'As an Italian, wow, we need to go back to Ascari... To see an Italian achieving this level of performance and results in Formula 1, that's particularly thrilling.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stella also noted Antonelli's aggressive yet effective driving style, saying he 'pretty much attacks all the times' but can also 'bring home the result.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli will also become the youngest champion in F1 history, beating Sebastian Vettel's 2010 record by more than three years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli said he will approach the Mexico weekend with the same mindset.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Antonelli said, 'Just trying to have as much fun as possible, trying to hopefully fight for another win. It would be best to finish on a high, and that's the goal. But I'm just going to try to enjoy the rest of the season from now on.'",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-luka-doncic-scores-52-in-lakers-win-over-jazz",
+          "section": "sports",
+          "headline": "Luka Doncic scores NBA season-high 52 points with 10 assists in Lakers' win over Jazz",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "Luka Doncic scored 52 points and dished out 10 assists on Sunday, leading the Los Angeles Lakers to a victory over the Utah Jazz and improving the team's record to 3-0 to start the season.",
+            "Doncic's 52-point outing is the highest individual scoring total in the NBA so far this season, according to ESPN. The performance was described by NBA.com as a \"magical 52-point performance\" in the Lakers' win.",
+            "The Lakers, now 3-0, are off to an undefeated start behind Doncic's early-season excellence. The win over the Jazz continues a strong beginning for Los Angeles, which appears to be building momentum.",
+            "The game marked the latest showcase of Doncic's scoring and playmaking ability, as he combined his 52 points with 10 assists to power the Lakers."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NBA.com",
+            "ESPN"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "NBA.com",
+              "url": "https://www.nba.com/watch/video/highlights-from-luka-doncic-52-point-game"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50282749/luka-doncic-scores-nba-season-high-52-points-lakers-win-vs-jazz"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Luka Doncic scored 52 points in the game on Sunday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Luka Doncic had 10 assists in the game on Sunday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Los Angeles Lakers defeated the Utah Jazz in that game.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Lakers improved their record to 3-0 to start the season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Doncic's 52-point outing is the highest individual scoring total in the NBA so far this season.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "NBA.com described the performance as a 'magical 52-point performance'.",
+                "status": "supported",
+                "source_ids": [
+                  "NBA.com"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-u-s-measles-cases-double-as-outbreak-spreads-eff",
+          "section": "health-science",
+          "headline": "U.S. measles cases double as outbreak spreads; efforts focus on Amish community and importations",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "The United States is experiencing its worst measles resurgence in decades, with more than 4,580 cases reported nationally as of Oct. 22, 2026 — more than double the total for all of 2025, according to the U.S. Centers for Disease Control and Prevention. Pennsylvania is the epicenter, with at least 1,338 confirmed cases across 44 counties, 250 hospitalizations, and five deaths, the Pennsylvania Department of Health reported Friday. Three of the five people who died lived in Lancaster County, which has reported nearly 470 cases, or nearly 40% of the state's total. The vaccination status of 96% of those infected nationwide was listed as \"Unvaccinated or Unknown.\"",
+            "The outbreak has hit Amish communities in Lancaster and Mifflin counties particularly hard, where low vaccination rates and limited use of modern technology have complicated public health outreach. Rather than relying on social media, email, or billboards, the Pennsylvania Department of Health has brought measles vaccines directly to Amish families through pop-up clinics, often held discreetly behind fire stations or in private homes. Since early May, the state has organized 223 clinics — 51 in Lancaster County alone — and vaccinated more than 6,000 people. Health officials sought input from Amish elders and religious leaders, who recommended relying on word-of-mouth back channels, sometimes called the \"Amish Internet.\" \"We thought, 'Is this going to work or not?' It totally flipped what public health normally is,\" said Dr. Jennifer Wallace, medical director of the state's health centers. \"We were very nervous about whether or not we could get the word out that way.\"",
+            "Measles was declared eliminated in the U.S. in 2000, thanks to widespread vaccination, which also protected the unvaccinated through herd immunity. Two doses of the measles, mumps, and rubella (MMR) vaccine are about 97% effective against measles, according to the CDC; one dose is about 93% effective. Many Amish community members have avoided vaccines for generations, partly due to cultural preferences for natural remedies and mistrust of vaccine ingredients, though health officials say they are not necessarily opposed to vaccination but previously saw no urgency. Dr. Wallace fields questions at clinics about microchips or aborted fetal cells in vaccines, and she explains that while both infection and vaccination provide immunity, the vaccine carries far lower risk. Mothers who choose vaccination for their children often show relief and sometimes cry afterward, she said. Attendance at clinics increased after sessions were moved to evenings to accommodate farmers; turnout surged in mid-June as word spread.",
+            "State health officials have also held roundtables with local providers. \"Our state metrics and data tell part of the story of the measles outbreak in Pennsylvania, but listening to the people on the ground caring for people in affected communities like Mifflin County is essential to refining our public health response,\" said Health Secretary Dr. Debra Bogen in a statement. Across Pennsylvania, more than 39,000 measles vaccines were administered during the first three weeks of October — higher than the average of 25,000 per month statewide. Meanwhile, other states are also reporting significant outbreaks: New York has over 160 confirmed cases and Gov. Kathy Hochul declared a disaster emergency; Utah has reported more than 700 cases this year, with none in the past three weeks; and South Carolina recorded at least 997 cases in 2026 before its outbreak ended in April. The pop-up clinics are not aimed at those who are firmly anti-vaccine, said Dr. Wallace. Some nearby residents remained unaware of clinics or skeptical; one Lancaster County man said he had never been vaccinated and did not fear measles. Some providers have chosen not to publicize the clinics widely, citing security concerns amid the politically charged climate around vaccination."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "Inquirer.com",
+            "CIDRAP"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Inquirer.com",
+              "url": "https://www.inquirer.com/health/pennsylvania-public-health-communication-measles-outbreak-vaccination-amish-community-20261026.html"
+            },
+            {
+              "outlet": "CIDRAP",
+              "url": "https://www.cidrap.umn.edu/public-health-alerts/public-health-alerts-report-highlights-5-measles-importations-washington-state"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The United States is experiencing its worst measles resurgence in decades.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "More than 4,580 cases reported nationally as of Oct. 22, 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "That number is more than double the total for all of 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "Pennsylvania is the epicenter.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "At least 1,338 confirmed cases across 44 counties in Pennsylvania.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "250 hospitalizations in Pennsylvania.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "Five deaths in Pennsylvania.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "Three of the five people who died lived in Lancaster County.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "Lancaster County has reported nearly 470 cases.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "That is nearly 40% of the state's total.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "The vaccination status of 96% of those infected nationwide was listed as 'Unvaccinated or Unknown.'",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "The outbreak has hit Amish communities in Lancaster and Mifflin counties particularly hard.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Low vaccination rates and limited use of modern technology have complicated public health outreach.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Pennsylvania Department of Health has brought measles vaccines directly to Amish families through pop-up clinics.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "These clinics are often held discreetly behind fire stations or in private homes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Since early May, the state has organized 223 clinics.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "51 of those clinics in Lancaster County alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "Vaccinated more than 6,000 people.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "Health officials sought input from Amish elders and religious leaders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "They recommended relying on word-of-mouth back channels, sometimes called the 'Amish Internet.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dr. Jennifer Wallace said: 'We thought, \"Is this going to work or not?\" It totally flipped what public health normally is.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "Dr. Wallace said: 'We were very nervous about whether or not we could get the word out that way.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "Measles was declared eliminated in the U.S. in 2000.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Thanks to widespread vaccination.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Herd immunity protected the unvaccinated.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Two doses of MMR vaccine are about 97% effective against measles, according to the CDC.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "One dose is about 93% effective.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "Many Amish community members have avoided vaccines for generations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Partly due to cultural preferences for natural remedies and mistrust of vaccine ingredients.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Health officials say they are not necessarily opposed to vaccination but previously saw no urgency.",
+                "status": "supported",
+                "source_ids": [
+                  "health officials"
+                ]
+              },
+              {
+                "text": "Dr. Wallace fields questions at clinics about microchips or aborted fetal cells in vaccines.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "She explains that both infection and vaccination provide immunity, but the vaccine carries far lower risk.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "Mothers who choose vaccination for their children often show relief and sometimes cry afterward, she said.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "Attendance at clinics increased after sessions were moved to evenings to accommodate farmers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Turnout surged in mid-June as word spread.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "State health officials have also held roundtables with local providers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Health Secretary Dr. Debra Bogen said: 'Our state metrics and data tell part of the story of the measles outbreak in Pennsylvania, but listening to the people on the ground caring for people in affected communities like Mifflin County is essential to refining our public health response.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Debra Bogen"
+                ]
+              },
+              {
+                "text": "Across Pennsylvania, more than 39,000 measles vaccines were administered during the first three weeks of October.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "That is higher than the average of 25,000 per month statewide.",
+                "status": "supported",
+                "source_ids": [
+                  "Pennsylvania Department of Health"
+                ]
+              },
+              {
+                "text": "New York has over 160 confirmed cases.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gov. Kathy Hochul declared a disaster emergency.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Utah has reported more than 700 cases this year, with none in the past three weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "South Carolina recorded at least 997 cases in 2026 before its outbreak ended in April.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The pop-up clinics are not aimed at those who are firmly anti-vaccine, said Dr. Wallace.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jennifer Wallace"
+                ]
+              },
+              {
+                "text": "Some nearby residents remained unaware of clinics or skeptical.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "One Lancaster County man said he had never been vaccinated and did not fear measles.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Some providers have chosen not to publicize the clinics widely, citing security concerns amid the politically charged climate around vaccination.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-10-26/health-science-u-s-measles-cases-double-as-outbreak-spreads-eff.jpg",
+            "alt": "Photograph of Amish community in Lancaster County, Pennsylvania",
+            "credit": "Photo: Irving Rusinow / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 818
+          }
+        },
+        {
+          "id": "health-science-first-human-case-of-shamonda-virus-reported-in-f",
+          "section": "health-science",
+          "headline": "First human case of Shamonda virus reported in France; WHO says broader transmission unlikely",
+          "beat_label": "Infectious Disease",
+          "byline": "Health & Science desk",
+          "body": [
+            "French officials have reported the first known human infection with Shamonda virus, a pathogen typically found in cattle. The patient, who lived in Lyon and was severely immunocompromised, later died; investigators are studying whether the virus contributed to his death.",
+            "The Shamonda virus is spread by the bite of a midge, a type of small fly. It primarily infects cattle but has also been reported in horses, sheep, and goats. In animals, the virus can cause fever, miscarriages, and neurological symptoms. The infected patient exhibited some neurological symptoms, officials said.",
+            "The virus has circulated in Africa and Japan since the 1960s but was only documented in Europe this year. European officials are monitoring for additional cases, but the World Health Organization has stated that broader transmission is unlikely.",
+            "According to officials, the man was likely infected by a midge bite. The case marks the first documented human infection with Shamonda virus globally."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "French officials have reported the first known human infection with Shamonda virus.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Shamonda virus is a pathogen typically found in cattle.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The patient lived in Lyon.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The patient was severely immunocompromised.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The patient later died.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Investigators are studying whether the virus contributed to his death.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Shamonda virus is spread by the bite of a midge, a type of small fly.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Shamonda virus primarily infects cattle but has also been reported in horses, sheep, and goats.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In animals, the virus can cause fever, miscarriages, and neurological symptoms.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The infected patient exhibited some neurological symptoms, officials said.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The virus has circulated in Africa and Japan since the 1960s.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The virus was only documented in Europe this year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "European officials are monitoring for additional cases.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The World Health Organization has stated that broader transmission is unlikely.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to officials, the man was likely infected by a midge bite.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The case marks the first documented human infection with Shamonda virus globally.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-anthropic-files-for-ipo-plans-to-list-on-public-",
+          "section": "tech-ai",
+          "headline": "Anthropic files for IPO, plans to list on public market",
+          "beat_label": "IPO",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Anthropic, the artificial intelligence company behind the chatbot Claude, filed its S-1 prospectus with the Securities and Exchange Commission on Monday, setting the stage for an initial public offering that could be the largest in U.S. history. The San Francisco-based company plans to list on the Nasdaq Global Select Market under the ticker symbol \"ANT,\" according to the filing. The IPO, expected next month, may raise as much as $100 billion, surpassing the record $86 billion raised by SpaceX in June, and could value Anthropic at between $1.5 trillion and $2 trillion, up from a private valuation of $965 billion earlier this year.",
+            "The 335-page filing reveals rapidly growing revenue but continued losses. Anthropic reported revenue of $16.3 billion for the first half of 2026, up from $1.2 billion in the same period last year. The company recorded an operating loss of $693 million, an improvement from $2.1 billion in the first half of 2025. However, its net loss ballooned to $80.7 billion, driven largely by noncash accounting adjustments related to convertible debt. Anthropic cautioned that it \"may not achieve or sustain profitability in the future.\" The company also disclosed detailed customer metrics: as of September, it had more than 11,900 customers spending $100,000 or more annually, 1,900 spending $1 million or more, and about 250 spending $10 million or more.",
+            "The filing outlines massive infrastructure commitments to power its AI systems. Anthropic has deals worth billions of dollars for compute access, including about $3.1 billion per month to SpaceX for Nvidia GPUs, totaling as much as $120.5 billion by 2029. Other commitments include $44.9 billion with Microsoft through 2033, at least $114.5 billion with Google through 2033, and $110 billion with Amazon over the next ten years.",
+            "Anthropic's governance structure will allow its seven co-founders—Dario Amodei, Daniela Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Christopher Olah—to maintain control after going public. They will form a \"Founder LLC\" that collectively controls 50.1% of shareholder voting power, a move the company says is designed to preserve its AI safety mission. The Long-Term Benefit Trust, established in 2023, will have the authority to appoint most of the board. The governance structure is controversial because public shareholders will have little practical control. Executive compensation for 2025 totaled nearly $18 million for CEO Dario Amodei and $16.4 million for his sister, co-founder and president Daniela Amodei.",
+            "The filing lists extensive risk factors, including the possibility that Anthropic's AI models could \"develop forms of sentience,\" face \"AI-specific taxes,\" and be subject to unfavorable resolutions in ongoing copyright disputes over training data. The company also warns of \"catastrophic or existential risks to humanity\" from its AI and states that no single insurer—and potentially the insurance industry in the aggregate—could underwrite such risk. The IPO comes weeks after CEO Dario Amodei published an essay calling for a slowdown in the development of the most advanced AI models to allow safety measures to catch up, warning that without such a pause, AI could be capable of taking over the entire internet within six to 12 months.",
+            "Anthropic, formed in 2021 by former OpenAI leaders, is locked in a fierce rivalry with OpenAI and other competitors including Google and SpaceX. The company has not yet disclosed how much it hopes to raise nor its proposed share price. The company said it could use proceeds for acquisitions, technology investments, and infrastructure expansion."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch",
+            "Channel 3000",
+            "WRAL",
+            "The Frederick News-Post",
+            "13newsnow.com"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/"
+            },
+            {
+              "outlet": "Channel 3000",
+              "url": "https://www.channel3000.com/news/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first/article_9457da21-8100-51fc-a065-dbfae78656f6.html"
+            },
+            {
+              "outlet": "WRAL",
+              "url": "https://www.wral.com/news/ap/ca2f4-artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/"
+            },
+            {
+              "outlet": "The Frederick News-Post",
+              "url": "https://www.fredericknewspost.com/news/economy_and_business/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first/article_be65255d-0e64-5192-b581-c421e91b85a4.html"
+            },
+            {
+              "outlet": "13newsnow.com",
+              "url": "https://www.13newsnow.com/video/news/nation-world/artificial-intelligence-giant-anthropic-files-to-sell-shares-to-the-public-for-the-first-time/507-fdf54b38-02c9-4448-a064-55400c69cb7b"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Anthropic is an artificial intelligence company.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic is the company behind the chatbot Claude.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic filed its S-1 prospectus with the Securities and Exchange Commission on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The filing set the stage for an initial public offering.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO could be the largest in U.S. history.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic is based in San Francisco.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic plans to list on the Nasdaq Global Select Market.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic plans to list under the ticker symbol \"ANT\" according to the filing.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO is expected next month.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO may raise as much as $100 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "SpaceX raised $86 billion in June, which was a record.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A $100 billion IPO would surpass the record $86 billion raised by SpaceX in June.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO could value Anthropic at between $1.5 trillion and $2 trillion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's private valuation was $965 billion earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The potential IPO valuation range is up from Anthropic's earlier private valuation of $965 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The filing is 335 pages.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic reported revenue of $16.3 billion for the first half of 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic reported revenue of $1.2 billion in the same period last year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic recorded an operating loss of $693 million in the first half of 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic recorded an operating loss of $2.1 billion in the first half of 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's first-half 2026 operating loss improved from $2.1 billion in the first half of 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's net loss in the first half of 2026 was $80.7 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's net loss was driven largely by noncash accounting adjustments related to convertible debt.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic cautioned that it \"may not achieve or sustain profitability in the future.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic disclosed customer metrics as of September.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "As of September, Anthropic had more than 11,900 customers spending $100,000 or more annually.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "As of September, Anthropic had 1,900 customers spending $1 million or more annually.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "As of September, Anthropic had about 250 customers spending $10 million or more annually.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The filing outlines infrastructure commitments to power Anthropic's AI systems.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has deals worth billions of dollars for compute access.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has a deal for about $3.1 billion per month to SpaceX for Nvidia GPUs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's commitments to SpaceX total as much as $120.5 billion by 2029.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has a $44.9 billion commitment with Microsoft through 2033.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has at least $114.5 billion in commitments with Google through 2033.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has a $110 billion commitment with Amazon over the next ten years.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's governance structure will allow its seven co-founders to maintain control after going public.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dario Amodei is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Daniela Amodei is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Tom Brown is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jack Clark is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jared Kaplan is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sam McCandlish is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Christopher Olah is one of Anthropic's seven co-founders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The seven co-founders will form a \"Founder LLC\".",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Founder LLC will collectively control 50.1% of shareholder voting power.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic says the Founder LLC move is designed to preserve its AI safety mission.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Long-Term Benefit Trust was established in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Long-Term Benefit Trust will have authority to appoint most of the board.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The governance structure is controversial because public shareholders will have little practical control.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dario Amodei is CEO of Anthropic.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dario Amodei's executive compensation for 2025 totaled nearly $18 million.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Daniela Amodei is Dario Amodei's sister.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Daniela Amodei is Anthropic's co-founder and president.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Daniela Amodei's executive compensation for 2025 totaled $16.4 million.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The filing lists extensive risk factors.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The risk factors include the possibility that Anthropic's AI models could \"develop forms of sentience.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The risk factors include the possibility that Anthropic's AI models could face \"AI-specific taxes.\"",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The risk factors include the possibility that Anthropic's AI models could be subject to unfavorable resolutions in ongoing copyright disputes over training data.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic warns of \"catastrophic or existential risks to humanity\" from its AI.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic states that no single insurer could underwrite such risk.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic states that potentially the insurance industry in the aggregate could not underwrite such risk.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The IPO comes weeks after CEO Dario Amodei published an essay.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dario Amodei's essay called for a slowdown in the development of the most advanced AI models.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The essay called for allowing safety measures to catch up.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The essay warned that without such a pause, AI could be capable of taking over the entire internet within six to 12 months.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic was formed in 2021.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic was formed by former OpenAI leaders.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic is locked in a fierce rivalry with OpenAI.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic's competitors include Google and SpaceX.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has not disclosed how much it hopes to raise.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic has not disclosed its proposed share price.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic said it could use proceeds for acquisitions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic said it could use proceeds for technology investments.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Anthropic said it could use proceeds for infrastructure expansion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-lula-wins-fourth-term-as-brazil-s-president-in-r"
+    },
+    {
+      "section": "world",
+      "story_id": "world-regional-delegations-meet-in-tehran-to-defuse-ir"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-u-s-measles-cases-double-as-outbreak-spreads-eff"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Polls show Democratic advantage in midterms but margins uncertain",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Supreme Court decisions reshape midterm election rules",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ebola health worker killed in DR Congo attack; Uganda says no active cases",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Anthropic Files for IPO, Igniting AI Stock Rally",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Real Madrid beat Barcelona 2-1 in season's first Clasico as Mourinho's unbeaten run continues",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Ballon d'Or 2026: London hosts ceremony as Yamal, Kane and Putellas lead contenders",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Moderna and Merck race to file personalized mRNA cancer vaccine for FDA approval after positive ESMO data",
+      "reason": "writer returned no body",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Merck ADC reduces death risk by one-third in advanced endometrial cancer trial",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
