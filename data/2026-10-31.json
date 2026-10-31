@@ -1,0 +1,2452 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-31",
+  "edition": "Morning edition",
+  "generated_at": "2026-10-31T15:28:15+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-doj-seeks-to-isolate-alaska-ballots-in-decoy-dan",
+          "section": "politics",
+          "headline": "DOJ seeks to isolate Alaska ballots in 'Decoy Dan' spoiler candidate probe",
+          "beat_label": "Elections",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "BBC",
+            "Fox News",
+            "USA Today"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/opinion/campaign/6184158-democratic-lawyer-voter-confusion/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/dems-dire-warnings-about-threats-democracy-face-uncomfortable-reckoning-after-alaska-election-report",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "USA Today",
+              "url": "https://www.usatoday.com/story/news/politics/2026/10/30/alaska-senate-dan-sullivan-ballot-peltola-midterms/92513446007/",
+              "lean": -0.1,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The U.S. Department of Justice filed a lawsuit.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "The lawsuit asked a federal judge to order Alaska election officials to preserve and segregate ballots that rank Daniel J. Sullivan.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "A decision on the DOJ's request was requested by Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "Alaska's ranked-choice general election was scheduled for Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "Alaska U.S. Attorney Michael Heyman confirmed a criminal investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska U.S. Attorney's Office"
+                ]
+              },
+              {
+                "text": "The criminal investigation had been ongoing for several months.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska U.S. Attorney's Office"
+                ]
+              },
+              {
+                "text": "The criminal investigation intensified after a New York Times report.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska U.S. Attorney's Office"
+                ]
+              },
+              {
+                "text": "The New York Times report alleged the Peltola campaign was involved in recruiting Dan J. Sullivan.",
+                "status": "supported",
+                "source_ids": [
+                  "New York Times"
+                ]
+              },
+              {
+                "text": "Heyman declined to specify potential crimes or targets.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska U.S. Attorney's Office"
+                ]
+              },
+              {
+                "text": "Heyman asked the public for tips.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska U.S. Attorney's Office"
+                ]
+              },
+              {
+                "text": "Dan Sullivan is a two-term Republican senator.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "Mary Peltola is a Democratic former U.S. representative.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The Senate race pits Dan Sullivan against Mary Peltola.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The Senate race is one of several races nationally expected to help determine control of the Senate.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "On the ballot, the incumbent is listed as Dan S. Sullivan, Republican and incumbent.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "On the ballot, the challenger is listed as Daniel J. Sullivan Jr., with no party affiliation.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The same distinction between the ballot listings was used on the August primary ballot.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "Federal prosecutors issued dozens of grand jury subpoenas and records-preservation requests this week.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "A person familiar with the matter cited by The Associated Press said federal prosecutors issued the subpoenas and requests.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Alaska state attorneys argued that segregating ballots is logistically impossible because ballots are commingled in ballot boxes.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska state attorneys"
+                ]
+              },
+              {
+                "text": "Alaska state attorneys argued that segregating ballots could violate ballot secrecy protections.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska state attorneys"
+                ]
+              },
+              {
+                "text": "Alaska state attorneys asked the court to dismiss the DOJ's case.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska state attorneys"
+                ]
+              },
+              {
+                "text": "Mike Dunleavy is the Republican governor of Alaska.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "Mike Dunleavy ordered a separate state investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "Office of Alaska Governor Mike Dunleavy"
+                ]
+              },
+              {
+                "text": "The state investigation followed the New York Times report.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The Alaska Democratic Party filed its own lawsuit against state election officials.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska Democratic Party"
+                ]
+              },
+              {
+                "text": "The Alaska Democratic Party alleged that some rural in-person absentee voting sites did not open as advertised.",
+                "status": "supported",
+                "source_ids": [
+                  "Alaska Democratic Party"
+                ]
+              },
+              {
+                "text": "Daniel J. Sullivan is a retired teacher.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "Daniel J. Sullivan shares a name with Republican Sen. Dan Sullivan.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The dispute centers on whether Daniel J. Sullivan was recruited to confuse voters in Alaska's ranked-choice Senate election.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The DOJ's push to segregate ballots and its public confirmation of a criminal probe occurred days before an election.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "The DOJ's push to segregate ballots and its public confirmation of a criminal probe departed from the department's longstanding practice of avoiding visible actions close to elections that could be seen as influencing outcomes.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "The DOJ case follows a related DOJ effort to have California set aside certain disputed ballots.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "The related DOJ effort was rejected by the 9th Circuit.",
+                "status": "supported",
+                "source_ids": [
+                  "9th Circuit Court of Appeals"
+                ]
+              },
+              {
+                "text": "The DOJ has been actively involved in multiple contested election disputes this cycle.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "Mary Peltola denied any knowledge of or involvement in recruiting Dan J. Sullivan.",
+                "status": "supported",
+                "source_ids": [
+                  "Mary Peltola"
+                ]
+              },
+              {
+                "text": "Mary Peltola said, \"I am not interested in tricking voters.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Mary Peltola"
+                ]
+              },
+              {
+                "text": "Mary Peltola stated she does not need outside help to win.",
+                "status": "supported",
+                "source_ids": [
+                  "Mary Peltola"
+                ]
+              },
+              {
+                "text": "The Democratic Senatorial Campaign Committee (DSCC) and Democratic Party figures have repeatedly denied involvement in any effort to use Dan J. Sullivan as a spoiler candidate.",
+                "status": "supported",
+                "source_ids": [
+                  "DSCC",
+                  "Democratic Party figures"
+                ]
+              },
+              {
+                "text": "Dan J. Sullivan has long denied that he was running at Democrats' behest.",
+                "status": "supported",
+                "source_ids": [
+                  "Dan J. Sullivan"
+                ]
+              },
+              {
+                "text": "President Trump said Peltola and Dan J. Sullivan should be prosecuted.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Trump said he had directed the Justice Department to file its lawsuit.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "At a rally, Trump turned to Attorney General Todd Blanche and said he would let him \"make his own\" decision.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Trump told the crowd that Blanche had responded affirmatively.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Justice Department attorneys argued there is a \"substantial risk\" that Dan J. Sullivan's candidacy would mislead voters and undermine the integrity of the electoral process.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "Dunleavy's order signaled concern that the recruitment effort may have violated election rules.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "No side's motives were independently verified by the source material.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The litigation over ballot segregation remains unresolved as of Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The ongoing criminal investigation remains unresolved as of Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              },
+              {
+                "text": "The ongoing civil investigation remains unresolved as of Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "The source text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "The U.S. Department of Justice filed a lawsuit asking a federal judge to order Alaska election officials to preserve and segregate ballots that rank Daniel J. Sullivan, with a decision requested by Monday, ahead of Tuesday's ranked-choice general election.",
+              "Alaska U.S. Attorney Michael Heyman confirmed a criminal investigation that has been ongoing for several months, which intensified after a New York Times report alleging the Peltola campaign was involved in recruiting Dan J. Sullivan; he declined to specify potential crimes or targets and asked the public for tips.",
+              "The Senate race pits two-term Republican Sen. Dan Sullivan against Democratic former U.S. Rep. Mary Peltola, and is one of several races nationally expected to help determine control of the Senate.",
+              "On the ballot, the incumbent is listed as Dan S. Sullivan, Republican and incumbent, while the challenger is listed as Daniel J. Sullivan Jr., with no party affiliation — the same distinction used on the August primary ballot.",
+              "Federal prosecutors issued dozens of grand jury subpoenas and records-preservation requests this week, according to a person familiar with the matter cited by The Associated Press.",
+              "Alaska state attorneys argued that segregating ballots is logistically impossible because ballots are commingled in ballot boxes and that doing so could violate ballot secrecy protections; they asked the court to dismiss the DOJ's case.",
+              "Republican Alaska Gov. Mike Dunleavy ordered a separate state investigation following the New York Times report.",
+              "The Alaska Democratic Party filed its own lawsuit against state election officials, alleging that some rural in-person absentee voting sites did not open as advertised."
+            ],
+            "analysis": "The dispute centers on whether Daniel J. Sullivan, a retired teacher who shares a name with Republican Sen. Dan Sullivan, was recruited to confuse voters in Alaska's ranked-choice Senate election — a race that could help decide Senate control. The DOJ's push to segregate ballots and its public confirmation of a criminal probe days before an election is unusual, departing from the department's longstanding practice of avoiding visible actions close to elections that could be seen as influencing outcomes. The case follows a related DOJ effort, rejected by the 9th Circuit, to have California set aside certain disputed ballots, underscoring the department's active involvement in multiple contested election disputes this cycle.",
+            "debate": {
+              "dem": [
+                "Mary Peltola denied any knowledge of or involvement in recruiting Dan J. Sullivan, saying, \"I am not interested in tricking voters,\" and stated she does not need outside help to win.",
+                "The Democratic Senatorial Campaign Committee (DSCC) and Democratic Party figures have repeatedly denied involvement in any effort to use Dan J. Sullivan as a spoiler candidate.",
+                "Dan J. Sullivan himself has long denied that he was running at Democrats' behest."
+              ],
+              "rep": [
+                "President Trump said Peltola and Dan J. Sullivan should be prosecuted and said he had directed the Justice Department to file its lawsuit; at a rally he turned to Attorney General Todd Blanche and said he would let him \"make his own\" decision, then told the crowd Blanche had responded affirmatively.",
+                "Justice Department attorneys argued there is a \"substantial risk\" that Dan J. Sullivan's candidacy would mislead voters and undermine the integrity of the electoral process.",
+                "Republican Gov. Mike Dunleavy ordered a state investigation after the New York Times report, signaling concern that the recruitment effort may have violated election rules."
+              ]
+            },
+            "steelman": "Both the DOJ's unusually public pre-election intervention and the state's technical/legal objections reflect a genuine tension between protecting voter clarity and preserving ballot secrecy and electoral procedure, with no side's motives independently verified by the source material.",
+            "implications": "The litigation over ballot segregation and the ongoing criminal and civil investigations remain unresolved as of Friday, with a court decision on the DOJ's ballot-segregation request requested by Monday — just before a Senate race that is among a handful nationally expected to help determine control of the chamber."
+          },
+          "interestingness": 0.85,
+          "significance": 0.71,
+          "image": {
+            "url": "static/img/2026-10-31/politics-doj-seeks-to-isolate-alaska-ballots-in-decoy-dan.jpg",
+            "alt": "Photograph of Alaska ballot for Senate election",
+            "credit": "Photo: James Brooks / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "politics-appeals-court-again-rejects-trump-effort-to-impo",
+          "section": "politics",
+          "headline": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
+          "beat_label": "Elections",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.3,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "NYT",
+            "Democracy Docket"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Democracy Docket",
+              "url": "https://www.democracydocket.com/news-alerts/appeals-court-again-rejects-dojs-bid-to-block-some-california-ballots-setting-up-supreme-court-showdown/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Ninth Circuit ruled 2-1 on Friday to reject, for a second time, the Trump administration's request to immediately block California from counting ballots cast by roughly 20,000 voters the Department of Justice alleges are 'likely noncitizens.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "This marks the third consecutive court loss for the Trump administration in its effort to intervene in California's ballot-counting process.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The dispute began Oct. 15, when the DOJ sued California after the state was given a 48-hour deadline to review and set aside ballots from the DOJ's list of 20,000 flagged voters pending citizenship verification.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The majority opinion, written by Judges Mark J. Bennett and Gabriel P. Sanchez, found the DOJ's request likely violates the National Voter Registration Act, which bars systemic voter-roll purges within 90 days of an election.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Judge Patrick J. Bumatay dissented, writing that the DOJ had proposed a 'modest remedy' to prevent potentially illegal votes from being mixed with legitimate ballots.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "California requires voters to attest to citizenship under penalty of perjury at registration.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "California has more than 23 million registered voters.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ is pursuing similar actions against Washington state (seeking to segregate ballots from hundreds of alleged noncitizens).",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ is pursuing similar actions against Alaska, where it is suing to block certification of a U.S. Senate race if the Democratic candidate wins.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A federal judge earlier in the week separately rejected the DOJ's bid to block ballot counting and warned that threats against election workers must 'cease immediately.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ is expected to appeal the Ninth Circuit's ruling to the U.S. Supreme Court.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "The Ninth Circuit ruled 2-1 on Friday to reject, for a second time, the Trump administration's request to immediately block California from counting ballots cast by roughly 20,000 voters the Department of Justice alleges are \"likely noncitizens.\"",
+              "This marks the third consecutive court loss for the Trump administration in its effort to intervene in California's ballot-counting process.",
+              "The dispute began Oct. 15, when the DOJ sued California after the state was given a 48-hour deadline to review and set aside ballots from the DOJ's list of 20,000 flagged voters pending citizenship verification.",
+              "The majority opinion, written by Judges Mark J. Bennett and Gabriel P. Sanchez, found the DOJ's request likely violates the National Voter Registration Act, which bars systemic voter-roll purges within 90 days of an election.",
+              "Judge Patrick J. Bumatay dissented, writing that the DOJ had proposed a \"modest remedy\" to prevent potentially illegal votes from being mixed with legitimate ballots.",
+              "California requires voters to attest to citizenship under penalty of perjury at registration, and the state has more than 23 million registered voters, making the flagged list a small fraction of the electorate.",
+              "The DOJ is pursuing similar actions against Washington state (seeking to segregate ballots from hundreds of alleged noncitizens) and against Alaska, where it is suing to block certification of a U.S. Senate race if the Democratic candidate wins.",
+              "A federal judge earlier in the week separately rejected the DOJ's bid to block ballot counting and warned that threats against election workers must \"cease immediately.\"",
+              "The DOJ is expected to appeal the Ninth Circuit's ruling to the U.S. Supreme Court."
+            ],
+            "analysis": "The case centers on the Trump administration's attempt to use DOJ litigation to halt or alter ballot-counting procedures in California based on claims that thousands of registered voters may be noncitizens. Courts at multiple levels—including a federal district judge and now a divided Ninth Circuit panel—have repeatedly found that the DOJ's proposed remedy conflicts with federal voter-registration law and the Constitution's Elections Clause, which assigns election administration primarily to the states. The ruling is part of a broader pattern of DOJ legal action in multiple states (Washington and Alaska) during the run-up to the midterms, raising questions about the proper boundary between federal oversight of voter-roll integrity and state authority over election administration. The matter appears likely to reach the Supreme Court, which could set a precedent on how much latitude federal authorities have to intervene in state election processes close to an election.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Both the court majority and the dissent are responding to the same underlying tension—between preventing any noncitizen votes from affecting an election and avoiding disruptive, legally questionable purges this close to voting—without either side in the ruling disputing the basic facts of how the ballots were flagged or processed.",
+            "implications": "With the DOJ signaling an imminent appeal, the Supreme Court may soon weigh in on how far federal authorities can go in challenging state-run ballot-counting procedures during an active election, a decision that could shape similar disputes already unfolding in Washington and Alaska."
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-north-korea-suspected-in-record-6-3bn-binance-ha",
+          "section": "world",
+          "headline": "North Korea suspected in record $6.3bn Binance hack",
+          "beat_label": "Cybercrime",
+          "byline": "International & World desk",
+          "body": [
+            "Binance, the world's largest cryptocurrency exchange, has confirmed that $6.3bn (£4.7bn) in digital assets were stolen in a hack that two major blockchain analytics firms say was carried out with 'high confidence' by a North Korean state-backed hacking unit. The theft, which eclipses the previous record of $1.5bn stolen from the Bybit exchange in February 2025, is the largest known cryptocurrency heist. TRM Labs and Chainalysis both identified the Lazarus Group, also known as TraderTraitor, as the likely culprit. Binance said it has frozen around half of the stolen funds—$3bn—but the rest remains unaccounted for, and the company has set aside more than $6.34bn in company funds to cover customer losses.",
+            "Binance initially believed the breach began with a compromised DevOps engineer's laptop, but co-CEO Richard Teng later said the investigation uncovered 'additional points of breach.' He described the attackers as using 'a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate.' TRM Labs said the hackers likely gained access to Binance's hot wallet signing system, using a special authorization to turn a hot wallet—which is connected to the internet—into one that moved funds automatically to the attacker. Chainalysis noted the attacker used laundering patterns 'we have not seen before.'",
+            "North Korea, one of the world's poorest countries with severe internet restrictions, has long been accused by experts and governments of using cybercrime to finance itself, including its nuclear weapons programme. A UN panel of experts reported in spring 2024 that it was reviewing 58 suspected cyber-attacks by North Korea on cryptocurrency companies between 2017 and 2023 worth $3bn, estimating that the stolen cash generates half of the country's foreign currency income. One unnamed country told the panel the stolen billions fund '40% of the weapons of mass destruction programmes.' Pyongyang has denied these allegations. The FBI has broadly accused North Korea of 'illicit cybercrime and virtual asset theft activities' and previously attributed the $1.5bn Bybit hack to TraderTraitor.",
+            "The US Secret Service said it was 'working around the clock' to identify, freeze, trace, and recover stolen funds, and Binance said it is cooperating with the FBI. While Binance's US-facing exchange was unaffected, the US has jurisdiction because the hack involved US-linked assets such as stablecoins Tether and Circle. Binance told users 'your money is safe, and we're covering every loss.' However, several experts have warned customers that the promise to cover losses may not be legally binding. Daniel Tunkel of the London-based Edwin Coe law firm said recovery would 'come down to what [customers] have been promised in their contracts' and where Binance can be sued for non-performance. The hack spooked cryptocurrency markets on Friday, with Bitcoin falling 5% to $76,800 and Coinbase dropping 12%.",
+            "Ciaran Martin, former head of the UK's National Cyber Security Centre, noted that traditional banks have developed sophisticated defences that the fast-growing and lightly regulated crypto sector has yet to match, making it a target. North Korea was behind one of the last large cyber thefts on a traditional bank—the 2016 Bangladesh Bank attack, where hackers tried to illicitly move $951m from an account at the Federal Reserve Bank of New York, ultimately stealing $81m. Experts say the rise of artificial intelligence has given threat actors new ways to carry out crime, and in this case it is plausible that AI was used to infiltrate Binance's systems. The heist underscores how powerful suspected North Korean hackers have become, with tools that have grown sharper over time."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "The Guardian",
+            "NPR"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Binance is the world's largest cryptocurrency exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Binance confirmed that $6.3bn (£4.7bn) in digital assets were stolen in a hack.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Two major blockchain analytics firms say the hack was carried out with 'high confidence' by a North Korean state-backed hacking unit.",
+                "status": "supported",
+                "source_ids": [
+                  "TRM Labs",
+                  "Chainalysis"
+                ]
+              },
+              {
+                "text": "The theft eclipses the previous record of $1.5bn stolen from the Bybit exchange in February 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "TRM Labs",
+                  "Chainalysis"
+                ]
+              },
+              {
+                "text": "The theft is the largest known cryptocurrency heist.",
+                "status": "supported",
+                "source_ids": [
+                  "TRM Labs",
+                  "Chainalysis"
+                ]
+              },
+              {
+                "text": "TRM Labs identified the Lazarus Group, also known as TraderTraitor, as the likely culprit.",
+                "status": "supported",
+                "source_ids": [
+                  "TRM Labs"
+                ]
+              },
+              {
+                "text": "Chainalysis identified the Lazarus Group, also known as TraderTraitor, as the likely culprit.",
+                "status": "supported",
+                "source_ids": [
+                  "Chainalysis"
+                ]
+              },
+              {
+                "text": "Binance said it has frozen around half of the stolen funds—$3bn.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "The rest of the stolen funds remains unaccounted for.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Binance has set aside more than $6.34bn in company funds to cover customer losses.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Binance initially believed the breach began with a compromised DevOps engineer's laptop.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Binance co-CEO Richard Teng later said the investigation uncovered 'additional points of breach.'",
+                "status": "supported",
+                "source_ids": [
+                  "Richard Teng"
+                ]
+              },
+              {
+                "text": "Richard Teng said the attackers used 'a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate.'",
+                "status": "supported",
+                "source_ids": [
+                  "Richard Teng"
+                ]
+              },
+              {
+                "text": "TRM Labs said the hackers likely gained access to Binance's hot wallet signing system, using a special authorization to turn a hot wallet into one that moved funds automatically to the attacker.",
+                "status": "supported",
+                "source_ids": [
+                  "TRM Labs"
+                ]
+              },
+              {
+                "text": "Chainalysis noted the attacker used laundering patterns 'we have not seen before.'",
+                "status": "supported",
+                "source_ids": [
+                  "Chainalysis"
+                ]
+              },
+              {
+                "text": "North Korea is one of the world's poorest countries with severe internet restrictions.",
+                "status": "supported",
+                "source_ids": [
+                  "World Bank",
+                  "general knowledge"
+                ]
+              },
+              {
+                "text": "North Korea has long been accused by experts and governments of using cybercrime to finance itself, including its nuclear weapons programme.",
+                "status": "supported",
+                "source_ids": [
+                  "UN panel of experts",
+                  "government reports"
+                ]
+              },
+              {
+                "text": "A UN panel of experts reported in spring 2024 that it was reviewing 58 suspected cyber-attacks by North Korea on cryptocurrency companies between 2017 and 2023 worth $3bn.",
+                "status": "supported",
+                "source_ids": [
+                  "UN panel of experts"
+                ]
+              },
+              {
+                "text": "The UN panel estimated that the stolen cash generates half of the country's foreign currency income.",
+                "status": "supported",
+                "source_ids": [
+                  "UN panel of experts"
+                ]
+              },
+              {
+                "text": "One unnamed country told the UN panel the stolen billions fund '40% of the weapons of mass destruction programmes.'",
+                "status": "supported",
+                "source_ids": [
+                  "UN panel of experts"
+                ]
+              },
+              {
+                "text": "Pyongyang has denied these allegations.",
+                "status": "supported",
+                "source_ids": [
+                  "North Korean government"
+                ]
+              },
+              {
+                "text": "The FBI has broadly accused North Korea of 'illicit cybercrime and virtual asset theft activities'.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI previously attributed the $1.5bn Bybit hack to TraderTraitor.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The US Secret Service said it was 'working around the clock' to identify, freeze, trace, and recover stolen funds.",
+                "status": "supported",
+                "source_ids": [
+                  "US Secret Service"
+                ]
+              },
+              {
+                "text": "Binance said it is cooperating with the FBI.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Binance's US-facing exchange was unaffected by the hack.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The US has jurisdiction because the hack involved US-linked assets such as stablecoins Tether and Circle.",
+                "status": "supported",
+                "source_ids": [
+                  "US Secret Service"
+                ]
+              },
+              {
+                "text": "Binance told users 'your money is safe, and we're covering every loss.'",
+                "status": "supported",
+                "source_ids": [
+                  "Binance statement"
+                ]
+              },
+              {
+                "text": "Several experts have warned customers that the promise to cover losses may not be legally binding.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              },
+              {
+                "text": "Daniel Tunkel of the London-based Edwin Coe law firm said recovery would 'come down to what [customers] have been promised in their contracts' and where Binance can be sued for non-performance.",
+                "status": "supported",
+                "source_ids": [
+                  "Daniel Tunkel"
+                ]
+              },
+              {
+                "text": "Bitcoin fell 5% to $76,800 on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "Coinbase dropped 12% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "Ciaran Martin, former head of the UK's National Cyber Security Centre, noted that traditional banks have developed sophisticated defences that the fast-growing and lightly regulated crypto sector has yet to match.",
+                "status": "supported",
+                "source_ids": [
+                  "Ciaran Martin"
+                ]
+              },
+              {
+                "text": "North Korea was behind the 2016 Bangladesh Bank attack, where hackers tried to illicitly move $951m from an account at the Federal Reserve Bank of New York, ultimately stealing $81m.",
+                "status": "supported",
+                "source_ids": [
+                  "Ciaran Martin",
+                  "news reports"
+                ]
+              },
+              {
+                "text": "Experts say the rise of artificial intelligence has given threat actors new ways to carry out crime.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              },
+              {
+                "text": "In this case it is plausible that AI was used to infiltrate Binance's systems.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              },
+              {
+                "text": "The heist underscores how powerful suspected North Korean hackers have become, with tools that have grown sharper over time.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-g20-family-photo-cancelled-after-russia-boycotte",
+          "section": "world",
+          "headline": "G20 family photo cancelled after European allies refuse to appear with Russia's Lavrov",
+          "beat_label": "Diplomacy",
+          "byline": "International & World desk",
+          "body": [
+            "The traditional “family photo” to open the G20 foreign ministers’ meeting was abruptly cancelled on Friday in Atlanta after a host of nations—including Australia, the UK, and several European countries—refused to appear beside Russian Foreign Minister Sergei Lavrov. US Secretary of State Marco Rubio pulled the plug on the snapshot after about one-third of the delegations made it known they would boycott or walk out of the photo. Rubio still opened the talks with an appeal for unity, saying, “We are in a critical moment. We are facing a series of interconnected economic and geopolitical crises.”",
+            "European officials had made clear they would not stand with Lavrov. “In no case will there be a family photo with European partners and Mr Lavrov together because … there is no normality with Russia,” Germany’s foreign minister, Johann Wadephul, warned ahead of the session. UK Foreign Secretary Ed Miliband said, “We do not engage in that way with the Russians and have not for a number of years.” Australia’s foreign minister, Penny Wong, condemned Russia’s invasion of Ukraine as “brutal and unjustified” in front of Lavrov, and a spokesperson said Australia supported the US decision to cancel the photo, adding, “Australia has been clear and consistent: we will not normalise Russia’s brutal and illegal invasion of Ukraine.”",
+            "The schism in Atlanta is further evidence of the rupture caused by the Trump administration’s attempt to reintegrate Russia into the international community despite its ongoing war against Ukraine. Diplomats described the opening session as cordial but said Russia’s position on Ukraine is unyielding. Those disagreements, along with the Trump administration’s decision not to invite G20 member South Africa, will probably prevent the foreign ministers from producing a joint communiqué when the meetings wrap up on Saturday. Poland’s deputy prime minister, Radosław Sikorski, said, “We have wars going on and we have participants in those wars around the table, so it’s very difficult to agree a common line.”",
+            "EU foreign policy chief Kaja Kallas accused Lavrov of presenting “lies” about the conflict and suggested Moscow is not ready for peace negotiations. “Even if they would have said this in words, their deeds tell something else,” she said, noting that July, August, and September have been the deadliest months for civilians in Ukraine. Lavrov conceded no ground on Ukraine and at a press conference criticised Europeans for their “arrogant boycott” while praising the Trump administration’s willingness to engage with Moscow. Rubio spoke briefly with Lavrov on the sidelines, with the Russian minister saying both sides had a “decent talk.”",
+            "The Trump administration on Friday approved the sale of 500 Patriot missiles to Ukraine for an estimated $2.1 billion, but Ukrainian President Volodymyr Zelenskyy warned that deliveries could take years, saying on X that “deliveries may begin ONLY IN A FEW YEARS.” Two people briefed on the decision said the missiles, which are yet to be manufactured, are not expected to be delivered until a couple of years into the 2030s. Zelenskyy suggested the US and European allies could give Ukraine missiles from their stockpiles now, to be replenished later by the new purchase. Meanwhile, a humanitarian convoy reached the besieged Russian-held city of Oleshky in southern Ukraine on Friday—the first such operation in four years and eight months of war—bringing food and medicine and evacuating residents. US first lady Melania Trump posted that the convoy could safely evacuate more than 750 people."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.25,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 4,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Guardian",
+            "BBC",
+            "The Moscow Times",
+            "Al-Monitor",
+            "Radio Free Europe/Radio Liberty"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.com/news/articles/cmd6dp2y576do",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Moscow Times",
+              "url": "https://www.themoscowtimes.com/2026/10/31/lavrov-says-russian-position-on-ukraine-unchanged-at-g20-summit-a94141"
+            },
+            {
+              "outlet": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/10/rubio-urges-g20-cooperation-amid-rifts-over-wars-ukraine-middle-east"
+            },
+            {
+              "outlet": "Radio Free Europe/Radio Liberty",
+              "url": "https://www.rferl.org/a/as-lavrov-returns-to-g20-ukraine-middle-east-highlight-western-divisions/33887896.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "A traditional family photo had been scheduled to open the G20 foreign ministers' meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The traditional family photo to open the G20 foreign ministers' meeting was abruptly cancelled on Friday in Atlanta.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "A host of nations, including Australia, the UK, and several European countries, refused to appear beside Russian Foreign Minister Sergei Lavrov.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Sergei Lavrov was the Russian Foreign Minister.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "US Secretary of State Marco Rubio pulled the plug on the family photo after about one-third of the delegations made it known they would boycott or walk out of the photo.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "About one-third of the delegations made it known they would boycott or walk out of the family photo.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Marco Rubio was the US Secretary of State.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Rubio opened the talks with an appeal for unity.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Rubio said: \"We are in a critical moment. We are facing a series of interconnected economic and geopolitical crises.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "European officials had made clear they would not stand with Lavrov.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Germany's foreign minister was Johann Wadephul.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Johann Wadephul warned ahead of the session that there would in no case be a family photo with European partners and Lavrov together.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Johann Wadephul said there was no normality with Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Ed Miliband was the UK Foreign Secretary.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Ed Miliband said: \"We do not engage in that way with the Russians and have not for a number of years.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Australia's foreign minister was Penny Wong.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Penny Wong condemned Russia's invasion of Ukraine as 'brutal and unjustified' in front of Lavrov.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Russia invaded Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "A spokesperson for Australia said Australia supported the US decision to cancel the family photo.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The spokesperson said: \"Australia has been clear and consistent: we will not normalise Russia's brutal and illegal invasion of Ukraine.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The schism in Atlanta is further evidence of a rupture caused by the Trump administration's attempt to reintegrate Russia into the international community.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Trump administration attempted to reintegrate Russia into the international community.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Russia was engaged in an ongoing war against Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Trump administration's attempt to reintegrate Russia occurred despite Russia's ongoing war against Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Diplomats described the opening session as cordial.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Diplomats said Russia's position on Ukraine was unyielding.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "There were disagreements among the foreign ministers.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Trump administration decided not to invite G20 member South Africa.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "South Africa is a G20 member.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The disagreements and the Trump administration's decision not to invite South Africa will probably prevent the foreign ministers from producing a joint communiqué when the meetings wrap up on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The meetings were scheduled to wrap up on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Poland's deputy prime minister was Radosław Sikorski.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Radosław Sikorski said: \"We have wars going on and we have participants in those wars around the table, so it is very difficult to agree a common line.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas was the EU foreign policy chief.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas accused Lavrov of presenting lies about the conflict.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas suggested Moscow was not ready for peace negotiations.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas said: \"Even if they would have said this in words, their deeds tell something else.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Kaja Kallas said that July, August, and September have been the deadliest months for civilians in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Lavrov conceded no ground on Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Lavrov held a press conference.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Lavrov at a press conference criticised Europeans for their 'arrogant boycott'.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Lavrov at a press conference praised the Trump administration's willingness to engage with Moscow.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Rubio spoke briefly with Lavrov on the sidelines.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Lavrov said both sides had a 'decent talk'.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The Trump administration on Friday approved the sale of 500 Patriot missiles to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The sale was for an estimated $2.1 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Volodymyr Zelenskyy was the Ukrainian President.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Zelenskyy warned that deliveries of the missiles could take years.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said on X that \"deliveries may begin ONLY IN A FEW YEARS.\"",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Two people briefed on the decision said the missiles are not expected to be delivered until a couple of years into the 2030s.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The missiles are yet to be manufactured.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Zelenskyy suggested the US and European allies could give Ukraine missiles from their stockpiles now.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Zelenskyy suggested the stockpiles could be replenished later by the new purchase.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "A humanitarian convoy reached the besieged Russian-held city of Oleshky in southern Ukraine on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Oleshky is in southern Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Oleshky is Russian-held.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Oleshky was besieged.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The convoy was the first such humanitarian operation in four years and eight months of war.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The war has lasted four years and eight months.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The convoy brought food and medicine.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "The convoy evacuated residents.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Melania Trump was the US first lady.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              },
+              {
+                "text": "Melania Trump posted that the convoy could safely evacuate more than 750 people.",
+                "status": "supported",
+                "source_ids": [
+                  "provided text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8,
+          "significance": 0.8,
+          "image": {
+            "url": "static/img/2026-10-31/world-g20-family-photo-cancelled-after-russia-boycotte.jpg",
+            "alt": "Photograph of G20 foreign ministers meeting venue",
+            "credit": "Photo: European Communities / Wikimedia Commons (CC BY 4.0)",
+            "license": "CC BY 4.0",
+            "width": 1000,
+            "height": 621
+          }
+        },
+        {
+          "id": "world-us-approves-2-1bn-patriot-missile-sale-to-ukrain",
+          "section": "world",
+          "headline": "US approves $2.1bn Patriot missile sale to Ukraine; Zelensky warns deliveries could take years",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "The United States has approved the sale of 500 Patriot PAC-3 interceptor missiles to Ukraine in a deal worth $2.1bn, the State Department announced on Friday. The sale will be funded entirely by Ukraine's allies — including Canada, Germany and Norway via the JUMPSTART program — along with national funds financed by the European Union's Ukraine Support Loan. The State Department said no US funds were involved and that American company Lockheed Martin would be the principal contractor.",
+            "Ukrainian President Volodymyr Zelensky welcomed the announcement but cautioned that deliveries might not arrive for several years, saying on X that it \"has been stipulated that deliveries may begin ONLY IN A FEW YEARS.\" The missiles are new builds rather than taken from existing US stocks, and only 600 Patriot missiles are produced per year, according to the US Department of Defence. Two people briefed on the decision said the interceptors were not expected to be delivered until a couple of years into the 2030s, and that Ukraine's Defense Ministry was encouraging the Pentagon to bring the delivery date forward — possibly by giving Kyiv missiles already in the US arsenal and backfilling with the new interceptors.",
+            "The State Department said the proposed sale \"will support the foreign policy and national security objectives of the United States by improving the security of a partner country that is a force for political and economic stability in Europe\" and would improve Ukraine's integrated air and missile defense capabilities. Zelensky appealed for the US and European allies to provide Ukraine with Patriot systems from their own stockpiles now, to be replenished later through the newly purchased missiles. \"We are asking our American partners to find a solution for the time when there is a real danger,\" he said, adding: \"Right now, the Russians are attacking our energy infrastructure every single day.\" The sale comes amid a global shortage of the interceptors, driven in part by US use of similar munitions in its conflict with Iran.",
+            "The approval follows weeks of escalating Russian aerial strikes on Ukraine. Zelensky said more than 30 Russian strikes had targeted \"critical parts\" of Ukraine's power grid over the past two weeks, and in an update Saturday said roughly 200,000 households in the Dnipro region and at least 80,000 in the Kyiv region were left without electricity after Friday-night attacks. He accused Russia of \"deliberately targeting civilian infrastructure every day.\" Earlier in the week, a Russian drone strike killed at least 14 people at a rail platform in Dnipro, while five died in daytime strikes on two provincial cities and one person was killed in Kyiv, according to officials.",
+            "The deal comes against a backdrop of tense relations between Zelensky and US President Donald Trump, who earlier this month eased sanctions on Russia as part of a diesel agreement and suggested Ukraine needed a new leader to strike a deal to end the war. Tensions eased after Zelensky met US envoys in Oslo on 20 October, but Trump has since ramped up criticism of the Ukrainian leader. Ukraine said Saturday that both Starlink and its military variant, Starshield — satellite internet services run by Elon Musk's SpaceX — were fully functional after a long outage, two days after Trump indicated Musk had been asked to \"put it back.\"",
+            "Separately, at the G20 foreign ministers' meeting in Atlanta, hosted by US Secretary of State Marco Rubio, European diplomats protested the presence of Russia's Foreign Minister Sergei Lavrov by refusing to stand for the official photograph. UK Foreign Secretary Ed Miliband told Lavrov directly: \"We all know who the aggressor in this war is,\" accusing his government of killing innocent civilians in Ukraine."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "CBS News",
+            "NBC News",
+            "The Guardian",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.com/news/articles/c3vgxznlx7jzo",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/news/ukraine-patriot-missiles-us-lockheed-martin-sale-zelenskyy/",
+              "lean": -0.2,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/us-approves-21-billion-sale-patriot-interceptors-ukraine-rcna606641",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/oct/31/ukraines-zelenskyy-praises-us-over-21bn-patriot-missile-deal-but-warns-it-could-take-years",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/aerospace-defense/us-approves-21-billion-patriot-missile-sale-ukraine-2026-10-30/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The United States has approved the sale of 500 Patriot PAC-3 interceptor missiles to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The deal is worth $2.1bn.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The State Department announced the sale on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The sale will be funded entirely by Ukraine's allies, including Canada, Germany and Norway via the JUMPSTART program.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The sale will be funded by national funds financed by the European Union's Ukraine Support Loan.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The State Department said no US funds were involved.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The State Department said Lockheed Martin would be the principal contractor.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky welcomed the announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky cautioned that deliveries might not arrive for several years.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said on X that \"has been stipulated that deliveries may begin ONLY IN A FEW YEARS.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The missiles are new builds rather than taken from existing US stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "According to the US Department of Defence, only 600 Patriot missiles are produced per year.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Two people briefed on the decision said the interceptors were not expected to be delivered until a couple of years into the 2030s.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Two people briefed on the decision said Ukraine's Defense Ministry was encouraging the Pentagon to bring the delivery date forward.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Two people briefed on the decision said the possible way to bring delivery forward is by giving Kyiv missiles already in the US arsenal and backfilling with the new interceptors.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The State Department said the proposed sale will support the foreign policy and national security objectives of the United States by improving the security of a partner country that is a force for political and economic stability in Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The State Department said the proposed sale would improve Ukraine's integrated air and missile defense capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky appealed for the US and European allies to provide Ukraine with Patriot systems from their own stockpiles now.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said the systems would be replenished later through the newly purchased missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said \"We are asking our American partners to find a solution for the time when there is a real danger.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said \"Right now, the Russians are attacking our energy infrastructure every single day.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The sale comes amid a global shortage of the interceptors.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The global shortage is driven in part by US use of similar munitions in its conflict with Iran.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The approval follows weeks of escalating Russian aerial strikes on Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said more than 30 Russian strikes had targeted \"critical parts\" of Ukraine's power grid over the past two weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said in an update Saturday that roughly 200,000 households in the Dnipro region were left without electricity after Friday-night attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky said in an update Saturday that at least 80,000 households in the Kyiv region were left without electricity after Friday-night attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Zelensky accused Russia of deliberately targeting civilian infrastructure every day.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "According to officials, a Russian drone strike earlier in the week killed at least 14 people at a rail platform in Dnipro.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "According to officials, five people died in daytime strikes on two provincial cities.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "According to officials, one person was killed in Kyiv.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The deal comes against a backdrop of tense relations between Zelensky and Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Trump earlier this month eased sanctions on Russia as part of a diesel agreement.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Trump suggested Ukraine needed a new leader to strike a deal to end the war.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Tensions eased after Zelensky met US envoys in Oslo on 20 October.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Trump has since ramped up criticism of the Ukrainian leader.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Ukraine said Saturday that both Starlink and its military variant, Starshield, were fully functional after a long outage.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Starlink and Starshield are satellite internet services run by Elon Musk's SpaceX.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Trump indicated that Musk had been asked to \"put it back.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "At the G20 foreign ministers' meeting in Atlanta, European diplomats protested the presence of Russia's Foreign Minister Sergei Lavrov by refusing to stand for the official photograph.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "The G20 foreign ministers' meeting was hosted by US Secretary of State Marco Rubio.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "UK Foreign Secretary Ed Miliband told Lavrov directly: \"We all know who the aggressor in this war is.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              },
+              {
+                "text": "Miliband accused Lavrov's government of killing innocent civilians in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,580.07",
+            "chg": "−2.28%",
+            "dir": "down",
+            "spark": "1.5,6.9 8.3,9.6 15.2,6.0 22.0,2.9 28.8,1.5 35.7,3.1 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "25,437.00",
+            "chg": "−4.74%",
+            "dir": "down",
+            "spark": "1.5,6.8 8.3,7.4 15.2,5.3 22.0,2.2 28.8,1.5 35.7,5.1 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,770.31",
+            "chg": "−2.05%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,8.0 15.2,6.6 22.0,6.4 28.8,5.4 35.7,6.8 42.5,12.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,811.84",
+            "chg": "+1.11%",
+            "dir": "up",
+            "spark": "1.5,11.4 8.3,12.5 15.2,11.1 22.0,6.8 28.8,5.3 35.7,1.5 42.5,7.8"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.93%",
+            "chg": "-2 bp",
+            "dir": "down",
+            "spark": "1.5,10.2 8.3,6.9 15.2,7.1 22.0,6.4 28.8,1.5 35.7,6.8 42.5,12.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$104.12",
+            "chg": "+0.82%",
+            "dir": "up",
+            "spark": "1.5,3.7 9.7,7.7 17.9,12.5 26.1,5.0 34.3,7.0 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$3,898.90",
+            "chg": "−2.72%",
+            "dir": "down",
+            "spark": "1.5,5.7 9.7,3.8 17.9,1.5 26.1,2.9 34.3,4.2 42.5,12.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$77,331",
+            "chg": "−3.37%",
+            "dir": "down",
+            "spark": "1.5,4.9 8.3,4.9 15.2,2.8 22.0,1.5 28.8,10.9 35.7,12.5 42.5,12.1"
+          },
+          {
+            "sym": "VIX",
+            "val": "19.4",
+            "chg": "+2.05%",
+            "dir": "up",
+            "spark": "1.5,3.3 8.3,1.5 15.2,6.1 22.0,9.9 28.8,12.5 35.7,11.2 42.5,1.6"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "GOOGL",
+            "chg": "−16.4%",
+            "dir": "down"
+          },
+          {
+            "sym": "META",
+            "chg": "−11.8%",
+            "dir": "down"
+          },
+          {
+            "sym": "LLY",
+            "chg": "+11.6%",
+            "dir": "up"
+          },
+          {
+            "sym": "BA",
+            "chg": "−10.8%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−8.67%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMZN",
+            "chg": "−8.39%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "11:30 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-warriors-stage-25-point-comeback-win-over-lakers",
+          "section": "sports",
+          "headline": "Warriors rally from 25-point deficit to rout Lakers; Curry drops 31 in NBA Cup win",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "The Golden State Warriors erased a 25-point first-half deficit Friday night to defeat the Los Angeles Lakers 112-95 at Chase Center, improving to 3-3 after an 0-3 start. Stephen Curry led the comeback with 31 points on 11-of-23 shooting (8-of-14 from 3-point range), six assists and four rebounds, passing Dominique Wilkins for 18th on the NBA's all-time scoring list. The 17-point margin of victory is the largest ever by a team that trailed by 25 points in the same game in the play-by-play era (since 1996).",
+            "Luka Dončić poured in 21 first-quarter points and finished with 37 points, seven rebounds and five assists, outscoring the entire Warriors team in the opening period as the Lakers raced to a 40-15 run. Dončić had been involved in a war of words with Warriors rookie Yaxel Lendeborg, who after his first career NBA game called the Lakers star a flopping crybaby for whom he 'lost all respect.' Friday night, Lendeborg struggled mightily, finishing with six points, one rebound, zero assists and five turnovers in 24 minutes before fouling out, posting a game-low minus-20.",
+            "The Warriors responded with a 38-13 run over 11 minutes and 39 seconds to tie the game by halftime. Curry provided the signature moment in the third quarter, dropping Dončić with a move before hitting a 3-pointer to cut the deficit to six. Brandin Podziemski added 21 points, six assists and five rebounds; De'Anthony Melton and Georges Niang combined for 27 points and seven 3-pointers; and Draymond Green took over defensive duties on Dončić while dishing out nine assists. Golden State's bench outscored the Lakers' bench 50-7, and the defense held Los Angeles to 57 points over the final three quarters.",
+            "After the Warriors' season-opening loss to these same Lakers, coach Steve Kerr told Lendeborg that individual defense on Dončić was meaningless if the team got torched. 'It's a team game,' Kerr said. Friday night, Lendeborg needed his teammates to cover for him, and they did. The win also gives the Warriors a significant early edge in NBA Cup group-stage play, where they share a group with the Lakers, San Antonio Spurs, Portland Trail Blazers and Sacramento Kings."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CBS Sports",
+            "ESPN",
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nba/news/luka-doncic-yaxel-lendeborg-warriors-comeback-win-lakers/"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50333810/stephen-curry-leads-warriors-25-point-comeback-lakers"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/nba/article/stephen-curry-breaks-luka-doncics-ankles-as-part-of-25-point-comeback-in-nba-cup-win-051155367.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Golden State Warriors erased a 25-point first-half deficit Friday night to defeat the Los Angeles Lakers 112-95 at Chase Center.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Warriors improved to 3-3 after an 0-3 start.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Stephen Curry led the comeback with 31 points on 11-of-23 shooting (8-of-14 from 3-point range), six assists and four rebounds.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Stephen Curry passed Dominique Wilkins for 18th on the NBA's all-time scoring list.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The 17-point margin of victory is the largest ever by a team that trailed by 25 points in the same game in the play-by-play era (since 1996).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Luka Dončić poured in 21 first-quarter points and finished with 37 points, seven rebounds and five assists.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dončić outscored the entire Warriors team in the opening period as the Lakers raced to a 40-15 run.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Dončić had been involved in a war of words with Warriors rookie Yaxel Lendeborg.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Yaxel Lendeborg, after his first career NBA game, called the Lakers star a flopping crybaby for whom he 'lost all respect.'",
+                "status": "supported",
+                "source_ids": [
+                  "Yaxel Lendeborg"
+                ]
+              },
+              {
+                "text": "Friday night, Lendeborg struggled mightily, finishing with six points, one rebound, zero assists and five turnovers in 24 minutes before fouling out, posting a game-low minus-20.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Warriors responded with a 38-13 run over 11 minutes and 39 seconds to tie the game by halftime.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Curry provided the signature moment in the third quarter, dropping Dončić with a move before hitting a 3-pointer to cut the deficit to six.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Brandin Podziemski added 21 points, six assists and five rebounds.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "De'Anthony Melton and Georges Niang combined for 27 points and seven 3-pointers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Draymond Green took over defensive duties on Dončić while dishing out nine assists.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Golden State's bench outscored the Lakers' bench 50-7.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The defense held Los Angeles to 57 points over the final three quarters.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "After the Warriors' season-opening loss to these same Lakers, coach Steve Kerr told Lendeborg that individual defense on Dončić was meaningless if the team got torched.",
+                "status": "supported",
+                "source_ids": [
+                  "Steve Kerr"
+                ]
+              },
+              {
+                "text": "Kerr said, 'It's a team game.'",
+                "status": "supported",
+                "source_ids": [
+                  "Steve Kerr"
+                ]
+              },
+              {
+                "text": "Friday night, Lendeborg needed his teammates to cover for him, and they did.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The win gives the Warriors a significant early edge in NBA Cup group-stage play, where they share a group with the Lakers, San Antonio Spurs, Portland Trail Blazers and Sacramento Kings.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-10-31/sports-warriors-stage-25-point-comeback-win-over-lakers.jpg",
+            "alt": "Photograph of Golden State Warriors basketball arena",
+            "credit": "Photo: Tony Wasserman from San Francisco, USA / Wikimedia Commons (CC BY-SA 2.0)",
+            "license": "CC BY-SA 2.0",
+            "width": 1000,
+            "height": 666
+          }
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": []
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-north-korean-hackers-steal-6-3-billion-from-bina",
+          "section": "tech-ai",
+          "headline": "North Korean hackers steal $6.3 billion from Binance in record crypto heist",
+          "beat_label": "Crypto",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Hackers linked to North Korea have stolen at least $6.3 billion in cryptocurrency from Binance, the world's largest crypto exchange, in what security researchers are calling the largest crypto theft on record. Binance has suspended all deposits and withdrawals while it investigates the breach, which it said stemmed from a compromised engineer's laptop that allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. The company said it has seen no evidence of a leak of its private keys.",
+            "Binance put the 'estimated total impact' of the hack at about $6.3 billion. Around $3 billion of affected assets, mainly stablecoins, have been frozen by industry partners, according to Binance spokesperson Andie Cooper. However, analysts at Elliptic said the attacker had converted about $3.3 billion into digital assets that could not be frozen and was working to cash those out as traditional currency. Blockchain intelligence firm TRM Labs attributed the breach to a North Korean hacking unit known as TraderTraitor, noting that the theft took about 20 minutes. The same group was blamed for the previous record heist, a $1.4 billion theft from crypto exchange Bybit in 2025.",
+            "Binance said it has 'already reserved over $6.34 billion of company funds to cover this incident,' with $5 billion already held in the exact token assets that were impacted. The company said it is actively buying more tokens to cover the remaining amount, though it cautioned that 'some tokens may have low liquidity' and settlement 'also takes time.' Binance stated that 'user funds are safe' but did not immediately provide proof of this claim, saying it will publish an updated proof of reserves once remediation is complete.",
+            "The breach is a major blow to Binance, which was co-founded in 2017 by Changpeng Zhao and holds about $140 billion of digital assets. In 2023, the company pleaded guilty to U.S. criminal charges related to breach of anti-money laundering laws and paid a $4.3 billion fine. Peter Ward of the Sejong Institute in Seoul said North Korea has considerable hacking expertise and offers 'near-total protection to its hackers,' adding that 'things may get a lot worse going forward.' Researchers say North Korea's sole motivation is to steal crypto to fund its sanctioned weapons of mass destruction program, as the country remains cut off from the U.S. and global financial system.",
+            "Blockchain security firm Elliptic said some of the stolen funds ended up in the same wallet used in a previous cyberattack on crypto exchange Bitget earlier this year, in which hackers stole $351 million. The company faces questions about why its security allowed a single employee's laptop to access systems capable of controlling billions of dollars in funds. Binance did not respond to questions about whether it had sought a third-party security audit prior to the hack."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Hackers linked to North Korea have stolen at least $6.3 billion in cryptocurrency from Binance.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance is the world's largest crypto exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Security researchers are calling the theft the largest crypto theft on record.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance has suspended all deposits and withdrawals while it investigates the breach.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The breach stemmed from a compromised engineer's laptop that allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance said it has seen no evidence of a leak of its private keys.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance put the 'estimated total impact' of the hack at about $6.3 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Around $3 billion of affected assets, mainly stablecoins, have been frozen by industry partners, according to Binance spokesperson Andie Cooper.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Analysts at Elliptic said the attacker had converted about $3.3 billion into digital assets that could not be frozen.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Analysts at Elliptic said the attacker was working to cash out the converted assets as traditional currency.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Blockchain intelligence firm TRM Labs attributed the breach to a North Korean hacking unit known as TraderTraitor.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "TRM Labs noted that the theft took about 20 minutes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The same group (TraderTraitor) was blamed for the previous record heist, a $1.4 billion theft from crypto exchange Bybit in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance said it has 'already reserved over $6.34 billion of company funds to cover this incident.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance said $5 billion of the reserved funds was already held in the exact token assets that were impacted.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance said it is actively buying more tokens to cover the remaining amount.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance cautioned that 'some tokens may have low liquidity' and settlement 'also takes time.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance stated that 'user funds are safe.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance did not immediately provide proof of the claim that user funds are safe.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance said it will publish an updated proof of reserves once remediation is complete.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance was co-founded in 2017 by Changpeng Zhao.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance holds about $140 billion of digital assets.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2023, Binance pleaded guilty to U.S. criminal charges related to breach of anti-money laundering laws.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance paid a $4.3 billion fine in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Peter Ward of the Sejong Institute in Seoul said North Korea has considerable hacking expertise.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Peter Ward said North Korea offers 'near-total protection to its hackers.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Peter Ward said 'things may get a lot worse going forward.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Researchers say North Korea's sole motivation is to steal crypto to fund its sanctioned weapons of mass destruction program.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "North Korea remains cut off from the U.S. and global financial system.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Blockchain security firm Elliptic said some of the stolen funds ended up in the same wallet used in a previous cyberattack on crypto exchange Bitget earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In the previous cyberattack on Bitget, hackers stole $351 million.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance faces questions about why its security allowed a single employee's laptop to access systems capable of controlling billions of dollars in funds.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Binance did not respond to questions about whether it had sought a third-party security audit prior to the hack.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-g20-family-photo-cancelled-after-russia-boycotte"
+    },
+    {
+      "section": "politics",
+      "story_id": "politics-doj-seeks-to-isolate-alaska-ballots-in-decoy-dan"
+    },
+    {
+      "section": "sports",
+      "story_id": "sports-warriors-stage-25-point-comeback-win-over-lakers"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Judge orders inquiry into potential DOJ misconduct in Trump golf course case",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Federal appeals court lifts Idaho ruling permitting abortions for women's health",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Iran calls US outreach 'positive step' while warning of retaliation",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Canada and EU launch 'Alliance for the Future' for like-minded countries",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Tech stocks cap worst month since 2025 as AI sell-off deepens",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Blood test could predict Alzheimer's risk 10 years before symptoms",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "CDC scientists sought urgent alert on measles in pregnancy; it wasn’t approved",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
