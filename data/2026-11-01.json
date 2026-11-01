@@ -1,0 +1,3129 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-01",
+  "edition": "Morning edition",
+  "generated_at": "2026-11-01T16:52:10+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-supreme-court-hears-religious-freedom-case-on-pu",
+          "section": "politics",
+          "headline": "Supreme Court hears religious freedom case on public funding for Catholic preschools",
+          "beat_label": "Supreme Court",
+          "byline": "Politics desk · anchored on Reuters",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.13,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 5,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "Reuters",
+            "USA Today",
+            "FOX 32 Chicago",
+            "The Denver Post",
+            "Raw Story"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/legal/government/preschool-case-tests-religious-conservatives-us-supreme-court-win-streak-2026-10-31/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "USA Today",
+              "url": "https://www.usatoday.com/story/news/politics/2026/11/01/supreme-court-colorado-lgbtq-protections-religious-rights/92498567007/",
+              "lean": -0.1,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "FOX 32 Chicago",
+              "url": "https://www.fox32chicago.com/news/supreme-court-hear-case-over-public-funding-catholic-preschools-bar-kids-from-lgbtq-families"
+            },
+            {
+              "outlet": "The Denver Post",
+              "url": "https://www.denverpost.com/2026/11/01/st-mary-catholic-parish-vs-roy-colorado/"
+            },
+            {
+              "outlet": "Raw Story",
+              "url": "https://www.rawstory.com/supreme-court-election-day/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Oral arguments in St. Mary Catholic Parish v. Roy are scheduled to be heard by the U.S. Supreme Court on Tuesday, Nov. 3.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The case concerns Colorado's state-funded universal preschool program, created after a 2020 ballot measure.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The program provides a $6,300 annual benefit per enrolled child funded by a tobacco tax.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Colorado's program requires participating preschools, including religious ones, to comply with a state law barring discrimination based on race, religion, sexual orientation or gender identity.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Two Catholic preschools run by parishes in the Denver suburbs, along with the Archdiocese of Denver, sued rather than agree to the non-discrimination requirement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The plaintiffs say the non-discrimination requirement conflicts with Catholic teaching on sex and gender.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The plaintiffs are represented by the Becket Fund for Religious Liberty.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The CEO of the Becket Fund for Religious Liberty is Mark Rienzi.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The preschool program includes at least 35 Christian schools as participants.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The preschool program includes one Muslim school as a participant.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The preschool program includes three Jewish schools as participants.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The preschool program includes Catholic Charities as a participant.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Archbishop James R. Golka wrote in the Denver Post that enrollment in Catholic schools across the archdiocese has fallen 20%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Archbishop James R. Golka wrote in the Denver Post that two Catholic preschools have closed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In a related case last year concerning whether taxpayer-funded charter schools could include religious schools and teachings, the Supreme Court was evenly divided.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In that related case, Justice Amy Coney Barrett recused herself over a potential conflict of interest.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The related case was dropped after the tie.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Justice Amy Coney Barrett has not recused herself in St. Mary Catholic Parish v. Roy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A full nine-justice court will decide St. Mary Catholic Parish v. Roy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The case sits at the intersection of two First Amendment religion clauses: the Establishment Clause and the Free Exercise Clause.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Over the past decade the Supreme Court's conservative majority has shifted emphasis from the Establishment Clause to the Free Exercise Clause.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Legal scholars describe that shift as a significant doctrinal reversal from the mid-20th century approach.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Colorado dispute tests how far that shift extends when religious schools accept public money but decline to follow state anti-discrimination rules.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The anti-discrimination rules at issue address sexual orientation and gender identity.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Legal scholars note that sexual orientation and gender identity have not carried the same historical weight in Supreme Court precedent as race.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Courts have treated race as a uniquely protected category, as in the 1983 Bob Jones University case.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ruling could bear on a parallel, unresolved question about whether states can be required to fund religious charter schools.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Supreme Court left that question unsettled last term.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "That question is already playing out in a contested Oklahoma Jewish charter school case.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Supreme Court's decision will determine which commitment takes precedence when public money is involved: ensuring equal access to a taxpayer-funded program for all families, or protecting religious institutions' ability to operate according to their faith's teachings.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The decision is likely to set a precedent affecting Colorado's preschool program.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The decision is likely to set a precedent affecting similar state-funded early education, voucher, and charter school systems nationwide.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The decision is likely to set a precedent affecting the pending question of whether states must allow or fund religious charter schools.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The outcome will shape how broadly religious institutions can participate in public funding programs while maintaining faith-based admissions or staffing policies that conflict with state anti-discrimination laws.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Oral arguments in St. Mary Catholic Parish v. Roy are scheduled to be heard by the U.S. Supreme Court on Tuesday, Nov. 3.",
+              "The case concerns Colorado's state-funded universal preschool program, created after a 2020 ballot measure, which provides a $6,300 annual benefit per enrolled child funded by a tobacco tax.",
+              "Colorado's program requires participating preschools, including religious ones, to comply with a state law barring discrimination based on race, religion, sexual orientation or gender identity.",
+              "Two Catholic preschools run by parishes in the Denver suburbs, along with the Archdiocese of Denver, sued rather than agree to the non-discrimination requirement, saying it conflicts with Catholic teaching on sex and gender.",
+              "The plaintiffs are represented by the Becket Fund for Religious Liberty, whose CEO is Mark Rienzi.",
+              "The preschool program includes at least 35 Christian schools, one Muslim school, three Jewish schools, and Catholic Charities as participants.",
+              "Archbishop James R. Golka wrote in the Denver Post that enrollment in Catholic schools across the archdiocese has fallen 20% and that two Catholic preschools have closed.",
+              "In a related case last year concerning whether taxpayer-funded charter schools could include religious schools and teachings, the Supreme Court was evenly divided after Justice Amy Coney Barrett recused herself over a potential conflict of interest, and the case was dropped; she has not recused herself in this case, meaning a full nine-justice court will decide it."
+            ],
+            "analysis": "The case sits at the intersection of two First Amendment religion clauses: the Establishment Clause, which historically required separation of church and state, and the Free Exercise Clause, which protects religious practice from government interference. Over the past decade the Supreme Court's conservative majority has shifted emphasis from the former to the latter, a change legal scholars describe as a significant doctrinal reversal from the mid-20th century approach. The Colorado dispute tests how far that shift extends when religious schools accept public money but decline to follow state anti-discrimination rules — in this instance, rules addressing sexual orientation and gender identity, categories that legal scholars note have not carried the same historical weight in Supreme Court precedent as race, which courts have treated as a uniquely protected category (as in the 1983 Bob Jones University case). The ruling could also bear on a parallel, unresolved question about whether states can be required to fund religious charter schools, an issue the Court left unsettled last term and which is already playing out in a contested Oklahoma Jewish charter school case.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "At the core of the case is a genuine and unresolved tension between two legitimate public commitments — ensuring equal access to a taxpayer-funded program for all families, and protecting religious institutions' ability to operate according to their faith's teachings — and the Supreme Court's decision will determine which commitment takes precedence when public money is involved, with consequences reaching far beyond Colorado preschools.",
+            "implications": "However the Court rules, the decision is likely to set a precedent affecting not just Colorado's preschool program but similar state-funded early education, voucher, and charter school systems nationwide, including the pending question of whether states must allow or fund religious charter schools. The outcome will shape how broadly religious institutions can participate in public funding programs while maintaining faith-based admissions or staffing policies that conflict with state anti-discrimination laws."
+          },
+          "interestingness": 0.8,
+          "significance": 0.82,
+          "image": {
+            "url": "static/img/2026-11-01/politics-supreme-court-hears-religious-freedom-case-on-pu.jpg",
+            "alt": "Photograph of United States Supreme Court building exterior",
+            "credit": "Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)",
+            "license": "CC BY-SA 3.0",
+            "width": 1000,
+            "height": 515
+          }
+        },
+        {
+          "id": "politics-trump-white-house-maps-path-to-govern-without-co",
+          "section": "politics",
+          "headline": "Trump White House maps path to govern without Congress if Democrats win",
+          "beat_label": "Trump Administration",
+          "byline": "Politics desk · anchored on Reuters",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Reuters",
+            "NewsNation"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/legal/government/trump-white-house-maps-path-govern-without-congress-if-democrats-win-2026-11-01/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NewsNation",
+              "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/democrat-republican-house-senate-trump-elections/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Donald Trump's White House has spent months preparing for a possible Democratic takeover of Congress, developing plans to keep advancing major parts of his agenda through executive power while bracing for investigations of his administration, according to a White House official and two people familiar with the plans.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Senior officials, including deputy chief of staff Stephen Miller and budget director Russell Vought, have been working with the White House Counsel's Office since April to identify executive actions on immigration, tariffs, housing costs and federal spending that Trump could pursue without congressional approval.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "The White House plans to seek legal opinions from the Justice Department to determine what Trump can do without Congress and how to defend those actions if they are challenged in court.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Democrats need a net gain of four seats in the US House of Representatives as well as the US Senate to overturn Republicans' narrow 218-214 and 53-47 majorities.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Opinion polls favor Democrats to win the House, while the Senate remains too close to call.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "One challenge, however, cannot be sidestepped through executive action: congressional investigations.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Reuters previously reported that senior House Democrats and committee aides have discussed using hearings, subpoenas and document requests to examine whether Trump has used his presidential power to benefit himself, allies or donors.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "If Democrats win the House, they would gain control of House committees, subpoena power and the authority to investigate Trump and his administration, Reuters reported.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Trump administration officials could be targeted by congressional subpoenas, though they could defy them because a Justice Department led by Trump appointees would be unlikely to enforce them.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Democrats would take control of Senate committees and the chamber's agenda.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "They would likely block many of Trump's judicial nominees and could seek to delay filling any U.S. Supreme Court vacancy until after the 2028 presidential election.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Trump, however, would still retain veto power and executive authority.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "Major legislation would remain difficult to pass because most bills require 60 votes to overcome a filibuster, the Senate rule that allows the minority party to block or delay legislation.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "For the past month, Trump has held rallies across the country trying to preserve Republican control of Congress, even as his aides privately prepare for a very different political landscape in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Reporting"
+                ]
+              },
+              {
+                "text": "The reporting captures a split-screen moment ahead of Tuesday's midterms: publicly, the White House is campaigning to keep Republican majorities, while privately its top aides have spent months building a legal and operational playbook for governing if Democrats take one or both chambers of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The planning reflects the structural reality of the American system — a president retains substantial unilateral authority over trade, immigration enforcement, foreign policy and federal spending rules even without legislative majorities, while Congress's main levers against a president it doesn't control are oversight (hearings, subpoenas, document requests) and the power of the purse, not the ability to directly reverse executive actions.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The mechanics explain why both outlets frame the midterms as consequential but not decisive for Trump's agenda.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The planning underscores a paradox of Tuesday's midterm elections: Capturing control of Congress would give Democrats the power to investigate Trump, block legislation and constrain his spending priorities.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "But Trump would retain broad executive authority over trade, foreign policy and the federal bureaucracy that he has already used aggressively during his second term.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Courts remain the chief external check on how far executive action can go, since courts could block executive actions that exceed Trump's legal authority.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The single most important fact for readers to hold onto is structural, not partisan: under the U.S. Constitution's separation of powers, a Democratic Congress would gain real but bounded tools — oversight, subpoenas, confirmation blocks, spending leverage — while the presidency would retain real but bounded tools of its own — veto power, broad executive and regulatory authority, and discretion over existing appropriations; neither side gets full control, which is why both the White House's private planning and Congress's investigative powers are being prepared simultaneously rather than treated as mutually exclusive outcomes.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "If Democrats win one or both chambers on Tuesday, the practical contest over the next two years will likely center on dueling claims of legal authority — the White House testing the limits of executive action on tariffs, immigration, housing and federal grants, while a Democratic-controlled chamber or chambers deploy subpoenas, hearings and spending leverage, with federal courts positioned as the ultimate arbiter of disputes neither branch can resolve through majorities alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "<cite index=\"1-2\">President Donald Trump's White House has spent months preparing for a possible Democratic takeover of Congress, developing plans to keep advancing major parts of his agenda through executive power while bracing for investigations of his administration, according to a White House official and two people familiar with the plans.</cite>",
+              "<cite index=\"1-3\">Senior officials, including deputy chief of staff Stephen Miller and budget director Russell Vought, have been working with the White House Counsel's Office since April to identify executive actions on immigration, tariffs, housing costs and federal spending that Trump could pursue without congressional approval.</cite>",
+              "<cite index=\"1-8\">The White House plans to seek legal opinions from the Justice Department to determine what Trump can do without Congress and how to defend those actions if they are challenged in court.</cite>",
+              "<cite index=\"1-18\">Democrats need a net gain of four seats in the US House of Representatives as well as the US Senate to overturn Republicans' narrow 218-214 and 53-47 majorities.</cite> <cite index=\"1-19\">Opinion polls favor Democrats to win the House, while the Senate remains too close to call.</cite>",
+              "<cite index=\"1-9,1-10\">One challenge, however, cannot be sidestepped through executive action: congressional investigations. Reuters previously reported that senior House Democrats and committee aides have discussed using hearings, subpoenas and document requests to examine whether Trump has used his presidential power to benefit himself, allies or donors.</cite>",
+              "<cite index=\"12-26,12-27\">If Democrats win the House, they would gain control of House committees, subpoena power and the authority to investigate Trump and his administration, Reuters reported. Trump administration officials could be targeted by congressional subpoenas, though they could defy them because a Justice Department led by Trump appointees would be unlikely to enforce them.</cite>",
+              "<cite index=\"12-13,12-14,12-15,12-16\">Democrats would take control of Senate committees and the chamber's agenda. They would likely block many of Trump's judicial nominees and could seek to delay filling any U.S. Supreme Court vacancy until after the 2028 presidential election. Trump, however, would still retain veto power and executive authority. Major legislation would remain difficult to pass because most bills require 60 votes to overcome a filibuster, the Senate rule that allows the minority party to block or delay legislation.</cite>",
+              "<cite index=\"1-20\">For the past month, Trump has held rallies across the country trying to preserve Republican control of Congress, even as his aides privately prepare for a very different political landscape in 2027.</cite>"
+            ],
+            "analysis": "The reporting captures a split-screen moment ahead of Tuesday's midterms: publicly, the White House is campaigning to keep Republican majorities, while privately its top aides have spent months building a legal and operational playbook for governing if Democrats take one or both chambers of Congress. The planning reflects the structural reality of the American system — a president retains substantial unilateral authority over trade, immigration enforcement, foreign policy and federal spending rules even without legislative majorities, while Congress's main levers against a president it doesn't control are oversight (hearings, subpoenas, document requests) and the power of the purse, not the ability to directly reverse executive actions.\n\nThe mechanics explain why both outlets frame the midterms as consequential but not decisive for Trump's agenda. <cite index=\"1-16,1-17\">The planning underscores a paradox of Tuesday's midterm elections: Capturing control of Congress would give Democrats the power to investigate Trump, block legislation and constrain his spending priorities. But Trump would retain broad executive authority over trade, foreign policy and the federal bureaucracy that he has already used aggressively during his second term.</cite> Courts remain the chief external check on how far executive action can go, since <cite index=\"1-7\">courts could block executive actions that exceed Trump's legal authority.</cite>",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "The single most important fact for readers to hold onto is structural, not partisan: under the U.S. Constitution's separation of powers, a Democratic Congress would gain real but bounded tools — oversight, subpoenas, confirmation blocks, spending leverage — while the presidency would retain real but bounded tools of its own — veto power, broad executive and regulatory authority, and discretion over existing appropriations; neither side gets full control, which is why both the White House's private planning and Congress's investigative powers are being prepared simultaneously rather than treated as mutually exclusive outcomes.",
+            "implications": "If Democrats win one or both chambers on Tuesday, the practical contest over the next two years will likely center on dueling claims of legal authority — the White House testing the limits of executive action on tariffs, immigration, housing and federal grants, while a Democratic-controlled chamber or chambers deploy subpoenas, hearings and spending leverage, with federal courts positioned as the ultimate arbiter of disputes neither branch can resolve through majorities alone."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-oleshky-evacuees-reunite-with-family-after-years",
+          "section": "world",
+          "headline": "Oleshky evacuees reunite with family after years under Russian occupation",
+          "beat_label": "Ukraine war",
+          "byline": "International & World desk",
+          "body": [
+            "Hundreds of residents evacuated from the Russian-occupied Ukrainian city of Oleshky crossed into northern Ukraine via Belarus on Saturday, reuniting with loved ones they had not seen for years. The evacuation was made possible by a humanitarian ceasefire brokered by US First Lady Melania Trump that took effect across the frontline Kherson region on Tuesday, providing the first days of peace in the area in four years. Residents had a four-hour window on Friday to leave, with a convoy of 25 buses brought in for up to 750 evacuees, along with ambulances for people with limited mobility. The oldest evacuee was 94 years old, while the youngest was one.",
+            "Evacuees described desperate conditions in Oleshky, which was seized by Russia in the first days of its full-scale invasion in February 2022. Trapped between the Dnipro River and Russian forces, residents faced intense shelling, mined escape routes, and drone attacks. Many resorted to cooking garden weeds to survive. Olha, who arrived with her husband Viacheslav and their family, described life as \"horror.\" Viacheslav said: \"We came back from hell.\" Another evacuee, Mykhailo Palii, whose daughters Dasha and Anya sprinted across the tarmac crying as they embraced him, said: \"A hole was blown into the bathroom. There were drone attacks and missile strikes.\" Tetiana and Volodymyr, an older couple carrying their cat, said their home burned down three years ago and they had been living in an abandoned neighbor's house. Up to 6,000 people, including 200 children, were believed to still be living in Oleshky and surrounding areas, with 1,700 in the city itself. Some elderly residents were so weak they had to be carried on stretchers.",
+            "Before the war, Oleshky was home to 24,000 people. Bridges across the Dnipro have been destroyed and the riverbank mined. Evacuees traveled through Russian-occupied territory to southern Russia, then flew to Belarus, before being driven across Ukraine's northern border. Ukrainian military positions lie just 5km (3.1 miles) from Oleshky. Ukrainian President Volodymyr Zelensky thanked Melania Trump for her efforts and said all evacuees \"will receive the assistance they need.\" Dmytro Lubinets, Ukraine's human rights ombudsman, became the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine, traveling to Oleshky with his Russian counterpart Yana Lantratova. Ceasefire measures will remain in place until the end of Sunday 1 November.",
+            "Many evacuees now face the challenge of rebuilding their lives. Olha said she and her family have no relatives elsewhere in Ukraine and will stay with acquaintances. \"If we managed to survive in hell, we'll survive here too,\" she said. Palii said he would look for any work to provide for his family. Several hundred people are understood to have decided to stay in the war-torn city, despite widespread devastation and the lack of gas, electricity and running water. Russia said it had prepared \"dozens of tonnes\" of aid for those who do not wish to leave. Despite the local ceasefire, the war has continued elsewhere, with Zelensky reporting Russian attacks on Ukrainian energy infrastructure and Ukraine's military striking a Russian missile fuel producer."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "CNN",
+            "The Guardian",
+            "Al Jazeera",
+            "France 24"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-war-briefing-oleshky-truce-shows-de-escalation-is-possible-says-zelenskyy",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/1/ukrainian-evacuees-from-russian-occupied-oleshky-reunite-with-family"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Hundreds of residents evacuated from the Russian-occupied Ukrainian city of Oleshky crossed into northern Ukraine via Belarus on Saturday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The evacuation was made possible by a humanitarian ceasefire brokered by US First Lady Melania Trump.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire took effect across the frontline Kherson region on Tuesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire provided the first days of peace in the area in four years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Residents had a four-hour window on Friday to leave.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A convoy of 25 buses was brought in for up to 750 evacuees.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ambulances were provided for people with limited mobility.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The oldest evacuee was 94 years old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The youngest evacuee was one year old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Oleshky was seized by Russia in the first days of its full-scale invasion in February 2022.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Residents in Oleshky faced intense shelling, mined escape routes, and drone attacks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Many residents resorted to cooking garden weeds to survive.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Olha arrived with her husband Viacheslav and their family.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Olha described life as 'horror'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Viacheslav said: 'We came back from hell.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mykhailo Palii's daughters Dasha and Anya sprinted across the tarmac crying as they embraced him.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mykhailo Palii said: 'A hole was blown into the bathroom. There were drone attacks and missile strikes.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tetiana and Volodymyr, an older couple carrying their cat, said their home burned down three years ago.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tetiana and Volodymyr had been living in an abandoned neighbor's house.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Up to 6,000 people were believed to still be living in Oleshky and surrounding areas.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Up to 200 children were believed to still be living in Oleshky and surrounding areas.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "1,700 people were believed to still be living in the city of Oleshky itself.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Some elderly residents were so weak they had to be carried on stretchers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Before the war, Oleshky was home to 24,000 people.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bridges across the Dnipro have been destroyed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The riverbank has been mined.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Evacuees traveled through Russian-occupied territory to southern Russia, then flew to Belarus, before being driven across Ukraine's northern border.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukrainian military positions lie just 5km (3.1 miles) from Oleshky.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky thanked Melania Trump for her efforts.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelensky said all evacuees 'will receive the assistance they need.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dmytro Lubinets, Ukraine's human rights ombudsman, became the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dmytro Lubinets traveled to Oleshky with his Russian counterpart Yana Lantratova.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ceasefire measures will remain in place until the end of Sunday 1 November.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Olha said she and her family have no relatives elsewhere in Ukraine.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Olha said they will stay with acquaintances.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Olha said: 'If we managed to survive in hell, we'll survive here too.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Palii said he would look for any work to provide for his family.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Several hundred people are understood to have decided to stay in the war-torn city.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The city lacks gas, electricity and running water.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Russia said it had prepared 'dozens of tonnes' of aid for those who do not wish to leave.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Despite the local ceasefire, the war has continued elsewhere.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Zelensky reported Russian attacks on Ukrainian energy infrastructure.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine's military struck a Russian missile fuel producer.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "world-binance-resumes-withdrawals-after-6-3bn-hack-fbi",
+          "section": "world",
+          "headline": "Binance resumes withdrawals after record $6.3bn hack; FBI blames North Korea",
+          "beat_label": "Crypto crime",
+          "byline": "International & World desk",
+          "body": [
+            "Binance, the world's largest cryptocurrency exchange, has begun allowing customers to withdraw funds after suspending withdrawals following a record-breaking hack on Thursday. The company said it has covered 90% of the $6.3 billion (£4.7 billion) in stolen assets using company funds, including a $1 billion secure asset fund, a bitcoin reserve, its futures insurance fund, and its corporate treasury. The remaining 10%, consisting of less liquid tokens, may take longer to repurchase, but Binance has pledged to fully cover all losses so that users do not bear the financial impact.",
+            "The hack, which occurred on or about October 29, is believed to be the largest cryptocurrency heist in history, eclipsing the previous record of a $1.5 billion theft from the Bybit exchange in 2025. Stolen assets included bitcoin, ethereum, Tether, USD Coin, and seven other widely traded cryptocurrencies. On Sunday, Binance resumed withdrawals in phases, initially covering ethereum, USDT, and USDC on the ethereum blockchain, as well as some others on the BNB Smart Chain blockchain, with Dogecoin and Avalanche resuming later. The company had frozen approximately $3 billion of stolen assets after working with law enforcement and intelligence firms, and the investigation is ongoing.",
+            "The Federal Bureau of Investigation (FBI) said on Saturday that North Korea was responsible for the theft, attributing the attack to a state-backed hacking entity known as TraderTraitor, which is believed to be part of the Lazarus Group. The FBI stated it had observed the hackers converting stolen assets primarily into ethereum and expected further laundering through decentralized finance and instant swap services. The agency urged crypto exchanges and blockchain analytics firms to block transactions linked to addresses used by the actors. US President Donald Trump said Saturday that the US was still unsure of the culprits, adding, \"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it.\" North Korea has consistently denied involvement in such attacks.",
+            "Binance co-chief executive Richard Teng described the breach as a \"complex attack\" involving more than one person, a compromised laptop, and sophisticated methods including a \"self-destruct mechanism\" designed to erase evidence. The company later said it had uncovered additional points of breach beyond the initial compromise. The US Secret Service said Friday it was working \"around the clock\" with private sector partners to identify, freeze, trace, and recover stolen funds. The hack has heightened concerns about the ability of artificial intelligence models to compromise cryptography and IT security protocols, and it has drawn renewed attention to North Korea's use of illicit cyber activities to generate revenue amid extensive international sanctions."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "DW",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Binance is the world's largest cryptocurrency exchange.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance began allowing customers to withdraw funds after suspending withdrawals.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance suspended withdrawals following a hack on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The hack was record-breaking.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance said it has covered 90% of the $6.3 billion in stolen assets using company funds.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The $6.3 billion in stolen assets is equivalent to £4.7 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance's company funds used to cover losses include a $1 billion secure asset fund.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance's company funds used to cover losses include a bitcoin reserve.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance's company funds used to cover losses include its futures insurance fund.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance's company funds used to cover losses include its corporate treasury.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The remaining 10% of stolen assets consists of less liquid tokens.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The remaining 10% of stolen assets may take longer to repurchase.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance has pledged to fully cover all losses so that users do not bear the financial impact.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The hack occurred on or about October 29.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The hack is believed to be the largest cryptocurrency heist in history.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The previous record was a $1.5 billion theft from the Bybit exchange in 2025.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stolen assets included bitcoin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stolen assets included ethereum.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stolen assets included Tether.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stolen assets included USD Coin.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Stolen assets included seven other widely traded cryptocurrencies.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Sunday, Binance resumed withdrawals in phases.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance initially resumed withdrawals covering ethereum, USDT, and USDC on the ethereum blockchain.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance initially resumed withdrawals covering some other assets on the BNB Smart Chain blockchain.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Dogecoin and Avalanche withdrawals resumed later.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance had frozen approximately $3 billion of stolen assets after working with law enforcement and intelligence firms.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The investigation is ongoing.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The FBI said on Saturday that North Korea was responsible for the theft.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI attributed the attack to a state-backed hacking entity known as TraderTraitor.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "TraderTraitor is believed to be part of the Lazarus Group.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI stated it had observed the hackers converting stolen assets primarily into ethereum.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI expected further laundering through decentralized finance and instant swap services.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI urged crypto exchanges and blockchain analytics firms to block transactions linked to addresses used by the actors.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "US President Donald Trump said on Saturday that the US was still unsure of the culprits.",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "Donald Trump said, \"We're learning about it. We don't know if it's North Korea — but if it is, we'll talk to North Korea about it.\"",
+                "status": "supported",
+                "source_ids": [
+                  "Donald Trump"
+                ]
+              },
+              {
+                "text": "North Korea has consistently denied involvement in such attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "North Korea"
+                ]
+              },
+              {
+                "text": "Binance co-chief executive Richard Teng described the breach as a \"complex attack\" involving more than one person.",
+                "status": "supported",
+                "source_ids": [
+                  "Richard Teng"
+                ]
+              },
+              {
+                "text": "Richard Teng said the breach involved a compromised laptop.",
+                "status": "supported",
+                "source_ids": [
+                  "Richard Teng"
+                ]
+              },
+              {
+                "text": "Richard Teng said the breach involved sophisticated methods including a \"self-destruct mechanism\" designed to erase evidence.",
+                "status": "supported",
+                "source_ids": [
+                  "Richard Teng"
+                ]
+              },
+              {
+                "text": "Binance later said it had uncovered additional points of breach beyond the initial compromise.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "The US Secret Service said on Friday it was working \"around the clock\" with private sector partners to identify, freeze, trace, and recover stolen funds.",
+                "status": "supported",
+                "source_ids": [
+                  "US Secret Service"
+                ]
+              },
+              {
+                "text": "The hack has heightened concerns about the ability of artificial intelligence models to compromise cryptography and IT security protocols.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The hack has drawn renewed attention to North Korea's use of illicit cyber activities to generate revenue amid extensive international sanctions.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-russian-strikes-cut-power-to-thousands-in-ukrain",
+          "section": "world",
+          "headline": "Russian strikes cut power to hundreds of thousands in Ukraine despite energy ceasefire push",
+          "beat_label": "Ukraine war",
+          "byline": "International & World desk",
+          "body": [
+            "Russian overnight strikes on energy infrastructure in four Ukrainian regions left hundreds of thousands of households without power on Sunday, President Volodymyr Zelenskyy said, even as a local ceasefire around the Russian-controlled town of Oleshky held on its final day. The attacks targeted substations, transformers, and power lines in the Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi regions, according to Zelenskyy, who wrote on Telegram that \"the intensity of the strikes is very high, and the Russians are seeking to maximally exploit the deficit of ballistic missile interceptors.\"",
+            "Ukraine’s air force reported that it had shot down 371 of 433 long-range drones launched by Russia since Saturday evening, with dozens still in the air as of Sunday morning. Six separate drone alerts were issued in Kyiv since midnight. Meanwhile, Russia’s Defense Ministry said its forces had downed 235 Ukrainian drones over Russian regions overnight. In the Nizhny Novgorod region, Governor Gleb Nikitin said a large-scale Ukrainian drone attack caused \"significant damage\" to an industrial facility, which he did not identify. The region is home to the NORSI oil refinery, one of Russia’s largest. The regional government urged motorists to \"buy fuel only as needed and avoid panic buying,\" suggesting the damaged site was linked to oil-refining or fuel-supply infrastructure. Kyiv did not immediately claim responsibility for that attack.",
+            "Zelenskyy also said Ukraine had struck the Kamensky plant in Russia’s Rostov region, which he said is involved in manufacturing Russian missiles. Moscow did not comment on that reported attack. On Friday, Russia accused Ukraine of resuming strikes on its oil refineries and of ignoring a request from U.S. President Donald Trump to stop such attacks, which Trump has blamed for raising diesel costs ahead of U.S. midterm elections on Tuesday. Ukraine says it supports a full ceasefire on energy targets, including its own battered power grid, but that Moscow is unwilling to agree to such a deal.",
+            "In an interview with state TV channel Vesti on Sunday, Russian Deputy Prime Minister Alexander Novak, who oversees the energy sector, did not mention the Nizhny Novgorod strike but said Ukrainian strikes on Russian refineries were adding to global fuel market imbalances and affecting prices. The continued long-range air attacks came as a six-day local ceasefire around the Russian-controlled Ukrainian town of Oleshky held on its final day, but there was no letup in fighting elsewhere along the front line."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NBC News",
+            "CNBC",
+            "POLITICO.eu"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/world/ukraine/russian-strikes-cut-power-thousands-ukraine-trumps-energy-ceasefire-rcna606784",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/01/russian-strikes-cut-power-to-thousands-in-ukraine.html"
+            },
+            {
+              "outlet": "POLITICO.eu",
+              "url": "https://www.politico.eu/article/russia-strikes-leave-thousands-without-power-ukraine-volodymyr-zelenskyy/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Russian overnight strikes on energy infrastructure in four Ukrainian regions occurred.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "The strikes left hundreds of thousands of households without power on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "A local ceasefire around the Russian-controlled town of Oleshky held on its final day.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The attacks targeted substations, transformers, and power lines in the Dnipro, Vinnytsia, Zhytomyr, and Khmelnytskyi regions.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Zelenskyy wrote on Telegram that 'the intensity of the strikes is very high, and the Russians are seeking to maximally exploit the deficit of ballistic missile interceptors.'",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Ukraine’s air force reported that it had shot down 371 of 433 long-range drones launched by Russia since Saturday evening.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine’s air force"
+                ]
+              },
+              {
+                "text": "Dozens of drones were still in the air as of Sunday morning.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine’s air force"
+                ]
+              },
+              {
+                "text": "Six separate drone alerts were issued in Kyiv since midnight.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Russia’s Defense Ministry said its forces had downed 235 Ukrainian drones over Russian regions overnight.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia’s Defense Ministry"
+                ]
+              },
+              {
+                "text": "In the Nizhny Novgorod region, Governor Gleb Nikitin said a large-scale Ukrainian drone attack caused 'significant damage' to an industrial facility.",
+                "status": "supported",
+                "source_ids": [
+                  "Governor Gleb Nikitin"
+                ]
+              },
+              {
+                "text": "Governor Gleb Nikitin did not identify the industrial facility.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Nizhny Novgorod region is home to the NORSI oil refinery, one of Russia’s largest.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The regional government urged motorists to 'buy fuel only as needed and avoid panic buying.'",
+                "status": "supported",
+                "source_ids": [
+                  "Regional government"
+                ]
+              },
+              {
+                "text": "The regional government's statement suggested the damaged site was linked to oil-refining or fuel-supply infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Kyiv did not immediately claim responsibility for that attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelenskyy said Ukraine had struck the Kamensky plant in Russia’s Rostov region.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Zelenskyy said the Kamensky plant is involved in manufacturing Russian missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Moscow did not comment on that reported attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "On Friday, Russia accused Ukraine of resuming strikes on its oil refineries.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia"
+                ]
+              },
+              {
+                "text": "On Friday, Russia accused Ukraine of ignoring a request from U.S. President Donald Trump to stop such attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia"
+                ]
+              },
+              {
+                "text": "Trump has blamed the attacks for raising diesel costs ahead of U.S. midterm elections on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukraine says it supports a full ceasefire on energy targets, including its own battered power grid.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine"
+                ]
+              },
+              {
+                "text": "Ukraine says Moscow is unwilling to agree to such a deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine"
+                ]
+              },
+              {
+                "text": "In an interview with state TV channel Vesti on Sunday, Russian Deputy Prime Minister Alexander Novak did not mention the Nizhny Novgorod strike.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Alexander Novak said Ukrainian strikes on Russian refineries were adding to global fuel market imbalances and affecting prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Alexander Novak"
+                ]
+              },
+              {
+                "text": "The continued long-range air attacks came as a six-day local ceasefire around the Russian-controlled Ukrainian town of Oleshky held on its final day.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "There was no letup in fighting elsewhere along the front line.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-ai-stock-losses-near-5-trillion-as-korea-s-marke",
+          "section": "markets",
+          "headline": "AI stock losses near $5 trillion as Korea's market rout deepens global AI selloff",
+          "beat_label": "Markets",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6, according to Yahoo Finance calculations, with Nvidia and Alphabet each losing roughly $835 billion in market cap and Intel losing nearly half its value in October. The broader U.S. stock market, however, barely noticed: the other 625 large U.S. stocks tracked added about $1.3 trillion, and nine of the S&P 500's 11 sectors rose roughly 1% or more in a single week, a feat not seen since at least 1999. Jeff Hirsch, editor of the Stock Trader's Almanac, calls the pattern 'Octoberphobia' and said he bought into the sell-off on Friday, calling it 'an opportunity.' Hirsch noted that October selloffs like this one often lead into what the Almanac calls the sweet spot of the presidential election cycle, which runs from the fourth quarter of a midterm year through the following June. Since 1950, the S&P 500 has risen in every such period (19 of 19), with a median gain of about 15%; chip stocks have been 8-for-8 since 1994, with a median gain of about 22%.",
+            "The sell-off has been especially severe in South Korea, where the KOSPI index crashed from a June 2026 peak, losing more than $1 trillion in market capitalization by mid-July. The index had risen 241% from March 2025 to June 2026, adding nearly $3.3 trillion, but then entered a bear market, shrinking more than a quarter in less than a month. SK hynix and Samsung, which together control 83% of the global high-bandwidth memory (HBM) market and 63% of the DRAM market, fell 38% and 29% respectively in that window. Micron, the closest U.S. competitor, fell about a third. The iShares Semiconductor ETF (SOXX) tumbled about 17% in October, though it remains up more than 50% for the year; on Friday it dipped as low as $460, below the $464 July low that marked the summer's bottom, before closing at $472, back above that line. Hirsch described that pattern as a 'bear trap' — a breakdown that reverses, catching traders betting on more losses. His firm placed a new buy in the sector on Friday.",
+            "Korea's volatility is rooted in its shallow capital markets and extreme concentration in memory chips. As of July 2026, Samsung Electronics and SK hynix alone accounted for more than half of the KOSPI's total market capitalization, compared with the Magnificent Seven U.S. stocks making up 37.2% of the S&P 500. The Korea discount — a structural undervaluation of listed enterprises due to lagging financial development and weak corporate governance — combines with a memory discount that depresses valuations for HBM makers. In May and June 2026, foreign investment flowed out of South Korean equities at a record pace, with capital flight exceeding $35 billion. The Financial Services Commission responded by suspending sales of leveraged single-stock ETFs, which had come to dominate trading, peaking at 84% of all volume in June, and tripled the minimum deposit required to trade them to $20,300, effective Aug. 5. The Iran war's re-escalation added pressure through currency weakness and rising energy costs.",
+            "Memory has become the highest revenue-generating segment in the global semiconductor supply chain, with Gartner projecting memory revenue to surpass $1 trillion and account for more than 55% of all semiconductor revenue by 2027. South Korea's DRAM exports have increased more than fivefold year-on-year, and semiconductor export volumes have more than doubled. A global memory shortage persists: Samsung has earmarked 70% of its memory production for long-term agreements through 2030, and SK hynix CEO Kwak Noh-Jung has said the shortage could persist through 2030. DRAM prices rose more than 400% from 2024 to 2026, according to JP Morgan. The emergence of CXMT, a Chinese state-backed firm, introduces risks of increased competition and downward pricing pressure that could challenge the incumbent memory triopoly of SK hynix, Samsung, and Micron.",
+            "Not all analysts are buying the dip. BofA's Michael Hartnett said it is 'risk-off until global rate hike ends,' pointing to 42 central bank rate hikes worldwide over the past six months. The Fed held rates on Wednesday, but two officials voted to hike. Hartnett's line in the sand for chips is $520 on the VanEck Semiconductor ETF (SMH), which closed Friday near $522; on SOXX that works out to about $469, just above the July low it barely held. Hirsch, by contrast, sees history on the buyers' side: 'Historically, seasonally, it sets up great for this period of time, the best months of the year for semiconductors.' Bulls first need to reclaim about $524, the top of last week's bounce, then the early-October high near $596. Losing the July low would put the February-April range near $370 in play, about 21% below Friday's close. The June-July 2026 crash in Korea, analyst Richard Gray of a Washington foreign policy think tank argues, forewarns what may come in future market corrections, with the threat of a cascading correction across global markets and the U.S.-China tech competition looming large."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Finance",
+            "ChinaTalk | Jordan Schneider"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/article/ai-stocks-just-lost-5-trillion--but-history-says-the-stock-markets-sweetest-stretch-starts-now-110000768.html"
+            },
+            {
+              "outlet": "ChinaTalk | Jordan Schneider",
+              "url": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The biggest AI and chip stocks have shed about $5 trillion in market value since Oct. 6.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "Nvidia lost roughly $835 billion in market cap.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "Alphabet lost roughly $835 billion in market cap.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "Intel lost nearly half its value in October.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "The other 625 large U.S. stocks tracked added about $1.3 trillion.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "Nine of the S&P 500's 11 sectors rose roughly 1% or more in a single week.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A feat of nine S&P 500 sectors rising 1% or more in a single week has not been seen since at least 1999.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jeff Hirsch is the editor of the Stock Trader's Almanac.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jeff Hirsch calls the pattern 'Octoberphobia'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jeff Hirsch said he bought into the sell-off on Friday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jeff Hirsch called the sell-off 'an opportunity'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hirsch noted that October selloffs like this one often lead into what the Almanac calls the sweet spot of the presidential election cycle.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The sweet spot of the presidential election cycle runs from the fourth quarter of a midterm year through the following June.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Since 1950, the S&P 500 has risen in every such period (19 of 19).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The median gain of the S&P 500 in those periods is about 15%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Chip stocks have been 8-for-8 since 1994 in those periods.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The median gain for chip stocks in those periods is about 22%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The KOSPI index crashed from a June 2026 peak.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The KOSPI index lost more than $1 trillion in market capitalization by mid-July.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The KOSPI index had risen 241% from March 2025 to June 2026.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The KOSPI index added nearly $3.3 trillion from March 2025 to June 2026.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The KOSPI index entered a bear market, shrinking more than a quarter in less than a month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SK hynix and Samsung together control 83% of the global high-bandwidth memory (HBM) market.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SK hynix and Samsung together control 63% of the DRAM market.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SK hynix fell 38% in that window.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Samsung fell 29% in that window.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Micron fell about a third in that window.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The iShares Semiconductor ETF (SOXX) tumbled about 17% in October.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SOXX remains up more than 50% for the year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Friday, SOXX dipped as low as $460.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The $460 low was below the $464 July low that marked the summer's bottom.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SOXX closed at $472 on Friday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The $472 close was back above the $464 July low line.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hirsch described that pattern as a 'bear trap' — a breakdown that reverses, catching traders betting on more losses.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hirsch's firm placed a new buy in the sector on Friday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Korea's volatility is rooted in its shallow capital markets and extreme concentration in memory chips.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "As of July 2026, Samsung Electronics and SK hynix alone accounted for more than half of the KOSPI's total market capitalization.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Magnificent Seven U.S. stocks made up 37.2% of the S&P 500.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Korea discount is a structural undervaluation of listed enterprises due to lagging financial development and weak corporate governance.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A memory discount depresses valuations for HBM makers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In May and June 2026, foreign investment flowed out of South Korean equities at a record pace.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Capital flight from South Korean equities exceeded $35 billion in May and June 2026.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Financial Services Commission responded by suspending sales of leveraged single-stock ETFs.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Leveraged single-stock ETFs had come to dominate trading, peaking at 84% of all volume in June.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Financial Services Commission tripled the minimum deposit required to trade leveraged single-stock ETFs to $20,300.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The new minimum deposit requirement was effective Aug. 5.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Iran war's re-escalation added pressure through currency weakness and rising energy costs.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Memory has become the highest revenue-generating segment in the global semiconductor supply chain.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Gartner projected memory revenue to surpass $1 trillion by 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Gartner projected memory revenue to account for more than 55% of all semiconductor revenue by 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "South Korea's DRAM exports have increased more than fivefold year-on-year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "South Korea's semiconductor export volumes have more than doubled.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A global memory shortage persists.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Samsung has earmarked 70% of its memory production for long-term agreements through 2030.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SK hynix CEO Kwak Noh-Jung has said the shortage could persist through 2030.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "DRAM prices rose more than 400% from 2024 to 2026, according to JP Morgan.",
+                "status": "supported",
+                "source_ids": [
+                  "JP Morgan"
+                ]
+              },
+              {
+                "text": "CXMT is a Chinese state-backed firm.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The emergence of CXMT introduces risks of increased competition and downward pricing pressure that could challenge the incumbent memory triopoly of SK hynix, Samsung, and Micron.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "BofA's Michael Hartnett said it is 'risk-off until global rate hike ends'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Michael Hartnett pointed to 42 central bank rate hikes worldwide over the past six months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Fed held rates on Wednesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Two Fed officials voted to hike rates.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hartnett's line in the sand for chips is $520 on the VanEck Semiconductor ETF (SMH).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "SMH closed Friday near $522.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On SOXX, Hartnett's line works out to about $469.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The $469 level is just above the July low it barely held.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hirsch sees history on the buyers' side.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Hirsch said: 'Historically, seasonally, it sets up great for this period of time, the best months of the year for semiconductors.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bulls first need to reclaim about $524, the top of last week's bounce.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The early-October high near $596 is a level bulls need to reclaim.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Losing the July low would put the February-April range near $370 in play.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The $370 level is about 21% below Friday's close.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Analyst Richard Gray of a Washington foreign policy think tank argues that the June-July 2026 crash in Korea forewarns what may come in future market corrections.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Richard Gray argues there is a threat of a cascading correction across global markets and the U.S.-China tech competition looming large.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.75,
+          "significance": 0.689,
+          "image": {
+            "url": "static/img/2026-11-01/markets-ai-stock-losses-near-5-trillion-as-korea-s-marke.jpg",
+            "alt": "Photograph of Nvidia headquarters or logo",
+            "credit": "Photo: VQTCS / Wikimedia Commons (CC BY 4.0)",
+            "license": "CC BY 4.0",
+            "width": 1000,
+            "height": 562
+          }
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,580.07",
+            "chg": "−2.28%",
+            "dir": "down",
+            "spark": "1.5,6.9 8.3,9.6 15.2,6.0 22.0,2.9 28.8,1.5 35.7,3.1 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "25,437.00",
+            "chg": "−4.74%",
+            "dir": "down",
+            "spark": "1.5,6.8 8.3,7.4 15.2,5.3 22.0,2.2 28.8,1.5 35.7,5.1 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,770.31",
+            "chg": "−2.05%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,8.0 15.2,6.6 22.0,6.4 28.8,5.4 35.7,6.8 42.5,12.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,811.84",
+            "chg": "+1.11%",
+            "dir": "up",
+            "spark": "1.5,11.4 8.3,12.5 15.2,11.1 22.0,6.8 28.8,5.3 35.7,1.5 42.5,7.8"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.93%",
+            "chg": "-2 bp",
+            "dir": "down",
+            "spark": "1.5,10.2 8.3,6.9 15.2,7.1 22.0,6.4 28.8,1.5 35.7,6.8 42.5,12.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$104.12",
+            "chg": "+2.32%",
+            "dir": "up",
+            "spark": "1.5,7.7 11.8,12.5 22.0,5.0 32.2,7.0 42.5,1.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$3,898.90",
+            "chg": "−3.45%",
+            "dir": "down",
+            "spark": "1.5,3.8 11.8,1.5 22.0,2.9 32.2,4.2 42.5,12.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$78,004",
+            "chg": "−2.50%",
+            "dir": "down",
+            "spark": "1.5,4.9 8.3,2.8 15.2,1.5 22.0,10.9 28.8,12.5 35.7,11.9 42.5,10.3"
+          },
+          {
+            "sym": "VIX",
+            "val": "19.4",
+            "chg": "+2.05%",
+            "dir": "up",
+            "spark": "1.5,3.3 8.3,1.5 15.2,6.1 22.0,9.9 28.8,12.5 35.7,11.2 42.5,1.6"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "GOOGL",
+            "chg": "−16.4%",
+            "dir": "down"
+          },
+          {
+            "sym": "META",
+            "chg": "−11.8%",
+            "dir": "down"
+          },
+          {
+            "sym": "LLY",
+            "chg": "+11.6%",
+            "dir": "up"
+          },
+          {
+            "sym": "BA",
+            "chg": "−10.8%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−8.67%",
+            "dir": "down"
+          },
+          {
+            "sym": "AMZN",
+            "chg": "−8.39%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "11:53 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-former-european-champion-ciara-mageean-dies-aged",
+          "section": "sports",
+          "headline": "Former European champion Ciara Mageean dies aged 34",
+          "beat_label": "Track and Field",
+          "byline": "Sports desk",
+          "body": [
+            "Ciara Mageean, the former European 1500m champion and two-time Olympian from Northern Ireland, has died at the age of 34. She was diagnosed with stage four bowel cancer in May 2025. A statement posted on her social media on Sunday said: 'At 6.30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.'",
+            "Mageean, from Portaferry, represented Ireland at the 2016 and 2020 Olympics but was forced to withdraw from the 2024 Paris Games because of an Achilles injury. Earlier in 2024, she clinched the first major title of her career when she took 1500m gold at the European Championships in Rome, beating Great Britain's Georgia Bell and Jemma Reekie in a gripping final. She also won 1500m silver for Northern Ireland at the 2022 Commonwealth Games in Birmingham and claimed European silver in the same year behind Laura Muir.",
+            "Her junior career included 1500m silvers at the 2010 World Junior Championships and 2011 European Junior Championships, and she reached the 2010 Commonwealth Games final as an 18-year-old. A serious ankle injury ended her hopes of making her Olympic debut at London 2012. After surgery in 2013, she returned to win the Irish 1500m title in July 2014. In 2016, she won European bronze in Amsterdam but exited the Rio Olympics at the semi-final stage.",
+            "Mageean moved to Manchester in late 2017 to join Steve Vernon's Team New Balance. She claimed European Indoor bronze in March 2019 and broke Sonia O'Sullivan's 27-year-old Irish 1,000m record in 2020. At the delayed Tokyo Olympics in 2021, a calf injury disrupted her preparations and she exited in the heats. In 2022, under coach Helen Clitheroe, she beat Muir to win the Diamond League Brussels 1500m in 3:56.63, breaking O'Sullivan's Irish record and recording her first sub-four-minute run. In 2023, she finished fourth in the World Championship final in Budapest and was named BBC Northern Ireland Sports Personality of the Year after breaking O'Sullivan's Irish mile record.",
+            "In October 2024, Mageean married her long-term partner Thomas Moran in a small civil ceremony in Belfast. Earlier this year, after her cancer diagnosis, she said she was 'continuing to find the joy in everyday' and told the BBC she was 'grateful' for having a career 'that many others didn't get to have'. Athletics Ireland said in a statement: 'We are heartbroken. An inspiration to so many, Ciara will be remembered for her courage, kindness and incredible spirit. Our deepest sympathies are with her family, friends and loved ones at this difficult time. Rest in peace, Ciara.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/athletics/articles/cn81px29032o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Ciara Mageean was the former European 1500m champion.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ciara Mageean was a two-time Olympian from Northern Ireland.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ciara Mageean died at the age of 34.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She was diagnosed with stage four bowel cancer in May 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A statement posted on her social media on Sunday said: 'At 6.30am this morning, Ciara lost her battle with cancer surrounded by her loved ones. A beloved daughter, sister, wife, friend and inspiration to so many, she will be deeply missed.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ciara Mageean was from Portaferry.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She represented Ireland at the 2016 Olympics.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She represented Ireland at the 2020 Olympics.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She was forced to withdraw from the 2024 Paris Games because of an Achilles injury.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Earlier in 2024, she clinched the first major title of her career when she took 1500m gold at the European Championships in Rome.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She beat Great Britain's Georgia Bell and Jemma Reekie in the final.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She won 1500m silver for Northern Ireland at the 2022 Commonwealth Games in Birmingham.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She claimed European silver in the same year behind Laura Muir.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Her junior career included 1500m silvers at the 2010 World Junior Championships.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Her junior career included 1500m silvers at the 2011 European Junior Championships.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She reached the 2010 Commonwealth Games final as an 18-year-old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A serious ankle injury ended her hopes of making her Olympic debut at London 2012.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "After surgery in 2013, she returned to win the Irish 1500m title in July 2014.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2016, she won European bronze in Amsterdam.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She exited the Rio Olympics at the semi-final stage.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Mageean moved to Manchester in late 2017 to join Steve Vernon's Team New Balance.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She claimed European Indoor bronze in March 2019.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She broke Sonia O'Sullivan's 27-year-old Irish 1,000m record in 2020.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "At the delayed Tokyo Olympics in 2021, a calf injury disrupted her preparations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She exited in the heats at the Tokyo Olympics.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2022, under coach Helen Clitheroe, she beat Muir to win the Diamond League Brussels 1500m in 3:56.63.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She broke O'Sullivan's Irish record with that run.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She recorded her first sub-four-minute run in that race.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2023, she finished fourth in the World Championship final in Budapest.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She was named BBC Northern Ireland Sports Personality of the Year in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She broke O'Sullivan's Irish mile record in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In October 2024, Mageean married her long-term partner Thomas Moran in a small civil ceremony in Belfast.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Earlier this year, after her cancer diagnosis, she said she was 'continuing to find the joy in everyday'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "She told the BBC she was 'grateful' for having a career 'that many others didn't get to have'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Athletics Ireland said in a statement: 'We are heartbroken. An inspiration to so many, Ciara will be remembered for her courage, kindness and incredible spirit. Our deepest sympathies are with her family, friends and loved ones at this difficult time. Rest in peace, Ciara.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-chinese-state-tv-fails-to-air-real-madrid-match-",
+          "section": "sports",
+          "headline": "Chinese state TV fails to air Real Madrid match after Mbappe's Mao remarks",
+          "beat_label": "Soccer",
+          "byline": "Sports desk",
+          "body": [
+            "Chinese state broadcaster CCTV did not broadcast Real Madrid's La Liga match against Racing Santander on Sunday, days after star forward Kylian Mbappe sparked a furore in China by referring to former leader Mao Zedong as a \"dictator\" in a viral video. The match began at 1515 GMT but was not shown on either of CCTV's two sports channels, AFP reporters observed. No other matches from the 11th round of La Liga have been broadcast live on public television so far.",
+            "The controversy stems from a viral video in which Mbappe said the funniest internet meme about him he had seen was of his face photoshopped onto that of \"some guy -- I think he's a Chinese dictator,\" an apparent reference to Mao. Mbappe, Real Madrid and La Liga later all apologised for his remarks. China's foreign ministry said it took the player's apology \"seriously.\" China Media Group (CMG), which oversees CCTV, had said it moved on Monday to suspend La Liga broadcasts, adding that apologies from La Liga, Mbappe and Real Madrid were \"an absolute prerequisite\" for moving past the furore.",
+            "CCTV's sports website later reported that CMG had acknowledged the apologies, but it remains unclear whether talks to defuse the situation have begun. Asked by AFP before the weekend, La Liga said that Chinese television had previously shown all games live, without specifying which platforms hosted the broadcasts. AFP journalists did find live broadcasts of matches on Migu, a digital streaming service owned by the state-owned China Mobile telecom network, including Barcelona's 6-1 win over Alaves on Saturday. However, the Racing Santander–Real Madrid match did not appear to be broadcast on Sunday on Migu.",
+            "China is a huge market for European football, with CCTV also carrying matches from the Premier League as well as the German, French and Italian top flights. Real Madrid coach Jose Mourinho said on Saturday that the club had \"done our part\" to put the controversy behind them. Major Chinese brands cancelled sponsorship deals with Mbappe after his comments. It is taboo in China to crack jokes about Mao, who died in 1976 and whose drastic policies are blamed by historians for mass starvation and millions of deaths.",
+            "Various overseas sports leagues and players have found themselves in hot water for comments on topics that are politically sensitive to China. China effectively cut ties with the NBA for several years from 2019 after then-Houston Rockets general manager Daryl Morey tweeted his support for Hong Kong protesters."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/chinese-state-tv-fails-air-163458653.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Chinese state broadcaster CCTV did not broadcast Real Madrid's La Liga match against Racing Santander on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "The match began at 1515 GMT.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "The match was not shown on either of CCTV's two sports channels.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "No other matches from the 11th round of La Liga have been broadcast live on public television so far.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Kylian Mbappe referred to Mao Zedong as a 'dictator' in a viral video.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Mbappe said the funniest internet meme about him he had seen was of his face photoshopped onto that of 'some guy -- I think he's a Chinese dictator,' an apparent reference to Mao.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Mbappe, Real Madrid and La Liga all apologised for his remarks.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "China's foreign ministry said it took the player's apology 'seriously.'",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "China Media Group (CMG), which oversees CCTV, said it moved on Monday to suspend La Liga broadcasts.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "CMG added that apologies from La Liga, Mbappe and Real Madrid were 'an absolute prerequisite' for moving past the furore.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "CCTV's sports website reported that CMG had acknowledged the apologies.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "It remains unclear whether talks to defuse the situation have begun.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "La Liga said that Chinese television had previously shown all games live, without specifying which platforms hosted the broadcasts.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "AFP journalists found live broadcasts of matches on Migu, a digital streaming service owned by the state-owned China Mobile telecom network.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "AFP found a live broadcast of Barcelona's 6-1 win over Alaves on Migu on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "The Racing Santander–Real Madrid match did not appear to be broadcast on Sunday on Migu.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "China is a huge market for European football, with CCTV also carrying matches from the Premier League as well as the German, French and Italian top flights.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Real Madrid coach Jose Mourinho said on Saturday that the club had 'done our part' to put the controversy behind them.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Major Chinese brands cancelled sponsorship deals with Mbappe after his comments.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "It is taboo in China to crack jokes about Mao, who died in 1976.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Mao's drastic policies are blamed by historians for mass starvation and millions of deaths.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "Various overseas sports leagues and players have found themselves in hot water for comments on topics that are politically sensitive to China.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              },
+              {
+                "text": "China effectively cut ties with the NBA for several years from 2019 after then-Houston Rockets general manager Daryl Morey tweeted his support for Hong Kong protesters.",
+                "status": "supported",
+                "source_ids": [
+                  "AFP"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-eagles-decide-not-to-trade-saquon-barkley-ahead-",
+          "section": "sports",
+          "headline": "Eagles decide not to trade Saquon Barkley ahead of NFL deadline despite struggles",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "The Philadelphia Eagles have decided not to trade star running back Saquon Barkley before the NFL's Nov. 10 trade deadline, according to reports from ESPN and NFL Network, ending speculation that the former Offensive Player of the Year could be moved as the team's season spirals with a 2-5 record and a five-game losing streak.",
+            "Barkley, 29, has two years and approximately $35 million remaining on his contract and is under team control through the 2028 season. Despite interest from other clubs, general manager Howie Roseman has made it clear to potential suitors that Barkley is off the market, per NFL Network insiders Mike Garafolo and Ian Rapoport. The organization reportedly still views itself as able to contend in the future with its current offensive nucleus and wants to keep Barkley as part of its longer-term plans.",
+            "Barkley has been limited by injuries this season, appearing in five games and recording 244 rushing yards and one touchdown on 43 carries — a steep drop from his 2,005-yard season two years ago. He missed two games with a hamstring injury and suffered a back issue during Philadelphia's 38-21 loss to Dallas on Oct. 26, playing only nine snaps in that game. Barkley did not practice Wednesday or Thursday but returned Friday and is off the injury report for Sunday night's game against the Washington Commanders.",
+            "\"One day I'm not going to be playing football,\" Barkley told reporters Friday when asked about playing through injuries. \"Whenever that is, I don't want to look back and be like, 'I could've gave it a chance and I didn't.' I like playing football. So if I have an opportunity to play, I'm going to try my best to play.\"",
+            "The Eagles' decision to retain Barkley comes amid a season derailed by injuries. Quarterback Jalen Hurts will miss the remainder of the season after doctors found multiple blood clots on his lungs. Top wide receiver DeVonta Smith has been limited to four games and will miss another Sunday with a hamstring injury. With Tanner McKee starting at quarterback, Philadelphia ranks near the bottom of the NFL in scoring and total offense.",
+            "While Barkley is staying put, other Eagles veterans could still be dealt before the deadline. Tight end Dallas Goedert, linebacker Zack Baun and defensive lineman Moro Ojomo have been mentioned as possible trade candidates. The Eagles already made one trade this season, sending center Cam Jurgens to Baltimore earlier this month. Philadelphia hosts the New York Giants in Week 9 before its bye the following week."
+          ],
+          "contested": false,
+          "covered_by": [
+            "New York Post",
+            "CBS Sports",
+            "Yahoo Sports",
+            "ESPN",
+            "NFL.com"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "New York Post",
+              "url": "https://nypost.com/2026/11/01/sports/saquon-barkleys-nfl-trade-deadline-fate-revealed-as-eagles-spiral/"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nfl/news/saquon-barkley-trade-rumors-eagles/"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/eagles-decision-saquon-barkley-ahead-135846398.html"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nfl/story/_/id/50336880/sources-eagles-trade-star-rb-saquon-barkley"
+            },
+            {
+              "outlet": "NFL.com",
+              "url": "https://www.nfl.com/news/saquon-barkley-eagles-wont-trade-rb-nov-10-deadline"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Philadelphia Eagles have decided not to trade Saquon Barkley before the NFL's Nov. 10 trade deadline.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN",
+                  "NFL Network"
+                ]
+              },
+              {
+                "text": "Saquon Barkley is a star running back.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saquon Barkley is a former Offensive Player of the Year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Eagles have a 2-5 record.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Eagles have a five-game losing streak.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saquon Barkley is 29 years old.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saquon Barkley has two years and approximately $35 million remaining on his contract.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Saquon Barkley is under team control through the 2028 season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Other clubs have shown interest in Saquon Barkley.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "General manager Howie Roseman has made it clear to potential suitors that Barkley is off the market.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL Network"
+                ]
+              },
+              {
+                "text": "Mike Garafolo is an NFL Network insider.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL Network"
+                ]
+              },
+              {
+                "text": "Ian Rapoport is an NFL Network insider.",
+                "status": "supported",
+                "source_ids": [
+                  "NFL Network"
+                ]
+              },
+              {
+                "text": "The organization reportedly still views itself as able to contend in the future with its current offensive nucleus.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The organization wants to keep Barkley as part of its longer-term plans.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley has been limited by injuries this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley has appeared in five games this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley has recorded 244 rushing yards this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley has recorded one touchdown this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley has 43 carries this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley had a 2,005-yard season two years ago.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley missed two games with a hamstring injury.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley suffered a back issue during Philadelphia's 38-21 loss to Dallas on Oct. 26.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley played only nine snaps in the game against Dallas on Oct. 26.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley did not practice Wednesday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley did not practice Thursday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley returned to practice Friday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley is off the injury report for Sunday night's game against the Washington Commanders.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley told reporters Friday that one day he is not going to be playing football.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley told reporters Friday that he does not want to look back and feel he could have given playing a chance and did not.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley told reporters Friday that he likes playing football.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Barkley told reporters Friday that if he has an opportunity to play, he will try his best to play.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Eagles' season has been derailed by injuries.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Quarterback Jalen Hurts will miss the remainder of the season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Doctors found multiple blood clots on Jalen Hurts' lungs.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Top wide receiver DeVonta Smith has been limited to four games.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "DeVonta Smith will miss another Sunday with a hamstring injury.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tanner McKee is starting at quarterback.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Philadelphia ranks near the bottom of the NFL in scoring.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Philadelphia ranks near the bottom of the NFL in total offense.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Other Eagles veterans could still be dealt before the deadline.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Tight end Dallas Goedert has been mentioned as a possible trade candidate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Linebacker Zack Baun has been mentioned as a possible trade candidate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Defensive lineman Moro Ojomo has been mentioned as a possible trade candidate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Eagles already made one trade this season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Eagles sent center Cam Jurgens to Baltimore earlier this month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Philadelphia hosts the New York Giants in Week 9.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Philadelphia has a bye the week following Week 9.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-common-pesticide-linked-to-2-5-times-higher-park",
+          "section": "health-science",
+          "headline": "Common pesticide linked to 2.5 times higher Parkinson's risk",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "A UCLA-led study published in the journal Molecular Neurodegeneration has found that long-term residential exposure to the widely used pesticide chlorpyrifos is associated with more than 2.5 times the risk of developing Parkinson's disease. Researchers at UCLA Health examined 829 people diagnosed with Parkinson's and 824 without the condition, using California's pesticide application records and participants' address histories to estimate exposure. The findings add to growing evidence that environmental factors, particularly certain agricultural chemicals, may play a significant role in the development of the progressive neurological disorder, which affects nearly one million Americans.",
+            "To investigate whether the association might be causal, the research team exposed mice to aerosolized chlorpyrifos for 11 weeks, mimicking a common route of human exposure. The mice developed movement difficulties, lost dopamine-producing neurons—a hallmark of Parkinson's—and showed brain inflammation along with abnormal clumps of the protein alpha-synuclein. Further experiments in zebrafish revealed that chlorpyrifos disrupts autophagy, the cellular process that clears out damaged proteins and other debris. When the researchers restored autophagy or removed synuclein protein, neurons were protected from damage, suggesting a specific biological pathway through which the pesticide may harm brain cells.",
+            "Chlorpyrifos has been used in agriculture for decades. Its residential use was banned in the United States in 2001, and agricultural applications faced additional restrictions in 2021, but it remains in use on many crops in the U.S. and is still widely applied in other countries. Because Parkinson's symptoms often appear years after exposure, identifying specific chemicals like chlorpyrifos as risk factors could help guide prevention strategies and neurological monitoring for people with a history of substantial exposure.",
+            "Dr. Jeff Bronstein, professor of neurology at UCLA Health and the study's senior author, emphasized the importance of pinpointing a particular chemical. \"This study establishes chlorpyrifos as a specific environmental risk factor for Parkinson's disease, not just pesticides as a general class,\" he said. \"By showing the biological mechanism in animal models, we've demonstrated that this association is likely causal. The discovery that autophagy dysfunction drives the neurotoxicity also points us toward potential therapeutic strategies to protect vulnerable brain cells.\" The researchers plan to investigate whether other commonly used pesticides interfere with the same cellular cleanup mechanisms, and whether therapies that enhance autophagy could eventually help prevent or reduce pesticide-related brain damage in humans."
+          ],
+          "contested": false,
+          "covered_by": [
+            "ScienceDaily"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "ScienceDaily",
+              "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A UCLA-led study was published in the journal Molecular Neurodegeneration.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The study found that long-term residential exposure to the pesticide chlorpyrifos is associated with more than 2.5 times the risk of developing Parkinson's disease.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Researchers at UCLA Health examined 829 people diagnosed with Parkinson's disease.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Researchers at UCLA Health examined 824 people without Parkinson's disease.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The researchers used California's pesticide application records to estimate exposure.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The researchers used participants' address histories to estimate exposure.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Parkinson's disease affects nearly one million Americans.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The research team exposed mice to aerosolized chlorpyrifos for 11 weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The mice developed movement difficulties.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The mice lost dopamine-producing neurons.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Loss of dopamine-producing neurons is a hallmark of Parkinson's disease.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The mice showed brain inflammation.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The mice showed abnormal clumps of the protein alpha-synuclein.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Experiments in zebrafish revealed that chlorpyrifos disrupts autophagy.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Autophagy is the cellular process that clears out damaged proteins and other debris.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "When the researchers restored autophagy in zebrafish, neurons were protected from damage.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "When the researchers removed synuclein protein in zebrafish, neurons were protected from damage.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Chlorpyrifos has been used in agriculture for decades.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Residential use of chlorpyrifos was banned in the United States in 2001.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Agricultural applications of chlorpyrifos faced additional restrictions in 2021.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Chlorpyrifos remains in use on many crops in the U.S.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Chlorpyrifos is still widely applied in other countries.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Parkinson's symptoms often appear years after exposure.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Dr. Jeff Bronstein is a professor of neurology at UCLA Health.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Dr. Jeff Bronstein is the senior author of the study.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Dr. Jeff Bronstein said: 'This study establishes chlorpyrifos as a specific environmental risk factor for Parkinson's disease, not just pesticides as a general class.'",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Dr. Jeff Bronstein said: 'By showing the biological mechanism in animal models, we've demonstrated that this association is likely causal.'",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "Dr. Jeff Bronstein said: 'The discovery that autophagy dysfunction drives the neurotoxicity also points us toward potential therapeutic strategies to protect vulnerable brain cells.'",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The researchers plan to investigate whether other commonly used pesticides interfere with the same cellular cleanup mechanisms.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              },
+              {
+                "text": "The researchers plan to investigate whether therapies that enhance autophagy could eventually help prevent or reduce pesticide-related brain damage in humans.",
+                "status": "supported",
+                "source_ids": [
+                  "UCLA Health"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-binance-says-90-95-of-stolen-assets-replenished-",
+          "section": "tech-ai",
+          "headline": "Binance says 90-95% of stolen assets replenished as FBI confirms North Korea link",
+          "beat_label": "Crypto Heist",
+          "byline": "Tech / AI desk",
+          "body": [
+            "The FBI has confirmed that North Korea was behind the record-breaking theft of $6.3 billion in cryptocurrency from Binance on October 29, 2026. The agency labeled the malicious activity “TraderTraitor” and said it had observed actors converting the stolen assets primarily into Ethereum, with further laundering expected through decentralized finance and instant swap services. The FBI, working with the U.S. Secret Service and IRS Criminal Investigation, offered few additional details or evidence.",
+            "In the wake of the hack, Binance froze all deposits and withdrawals. The company’s CEO has now stated that 90% of the stolen assets have been replenished, and a subsequent update from the company raised that figure to 95%. Binance said it is covering the stolen funds directly and that the remaining affected assets are “less liquid in the market and take longer time to source at the required scale.” The company emphasized that the losses will not be passed on to users.",
+            "Binance resumed customer withdrawals on Sunday, November 1, in a phased process depending on network and asset type. As of Sunday morning, the company’s network status page showed a mix of normal, partially suspended, and fully suspended statuses — for example, Bitcoin withdrawals and deposits were still listed as partially suspended, while Ethereum deposits were normal and withdrawals partially suspended. Binance warned users to expect temporary delays or longer processing times due to traffic volume.",
+            "The company said it did not make the decision to freeze withdrawals lightly, calling it a necessary precaution while teams worked to contain the loss, assess the impact, restore services, and complete security checks. Binance added that resuming withdrawals is a major milestone but that work continues to strengthen safeguards and complete the recovery process. The company plans to publish a more in-depth incident report when its investigation is complete."
+          ],
+          "contested": false,
+          "covered_by": [
+            "The Verge",
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The FBI has confirmed that North Korea was behind the theft of $6.3 billion in cryptocurrency from Binance on October 29, 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI labeled the malicious activity \"TraderTraitor\".",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI said it had observed actors converting the stolen assets primarily into Ethereum.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI said further laundering was expected through decentralized finance and instant swap services.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI worked with the U.S. Secret Service and IRS Criminal Investigation on the case.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "The FBI offered few additional details or evidence.",
+                "status": "supported",
+                "source_ids": [
+                  "FBI"
+                ]
+              },
+              {
+                "text": "Binance froze all deposits and withdrawals after the hack.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance's CEO stated that 90% of the stolen assets have been replenished.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "A subsequent update from Binance raised the replenishment figure to 95%.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance said it is covering the stolen funds directly.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance said the remaining affected assets are \"less liquid in the market and take longer time to source at the required scale\".",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance emphasized that the losses will not be passed on to users.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance resumed customer withdrawals on Sunday, November 1, in a phased process depending on network and asset type.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "As of Sunday morning, Binance's network status page showed a mix of normal, partially suspended, and fully suspended statuses.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Bitcoin withdrawals and deposits were still listed as partially suspended on Binance's network status page.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Ethereum deposits were normal and withdrawals partially suspended on Binance's network status page.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance warned users to expect temporary delays or longer processing times due to traffic volume.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance said it did not make the decision to freeze withdrawals lightly.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance called the freeze a necessary precaution while teams worked to contain the loss, assess the impact, restore services, and complete security checks.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance added that resuming withdrawals is a major milestone but that work continues to strengthen safeguards and complete the recovery process.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              },
+              {
+                "text": "Binance plans to publish a more in-depth incident report when its investigation is complete.",
+                "status": "supported",
+                "source_ids": [
+                  "Binance"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.75
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "politics",
+      "story_id": "politics-supreme-court-hears-religious-freedom-case-on-pu"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-ai-stock-losses-near-5-trillion-as-korea-s-marke"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Alaska Senate candidates address DOJ probe and election integrity concerns",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "US midterm elections: Trump rallies as record early votes cast",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Israeli attacks kill at least nine Palestinians in Gaza as siege of Hebron continues",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Goldman Sachs warns AI-driven earnings growth may stall in 2027",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Shooting outside Magic City Classic stadium in Birmingham leaves one dead, eight injured",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Australia thrash Wales 124-6 in record Rugby League World Cup score",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "FDA approves gene therapy for Sanfilippo syndrome, built on family fundraising",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Data center backlash grows as AI infrastructure becomes midterm issue",
+      "reason": "revise failed; flagged claims unresolved",
+      "verdict": "hold"
+    }
+  ]
+}
