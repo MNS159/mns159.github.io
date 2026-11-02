@@ -1,0 +1,3587 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "edition": "Morning edition",
+  "generated_at": "2026-11-02T20:28:33+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-trump-administration-asks-supreme-court-to-inter",
+          "section": "politics",
+          "headline": "Trump administration asks Supreme Court to intervene in California mail-ballot dispute",
+          "beat_label": "Elections/Legal",
+          "byline": "Politics desk · anchored on AP, Reuters",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.02,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 2,
+              "center": 6,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "Fox News",
+            "AP",
+            "Bloomberg",
+            "SCOTUSblog",
+            "CNBC",
+            "LA Times",
+            "NYT",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "AP",
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/doj-appeals-supreme-court-reverse-block-segregating-20k-california-ballots",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "AP",
+              "url": "https://apnews.com/article/midterm-elections-immigration-voter-fraud-trump-48998968a23a4af2f59eaea3dba4d2f3",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-02/trump-s-doj-turns-to-supreme-court-in-california-ballot-clash",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "SCOTUSblog",
+              "url": "https://www.scotusblog.com/2026/11/trump-administration-asks-supreme-court-to-intervene-in-california-ballots-dispute/"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html"
+            },
+            {
+              "outlet": "LA Times",
+              "url": "https://www.latimes.com/politics/story/2026-11-02/trump-lawyers-ask-supreme-court-to-set-aside-20-000-california-ballots"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-supreme-court-california-ballots.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/trump-administration-takes-california-ballot-fight-supreme-court-2026-11-02/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "On Nov. 2 (the day before Election Day), the Department of Justice filed an emergency application asking the U.S. Supreme Court to intervene in its dispute with California.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The 9th U.S. Circuit Court of Appeals rejected the DOJ's request the previous Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The DOJ says it has identified more than 20,000 'likely' noncitizens on California's voter rolls.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The DOJ is asking the Court to order those ballots segregated and left uncounted until citizenship can be verified.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "U.S. District Judge David Carter, a Clinton appointee, denied the DOJ's original request last week.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "A divided 9th Circuit panel—Judges Mark Bennett (Trump appointee) and Gabriel Sanchez (Biden appointee) in the majority, Judge Patrick Bumatay (Trump appointee) dissenting—upheld that denial on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The underlying DOJ lawsuit was filed Oct. 15 in U.S. District Court in Los Angeles.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The DOJ lawsuit alleges California is impeding enforcement of federal law barring noncitizens from voting and violating the Constitution's Supremacy Clause.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "Solicitor General D. John Sauer's 19-page Supreme Court filing argues the government will suffer irreparable harm because, once ballots are commingled, 'there is no way to get the challenged ballots back.'",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The Supreme Court filing argues that California's own election laws already provide for segregating challenged ballots.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "An analysis by UCLA's Voting Rights Project, granted court-ordered access to the DOJ's list over the weekend, found that 42% of the names on the list do not appear on California's current voter roll.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The UCLA analysis found that the DOJ's list also includes naturalized citizens.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "A federal judge in San Francisco issued a temporary restraining order Friday barring the Trump administration from threatening, intimidating, or coercing California election officials over ballot processing.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The administration has appealed that order.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "California's mail-ballot receipt deadline is Nov. 10.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The filing goes first to Justice Elena Kagan, who handles emergency appeals from the 9th Circuit and may act alone or refer it to the full Court.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "Lower courts so far have ruled primarily on procedural and evidentiary grounds—questioning the reliability of the DOJ's list and the feasibility of segregating ballots mid-election—rather than reaching the merits of whether any of the 20,000 flagged voters are actually ineligible.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The case is part of a broader pattern of escalating conflict between the Trump DOJ and California election officials, including subpoenas, criminal-prosecution warnings, and the separate restraining order limiting DOJ contact with election workers.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "California holds 52 House seats.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "Control of the chamber is at stake in the midterms.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "Courts have so far avoided ruling on whether any of the flagged voters are actually ineligible, deciding instead on procedural grounds (standing, feasibility, timing).",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The Supreme Court's decision—whether to act before Election Day, after it, or not at all—will determine whether any California ballots are segregated during tabulation.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              },
+              {
+                "text": "The underlying lawsuit over DOJ's authority to compel state ballot-handling procedures will likely continue in the lower courts regardless of the outcome of this emergency request.",
+                "status": "supported",
+                "source_ids": [
+                  "None"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "On Nov. 2 (the day before Election Day), the Department of Justice filed an emergency application asking the U.S. Supreme Court to intervene in its dispute with California, after the 9th U.S. Circuit Court of Appeals rejected its request the previous Friday.",
+              "The DOJ says it has identified more than 20,000 'likely' noncitizens on California's voter rolls and is asking the Court to order those ballots segregated and left uncounted until citizenship can be verified.",
+              "U.S. District Judge David Carter, a Clinton appointee, denied the DOJ's original request last week; a divided 9th Circuit panel—Judges Mark Bennett (Trump appointee) and Gabriel Sanchez (Biden appointee) in the majority, Judge Patrick Bumatay (Trump appointee) dissenting—upheld that denial on Friday.",
+              "The underlying DOJ lawsuit was filed Oct. 15 in U.S. District Court in Los Angeles, alleging California is impeding enforcement of federal law barring noncitizens from voting and violating the Constitution's Supremacy Clause.",
+              "Solicitor General D. John Sauer's 19-page Supreme Court filing argues the government will suffer irreparable harm because, once ballots are commingled, 'there is no way to get the challenged ballots back,' and that California's own election laws already provide for segregating challenged ballots.",
+              "An analysis by UCLA's Voting Rights Project, granted court-ordered access to the DOJ's list over the weekend, found that 42% of the names on the list do not appear on California's current voter roll, and that it also includes naturalized citizens.",
+              "Separately, a federal judge in San Francisco issued a temporary restraining order Friday barring the Trump administration from threatening, intimidating, or coercing California election officials over ballot processing; the administration has appealed that order.",
+              "California's mail-ballot receipt deadline is Nov. 10, and the filing goes first to Justice Elena Kagan, who handles emergency appeals from the 9th Circuit and may act alone or refer it to the full Court."
+            ],
+            "analysis": "This dispute sits at the intersection of two well-established but competing legal principles: the Purcell principle, which disfavors last-minute changes to election procedures, and the National Voter Registration Act's 90-day 'quiet period' barring systematic voter-roll purges before a federal election, versus the federal government's interest in enforcing citizenship requirements for voting. Lower courts so far have ruled primarily on procedural and evidentiary grounds—questioning the reliability of the DOJ's list and the feasibility of segregating ballots mid-election—rather than reaching the merits of whether any of the 20,000 flagged voters are actually ineligible. The case is part of a broader pattern of escalating conflict between the Trump DOJ and California election officials, including subpoenas, criminal-prosecution warnings, and the separate restraining order limiting DOJ contact with election workers. With California holding 52 House seats and control of the chamber at stake in the midterms, the timing and outcome of any Supreme Court action could have outsized practical significance even if the number of ballots genuinely in dispute turns out to be far smaller than 20,000.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Courts have so far avoided ruling on whether any of the flagged voters are actually ineligible, deciding instead on procedural grounds (standing, feasibility, timing).",
+            "implications": "The Supreme Court's decision—whether to act before Election Day, after it, or not at all—will determine whether any California ballots are segregated during tabulation, but the underlying lawsuit over DOJ's authority to compel state ballot-handling procedures will likely continue in the lower courts regardless of the outcome of this emergency request."
+          },
+          "interestingness": 0.8,
+          "significance": 0.731,
+          "image": {
+            "url": "static/img/2026-11-02/politics-trump-administration-asks-supreme-court-to-inter.jpg",
+            "alt": "Photograph of Supreme Court building",
+            "credit": "Photo: Joe Ravi / Wikimedia Commons (CC BY-SA 3.0)",
+            "license": "CC BY-SA 3.0",
+            "width": 1000,
+            "height": 515
+          }
+        },
+        {
+          "id": "politics-judge-dismisses-case-against-ex-fbi-officials-in",
+          "section": "politics",
+          "headline": "Judge dismisses case against ex-FBI officials in Hunter Biden probe, citing DOJ 'weaponization'",
+          "beat_label": "Justice Department",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.03,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 2,
+              "center": 1,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "NPR",
+            "Fox News",
+            "NBC News",
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/judge-tosses-case-against-ex-fbi-officials-accused-lying-congress-hunter-biden-investigation",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "NBC News",
+              "url": "https://www.nbcnews.com/politics/justice-department/judge-dismisses-case-ex-fbi-agents-lying-congress-hunter-biden-rcna607048",
+              "lean": -0.3,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "U.S. Magistrate Judge Zia Faruqui dismissed the criminal complaint against former FBI officials Nikki Floris and Bradley Benavides on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The dismissal was based on the ruling that the government failed to establish probable cause.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Floris and Benavides had been charged about two weeks earlier with lying to Congress in 2023 about their knowledge of the FBI's investigations into Hunter Biden's laptop.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The investigation into Floris and Benavides was opened on FBI Director Kash Patel's orders.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The investigation was opened the day after President Trump's mid-July primetime address repeating claims of 2020 election fraud.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The case was brought as a criminal complaint rather than through a grand jury indictment.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "DOJ grand juries in Washington, D.C. have recently declined to indict in other politically charged cases, including the attempted indictment of Cassidy Hutchinson.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Faruqui noted the charges were filed roughly two weeks before the midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "There is a DOJ policy against timing actions to influence elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "At a preliminary hearing, an FBI agent testified he feared the probe would be seen as 'political.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Prosecutor Carlton Davis, a top aide to U.S. Attorney Jeanine Pirro, had acknowledged by phone that the complaint was flawed.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Faruqui previously struck an amended complaint from the docket after prosecutors tried to add an obstruction charge without judicial approval.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A DOJ spokesperson said the department disagrees with the ruling.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A DOJ spokesperson said the department is 'evaluating all options.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A DOJ spokesperson said its actions are guided by 'facts, the evidence, and the law — not politics.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The case centers on two former FBI officials accused of misleading Congress about their roles in the bureau's past investigations into Hunter Biden, including the handling of his laptop.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The matter of the FBI's investigations into Hunter Biden's laptop has been a long-running flashpoint between the FBI and congressional Republicans since the 2020 election.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The prosecution was launched under the Trump administration's DOJ and FBI leadership years after the alleged false statements were made.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "A federal magistrate judge concluded the process was procedurally irregular, rushed, and timed near a major election.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The judge dismissed the case outright rather than let it proceed to a grand jury.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Several politically sensitive prosecutions pursued via criminal complaint, rather than grand jury indictment, have recently stalled or been rejected in Washington's federal courts.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The judge's decision does not permanently bar prosecution.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "DOJ could seek a grand jury indictment or appeal to the district's chief judge.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Monday's ruling delivered a sharp, on-the-record rebuke of how the charges were brought.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The DOJ says officials who lie to Congress must be held accountable.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The dismissal highlights procedural shortcuts, timing, and an unusual charging method that raise doubts about whether due process — not political calendars — drove the case.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The Justice Department can still attempt to revive the case by seeking a grand jury indictment or appealing Faruqui's ruling to the district's chief judge.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The judge found that prosecutors fell short of even the low probable-cause standard.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The episode is likely to intensify scrutiny of how the DOJ times and structures politically sensitive prosecutions.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "The episode may factor into broader debates over FBI and DOJ independence as additional Trump-era cases move through Washington's courts.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "U.S. Magistrate Judge Zia Faruqui dismissed the criminal complaint against former FBI officials Nikki Floris and Bradley Benavides on Monday, ruling the government failed to establish probable cause.",
+              "Floris and Benavides had been charged about two weeks earlier with lying to Congress in 2023 about their knowledge of the FBI's investigations into Hunter Biden's laptop.",
+              "The investigation into Floris and Benavides was opened on FBI Director Kash Patel's orders the day after President Trump's mid-July primetime address repeating claims of 2020 election fraud.",
+              "The case was brought as a criminal complaint rather than through a grand jury indictment; DOJ grand juries in Washington, D.C. have recently declined to indict in other politically charged cases, including the attempted indictment of Cassidy Hutchinson.",
+              "Faruqui noted the charges were filed roughly two weeks before the midterm elections despite a DOJ policy against timing actions to influence elections.",
+              "At a preliminary hearing, an FBI agent testified he feared the probe would be seen as 'political,' and that prosecutor Carlton Davis, a top aide to U.S. Attorney Jeanine Pirro, had acknowledged by phone that the complaint was flawed.",
+              "Faruqui previously struck an amended complaint from the docket after prosecutors tried to add an obstruction charge without judicial approval.",
+              "A DOJ spokesperson said the department disagrees with the ruling, is 'evaluating all options,' and said its actions are guided by 'facts, the evidence, and the law — not politics.'"
+            ],
+            "analysis": "The case centers on two former FBI officials accused of misleading Congress about their roles in the bureau's past investigations into Hunter Biden, including the handling of his laptop — a matter that has been a long-running flashpoint between the FBI and congressional Republicans since the 2020 election. The prosecution was launched under the Trump administration's DOJ and FBI leadership years after the alleged false statements were made, and a federal magistrate judge concluded the process was procedurally irregular, rushed, and timed near a major election, leading him to dismiss it outright rather than let it proceed to a grand jury.\n\nThe ruling fits into a broader pattern cited in the reporting: several politically sensitive prosecutions pursued via criminal complaint, rather than grand jury indictment, have recently stalled or been rejected in Washington's federal courts. Because the judge's decision does not permanently bar prosecution — DOJ could seek a grand jury indictment or appeal to the district's chief judge — the case's ultimate resolution remains open, even as Monday's ruling delivered a sharp, on-the-record rebuke of how the charges were brought.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Both the judge's findings and the underlying dispute point to the same unresolved tension: the DOJ says officials who lie to Congress must be held accountable, while the dismissal highlights procedural shortcuts, timing, and an unusual charging method that raise doubts about whether due process — not political calendars — drove the case.",
+            "implications": "The Justice Department can still attempt to revive the case by seeking a grand jury indictment or appealing Faruqui's ruling to the district's chief judge, though his finding that prosecutors fell short of even the low probable-cause standard makes that path harder. The episode is likely to intensify scrutiny of how the DOJ times and structures politically sensitive prosecutions, and may factor into broader debates over FBI and DOJ independence as additional Trump-era cases move through Washington's courts."
+          },
+          "interestingness": 0.75
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-russian-bombing-kills-24-at-ukrainian-aid-centre",
+          "section": "world",
+          "headline": "Russian Bombing Kills 24 at Ukrainian Aid Centre; Kyiv Says Attack Shows No Desire for De-escalation",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "At least 24 people were killed and five injured after Russian aerial bombs struck an aid distribution centre in the village of Komyshuvakha in Ukraine's southern Zaporizhzhia region, Ukrainian officials said on Monday. The attack involved at least nine 3,000kg bombs that hit a local school being used for humanitarian needs, according to regional head Mykhailo Semikin. President Volodymyr Zelensky said that after the first strike, a second attack targeted the place where people were sheltering. Among the dead were two rescuers and four police officers; 27 people were initially reported missing.",
+            "Zelensky described the attack as \"utterly horrific\" and said the Russians could not have been unaware that the site was used for humanitarian aid.",
+            "Semikin described the attack as a \"terrible tragedy.\" A day of mourning was declared for Tuesday across the entire Zaporizhzhia region. The Russian military has not publicly commented on the strike.",
+            "In the Black Sea port city of Odesa, a warehouse was targeted and homes were damaged."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "NYT",
+            "Bloomberg"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy?traffic_source=rss"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-02/ukraine-says-russian-strike-on-humanitarian-aid-center-kills-24",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "At least 24 people were killed after Russian aerial bombs struck an aid distribution centre in the village of Komyshuvakha in Ukraine's southern Zaporizhzhia region.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "Five people were injured after Russian aerial bombs struck an aid distribution centre in the village of Komyshuvakha in Ukraine's southern Zaporizhzhia region.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "The attack involved at least nine 3,000kg bombs.",
+                "status": "supported",
+                "source_ids": [
+                  "regional head Mykhailo Semikin"
+                ]
+              },
+              {
+                "text": "The bombs hit a local school being used for humanitarian needs.",
+                "status": "supported",
+                "source_ids": [
+                  "regional head Mykhailo Semikin"
+                ]
+              },
+              {
+                "text": "President Volodymyr Zelensky said that after the first strike, a second attack targeted the place where people were sheltering.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Among the dead were two rescuers.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "Among the dead were four police officers.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "27 people were initially reported missing.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "Zelensky described the attack as 'utterly horrific'.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky said the Russians could not have been unaware that the site was used for humanitarian aid.",
+                "status": "supported",
+                "source_ids": [
+                  "President Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Semikin described the attack as a 'terrible tragedy'.",
+                "status": "supported",
+                "source_ids": [
+                  "regional head Mykhailo Semikin"
+                ]
+              },
+              {
+                "text": "A day of mourning was declared for Tuesday across the entire Zaporizhzhia region.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "The Russian military has not publicly commented on the strike.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "In the Black Sea port city of Odesa, a warehouse was targeted.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "In the Black Sea port city of Odesa, homes were damaged.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.85,
+          "significance": 0.95,
+          "image": {
+            "url": "static/img/2026-11-02/world-russian-bombing-kills-24-at-ukrainian-aid-centre.jpg",
+            "alt": "Photograph of Komyshuvakha school damaged by Russian bombs",
+            "credit": "Photo: Вадим Балачук / Wikimedia Commons (CC0)",
+            "license": "CC0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "world-fighting-returns-to-kherson-region-after-longest",
+          "section": "world",
+          "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire expires",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "Fighting has resumed in Ukraine's Kherson region after a six-day truce — the longest since the start of Russia's full-scale invasion in 2022 — brought an unusual calm to the front-line area. The ceasefire, which ended Sunday night, allowed hundreds of residents trapped in the Russian-occupied town of Oleshky and its surroundings to be evacuated. On Monday morning, local authorities confirmed that strikes had resumed, reporting that Moscow hit a medical facility in Kherson city centre and that a 62-year-old woman and a 73-year-old man were injured when a Russian drone attacked the car they were travelling in.",
+            "The ceasefire was brokered by US First Lady Melania Trump, though no details of her involvement were shared. Both Kyiv and Moscow thanked her repeatedly. The truce was overseen by Russia's human rights ombudsman Yana Lantratova and her Ukrainian counterpart Dmytro Lubinets, who travelled into Oleshky together and were filmed speaking to residents. Both publicly thanked each other for their work and highlighted that no violations of the ceasefire had been observed. They called for the initiative to be repeated elsewhere, and Ukraine said it would be prepared to observe similar ceasefires on a national level.",
+            "However, the Kremlin swiftly dismissed the idea of further truces, calling Oleshky 'an isolated case' that would not affect the 'settlement process' — a euphemism for stalled peace talks. 'There are no similar plans or initiatives,' spokesman Dmitry Peskov reiterated on Monday. During the ceasefire, Ukraine accused Russian forces of using the humanitarian pause to strengthen their military positions, rotate units and deliver ammunition. The Kremlin appeared to corroborate this, with Peskov saying it was 'reasonable to assume that the Ukrainian army also used this period for the necessary regrouping' and that it was 'a completely standard practice in such situations.'",
+            "Although the guns fell silent in the Kherson region during the truce, elsewhere in Ukraine Russia's air strikes continued, killing scores of civilians and destroying infrastructure. The decision to observe a comparatively lengthy ceasefire in and around Oleshky was therefore a notable exception. The ceasefire's observance appeared, at least in part, to have been linked to Melania Trump's reported involvement; by violating the truce, Moscow would have risked undermining its efforts to cultivate a relationship with US President Donald Trump. Kyiv also had reasons to comply, as Ukraine continues to rely heavily on US intelligence and Patriot air defence missiles.",
+            "The ceasefire allowed hundreds of Oleshky residents to evacuate, with emotional scenes when they arrived in northern Ukraine on Saturday, many met by tearful relatives they had not seen in years. Evacuees told journalists of years of hunger and hardship in the destroyed town. The hundreds of residents who decided to stay behind will receive monthly humanitarian aid deliveries, Lantratova said, adding that decision too was the result of Melania Trump's mediation. In Kherson, the truce allowed residents to walk the streets without being targeted by Russian drones for the first time in years, with locals reporting a feeling that 'no one wants to kill you.'",
+            "Yet the troop rotations and resupply efforts show that neither side expects Oleshky to be a blueprint for lasting respite. As Kherson came under fire again, Ukrainian drones hit several energy facilities across four Russian regions, including an oil refinery in Samara hit for the fifth time in a month. If the truce brought a rare moment of relief to Oleshky, it has done little to alter the wider trajectory of a war that grinds on for now."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "NPR",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/02/nx-s1-6022261/hundreds-evacuate-city-during-temporary-ceasefire-between-russia-and-ukraine",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/europe/ukraine-evacuates-civilians-parts-kherson-region-expiry-oleshky-ceasefire-nears-2026-11-01/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Fighting has resumed in Ukraine's Kherson region after a six-day truce.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The truce was the longest since the start of Russia's full-scale invasion in 2022.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire ended Sunday night.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire allowed hundreds of residents trapped in the Russian-occupied town of Oleshky and its surroundings to be evacuated.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Monday morning, local authorities confirmed that strikes had resumed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Moscow hit a medical facility in Kherson city centre.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A 62-year-old woman and a 73-year-old man were injured when a Russian drone attacked the car they were travelling in.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire was brokered by US First Lady Melania Trump.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "No details of Melania Trump's involvement were shared.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both Kyiv and Moscow thanked Melania Trump repeatedly.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The truce was overseen by Russia's human rights ombudsman Yana Lantratova and her Ukrainian counterpart Dmytro Lubinets.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lantratova and Lubinets travelled into Oleshky together and were filmed speaking to residents.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both Lantratova and Lubinets publicly thanked each other for their work.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both Lantratova and Lubinets highlighted that no violations of the ceasefire had been observed.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lantratova and Lubinets called for the initiative to be repeated elsewhere.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine said it would be prepared to observe similar ceasefires on a national level.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Kremlin swiftly dismissed the idea of further truces.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Kremlin called Oleshky 'an isolated case' that would not affect the 'settlement process'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Kremlin's statement referred to the 'settlement process' as a euphemism for stalled peace talks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Kremlin spokesman Dmitry Peskov reiterated on Monday: 'There are no similar plans or initiatives.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "During the ceasefire, Ukraine accused Russian forces of using the humanitarian pause to strengthen their military positions, rotate units and deliver ammunition.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Kremlin spokesman Dmitry Peskov said it was 'reasonable to assume that the Ukrainian army also used this period for the necessary regrouping'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Peskov said that using a ceasefire for regrouping was 'a completely standard practice in such situations.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Elsewhere in Ukraine during the truce, Russia's air strikes continued, killing scores of civilians and destroying infrastructure.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The decision to observe a comparatively lengthy ceasefire in and around Oleshky was a notable exception.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire's observance appeared, at least in part, to have been linked to Melania Trump's reported involvement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "By violating the truce, Moscow would have risked undermining its efforts to cultivate a relationship with US President Donald Trump.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukraine continues to rely heavily on US intelligence and Patriot air defence missiles.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ceasefire allowed hundreds of Oleshky residents to evacuate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Emotional scenes occurred when evacuees arrived in northern Ukraine on Saturday, many met by tearful relatives they had not seen in years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Evacuees told journalists of years of hunger and hardship in the destroyed town.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The hundreds of residents who decided to stay behind will receive monthly humanitarian aid deliveries.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lantratova said the decision for monthly aid deliveries was the result of Melania Trump's mediation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In Kherson, the truce allowed residents to walk the streets without being targeted by Russian drones for the first time in years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Locals in Kherson reported a feeling that 'no one wants to kill you.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The troop rotations and resupply efforts show that neither side expects Oleshky to be a blueprint for lasting respite.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "As Kherson came under fire again, Ukrainian drones hit several energy facilities across four Russian regions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Ukrainian drones hit an oil refinery in Samara for the fifth time in a month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The truce brought a rare moment of relief to Oleshky.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The truce has done little to alter the wider trajectory of a war that grinds on for now.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-trump-asks-supreme-court-to-block-20-000-califor",
+          "section": "world",
+          "headline": "Trump administration asks Supreme Court to block 20,000 California midterm ballots over noncitizen claims",
+          "beat_label": "US Politics",
+          "byline": "International & World desk",
+          "body": [
+            "The administration of President Donald Trump has asked the Supreme Court to stop California from counting mail-in ballots from more than 20,000 voters it claims are not US citizens. The emergency request, filed on Monday, one day before the midterm elections, is the latest development in a legal battle between the administration and the Democratic-leaning state. The Justice Department, run by Trump's former personal attorney Todd Blanche, asked for a \"limited injunction\" directing California to \"stop commingling suspected illegal ballots with legal ones\" pending verification of voters' citizenship status.",
+            "The voter list was compiled by the Department of Homeland Security. California says the list is unreliable and could include thousands of US citizens. An analysis by an immigrant rights group and a voting rights watchdog based at the University of California Los Angeles found that thousands of US citizens appear to be inexplicably flagged as ineligible. US District Judge David Carter, who rejected the administration's initial lawsuit in October, noted that people flagged as noncitizens on voter rolls in other states have repeatedly turned out to be naturalised US citizens. \"If the executive can discount votes and threaten an ongoing election due to unproven allegations, then our democracy is in danger,\" Carter wrote.",
+            "Voting has been under way in California since early October, and state officials say it would be nearly impossible to separate the ballots in question. A federal judge last week rejected the administration's request, raising concerns about the data's reliability. A federal appeals court also rejected the request on Friday. It is unclear if the Supreme Court will respond in time for a ruling to have an effect on Tuesday's election.",
+            "Trump has repeatedly made false claims about widespread voter fraud, but studies and state audits have shown that ineligible voting, including by noncitizens, is rare. For the current midterm election cycle, Trump has focused on claiming non-US citizens are trying to vote, despite these claims being repeatedly debunked by research and investigation. California Governor Gavin Newsom, an outspoken Trump critic, has warned the administration against interfering in the state's voting process and announced the deployment of election law experts, poll observers and a help line for voters to report intimidation or interference."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "DW"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/trump-asks-supreme-court-to-block-20-000-california-midterm-ballots/a-79833739?maca=en-rss-en-world-4025-rdf"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The administration of President Donald Trump has asked the Supreme Court to stop California from counting mail-in ballots from more than 20,000 voters.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The administration claims those voters are not US citizens.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The emergency request was filed on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The emergency request was filed one day before the midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The emergency request is the latest development in a legal battle between the administration and California.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "California is a Democratic-leaning state.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The Justice Department is run by Todd Blanche.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Todd Blanche is Trump's former personal attorney.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The Justice Department asked for a \"limited injunction\" directing California to \"stop commingling suspected illegal ballots with legal ones\" pending verification of voters' citizenship status.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The voter list was compiled by the Department of Homeland Security.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "California says the list is unreliable.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "California says the list could include thousands of US citizens.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "An analysis by an immigrant rights group and a voting rights watchdog based at the University of California Los Angeles found that thousands of US citizens appear to be inexplicably flagged as ineligible.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "US District Judge David Carter rejected the administration's initial lawsuit in October.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Carter noted that people flagged as noncitizens on voter rolls in other states have repeatedly turned out to be naturalised US citizens.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Voting has been under way in California since early October.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "State officials say it would be nearly impossible to separate the ballots in question.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "A federal judge last week rejected the administration's request.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The federal judge raised concerns about the data's reliability.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "A federal appeals court also rejected the request on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "It is unclear if the Supreme Court will respond in time for a ruling to have an effect on Tuesday's election.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Trump has repeatedly made false claims about widespread voter fraud.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Studies and state audits have shown that ineligible voting, including by noncitizens, is rare.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "For the current midterm election cycle, Trump has focused on claiming non-US citizens are trying to vote.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "These claims have been repeatedly debunked by research and investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Gavin Newsom is the Governor of California.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Newsom is an outspoken Trump critic.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Newsom has warned the administration against interfering in the state's voting process.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Newsom announced the deployment of election law experts, poll observers and a help line for voters to report intimidation or interference.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-us-pushes-to-restore-russian-gas-sales-to-europe",
+          "section": "world",
+          "headline": "US pushes plan to restore Russian gas sales to Europe via Ukraine, drawing EU resistance",
+          "beat_label": "Energy",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "The United States is pushing a proposal that would allow Russia to resume gas exports to Europe through Ukraine using a U.S. intermediary, an arrangement Washington argues could help secure a ceasefire and deliver economic benefits to Kyiv, according to the Wall Street Journal, which first reported the plan, and people familiar with the matter confirmed to the Kyiv Independent. Under the arrangement, Russian gas would flow to Europe through the Druzhba pipeline, an export network stretching roughly 4,500 kilometers (2,800 miles) from Siberian gas fields, including Urengoy, through Russia and Ukraine to Central and Western Europe. Selling the gas through a U.S. intermediary is intended to circumvent EU sanctions.",
+            "For Ukraine, the deal could generate much-needed transit fees. Russia is unlikely to agree to pay reparations to Ukraine directly, but Kyiv could present the revenue as a form of compensation from Moscow, several people familiar with the matter said. The proceeds could be transferred to a U.S.-proposed prosperity fund that negotiating teams have been discussing as part of a potential postwar arrangement. U.S. negotiators Steve Witkoff and Jared Kushner also told their Ukrainian counterparts that several mechanisms could prevent the Kremlin from using the money to finance its war, including transferring the proceeds into an escrow account in a third-party jurisdiction, the people confirmed. U.S. negotiators told Ukrainian officials in September that the deal would be implemented only after Russia ends its war against Ukraine or agrees to a ceasefire.",
+            "The idea is not new. During Istanbul talks with Russia in 2022, Ukrainian negotiators proposed a similar arrangement under which Ukraine would receive what it portrays as reparations from Russia in the form of fees for transporting gas to Europe. Ukrainian officials have so far been reluctant to comment publicly on the current initiative, though some privately remain cautious about rejecting it outright.",
+            "The plan faces a major obstacle in Brussels: the EU has already committed itself in law to phasing out all Russian gas imports by 2027, and the legislation also seeks to prevent Russian gas from entering the bloc indirectly through third countries. \"Any gas, which before its import into the Union, was exported from the Russian Federation, either via direct export from Russia to the Union or via indirect export through a third country, should… be subject to the prohibition,\" the legal text reads — a provision that would also bar companies from using an intermediary to sell Russian gas to the EU. \"Regardless of what happens, we are phasing out Russian gas and LNG. The last shipments will be finished by the end of next year,\" European Commission spokesperson Anna-Kaisa Itkonen told the Kyiv Independent.",
+            "Several senior EU officials told the Kyiv Independent they are frustrated by Washington repeatedly putting forward initiatives without first consulting the bloc. \"The Americans can propose what they want. That doesn't mean we will agree to it,\" one senior EU official said. The disagreement follows another recent clash over Russian assets: in October, the bloc roundly dismissed a U.S. proposal to place 200 billion euros (around $225 billion) in Russian immobilized assets in Europe under U.S. custodianship.",
+            "Beyond its legal commitments, the bloc has little appetite for renewed dependence on Russian fossil fuels after Moscow repeatedly used energy supplies as a political tool. \"We know far too well the hidden costs of being dependent on Russia for the purchase of fossil fuels. They have been weaponized, and we have been paying the price. We do not forget,\" European Commission chief spokesperson Paula Pinho said, adding: \"We should remind ourselves of who cut the supplies in the first place. It was Russia, in case it has been forgotten in the meantime.\" A senior EU official said the bloc's push for energy independence extends beyond the war in Ukraine, citing the Persian Gulf as evidence of its importance, and that the shift away from fossil fuels toward domestic energy sources would continue regardless of the war's outcome."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.1,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "WSJ",
+            "Reuters",
+            "The Kyiv Independent"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/world/europe/u-s-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-0ca62dc7",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/energy/us-pushes-restore-russian-gas-sales-europe-via-ukraine-wsj-reports-2026-11-02/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Kyiv Independent",
+              "url": "https://kyivindependent.com/ukraine-eu-split-over-us-backed-plan-to-bring-russian-gas-back-to-europe/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The United States is pushing a proposal that would allow Russia to resume gas exports to Europe through Ukraine using a U.S. intermediary.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal",
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Washington argues the arrangement could help secure a ceasefire and deliver economic benefits to Kyiv.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal",
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The Wall Street Journal first reported the plan.",
+                "status": "supported",
+                "source_ids": [
+                  "Wall Street Journal",
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "People familiar with the matter confirmed the plan to the Kyiv Independent.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Under the arrangement, Russian gas would flow to Europe through the Druzhba pipeline.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The Druzhba pipeline is an export network stretching roughly 4,500 kilometers (2,800 miles) from Siberian gas fields, including Urengoy, through Russia and Ukraine to Central and Western Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Selling the gas through a U.S. intermediary is intended to circumvent EU sanctions.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "For Ukraine, the deal could generate much-needed transit fees.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Russia is unlikely to agree to pay reparations to Ukraine directly, according to several people familiar with the matter.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Kyiv could present the revenue as a form of compensation from Moscow, according to several people familiar with the matter.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The proceeds could be transferred to a U.S.-proposed prosperity fund that negotiating teams have been discussing as part of a potential postwar arrangement.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "U.S. negotiators Steve Witkoff and Jared Kushner told their Ukrainian counterparts that several mechanisms could prevent the Kremlin from using the money to finance its war.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The mechanisms include transferring the proceeds into an escrow account in a third-party jurisdiction, according to people familiar with the matter.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "U.S. negotiators told Ukrainian officials in September that the deal would be implemented only after Russia ends its war against Ukraine or agrees to a ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "During Istanbul talks with Russia in 2022, Ukrainian negotiators proposed a similar arrangement under which Ukraine would receive what it portrays as reparations from Russia in the form of fees for transporting gas to Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Ukrainian officials have so far been reluctant to comment publicly on the current initiative.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Some Ukrainian officials privately remain cautious about rejecting the initiative outright.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The EU has already committed itself in law to phasing out all Russian gas imports by 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The EU legislation also seeks to prevent Russian gas from entering the bloc indirectly through third countries.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The legal text reads: 'Any gas, which before its import into the Union, was exported from the Russian Federation, either via direct export from Russia to the Union or via indirect export through a third country, should… be subject to the prohibition.'",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "The provision would also bar companies from using an intermediary to sell Russian gas to the EU.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "European Commission spokesperson Anna-Kaisa Itkonen told the Kyiv Independent: 'Regardless of what happens, we are phasing out Russian gas and LNG. The last shipments will be finished by the end of next year.'",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Several senior EU officials told the Kyiv Independent they are frustrated by Washington repeatedly putting forward initiatives without first consulting the bloc.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "One senior EU official said: 'The Americans can propose what they want. That doesn't mean we will agree to it.'",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "In October, the bloc roundly dismissed a U.S. proposal to place 200 billion euros (around $225 billion) in Russian immobilized assets in Europe under U.S. custodianship.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "European Commission chief spokesperson Paula Pinho said: 'We know far too well the hidden costs of being dependent on Russia for the purchase of fossil fuels. They have been weaponized, and we have been paying the price. We do not forget.'",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "Paula Pinho added: 'We should remind ourselves of who cut the supplies in the first place. It was Russia, in case it has been forgotten in the meantime.'",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "A senior EU official said the bloc's push for energy independence extends beyond the war in Ukraine, citing the Persian Gulf as evidence of its importance.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              },
+              {
+                "text": "A senior EU official said the shift away from fossil fuels toward domestic energy sources would continue regardless of the war's outcome.",
+                "status": "supported",
+                "source_ids": [
+                  "Kyiv Independent"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-fed-chair-warsh-to-reduce-frequency-of-rate-sett",
+          "section": "markets",
+          "headline": "Fed Chair Warsh to reduce frequency of rate-setting votes",
+          "beat_label": "Central Banks",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Federal Reserve Chair Kevin Warsh announced last week that the central bank will reduce the number of meetings at which it votes on interest rates, starting in 2027. The Fed will continue to hold eight meetings per year, but under the new plan, one meeting in 2027 will be a strategy session with no rate vote or policy statement. In 2028, two of the eight meetings will be dedicated to strategy, leaving six for rate-setting decisions. The announcement followed the Federal Open Market Committee's Oct. 28 vote to hold the target range for the federal funds rate at 3.75% to 4%, a decision approved 10-2.",
+            "Warsh said the change is intended to reserve time for strategic deliberations among the committee's intellectually diverse members, while maintaining frequent scheduled check-ins on the economy. He declined to specify which meetings would lose rate votes, saying details would not come until fall 2027. Omair Sharif of Inflation Insights told clients he expects the October 2027 session to be the first without a rate vote, as it falls between two meetings that produce quarterly forecasts, which would leave 12 weeks without a scheduled opportunity to change policy. The Fed retains the ability to adjust rates outside of scheduled meetings, as it last did in early 2020.",
+            "The change follows a quarter-point rate increase in September, the first since July 2023, approved unanimously. Warsh has also altered the Fed's communication practices, telling reporters he does not believe in forward guidance in ordinary times and does not submit a rate projection to the committee's dot plot. Mark Hamrick, an economic analyst, said Warsh keeps his proverbial cards closer to his chest than recent predecessors, and that the public may have fewer opportunities to hear directly from the Fed about how and why it makes decisions that affect borrowing and savings rates.",
+            "Some financial professionals said the schedule change could prolong uncertainty for consumers. Jordan Ricciardi, a senior wealth strategy associate at UBS, said a lighter calendar of scheduled meetings could delay relief for those purchasing a home, refinancing a mortgage, or financing a business, as the Fed would be less able to respond quickly to changing conditions. James Vrachas of Post Oak Group said borrowing rates could remain elevated longer even if economic conditions improve, and that the bigger concern for consumers may be whether lenders pass along lower borrowing costs as quickly as they pass along increases.",
+            "Credit card rates, which are tied to the prime rate and move with the Fed's benchmark, are already edging higher as issuers protect themselves from risk, according to LendingTree. Chief credit analyst Matt Schulz said issuers tend to make big moves only when pushed by the Fed. Despite the rate hold, top-yielding online savings accounts are offering interest rates as high as 4% or more, according to Bankrate data. Hamrick advised consumers to shop around, particularly for high-yield savings accounts and certificates of deposit, as the best protection in the current environment."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Bloomberg",
+            "Quartz",
+            "CNBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/opinion/articles/2026-11-02/warsh-s-federal-reserve-should-heed-new-zealand-s-cautionary-tale",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Quartz",
+              "url": "https://qz.com/fed-rate-setting-votes-warsh-strategy-meetings-110226"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/fed-rate-votes-consumer-borrowing-costs.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Federal Reserve Chair Kevin Warsh announced last week that the central bank will reduce the number of meetings at which it votes on interest rates, starting in 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Fed will continue to hold eight meetings per year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Under the new plan, one meeting in 2027 will be a strategy session with no rate vote or policy statement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 2028, two of the eight meetings will be dedicated to strategy, leaving six for rate-setting decisions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The announcement followed the Federal Open Market Committee's Oct. 28 vote to hold the target range for the federal funds rate at 3.75% to 4%.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Oct. 28 vote was approved 10-2.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh said the change is intended to reserve time for strategic deliberations among the committee's intellectually diverse members.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh said the change is intended to maintain frequent scheduled check-ins on the economy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh declined to specify which meetings would lose rate votes, saying details would not come until fall 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Omair Sharif of Inflation Insights told clients he expects the October 2027 session to be the first without a rate vote.",
+                "status": "supported",
+                "source_ids": [
+                  "Inflation Insights"
+                ]
+              },
+              {
+                "text": "Omair Sharif expects the October 2027 session to be the first without a rate vote because it falls between two meetings that produce quarterly forecasts.",
+                "status": "supported",
+                "source_ids": [
+                  "Inflation Insights"
+                ]
+              },
+              {
+                "text": "Omair Sharif expects the October 2027 session to be the first without a rate vote, which would leave 12 weeks without a scheduled opportunity to change policy.",
+                "status": "supported",
+                "source_ids": [
+                  "Inflation Insights"
+                ]
+              },
+              {
+                "text": "The Fed retains the ability to adjust rates outside of scheduled meetings.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Fed last adjusted rates outside of scheduled meetings in early 2020.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The change follows a quarter-point rate increase in September.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The September rate increase was the first since July 2023.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The September rate increase was approved unanimously.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh has altered the Fed's communication practices.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh told reporters he does not believe in forward guidance in ordinary times.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Warsh does not submit a rate projection to the committee's dot plot.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mark Hamrick, an economic analyst, said Warsh keeps his proverbial cards closer to his chest than recent predecessors.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mark Hamrick said the public may have fewer opportunities to hear directly from the Fed about how and why it makes decisions that affect borrowing and savings rates.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Some financial professionals said the schedule change could prolong uncertainty for consumers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jordan Ricciardi, a senior wealth strategy associate at UBS, said a lighter calendar of scheduled meetings could delay relief for those purchasing a home, refinancing a mortgage, or financing a business.",
+                "status": "supported",
+                "source_ids": [
+                  "UBS"
+                ]
+              },
+              {
+                "text": "Jordan Ricciardi said a lighter calendar could delay relief as the Fed would be less able to respond quickly to changing conditions.",
+                "status": "supported",
+                "source_ids": [
+                  "UBS"
+                ]
+              },
+              {
+                "text": "James Vrachas of Post Oak Group said borrowing rates could remain elevated longer even if economic conditions improve.",
+                "status": "supported",
+                "source_ids": [
+                  "Post Oak Group"
+                ]
+              },
+              {
+                "text": "James Vrachas said the bigger concern for consumers may be whether lenders pass along lower borrowing costs as quickly as they pass along increases.",
+                "status": "supported",
+                "source_ids": [
+                  "Post Oak Group"
+                ]
+              },
+              {
+                "text": "Credit card rates are tied to the prime rate and move with the Fed's benchmark.",
+                "status": "supported",
+                "source_ids": [
+                  "LendingTree"
+                ]
+              },
+              {
+                "text": "Credit card rates are already edging higher as issuers protect themselves from risk, according to LendingTree.",
+                "status": "supported",
+                "source_ids": [
+                  "LendingTree"
+                ]
+              },
+              {
+                "text": "Chief credit analyst Matt Schulz said issuers tend to make big moves only when pushed by the Fed.",
+                "status": "supported",
+                "source_ids": [
+                  "LendingTree"
+                ]
+              },
+              {
+                "text": "Despite the rate hold, top-yielding online savings accounts are offering interest rates as high as 4% or more, according to Bankrate data.",
+                "status": "supported",
+                "source_ids": [
+                  "Bankrate"
+                ]
+              },
+              {
+                "text": "Hamrick advised consumers to shop around, particularly for high-yield savings accounts and certificates of deposit, as the best protection in the current environment.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "markets-marvell-s-115-billion-lumentum-deal-sparks-dot-c",
+          "section": "markets",
+          "headline": "Marvell’s $115 Billion All-Stock Lumentum Deal Triggers 10% Stock Plunge and Dot-Com-Era Concerns",
+          "beat_label": "M&A",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Shares of communications semiconductor giant Marvell Technology (NASDAQ:MRVL) plunged 10% as of 12:54 p.m. EDT after the company announced it had agreed to purchase optical laser leader Lumentum (NASDAQ:LITE) in an all-stock deal valued at roughly $115 billion, or a 24% premium.",
+            "The deal is financed entirely through stock. While the 24% premium is not described as egregious, Lumentum’s stock had already rocketed higher over the past two years, and Marvell’s purchase price represents more than five times Lumentum’s share price just one year ago. That history has fueled investor fears that Marvell may be paying a steep price for the asset.",
+            "Marvell likely coveted Lumentum for the same reason the target’s stock has rallied over the past year: its proprietary optical laser technology is increasingly sought and required by next-generation artificial intelligence systems. AI not only requires many more optical interconnects between data centers, but as speeds increase, server racks will also begin replacing traditional copper interconnects with near-packaged and co-packaged optics inside racks, and eventually even inside servers. Marvell already produces a co-packaged optics solution, but management appears to see more opportunity in combining Marvell’s suite of digital signal processors and XPU-attach connectivity with Lumentum’s indium phosphide laser technology to yield highly differentiated products for next-gen AI systems.",
+            "The market is not in the mood for an announcement like this, as investors have recently been dumping AI-related stocks amid a host of potential fears ahead of the mid-term elections. However, AI-related stocks are volatile and have seen severe sell-offs from time to time, yet as long as the long-term AI story remains intact, these stocks have recovered. As of now, while there is a lot of fear and concern, recent reports from major tech companies still show booming AI-related revenues, with guidance for strong growth in 2027 and 2028. As such, both Marvell and Lumentum may be worth a look during this severe sell-off."
+          ],
+          "contested": false,
+          "covered_by": [
+            "MarketWatch",
+            "Yahoo Finance"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "MarketWatch",
+              "url": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-plunged-today-194534312.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Marvell Technology is a communications semiconductor company.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell Technology trades under the ticker NASDAQ:MRVL.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell Technology shares plunged 10% as of 12:54 p.m. EDT.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell Technology announced it had agreed to purchase Lumentum.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum is an optical laser company.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum is described as an optical laser leader.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum trades under the ticker NASDAQ:LITE.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Marvell-Lumentum deal is an all-stock deal.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Marvell-Lumentum deal is valued at roughly $115 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Marvell-Lumentum deal carries a 24% premium.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Marvell-Lumentum deal is financed entirely through stock.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell's share plunge occurred after the company announced the deal.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The 24% premium is not described as egregious.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum's stock had already rocketed higher over the past two years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell's purchase price represents more than five times Lumentum's share price just one year ago.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "That stock history has fueled investor fears.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Investors fear Marvell may be paying a steep price for the asset.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell likely coveted Lumentum for the same reason Lumentum's stock has rallied over the past year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum's stock has rallied over the past year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum's optical laser technology is proprietary.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum's proprietary optical laser technology is increasingly sought by next-generation artificial intelligence systems.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum's proprietary optical laser technology is increasingly required by next-generation artificial intelligence systems.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI requires many more optical interconnects between data centers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "As speeds increase, server racks will begin replacing traditional copper interconnects with near-packaged optics inside racks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "As speeds increase, server racks will begin replacing traditional copper interconnects with co-packaged optics inside racks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Eventually, near-packaged optics will be used inside servers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Eventually, co-packaged optics will be used inside servers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell already produces a co-packaged optics solution.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell has a suite of digital signal processors.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell has XPU-attach connectivity.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Lumentum has indium phosphide laser technology.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell management appears to see more opportunity in combining Marvell's DSP suite and XPU-attach connectivity with Lumentum's indium phosphide laser technology.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Marvell management expects the combination to yield highly differentiated products for next-gen AI systems.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Investors have recently been dumping AI-related stocks.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "There are potential fears ahead of the mid-term elections.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI-related stocks are volatile.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI-related stocks have seen severe sell-offs from time to time.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI-related stocks have recovered when the long-term AI story remained intact.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Recent reports from major tech companies show booming AI-related revenues.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Recent reports from major tech companies include guidance for strong growth in 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Recent reports from major tech companies include guidance for strong growth in 2028.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "AI-related stocks are experiencing a severe sell-off.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.65
+        },
+        {
+          "id": "markets-china-rolls-out-support-measures-to-stabilize-st",
+          "section": "markets",
+          "headline": "China Rolls Out Support Measures to Stabilize Struggling Stock Market",
+          "beat_label": "China Markets",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "China moved to prop up its struggling equity market, rolling out a set of support measures and convening a regulator meeting aimed at shoring up stocks, according to reports from Bloomberg, Reuters and Barron's. Chinese shares rose on news of the regulator's market-support meeting, Bloomberg reported.",
+            "The three outlets framed the same development from different angles: Reuters described the authorities as rolling out support measures to aid struggling stocks, while Barron's characterized the effort as an attempt to put a floor under the Chinese stock market. Bloomberg's report centered on the rally that followed disclosure of the regulator's market-support meeting.",
+            "What is clear is the direction of policy: authorities are acting to arrest the market's decline.",
+            "The stakes are whether official support can hold."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Bloomberg",
+            "Reuters",
+            "Barron's"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-01/china-to-convene-meeting-on-supporting-stock-market-reports-say",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/asia-pacific/chinas-central-bank-taps-liquidity-tool-fund-share-purchases-2026-11-02/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Barron's",
+              "url": "https://www.barrons.com/articles/china-stocks-central-bank-support-ipos-3dd9db0c"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "China moved to prop up its struggling equity market.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg",
+                  "Reuters",
+                  "Barron's"
+                ]
+              },
+              {
+                "text": "China rolled out a set of support measures.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg",
+                  "Reuters",
+                  "Barron's"
+                ]
+              },
+              {
+                "text": "China convened a regulator meeting aimed at shoring up stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg",
+                  "Reuters",
+                  "Barron's"
+                ]
+              },
+              {
+                "text": "Chinese shares rose on news of the regulator's market-support meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Reuters described the authorities as rolling out support measures to aid struggling stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Barron's characterized the effort as an attempt to put a floor under the Chinese stock market.",
+                "status": "supported",
+                "source_ids": [
+                  "Barron's"
+                ]
+              },
+              {
+                "text": "Bloomberg's report centered on the rally that followed disclosure of the regulator's market-support meeting.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Authorities are acting to arrest the market's decline.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg",
+                  "Reuters",
+                  "Barron's"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.65,
+          "significance": 0.65,
+          "image": {
+            "url": "static/img/2026-11-02/markets-china-rolls-out-support-measures-to-stabilize-st.jpg",
+            "alt": "Photograph of Shanghai Stock Exchange building",
+            "credit": "Photo: DXR / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 714
+          }
+        },
+        {
+          "id": "markets-apple-faces-first-earnings-test-under-new-ceo-jo",
+          "section": "markets",
+          "headline": "Apple faces first earnings test under new CEO John Ternus as memory costs surge",
+          "beat_label": "Earnings",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Apple reports fiscal fourth-quarter earnings after the market close on Monday, the first earnings call with John Ternus as chief executive since he took over from Tim Cook on Sept. 1. Analysts polled by LSEG expect earnings per share of $1.99 and revenue of $113.39 billion, while Bloomberg consensus estimates put EPS at $2 and revenue at $113.46 billion. Revenue is expected to rise about 11% from $102.46 billion a year earlier, when Apple reported EPS of $1.85. Apple shares fell 0.4% in premarket trading Monday.",
+            "Wall Street is focused on iPhone revenue, which is projected at $56.48 billion to $56.59 billion, with Yahoo Finance citing a 15% year-over-year increase. The quarter includes eight days of sales of the new iPhone 18 Pro, but the iPhone Duo did not reach store shelves until after the quarter ended: it went up for preorder Oct. 16 and on sale Oct. 23, though Apple could still offer color on demand. Apple also did not announce a new entry-level iPhone 18, and it raised iPhone prices by $100, which may have hurt demand in the quarter. Services, Apple's second-largest segment, is expected to top $31.58 billion; Mac sales are projected at $9.69 billion, wearables at $8.99 billion and iPad at $6.83 billion.",
+            "The 5 p.m. ET call will be the first with Ternus at the helm, and investors want to hear about Apple's plans in China after its AI software got approved, the slew of recent product launches, and how the company is grappling with global shortages of memory and flash storage. Reuters framed the report as Ternus's first earnings test 'as memory costs surge,' while Bloomberg said Apple's '$1 Trillion Rally Leaves No Room for Error on Earnings.'",
+            "Apple has been a relative safe haven among tech stocks this year. Its shares are up roughly 30% over the past 12 months, while Amazon, Google and Nvidia are up single digits, Microsoft is flat and Meta is down about 15%. Over the past month, Google, Meta and Nvidia declined by double digits, with Google and Meta hit after their earnings and Nvidia partly hurt by fears about the AI trade; Amazon is off slightly, leaving just Apple and Microsoft in the green. Apple has been largely insulated from the AI market's highs and lows because it does not spend billions on data centers and does not rely on chip sales for revenue. Earlier this month, its market capitalization eclipsed $5 trillion for the second time; Nvidia is the only other company to reach that milestone.",
+            "Apple is also riding a wave of new product launches. Beyond the iPhone 18 Pros and iPhone Duo, it has debuted new AirPods, Apple Watches, Macs and iPads. Earlier this week it released an upgraded iPad mini, an improved iMac and more powerful MacBook Pros, including one with a touchscreen display, and earlier this month it debuted its first smart home hub, the Apple HomeView. Its next major releases are expected early next year and will include a base iPhone 18 and a follow-up to the iPhone Air."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "Bloomberg",
+            "Reuters",
+            "Yahoo Finance"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/02/apple-aapl-q4-2026-earnings-live-updates.html"
+            },
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-02/apple-s-1-trillion-rally-leaves-no-room-for-error-on-earnings",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/business/retail-consumer/apples-new-ceo-ternus-face-first-earnings-test-memory-costs-surge-2026-11-02/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/article/apple-to-report-q4-earnings-monday-with-iphone-18-sales-in-the-spotlight-190138409.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Apple reports fiscal fourth-quarter earnings after the market close on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "John Ternus became chief executive of Apple on Sept. 1, taking over from Tim Cook.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The earnings call on Monday is the first with John Ternus as chief executive.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Analysts polled by LSEG expect Apple's earnings per share to be $1.99.",
+                "status": "supported",
+                "source_ids": [
+                  "LSEG"
+                ]
+              },
+              {
+                "text": "Analysts polled by LSEG expect Apple's revenue to be $113.39 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "LSEG"
+                ]
+              },
+              {
+                "text": "Bloomberg consensus estimates put Apple's earnings per share at $2.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Bloomberg consensus estimates put Apple's revenue at $113.46 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Apple's revenue is expected to rise about 11% from $102.46 billion a year earlier.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In the year-earlier quarter, Apple reported earnings per share of $1.85.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple shares fell 0.4% in premarket trading on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wall Street projects Apple's iPhone revenue at $56.48 billion to $56.59 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Yahoo Finance cites a 15% year-over-year increase for iPhone revenue.",
+                "status": "supported",
+                "source_ids": [
+                  "Yahoo Finance"
+                ]
+              },
+              {
+                "text": "The fiscal fourth-quarter includes eight days of sales of the new iPhone 18 Pro.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The iPhone Duo did not reach store shelves until after the quarter ended.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The iPhone Duo went up for preorder on Oct. 16.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The iPhone Duo went on sale on Oct. 23.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple could still offer color on demand for the iPhone Duo.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple did not announce a new entry-level iPhone 18.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple raised iPhone prices by $100.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The price increase of $100 for iPhones may have hurt demand in the quarter.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple's Services segment is expected to top $31.58 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Mac sales are projected at $9.69 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Wearables sales are projected at $8.99 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "iPad sales are projected at $6.83 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The earnings call is scheduled for 5 p.m. ET.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Investors want to hear about Apple's plans in China after its AI software got approved.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has launched a slew of recent product launches.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple is grappling with global shortages of memory and flash storage.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Reuters framed the report as Ternus's first earnings test 'as memory costs surge.'",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Bloomberg said Apple's '$1 Trillion Rally Leaves No Room for Error on Earnings.'",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "Apple has been a relative safe haven among tech stocks this year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple's shares are up roughly 30% over the past 12 months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Amazon, Google, and Nvidia shares are up single digits over the past 12 months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Microsoft shares are flat over the past 12 months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Meta shares are down about 15% over the past 12 months.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Over the past month, Google, Meta, and Nvidia declined by double digits.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Google and Meta were hit after their earnings over the past month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Nvidia was partly hurt by fears about the AI trade over the past month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Amazon is off slightly over the past month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple and Microsoft are in the green over the past month.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has been largely insulated from the AI market's highs and lows because it does not spend billions on data centers.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple does not rely on chip sales for revenue.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Earlier this month, Apple's market capitalization eclipsed $5 trillion for the second time.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Nvidia is the only other company to reach a market capitalization of $5 trillion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has debuted new AirPods.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has debuted new Apple Watches.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has debuted new Macs.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple has debuted new iPads.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Earlier this week, Apple released an upgraded iPad mini.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Earlier this week, Apple released an improved iMac.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Earlier this week, Apple released more powerful MacBook Pros, including one with a touchscreen display.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Earlier this month, Apple debuted its first smart home hub, the Apple HomeView.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple's next major releases are expected early next year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple's next major releases will include a base iPhone 18.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Apple's next major releases will include a follow-up to the iPhone Air.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.65
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,553.31",
+            "chg": "−1.44%",
+            "dir": "down",
+            "spark": "1.5,8.4 8.3,5.4 15.2,2.7 22.0,1.5 28.8,2.9 35.7,11.0 42.5,12.5"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "25,212.12",
+            "chg": "−3.06%",
+            "dir": "down",
+            "spark": "1.5,6.4 8.3,4.6 15.2,2.1 22.0,1.5 28.8,4.5 35.7,10.7 42.5,12.5"
+          },
+          {
+            "sym": "Dow",
+            "val": "52,068.79",
+            "chg": "−1.51%",
+            "dir": "down",
+            "spark": "1.5,5.6 8.3,3.3 15.2,3.0 22.0,1.5 28.8,3.6 35.7,12.5 42.5,7.8"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,818.88",
+            "chg": "+1.25%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,11.1 15.2,6.8 22.0,5.3 28.8,1.5 35.7,7.8 42.5,6.8"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.89%",
+            "chg": "-9 bp",
+            "dir": "down",
+            "spark": "1.5,5.7 8.3,5.8 15.2,5.3 22.0,1.5 28.8,5.6 35.7,10.0 42.5,12.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$96.06",
+            "chg": "−5.60%",
+            "dir": "down",
+            "spark": "1.5,4.7 9.7,7.3 17.9,3.3 26.1,4.4 34.3,1.5 42.5,12.5"
+          },
+          {
+            "sym": "Gold",
+            "val": "$3,952.60",
+            "chg": "−2.12%",
+            "dir": "down",
+            "spark": "1.5,3.8 9.7,1.5 17.9,2.9 26.1,4.2 34.3,12.5 42.5,9.1"
+          },
+          {
+            "sym": "BTC",
+            "val": "$76,771",
+            "chg": "−4.99%",
+            "dir": "down",
+            "spark": "1.5,2.6 8.3,1.5 15.2,10.0 22.0,11.5 28.8,10.9 35.7,8.9 42.5,12.5"
+          },
+          {
+            "sym": "VIX",
+            "val": "20.9",
+            "chg": "+7.56%",
+            "dir": "up",
+            "spark": "1.5,5.5 8.3,8.4 15.2,10.8 22.0,12.5 28.8,11.7 35.7,5.6 42.5,1.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "GOOGL",
+            "chg": "−13.1%",
+            "dir": "down"
+          },
+          {
+            "sym": "LLY",
+            "chg": "+8.48%",
+            "dir": "up"
+          },
+          {
+            "sym": "AMD",
+            "chg": "−7.91%",
+            "dir": "down"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "+7.33%",
+            "dir": "up"
+          },
+          {
+            "sym": "NFLX",
+            "chg": "−7.00%",
+            "dir": "down"
+          },
+          {
+            "sym": "BA",
+            "chg": "−6.48%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "3:35 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-trial-begins-in-mlb-pitch-tipping-case",
+          "section": "sports",
+          "headline": "Trial Opens for Guardians Pitchers Accused of Tipping Pitches to Gamblers",
+          "beat_label": "MLB",
+          "byline": "Sports desk",
+          "body": [
+            "Former Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz went on trial Monday in Brooklyn federal court on charges of accepting bribes to help gamblers win hundreds of thousands of dollars by betting on individual pitches in Major League Baseball. The jury trial, expected to last about a month before Judge Kiyo A. Matsumoto, began with jury selection; the judge said she hoped to complete selection quickly enough for opening statements later Monday.",
+            "According to an indictment, Clase, 28, began providing gamblers with information about his pitches in 2023 and recruited Ortiz, 27, into the scheme in 2025. The gamblers, both from the Dominican Republic, paid the pitchers thousands of dollars and used the inside information to win at least $460,000 on in-game prop bets on the speed and outcome of specific pitches. Clase and Ortiz have pleaded not guilty to charges including wire fraud conspiracy, honest services wire fraud conspiracy, money laundering conspiracy, and conspiracy to influence sporting contests by bribery.",
+            "Clase, a three-time All-Star and two-time American League Reliever of the Year, was in the fourth season of a five-year, $20 million contract when the charges were revealed in November 2025. Ortiz had earned $782,600 as a starting pitcher for the Guardians in the 2025 season. Both are on non-disciplinary leave from the club without pay while their case proceeds. Ortiz’s lawyers had unsuccessfully sought to have him tried separately from Clase.",
+            "Defense lawyers are expected to argue that the pitchers did not collude with gamblers and were instead varying pitch placement strategically to fool batters. On Friday, Judge Matsumoto ruled that prosecutors cannot show the jury evidence that Clase owed $500,000 in U.S. taxes, because the government provided the evidence to defense lawyers only days earlier, well after a deadline for turning over evidence. Prosecutors had wanted to use the tax debt to counter any defense claim that Clase had no financial incentive to collude, given millions of dollars in accounts in the Dominican Republic.",
+            "Several professional baseball players, including catchers and baseball executives, are among expected witnesses. MLB and the Guardians have said they fully cooperated with authorities. MLB said it contacted federal law enforcement after beginning to investigate unusual betting activity."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Al Jazeera",
+            "NYT",
+            "ESPN"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/sports/2026/11/2/mlb-spot-fixing-trial-set-to-begin-in-us-court"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/02/nyregion/cleveland-guardians-gambling-trial.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/mlb/story/_/id/50328511/mlb-guardians-emmanuel-clase-luis-ortiz-pitch-rigging-trial"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Former Cleveland Guardians pitchers Emmanuel Clase and Luis Ortiz went on trial Monday in Brooklyn federal court.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The charges against Clase and Ortiz are accepting bribes to help gamblers win hundreds of thousands of dollars by betting on individual pitches in Major League Baseball.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The jury trial is expected to last about a month before Judge Kiyo A. Matsumoto.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The trial began with jury selection.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Judge Matsumoto said she hoped to complete selection quickly enough for opening statements later Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to an indictment, Clase began providing gamblers with information about his pitches in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Clase is 28 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to the indictment, Clase recruited Ortiz into the scheme in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ortiz is 27 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The gamblers are both from the Dominican Republic.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The gamblers paid the pitchers thousands of dollars.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The gamblers used the inside information to win at least $460,000 on in-game prop bets on the speed and outcome of specific pitches.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Clase and Ortiz have pleaded not guilty to charges including wire fraud conspiracy, honest services wire fraud conspiracy, money laundering conspiracy, and conspiracy to influence sporting contests by bribery.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Clase was a three-time All-Star and two-time American League Reliever of the Year.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Clase was in the fourth season of a five-year, $20 million contract when the charges were revealed in November 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ortiz had earned $782,600 as a starting pitcher for the Guardians in the 2025 season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Both Clase and Ortiz are on non-disciplinary leave from the club without pay while their case proceeds.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ortiz’s lawyers had unsuccessfully sought to have him tried separately from Clase.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Defense lawyers are expected to argue that the pitchers did not collude with gamblers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Defense lawyers are expected to argue that the pitchers were instead varying pitch placement strategically to fool batters.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "On Friday, Judge Matsumoto ruled that prosecutors cannot show the jury evidence that Clase owed $500,000 in U.S. taxes.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The government provided the tax evidence to defense lawyers only days earlier, well after a deadline for turning over evidence.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Prosecutors had wanted to use the tax debt to counter any defense claim that Clase had no financial incentive to collude, given millions of dollars in accounts in the Dominican Republic.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Several professional baseball players, including catchers and baseball executives, are among expected witnesses.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "MLB and the Guardians have said they fully cooperated with authorities.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "MLB said it contacted federal law enforcement after beginning to investigate unusual betting activity.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "sports-arsenal-beat-liverpool-amid-penalty-controversy",
+          "section": "sports",
+          "headline": "Arsenal beat Liverpool amid penalty controversy",
+          "beat_label": "Premier League",
+          "byline": "Sports desk",
+          "body": [
+            "Arsenal moved three points clear at the top of the Premier League table with a rare 1-0 victory at Liverpool on Sunday, their first win at Anfield since 2012. The match was overshadowed by a controversial moment in the second half when Liverpool striker Alexander Isak appeared to be denied a penalty after Arsenal defender Jurrien Timber pulled his shirt as a cross came into the area. Replays showed Timber with a handful of Isak's shirt, seemingly preventing the Sweden international from heading the ball, but referee Andy Madley did not see an offence and video assistant referee (VAR) Stuart Attwell decided there was not enough for a review.",
+            "Liverpool manager Andoni Iraola was left frustrated by the decision. \"There is a clear grab of the shirt,\" he said after the defeat. \"The answer is you have to dive, if you don't dive they won't call it.\" Iraola's comments reflect a growing debate about whether players must exaggerate contact to win penalties. In a similar incident in February, Fulham's Calvin Bassey went to ground after a shirt pull by Sunderland's Brian Brobbey, and VAR Tony Harrington sent referee Craig Pawson to the monitor to award a penalty. \"If he goes to the floor, they call the penalty 100%,\" Iraola added. \"It shouldn't be like this but it is what it is.\"",
+            "The incident has reignited discussion about the threshold for VAR intervention in the Premier League. Shirt pulling is not an automatic foul; the determination is always about how it affects the opponent. Former Premier League assistant referee Darren Cann noted that Isak did not even appeal, saying, \"It has to be sustained holding - some will say it was sustained, some will say it wasn't. But it's interesting that Isak didn't even appeal.\" Danny Murphy, speaking on Match of the Day, said, \"Arsenal got lucky. If Isak maybe makes a bit more of it. I hate to see players exaggerate, but he's going to score. It's a big moment in the game.\"",
+            "The Premier League has seen a high bar for VAR intervention this season, with only one missed intervention according to the Key Match Incidents Panel. The number of subjective reviews (14) after nine rounds is exactly the same as last season. Uefa referees' chief Roberto Rosetti said in the summer that there were \"too many reviews,\" leading to attempts to play for or earn video decisions. There is now a greater focus on players who dive or embellish contact to 'win' penalties. Iraola clearly does not share the sentiment that the balance is right, but the video referees argue they are getting it right with only one missed intervention so far this season."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Arsenal moved three points clear at the top of the Premier League table with a 1-0 victory at Liverpool on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Arsenal's victory at Liverpool was their first win at Anfield since 2012.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Liverpool striker Alexander Isak appeared to be denied a penalty after Arsenal defender Jurrien Timber pulled his shirt as a cross came into the area.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Replays showed Timber with a handful of Isak's shirt, seemingly preventing Isak from heading the ball.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Referee Andy Madley did not see an offence on the shirt pull.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Video assistant referee (VAR) Stuart Attwell decided there was not enough for a review.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Liverpool manager Andoni Iraola said after the defeat: 'There is a clear grab of the shirt.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iraola said: 'The answer is you have to dive, if you don't dive they won't call it.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In a similar incident in February, Fulham's Calvin Bassey went to ground after a shirt pull by Sunderland's Brian Brobbey.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In that February incident, VAR Tony Harrington sent referee Craig Pawson to the monitor to award a penalty.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iraola said: 'If he goes to the floor, they call the penalty 100%.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iraola said: 'It shouldn't be like this but it is what it is.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Shirt pulling is not an automatic foul; the determination is always about how it affects the opponent.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Former Premier League assistant referee Darren Cann noted that Isak did not even appeal.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Darren Cann said: 'It has to be sustained holding - some will say it was sustained, some will say it wasn't.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Darren Cann said: 'It's interesting that Isak didn't even appeal.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Danny Murphy, speaking on Match of the Day, said: 'Arsenal got lucky.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Danny Murphy said: 'If Isak maybe makes a bit more of it... he's going to score.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Danny Murphy said: 'It's a big moment in the game.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Premier League has seen a high bar for VAR intervention this season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to the Key Match Incidents Panel, there has been only one missed VAR intervention this season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The number of subjective reviews (14) after nine rounds is exactly the same as last season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Uefa referees' chief Roberto Rosetti said in the summer that there were 'too many reviews.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "There is now a greater focus on players who dive or embellish contact to 'win' penalties.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Iraola clearly does not share the sentiment that the balance is right.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The video referees argue they are getting it right with only one missed intervention so far this season.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-fda-grants-accelerated-approval-to-inovio-s-dna-",
+          "section": "health-science",
+          "headline": "FDA grants accelerated approval to Inovio's DNA-based immunotherapy Voceryq for rare HPV airway disease",
+          "beat_label": "FDA Approvals",
+          "byline": "Health & Science desk",
+          "body": [
+            "The U.S. Food and Drug Administration on Oct. 30 granted accelerated approval to Voceryq (formerly INO-3107), Inovio Pharmaceuticals' first commercial product and the first FDA-approved plasmid DNA-based immunotherapy. The treatment is indicated for adults with recurrent respiratory papillomatosis (RRP), a rare disease in which infection with human papillomavirus types 6 and 11 causes benign papillomas to grow in the airways, throat and larynx, often requiring repeated surgeries to maintain breathing, speaking and swallowing. Inovio expects initial shipments in about 60 days and full commercial deployment in the first quarter of 2027.",
+            "Voceryq consists of two DNA plasmids: one encoding the E6 and E7 proteins of HPV-6 and HPV-11, and another encoding human interleukin-12 to enhance the immune response. The therapy is administered via Inovio's proprietary CELLECTRA device, which injects the treatment into muscle tissue and applies short electrical pulses to facilitate cellular entry. The drug can be stored under standard refrigeration and has a three-year shelf life. Inovio Chief Medical Officer Michael Sumner said the straightforward distribution requirements should allow administration in a doctor's office.",
+            "The accelerated approval was based on a multicenter clinical trial involving 32 adults who had undergone at least two surgeries in the year before treatment. Among 26 patients who had at least three surgeries in that period, 27% required no additional surgery in the 12 months after treatment. Inovio President and CEO Jacqueline Shea said the FDA recognized the therapeutic benefit of Voceryq in reducing surgery frequency. The approval followed an initial regulatory hurdle: when Inovio submitted its application in March, the FDA indicated the company had not provided adequate information for the accelerated pathway, reflecting a broader tightening of rare-disease approvals under then-Commissioner Marty Makary.",
+            "In a statement, Karim Mikhail, director of the FDA's Center for Biologics Evaluation and Research, called Voceryq \"a meaningful scientific breakthrough\" that \"could mean fewer surgeries, fewer disruptions, and more time living their lives on their own terms.\" He noted that adults with RRP often face an exhausting cycle of repeated surgeries, and that the approval represents a plasmid DNA-based immunotherapy that harnesses the immune system to fight the underlying cause of the disease. Before Voceryq, patients had limited options beyond surgery, which carries risks of permanent vocal cord or airway damage, Sumner explained during an investor call.",
+            "Under the accelerated approval pathway, Inovio is required to conduct a confirmatory study. Sumner said the company has agreed with the FDA that the study will enroll at least 50 adult and pediatric patients with RRP who required three or more surgical interventions in the 12 months prior to treatment. The study will evaluate the number of surgical interventions needed over at least three years following treatment, comparing results to an external control group or a scientifically justified threshold. A draft protocol is expected for FDA review before the end of 2026, with final alignment by mid-2027. Inovio may also explore continued treatment for patients without a sustained complete response.",
+            "Inovio priced Voceryq at approximately $115,000 per dose, or $460,000 for the four-dose regimen. The company said current funding supports operations through early 2027 but that additional capital will be needed to fully fund the launch. Based on claims data, Inovio estimates at least 25,000 people in the U.S. are living with RRP, and Shea said the vast majority of the market remains available to Voceryq as patients seek alternatives to surgery. The Recurrent Respiratory Papillomatosis Foundation recently published a position statement supporting early initiation of immunotherapy, and Shea said the key opinion leader community is extremely supportive of starting treatment as soon as possible after diagnosis."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Finance",
+            "Fierce Pharma",
+            "TIKR.com",
+            "The American Journal of Managed Care",
+            "Pharmaceutical Executive",
+            "Pharmacy Times",
+            "Contemporary OB/GYN"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/healthcare/articles/inovio-wins-fda-approval-voceryq-151253077.html"
+            },
+            {
+              "outlet": "Fierce Pharma",
+              "url": "https://www.fiercepharma.com/pharma/inovio-dna-based-immunotherapy-voceryq-approved-fda-rare-hpv-airway-disease"
+            },
+            {
+              "outlet": "TIKR.com",
+              "url": "https://www.tikr.com/blog/precigen-sinks-26-as-inovio-wins-fda-approval-for-papzimeos-rival-days-before-earnings?"
+            },
+            {
+              "outlet": "The American Journal of Managed Care",
+              "url": "https://www.ajmc.com/view/fda-approves-first-plasmid-dna-based-immunotherapy-for-adults-with-rrp"
+            },
+            {
+              "outlet": "Pharmaceutical Executive",
+              "url": "https://www.pharmexec.com/view/fda-grants-accelerated-approval-voceryq-rrp-"
+            },
+            {
+              "outlet": "Pharmacy Times",
+              "url": "https://www.pharmacytimes.com/view/fda-grants-accelerated-approval-to-first-plasmid-dna-based-immunotherapy-for-recurrent-respiratory-papillomatosis"
+            },
+            {
+              "outlet": "Contemporary OB/GYN",
+              "url": "https://www.contemporaryobgyn.net/view/fda-accelerated-approval-voceryq-recurrent-respiratory-papillomatosis"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The U.S. Food and Drug Administration on Oct. 30 granted accelerated approval to Voceryq (formerly INO-3107).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq is Inovio Pharmaceuticals' first commercial product.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq is the first FDA-approved plasmid DNA-based immunotherapy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq is indicated for adults with recurrent respiratory papillomatosis (RRP).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "RRP is a rare disease in which infection with human papillomavirus types 6 and 11 causes benign papillomas to grow in the airways, throat and larynx.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "RRP often requires repeated surgeries to maintain breathing, speaking and swallowing.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio expects initial shipments in about 60 days.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio expects full commercial deployment in the first quarter of 2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq consists of two DNA plasmids: one encoding the E6 and E7 proteins of HPV-6 and HPV-11, and another encoding human interleukin-12 to enhance the immune response.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq is administered via Inovio's proprietary CELLECTRA device.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The CELLECTRA device injects the treatment into muscle tissue and applies short electrical pulses to facilitate cellular entry.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq can be stored under standard refrigeration.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Voceryq has a three-year shelf life.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio Chief Medical Officer Michael Sumner said the straightforward distribution requirements should allow administration in a doctor's office.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "The accelerated approval was based on a multicenter clinical trial involving 32 adults who had undergone at least two surgeries in the year before treatment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Among 26 patients who had at least three surgeries in that period, 27% required no additional surgery in the 12 months after treatment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio President and CEO Jacqueline Shea said the FDA recognized the therapeutic benefit of Voceryq in reducing surgery frequency.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "When Inovio submitted its application in March, the FDA indicated the company had not provided adequate information for the accelerated pathway.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The FDA's indication of inadequate information reflected a broader tightening of rare-disease approvals under then-Commissioner Marty Makary.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Karim Mikhail is director of the FDA's Center for Biologics Evaluation and Research.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Karim Mikhail called Voceryq 'a meaningful scientific breakthrough'.",
+                "status": "supported",
+                "source_ids": [
+                  "FDA"
+                ]
+              },
+              {
+                "text": "Karim Mikhail said Voceryq 'could mean fewer surgeries, fewer disruptions, and more time living their lives on their own terms.'",
+                "status": "supported",
+                "source_ids": [
+                  "FDA"
+                ]
+              },
+              {
+                "text": "Karim Mikhail noted that adults with RRP often face an exhausting cycle of repeated surgeries.",
+                "status": "supported",
+                "source_ids": [
+                  "FDA"
+                ]
+              },
+              {
+                "text": "Karim Mikhail said the approval represents a plasmid DNA-based immunotherapy that harnesses the immune system to fight the underlying cause of the disease.",
+                "status": "supported",
+                "source_ids": [
+                  "FDA"
+                ]
+              },
+              {
+                "text": "Before Voceryq, patients had limited options beyond surgery.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Surgery carries risks of permanent vocal cord or airway damage.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Michael Sumner explained during an investor call that surgery carries risks of permanent vocal cord or airway damage.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "Under the accelerated approval pathway, Inovio is required to conduct a confirmatory study.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Michael Sumner said the company has agreed with the FDA that the confirmatory study will enroll at least 50 adult and pediatric patients with RRP who required three or more surgical interventions in the 12 months prior to treatment.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "The confirmatory study will evaluate the number of surgical interventions needed over at least three years following treatment.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The confirmatory study will compare results to an external control group or a scientifically justified threshold.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A draft protocol for the confirmatory study is expected for FDA review before the end of 2026.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Final alignment on the confirmatory study protocol is expected by mid-2027.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio may also explore continued treatment for patients without a sustained complete response.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio priced Voceryq at approximately $115,000 per dose.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The four-dose regimen of Voceryq costs approximately $460,000.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Inovio said current funding supports operations through early 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "Inovio said additional capital will be needed to fully fund the launch.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "Based on claims data, Inovio estimates at least 25,000 people in the U.S. are living with RRP.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "Jacqueline Shea said the vast majority of the market remains available to Voceryq as patients seek alternatives to surgery.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              },
+              {
+                "text": "The Recurrent Respiratory Papillomatosis Foundation recently published a position statement supporting early initiation of immunotherapy.",
+                "status": "supported",
+                "source_ids": [
+                  "Recurrent Respiratory Papillomatosis Foundation"
+                ]
+              },
+              {
+                "text": "Jacqueline Shea said the key opinion leader community is extremely supportive of starting treatment as soon as possible after diagnosis.",
+                "status": "supported",
+                "source_ids": [
+                  "Inovio"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-spacex-reportedly-wants-to-buy-boost-mobile-to-c",
+          "section": "tech-ai",
+          "headline": "SpaceX reportedly seeks to buy Boost Mobile from EchoStar to compete with top US carriers",
+          "beat_label": "Telecom",
+          "byline": "Tech / AI desk",
+          "body": [
+            "SpaceX is looking to acquire Boost Mobile from EchoStar, according to a report from The Washington Post, a move that would help the Elon Musk-owned company build a hybrid cellular-satellite network and potentially become the fourth-largest wireless provider in the United States. EchoStar has about 7.5 million customers between Boost Mobile and Gen Mobile, its other mobile service offering.",
+            "The acquisition would complement SpaceX's existing satellite-cellular efforts. In 2024, the company began offering satellite connectivity to T-Mobile subscribers through its Starlink service. Last year, SpaceX also purchased $17 billion worth of wireless spectrum from EchoStar for cellular services, a move that Musk said at the time on X was 'the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.' The reported interest in buying Boost Mobile suggests that the spectrum acquisition was not the last piece.",
+            "Musk reportedly spoke directly with EchoStar chairman Charlie Ergen in October about acquiring Boost Mobile. Boost does not operate its own cell towers; instead, it leases capacity from AT&T and T-Mobile. Sources told The Post that network leases are usually nontransferable, and AT&T and T-Mobile might need to approve such a deal. Musk has previously approached AT&T, T-Mobile, and Verizon about buying capacity on their networks, but all three rejected him, according to the report.",
+            "The three largest U.S. wireless providers each have over 100 million subscribers, dwarfing Boost Mobile's base. However, the true value of the acquisition for SpaceX would be gaining access to terrestrial cellular networks. Boost currently covers most of the 48 contiguous states, allowing Starlink to cover devices when they’re outdoors and relying on cell towers to handle devices when Starlink signals can’t reach them.",
+            "The report said AT&T, T-Mobile, and Verizon may still have a say in a SpaceX acquisition of Boost Mobile."
+          ],
+          "contested": false,
+          "covered_by": [
+            "TechCrunch"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "SpaceX is looking to acquire Boost Mobile from EchoStar.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The report about SpaceX looking to acquire Boost Mobile is from The Washington Post.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The acquisition would help SpaceX build a hybrid cellular-satellite network.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The acquisition could potentially make SpaceX the fourth-largest wireless provider in the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "EchoStar has about 7.5 million customers between Boost Mobile and Gen Mobile.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Gen Mobile is EchoStar's other mobile service offering.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "In 2024, SpaceX began offering satellite connectivity to T-Mobile subscribers through its Starlink service.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Last year, SpaceX purchased $17 billion worth of wireless spectrum from EchoStar for cellular services.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Musk said at the time on X that the spectrum purchase was 'the last critical piece of the spectrum puzzle needed for SpaceX to provide complete phone coverage in America.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The reported interest in buying Boost Mobile suggests that the spectrum acquisition was not the last piece.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Musk reportedly spoke directly with EchoStar chairman Charlie Ergen in October about acquiring Boost Mobile.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Boost Mobile does not operate its own cell towers.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Boost Mobile leases capacity from AT&T and T-Mobile.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Sources told The Post that network leases are usually nontransferable.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "AT&T and T-Mobile might need to approve such a deal.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Musk has previously approached AT&T, T-Mobile, and Verizon about buying capacity on their networks.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "All three (AT&T, T-Mobile, and Verizon) rejected Musk's approaches, according to the report.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The three largest U.S. wireless providers each have over 100 million subscribers.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Boost Mobile's subscriber base is dwarfed by the three largest U.S. wireless providers.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The true value of the acquisition for SpaceX would be gaining access to terrestrial cellular networks.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "Boost Mobile currently covers most of the 48 contiguous states.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The coverage would allow Starlink to cover devices when they’re outdoors and rely on cell towers when Starlink signals can’t reach them.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              },
+              {
+                "text": "The report said AT&T, T-Mobile, and Verizon may still have a say in a SpaceX acquisition of Boost Mobile.",
+                "status": "supported",
+                "source_ids": [
+                  "The Washington Post"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-russian-bombing-kills-24-at-ukrainian-aid-centre"
+    },
+    {
+      "section": "politics",
+      "story_id": "politics-trump-administration-asks-supreme-court-to-inter"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-china-rolls-out-support-measures-to-stabilize-st"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Trump closes midterm campaign with Reflecting Pool speech, floats preemptive pardons and 'Mr. Veto'",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Haley Stevens' endorsement of Republican Mike Rogers roils Michigan Senate race",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Binance users withdraw $3.6bn after largest-ever crypto hack linked to North Korea",
+      "reason": "synthesis failed: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Anthropic's revenue jumps 1,127% ahead of IPO, but $895 billion in compute commitments and accounting charges drive a $23.3 billion quarterly loss",
+      "reason": "re-verification error after revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Antonelli clinches F1 title to become youngest world champion in history",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Lions LB Jack Campbell remains hospitalized; team says 'preliminary indications are positive'",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "FDA tentatively approves first generic lenacapavir for HIV prevention, widening access for lower-income countries",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "STAT investigation finds 'three-parent IVF' marketed to older women as fertility treatment despite scant evidence",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Marvell to buy Lumentum for $115B in all-stock deal, one of tech's largest ever",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "New York Times and other publishers sue Brave browser over AI scraping and paywall bypass",
+      "reason": "fact-check error: ValueError",
+      "verdict": "hold"
+    }
+  ]
+}
