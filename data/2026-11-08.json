@@ -1,0 +1,3441 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "edition": "Morning edition",
+  "generated_at": "2026-11-08T16:45:03+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-trump-offers-dana-white-white-house-press-secret",
+          "section": "politics",
+          "headline": "Trump offers Dana White White House press secretary role; White says he will meet Monday",
+          "beat_label": "White House",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "NPR",
+            "The Hill",
+            "BBC",
+            "WBAL-TV",
+            "CNN",
+            "DW",
+            "Washington Post",
+            "PBS",
+            "WLWT",
+            "CBS News"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6206479-dana-white-trump-press-secretary/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WBAL-TV",
+              "url": "https://www.wbaltv.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119"
+            },
+            {
+              "outlet": "Washington Post",
+              "url": "https://www.washingtonpost.com/politics/2026/11/07/ufc-dana-white-offered-white-house-press-secretary-role-trump-says/",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/politics/trump-says-hes-asked-ufcs-dana-white-to-be-his-press-secretary",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WLWT",
+              "url": "https://www.wlwt.com/article/ufc-ceo-dana-white-press-secretary-offer/74367833"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/news/trump-offers-white-house-press-secretary-role-dana-white/",
+              "lean": -0.2,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Trump posted on Truth Social Saturday that he offered UFC CEO Dana White the job of White House press secretary.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump called Dana White 'a violent Fighter and Warrior' in the post.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump wrote 'Dana will be a Press Secretary like none other. Dana, please take the job!' in the post.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump's post asked White to bring six named UFC fighters along as 'assistants.'",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump's post said 'even though some are not from our Country' regarding the fighters.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump's post said the fighters would help 'defend us against the Lunatic Left.'",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "White was in London Saturday for a boxing event.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "White told reporters he will fly to Washington and meet with Trump at the White House on Monday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "White has not publicly accepted the position.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "White posted an Instagram photo of himself standing at the White House press briefing room podium.",
+                "status": "supported",
+                "source_ids": [
+                  "Instagram"
+                ]
+              },
+              {
+                "text": "The Instagram photo caption was 'On to the next chapter.'",
+                "status": "supported",
+                "source_ids": [
+                  "Instagram"
+                ]
+              },
+              {
+                "text": "CNN reported, citing a source familiar with the matter, that White had declined the offer.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN"
+                ]
+              },
+              {
+                "text": "A White House aide separately described the offer as a joke.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "White House Communications Director Steven Cheung posted on X, 'Hell yeah! Do it, @DanaWhite!' in response to Trump's offer.",
+                "status": "supported",
+                "source_ids": [
+                  "X"
+                ]
+              },
+              {
+                "text": "The White House press secretary post has been vacant since Karoline Leavitt left at the end of August.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Karoline Leavitt's successor, Katie Zacharia, departed after five days on the job in late October/early November.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The offer came one day after Trump announced Stephen Miller would replace Susie Wiles as chief of staff.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The broader White House shake-up followed Republican losses in the Nov. midterm elections that gave Democrats control of both chambers of Congress.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump helped the fledgling UFC by hosting early events at his Atlantic City casino in 2001.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dana White has spoken at three Republican National Conventions (2016, 2020, 2024).",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The UFC staged a cage match on the White House South Lawn in June 2025.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dana White holds the role of UFC president/CEO.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dana White holds the role of head of the Power Slap league.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dana White is founder of the newly launched Zuffa Boxing promotion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dana White holds a board seat at Meta.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "President Trump posted on Truth Social Saturday that he offered UFC CEO Dana White the job of White House press secretary, calling him \"a violent Fighter and Warrior\" and writing \"Dana will be a Press Secretary like none other. Dana, please take the job!\"",
+              "Trump's post asked White to bring six named UFC fighters along as \"assistants,\" saying \"even though some are not from our Country,\" to help \"defend us against the Lunatic Left.\"",
+              "White, who was in London Saturday for a boxing event, told reporters he will fly to Washington and meet with Trump at the White House on Monday; he has not publicly accepted the position.",
+              "White posted an Instagram photo of himself standing at the White House press briefing room podium with the caption \"On to the next chapter.\"",
+              "CNN reported, citing a source familiar with the matter, that White had declined the offer; a White House aide separately described the offer as a joke.",
+              "White House Communications Director Steven Cheung posted on X, \"Hell yeah! Do it, @DanaWhite!\" in response to Trump's offer.",
+              "The White House press secretary post has been vacant since Karoline Leavitt left at the end of August; her successor, Katie Zacharia, departed after five days on the job in late October/early November.",
+              "The offer came one day after Trump announced Stephen Miller would replace Susie Wiles as chief of staff, amid a broader White House shake-up following Republican losses in the Nov. midterm elections that gave Democrats control of both chambers of Congress."
+            ],
+            "analysis": "Dana White and Donald Trump have a long-standing personal and political relationship: Trump helped the fledgling UFC by hosting early events at his Atlantic City casino in 2001, White has spoken at three Republican National Conventions (2016, 2020, 2024), and the UFC staged a cage match on the White House South Lawn in June 2025. White also holds several other high-profile roles, including UFC president/CEO, head of the Power Slap league, founder of the newly launched Zuffa Boxing promotion, and a board seat at Meta, making the press secretary offer logistically unusual regardless of its seriousness. The episode unfolded against a backdrop of administration turmoil — a vacant, high-turnover press secretary post and a simultaneous chief-of-staff change — all occurring just days after Republicans suffered significant midterm losses that will hand Democrats control of Congress in January.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Whether read as a genuine offer or a publicity gesture, the episode underscores how unsettled and improvised the White House communications operation has become, with the press secretary post sitting vacant through multiple short-lived appointments even as other senior staffing changes proceed.",
+            "implications": "The Monday meeting between Trump and White should clarify whether the offer was serious and whether White will take on, decline, or informally advise on the press secretary role, while the White House communications post remains unfilled amid broader staffing changes as the administration adjusts to incoming divided government in January."
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "politics-attorney-general-blanche-dodges-questions-on-inv",
+          "section": "politics",
+          "headline": "Attorney General Blanche dodges questions on investigating Democrats after Trump orders DOJ probe",
+          "beat_label": "Justice",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.03,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "Fox News",
+            "CNN"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/homenews/administration/6206582-attorney-general-blanche-dodges-investigation-questions/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/11/08/politics/live-news/midterm-election-trump-congress",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "President Trump posted on Truth Social Saturday directing the Department of Justice to investigate Democratic lawmakers over alleged 'extortionist' threats against administration officials.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump called the alleged conduct a 'criminal act'.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump's post followed Democrats regaining majorities in the House and Senate in the midterm elections.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Two House Democrats, Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.), had publicly said in prior interviews that they would support impeaching Attorney General Todd Blanche.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Trump named only one Democratic politician in his post, Sen. Elissa Slotkin (D-Mich.).",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump accused Sen. Elissa Slotkin of threatening to 'go after' young people who hold Republican values.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump alleged, without naming individuals, that Democrats have threatened Republican donors with imprisonment over their political views.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Appearing on CNN's 'State of the Union' Sunday, Attorney General Todd Blanche declined to say whether he would open investigations into Democratic members of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "CNN"
+                ]
+              },
+              {
+                "text": "Incoming House Oversight Committee Chairman Robert Garcia accused Blanche of 'threatening' committee lawmakers with investigations in order to deter oversight activity.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The 2025 midterms handed Democrats control of both the House and Senate.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rep. Hank Johnson (D-Ga.) said he believes Blanche's conduct 'demand[s] that he be impeached and convicted and removed from office'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Incoming Oversight Chairman Robert Garcia said Blanche is 'threatening' lawmakers on his committee with investigations to deter them from conducting oversight.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "President Trump said Democrats have been threatening officials, including Blanche, and GOP donors with impeachment, imprisonment, and 'many other forms of punishment' despite admitting they have no reason to do so.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              },
+              {
+                "text": "Trump said these 'EXTORTIONISTS' should be imprisoned and investigated by the DOJ.",
+                "status": "supported",
+                "source_ids": [
+                  "Truth Social"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "President Trump posted on Truth Social Saturday directing the Department of Justice to investigate Democratic lawmakers over alleged 'extortionist' threats against administration officials, calling the alleged conduct a 'criminal act'",
+              "Trump's post followed Democrats regaining majorities in the House and Senate in the midterm elections",
+              "Two House Democrats, Reps. Hank Johnson (D-Ga.) and Deborah Ross (D-N.C.), had publicly said in prior interviews that they would support impeaching Attorney General Todd Blanche",
+              "Trump named only one Democratic politician in his post, Sen. Elissa Slotkin (D-Mich.), accusing her of threatening to 'go after' young people who hold Republican values",
+              "Trump also alleged, without naming individuals, that Democrats have threatened Republican donors with imprisonment over their political views",
+              "Appearing on CNN's 'State of the Union' Sunday, Attorney General Todd Blanche declined to say whether he would open investigations into Democratic members of Congress",
+              "Incoming House Oversight Committee Chairman Robert Garcia accused Blanche of 'threatening' committee lawmakers with investigations in order to deter oversight activity"
+            ],
+            "analysis": "This dispute emerged immediately after the 2025 midterms handed Democrats control of both the House and Senate, shifting the balance of power in Washington and setting up fights over oversight of the Trump administration. Trump's Truth Social post directing the DOJ to investigate Democrats came amid public statements from Reps. Hank Johnson and Deborah Ross expressing support for impeaching Blanche, as well as reporting that Democrats planned to scrutinize some Republican donors once they take control of congressional committees, though Trump did not explicitly tie his directive to those specific developments. The episode sits alongside a separate, concurrent fight over Rep. Thomas Massie's push to force an impeachment vote on Hegseth, illustrating a broader moment of escalating institutional conflict between the executive branch and an incoming Democratic-controlled Congress.",
+            "debate": {
+              "dem": [
+                "Rep. Hank Johnson (D-Ga.) said he believes Blanche's conduct 'demand[s] that he be impeached and convicted and removed from office'",
+                "Incoming Oversight Chairman Robert Garcia said Blanche is 'threatening' lawmakers on his committee with investigations to deter them from conducting oversight"
+              ],
+              "rep": [
+                "President Trump said Democrats have been threatening officials, including Blanche, and GOP donors with impeachment, imprisonment, and 'many other forms of punishment' despite admitting they have no reason to do so, and said these 'EXTORTIONISTS' should be imprisoned and investigated by the DOJ"
+              ]
+            },
+            "steelman": "Both sides are invoking the language of threats and intimidation against the other — Trump casts Democratic impeachment talk as extortion warranting criminal investigation, while Democrats cast the resulting DOJ probe as retaliatory intimidation meant to chill oversight — making this less a dispute over facts than a mutual-escalation standoff over how far each branch can go in targeting the other.",
+            "implications": "Whether the DOJ opens formal investigations into named Democrats like Slotkin, and whether Blanche clarifies his intentions toward Oversight Committee members, will shape how aggressively the incoming Democratic-controlled Congress pursues oversight and impeachment efforts, including the pending Hegseth impeachment vote Massie plans to force this week."
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "politics-sotomayor-hopes-supreme-court-will-overturn-pres",
+          "section": "politics",
+          "headline": "Sotomayor hopes Supreme Court will overturn presidential immunity decision, says court has done 'crazy things'",
+          "beat_label": "Supreme Court",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "The Hill",
+            "Politico",
+            "Yahoo"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/regulation/court-battles/6206392-sotomayor-hopes-immunity-overturned/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Politico",
+              "url": "https://www.politico.com/news/2026/11/08/sotomayor-sees-united-states-rough-patch-rule-of-law",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Yahoo",
+              "url": "https://www.yahoo.com/news/politics/articles/crazy-things-sotomayor-hopes-supreme-010557886.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Supreme Court Justice Sonia Sotomayor spoke publicly on Nov. 7 at a civics education event at the Washington Library at Mount Vernon.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Sotomayor said she hopes the Supreme Court will reverse some of its past rulings, specifically naming the 2024 presidential immunity decision.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Sotomayor authored the dissent for the Court's three liberal justices in the 2024 presidential immunity case.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The underlying 2024 ruling was decided 6-3, with the majority opinion written by Chief Justice John Roberts.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The ruling held that presidents have presumptive immunity from prosecution for official acts.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "That ruling halted the criminal case against former President Donald Trump over his efforts to subvert the 2020 election results.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Sotomayor said the rule of law is in a 'rough patch'.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Sotomayor said 'some norms we may have lost forever.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Sotomayor said she does not believe the U.S. will 'fail as a democracy.'",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Her comments came days after Republicans lost control of the House, Senate, and a majority of governorships in recent elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "A Democratic-controlled Senate would make it harder for Trump to confirm any future Supreme Court nominee if a vacancy occurs.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "In her 2024 dissent, Sotomayor argued that the immunity ruling 'makes a mockery of the principle, foundational to our Constitution and system of Government, that no man is above the law.'",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Her public comments at the civics forum reiterated that criticism and named the decision specifically as one she hopes will eventually be overturned.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "With Senate control now in Democratic hands, any near-term Supreme Court vacancy would likely be more difficult for Trump to fill, since confirming a nominee would require Democratic support.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Supreme Court Justice Sonia Sotomayor spoke publicly on Nov. 7 at a civics education event at the Washington Library at Mount Vernon.",
+              "Sotomayor said she hopes the Supreme Court will reverse some of its past rulings, specifically naming the 2024 presidential immunity decision.",
+              "Sotomayor authored the dissent for the Court's three liberal justices in the 2024 presidential immunity case.",
+              "The underlying 2024 ruling was decided 6-3, with the majority opinion written by Chief Justice John Roberts, holding that presidents have presumptive immunity from prosecution for official acts.",
+              "That ruling halted the criminal case against former President Donald Trump over his efforts to subvert the 2020 election results.",
+              "Sotomayor said the rule of law is in a 'rough patch' and that 'some norms we may have lost forever,' while adding she does not believe the U.S. will 'fail as a democracy.'",
+              "Her comments came days after Republicans lost control of the House, Senate, and a majority of governorships in recent elections.",
+              "A Democratic-controlled Senate would make it harder for Trump to confirm any future Supreme Court nominee if a vacancy occurs."
+            ],
+            "analysis": "Sotomayor's remarks drew attention in part because, in her 2024 dissent, she argued that the immunity ruling 'makes a mockery of the principle, foundational to our Constitution and system of Government, that no man is above the law.' Her public comments at the civics forum reiterated that criticism and named the decision specifically as one she hopes will eventually be overturned.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "implications": "With Senate control now in Democratic hands, any near-term Supreme Court vacancy would likely be more difficult for Trump to fill, since confirming a nominee would require Democratic support."
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-poland-mourns-six-killed-in-krakow-shooting-terr",
+          "section": "world",
+          "headline": "Poland mourns six killed in Krakow shooting; terrorism probe launched",
+          "beat_label": "Terrorism",
+          "byline": "International & World desk",
+          "body": [
+            "Poland has begun two days of national mourning after a gunman killed six people in central Krakow on Saturday, in what authorities have described as a terrorist attack. The shooting began shortly before 15:00 local time (14:00 GMT) in Krakow's Main Market Square, when a 25-year-old Polish man drove into the square and began firing at random people from his car, police said. Six people — four women and two men — were killed in the square, including four Polish nationals, a British national, and an Austrian woman. Sixteen people, including five foreigners and two police officers, were taken to hospital; authorities later said the injured included nationals from Austria, Britain, Germany, Portugal, and Russia. The suspect was shot by police within three minutes of the attack beginning and remains in critical condition in hospital after surgery for a gunshot wound.",
+            "After the attack, police searched the suspect's home in Ostrowiec Świętokrzyski, about 200km (125 miles) northeast of Krakow, and found three additional bodies. Polish police confirmed on Sunday that the victims were the suspect's 53-year-old father, 52-year-old mother, and 21-year-old sister. Poland's National Prosecutor's Office announced on Sunday it had launched an investigation into the attack as a terrorist offence, stating it was probing the killing of six people using a firearm and the attempted murder of many others, including police officers. A spokesperson for the office said it was highly likely that the killings in Ostrowiec Świętokrzyski and Krakow were carried out by the same person, but investigations are ongoing.",
+            "Polish Interior Minister Marcin Kierwinski stated that early investigations indicate the suspect was inspired by far-right ideologies, describing him as an ultranationalist. Police said the suspect was wearing military-style attire and used a military-grade weapon; many pieces of weapons and ammunition were found in his vehicle. According to media reports, the suspect had a valid gun licence and no prior criminal record. Polish authorities have not confirmed his name, though some media have identified him as Michal O. The suspect's car was checked for possible explosive devices, but none were found; residents of nearby buildings were evacuated while the operation was under way.",
+            "Witnesses described scenes of panic. Jonathan Balshaw from Ipswich, who was in the square with his girlfriend, said they heard more than 20 shots and hid in a church. Caitlin Shasby from Newcastle said she heard shots from her hotel room and was told to stay inside. Two surgeons who were having lunch with their families rushed to help the wounded after the shooting stopped; they said two police officers were conscious with gunshot wounds to the chest, and the perpetrator was conscious with gunshot wounds to the abdomen, thigh, and chest. One police officer was described as being in very critical condition after being shot three times; in an update on Sunday, police said the two injured officers and other hospitalised individuals were in stable condition, and two women had been released.",
+            "Prime Minister Donald Tusk, who travelled to Krakow, said: 'Until now in Poland we haven't had such drastic cases of terrorism... that's what we have to call this cruel attack on people's lives here in Krakow.' Krakow Mayor Łukasz Gibała signed an order declaring a period of mourning in the city until Wednesday. UK Prime Minister Andy Burnham said he was shocked and saddened by the appalling shooting, and British foreign secretary Ed Miliband said the UK government deeply mourns those who died. US ambassador to Poland Tom Rose described it as a savage and murderous attack, and EU top diplomat Kaja Kallas said the shooting was a tragedy that will be felt far beyond Poland. Ukrainian President Volodymyr Zelensky called the shooting shocking and extended condolences. Krakow's main market square and surrounding streets remained closed on Sunday, with flags at half-mast and mourners placing candles. The traditional hourly trumpet call from St Mary's church on the square was suspended for 12 hours to commemorate the dead, the first time this has happened since 1939."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Poland has begun two days of national mourning after a gunman killed six people in central Krakow on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The shooting began shortly before 15:00 local time (14:00 GMT) in Krakow's Main Market Square.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A 25-year-old Polish man drove into the square and began firing at random people from his car.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Six people — four women and two men — were killed in the square.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The victims included four Polish nationals, a British national, and an Austrian woman.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Sixteen people, including five foreigners and two police officers, were taken to hospital.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The injured included nationals from Austria, Britain, Germany, Portugal, and Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The suspect was shot by police within three minutes of the attack beginning.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The suspect remains in critical condition in hospital after surgery for a gunshot wound.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Police searched the suspect's home in Ostrowiec Świętokrzyski, about 200km (125 miles) northeast of Krakow.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Police found three additional bodies at the suspect's home.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Polish police confirmed on Sunday that the victims were the suspect's 53-year-old father, 52-year-old mother, and 21-year-old sister.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Poland's National Prosecutor's Office announced on Sunday it had launched an investigation into the attack as a terrorist offence.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The investigation is probing the killing of six people using a firearm and the attempted murder of many others, including police officers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A spokesperson for the office said it was highly likely that the killings in Ostrowiec Świętokrzyski and Krakow were carried out by the same person.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Polish Interior Minister Marcin Kierwinski stated that early investigations indicate the suspect was inspired by far-right ideologies.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Kierwinski described the suspect as an ultranationalist.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Police said the suspect was wearing military-style attire and used a military-grade weapon.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Many pieces of weapons and ammunition were found in the suspect's vehicle.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "According to media reports, the suspect had a valid gun licence and no prior criminal record.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Polish authorities have not confirmed the suspect's name.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Some media have identified the suspect as Michal O.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The suspect's car was checked for possible explosive devices, but none were found.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Residents of nearby buildings were evacuated while the operation was under way.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jonathan Balshaw from Ipswich, who was in the square with his girlfriend, said they heard more than 20 shots and hid in a church.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Caitlin Shasby from Newcastle said she heard shots from her hotel room and was told to stay inside.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Two surgeons who were having lunch with their families rushed to help the wounded after the shooting stopped.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The surgeons said two police officers were conscious with gunshot wounds to the chest.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The surgeons said the perpetrator was conscious with gunshot wounds to the abdomen, thigh, and chest.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "One police officer was described as being in very critical condition after being shot three times.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In an update on Sunday, police said the two injured officers and other hospitalised individuals were in stable condition.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Two women had been released from hospital.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Prime Minister Donald Tusk said: 'Until now in Poland we haven't had such drastic cases of terrorism... that's what we have to call this cruel attack on people's lives here in Krakow.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Krakow Mayor Łukasz Gibała signed an order declaring a period of mourning in the city until Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "UK Prime Minister Andy Burnham said he was shocked and saddened by the appalling shooting.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "British foreign secretary Ed Miliband said the UK government deeply mourns those who died.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "US ambassador to Poland Tom Rose described it as a savage and murderous attack.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "EU top diplomat Kaja Kallas said the shooting was a tragedy that will be felt far beyond Poland.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelensky called the shooting shocking and extended condolences.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Krakow's main market square and surrounding streets remained closed on Sunday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Flags were at half-mast and mourners placed candles.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The traditional hourly trumpet call from St Mary's church on the square was suspended for 12 hours to commemorate the dead.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The suspension of the trumpet call was the first time this has happened since 1939.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-11-08/world-poland-mourns-six-killed-in-krakow-shooting-terr.jpg",
+            "alt": "Photograph of Krakow Main Market Square",
+            "credit": "Photo: Igor123121 / Wikimedia Commons (CC BY-SA 4.0)",
+            "license": "CC BY-SA 4.0",
+            "width": 1000,
+            "height": 563
+          }
+        },
+        {
+          "id": "world-russian-strikes-leave-hundreds-of-thousands-with",
+          "section": "world",
+          "headline": "Russian strikes leave hundreds of thousands without power in Ukraine ahead of talks",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "Russian overnight drone and ballistic missile attacks on Saturday damaged Ukraine's energy infrastructure, leaving hundreds of thousands without electricity and disrupting water and heating supplies in the capital, Kyiv, and several other regions, Ukrainian authorities said Sunday. President Volodymyr Zelensky said 12 Ukrainian regions came under attack, with the capital hit hardest. The attacks consisted of more than 30 ballistic missiles and over 170 drones, according to Zelensky. Nine people were reported injured across the country, including a 14-year-old girl.",
+            "In the central Dnipropetrovsk region, power company DTEK said more than 600,000 residents were without electricity after a night attack damaged important energy facilities, with repairs complicated by repeated attacks. In the northeastern Kharkiv region, nearly 250,000 customers lost power after a Russian drone hit a critical infrastructure facility, according to Zlatopil Mayor Mykola Baksheyev. Zelensky said that in the Zhytomyr region alone, 140 apartment buildings were left without heating as temperatures hovered around freezing. Kyiv Mayor Vitali Klitschko said the city's water supply system had returned to normal operation and about 60% of apartment buildings were connected to heating. Energy Minister Denys Shmyhal reported power cuts in five regions but did not specify how many homes were affected.",
+            "Zelensky said the strikes targeted substations in the Vinnytsia, Zhytomyr, Rivne, Kharkiv, and Dnipro regions, including substations connecting the Rivne and Khmelnytsky nuclear power plants to Kyiv and central Ukraine. In Kyiv, the Northern Bridge, a key transport artery, was closed as workers repaired damage to the road's surface and power lines. The attacks come as Ukrainian and Russian delegations are due to take part in US-brokered trilateral talks in Abu Dhabi, United Arab Emirates, scheduled for Tuesday and Wednesday. Zelensky accused Moscow of preparing for the talks by launching attacks on Ukraine's critical infrastructure, saying Russia was trying to plunge Kyiv and the entire country into a blackout.",
+            "The attacks cap a dire week for Kyiv residents, who have experienced day-long power cuts and water supply interruptions. Ukrainian officials say the Kremlin's goal is to freeze civilians into submission over the winter months, a war crime. An independent United Nations investigations panel last week concluded that Russia committed war crimes and crimes against humanity by intentionally attacking civilian infrastructure. Russia's Defense Ministry stated that its forces will continue strikes against Ukrainian fuel and energy infrastructure facilities, which it says are used to aid the Ukrainian military.",
+            "Zelensky appealed to the US Congress for increased bilateral support, writing on Telegram: 'We are counting on unity between both parties on issues of security, support for Ukraine, condemnation of Russian aggression, and increased sanctions pressure on Putin.' He also said Russia launched a drone at Komyshuvakha, a village in the Zaporizhzhia region where Moscow had hit an aid distribution center earlier in the week in one of the deadliest attacks of the war. The death toll from that strike has risen to 55, Zelensky said, with emergency services previously putting it at 50. 'Unfortunately, more people may still be under the rubble,' he added.",
+            "The talks in Abu Dhabi follow a US-brokered six-day ceasefire last week in the southern Kherson region that allowed hundreds of residents of the Russian-occupied town of Oleshky to evacuate. US First Lady Melania Trump hosted Russian and Ukrainian delegations at the White House on Thursday, calling for a 'more enduring' ceasefire and thanking both Zelensky and Russian President Vladimir Putin without referencing the origins of the war, which began when Putin launched a full-scale invasion of Ukraine in February 2022, causing thousands of civilian casualties and the displacement of millions. Western diplomats say agreeing to Russia's longstanding demand that NATO reverse its expansion across Europe would effectively end the alliance. Zelensky described a recent blueprint set out by Jared Kushner, Donald Trump's son-in-law, as 'Yalta 2.0,' referencing the 1945 summit that divided postwar Europe, and emphasized: 'We don't want to be divided by Russia.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "CBS News",
+            "The Guardian",
+            "CNN"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+            },
+            {
+              "outlet": "CBS News",
+              "url": "https://www.cbsnews.com/news/ukraine-russia-war-strike-power/",
+              "lean": -0.2,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Russian overnight drone and ballistic missile attacks on Saturday damaged Ukraine's energy infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "Hundreds of thousands were left without electricity.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "Water and heating supplies were disrupted in Kyiv and several other regions.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "President Volodymyr Zelensky said 12 Ukrainian regions came under attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The capital was hit hardest.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The attacks consisted of more than 30 ballistic missiles and over 170 drones.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Nine people were reported injured across the country.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "A 14-year-old girl was among the injured.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "In the central Dnipropetrovsk region, power company DTEK said more than 600,000 residents were without electricity after a night attack damaged important energy facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "DTEK"
+                ]
+              },
+              {
+                "text": "Repairs were complicated by repeated attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "DTEK"
+                ]
+              },
+              {
+                "text": "In the northeastern Kharkiv region, nearly 250,000 customers lost power after a Russian drone hit a critical infrastructure facility.",
+                "status": "supported",
+                "source_ids": [
+                  "Mykola Baksheyev"
+                ]
+              },
+              {
+                "text": "Zelensky said that in the Zhytomyr region alone, 140 apartment buildings were left without heating as temperatures hovered around freezing.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Kyiv Mayor Vitali Klitschko said the city's water supply system had returned to normal operation.",
+                "status": "supported",
+                "source_ids": [
+                  "Vitali Klitschko"
+                ]
+              },
+              {
+                "text": "About 60% of apartment buildings in Kyiv were connected to heating.",
+                "status": "supported",
+                "source_ids": [
+                  "Vitali Klitschko"
+                ]
+              },
+              {
+                "text": "Energy Minister Denys Shmyhal reported power cuts in five regions.",
+                "status": "supported",
+                "source_ids": [
+                  "Denys Shmyhal"
+                ]
+              },
+              {
+                "text": "Shmyhal did not specify how many homes were affected.",
+                "status": "supported",
+                "source_ids": [
+                  "Denys Shmyhal"
+                ]
+              },
+              {
+                "text": "Zelensky said the strikes targeted substations in the Vinnytsia, Zhytomyr, Rivne, Kharkiv, and Dnipro regions.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The substations included those connecting the Rivne and Khmelnytsky nuclear power plants to Kyiv and central Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "In Kyiv, the Northern Bridge, a key transport artery, was closed as workers repaired damage to the road's surface and power lines.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian authorities"
+                ]
+              },
+              {
+                "text": "Ukrainian and Russian delegations are due to take part in US-brokered trilateral talks in Abu Dhabi, United Arab Emirates, scheduled for Tuesday and Wednesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelensky accused Moscow of preparing for the talks by launching attacks on Ukraine's critical infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky said Russia was trying to plunge Kyiv and the entire country into a blackout.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The attacks cap a dire week for Kyiv residents, who have experienced day-long power cuts and water supply interruptions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Ukrainian officials say the Kremlin's goal is to freeze civilians into submission over the winter months.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "Ukrainian officials say the Kremlin's goal is a war crime.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "An independent United Nations investigations panel last week concluded that Russia committed war crimes and crimes against humanity by intentionally attacking civilian infrastructure.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations investigations panel"
+                ]
+              },
+              {
+                "text": "Russia's Defense Ministry stated that its forces will continue strikes against Ukrainian fuel and energy infrastructure facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia's Defense Ministry"
+                ]
+              },
+              {
+                "text": "Russia's Defense Ministry says the facilities are used to aid the Ukrainian military.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia's Defense Ministry"
+                ]
+              },
+              {
+                "text": "Zelensky appealed to the US Congress for increased bilateral support.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky wrote on Telegram: 'We are counting on unity between both parties on issues of security, support for Ukraine, condemnation of Russian aggression, and increased sanctions pressure on Putin.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Zelensky said Russia launched a drone at Komyshuvakha, a village in the Zaporizhzhia region.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Moscow had hit an aid distribution center in Komyshuvakha earlier in the week.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "That earlier strike was one of the deadliest attacks of the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The death toll from that strike has risen to 55, Zelensky said.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "Emergency services previously put the death toll at 50.",
+                "status": "supported",
+                "source_ids": [
+                  "Emergency services"
+                ]
+              },
+              {
+                "text": "Zelensky added: 'Unfortunately, more people may still be under the rubble.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The talks in Abu Dhabi follow a US-brokered six-day ceasefire last week in the southern Kherson region.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The ceasefire allowed hundreds of residents of the Russian-occupied town of Oleshky to evacuate.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "US First Lady Melania Trump hosted Russian and Ukrainian delegations at the White House on Thursday.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Melania Trump called for a 'more enduring' ceasefire.",
+                "status": "supported",
+                "source_ids": [
+                  "Melania Trump"
+                ]
+              },
+              {
+                "text": "Melania Trump thanked both Zelensky and Russian President Vladimir Putin without referencing the origins of the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Melania Trump"
+                ]
+              },
+              {
+                "text": "The war began when Putin launched a full-scale invasion of Ukraine in February 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The invasion caused thousands of civilian casualties and the displacement of millions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Western diplomats say agreeing to Russia's longstanding demand that NATO reverse its expansion across Europe would effectively end the alliance.",
+                "status": "supported",
+                "source_ids": [
+                  "Western diplomats"
+                ]
+              },
+              {
+                "text": "Zelensky described a recent blueprint set out by Jared Kushner, Donald Trump's son-in-law, as 'Yalta 2.0.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              },
+              {
+                "text": "The Yalta 2.0 reference is to the 1945 summit that divided postwar Europe.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Zelensky emphasized: 'We don't want to be divided by Russia.'",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelensky"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.74,
+          "image": {
+            "url": "static/img/2026-11-08/world-russian-strikes-leave-hundreds-of-thousands-with.jpg",
+            "alt": "Photograph of Damaged Ukrainian energy infrastructure after Russian strikes",
+            "credit": "Photo: UK Government / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 750
+          }
+        },
+        {
+          "id": "world-houthis-strike-riyadh-saudi-led-coalition-retali",
+          "section": "world",
+          "headline": "Houthis strike Riyadh, Saudi-led coalition retaliates",
+          "beat_label": "Yemen Conflict",
+          "byline": "International & World desk · anchored on Reuters",
+          "body": [
+            "Yemen's Houthi movement said at least 33 people, including women and children, were killed in Saudi-led coalition air strikes on the town of al-Shariyah, east of the capital Sanaa, on Saturday. Houthi-run Al Masirah television broadcast footage of rescuers pulling bodies, including those of young children, from the rubble of several buildings, and showed injured people being carried to hospital. The Houthi-controlled Saba news agency said 39 people were wounded in the attack.",
+            "Hours before the strike, the Saudi-led coalition said it intercepted a missile heading toward Riyadh. The Saudi Ministry of Energy later reported that the Aramco tower, the headquarters of the state-owned oil company, sustained minor damage from falling shrapnel in what it described as an attempted attack. The coalition separately said it intercepted and destroyed a drone and four missiles — two ballistic and two cruise — over Riyadh and southern regions, according to coalition spokesman Maj. Gen. Turki al-Maliki.",
+            "The war in Yemen, dormant for several years, reignited amid the Iran war. A truce began to unravel when Saudi Arabia struck Sanaa airport, controlled by the Houthis, to prevent an Iranian plane from landing. The Tehran-backed Houthis subsequently targeted Abha airport in Saudi Arabia and began striking Saudi ships using the Red Sea off Yemen as an alternative oil export route to the Strait of Hormuz. Major fighting has since resumed between the Houthis and forces loyal to the Saudi-backed internationally recognized government.",
+            "On Friday, an attack on a market in Taiz province, a focus of recent fighting, reportedly killed 30 people. The Houthis accused the Saudis of carrying out that strike, while government forces blamed the Houthis for firing a missile at the site. The United Nations says more than 1,600 people have been killed and over 300,000 displaced since fighting resumed.",
+            "The Saudi-led coalition, which has backed Yemen's internationally recognized government for more than a decade, has regularly bombed Houthi positions. The Houthis have fired multiple missiles at targets inside Saudi Arabia, including airports and oil facilities. Houthi leader Mahdi al-Mashat has vowed the group will take revenge for the latest attacks in Yemen."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.03,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "WSJ",
+            "Reuters",
+            "Middle East Monitor"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "WSJ",
+              "url": "https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f",
+              "lean": 0.2,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Middle East Monitor",
+              "url": "https://www.middleeastmonitor.com/20261108-saudi-led-coalition-says-it-intercepted-4-missiles-over-riyadh-southern-regions/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Yemen's Houthi movement said at least 33 people were killed in Saudi-led coalition air strikes on the town of al-Shariyah, east of the capital Sanaa, on Saturday.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi movement"
+                ]
+              },
+              {
+                "text": "The Houthi movement said women and children were among the 33 killed.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi movement"
+                ]
+              },
+              {
+                "text": "Houthi-run Al Masirah television broadcast footage of rescuers pulling bodies, including those of young children, from the rubble of several buildings.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Masirah television"
+                ]
+              },
+              {
+                "text": "Al Masirah television showed injured people being carried to hospital.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Masirah television"
+                ]
+              },
+              {
+                "text": "The Houthi-controlled Saba news agency said 39 people were wounded in the attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Saba news agency"
+                ]
+              },
+              {
+                "text": "Hours before the strike, the Saudi-led coalition said it intercepted a missile heading toward Riyadh.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi-led coalition"
+                ]
+              },
+              {
+                "text": "The Saudi Ministry of Energy reported that the Aramco tower sustained minor damage from falling shrapnel.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi Ministry of Energy"
+                ]
+              },
+              {
+                "text": "The Saudi Ministry of Energy described the incident as an attempted attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Saudi Ministry of Energy"
+                ]
+              },
+              {
+                "text": "The coalition separately said it intercepted and destroyed a drone and four missiles — two ballistic and two cruise — over Riyadh and southern regions.",
+                "status": "supported",
+                "source_ids": [
+                  "Coalition spokesman Maj. Gen. Turki al-Maliki"
+                ]
+              },
+              {
+                "text": "The war in Yemen, dormant for several years, reignited amid the Iran war.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "A truce began to unravel when Saudi Arabia struck Sanaa airport, controlled by the Houthis, to prevent an Iranian plane from landing.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Tehran-backed Houthis subsequently targeted Abha airport in Saudi Arabia.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Houthis began striking Saudi ships using the Red Sea off Yemen as an alternative oil export route to the Strait of Hormuz.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Major fighting has since resumed between the Houthis and forces loyal to the Saudi-backed internationally recognized government.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "On Friday, an attack on a market in Taiz province reportedly killed 30 people.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Houthis accused the Saudis of carrying out that strike.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthis"
+                ]
+              },
+              {
+                "text": "Government forces blamed the Houthis for firing a missile at the site.",
+                "status": "supported",
+                "source_ids": [
+                  "Government forces"
+                ]
+              },
+              {
+                "text": "The United Nations says more than 1,600 people have been killed since fighting resumed.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "The United Nations says over 300,000 displaced since fighting resumed.",
+                "status": "supported",
+                "source_ids": [
+                  "United Nations"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition has backed Yemen's internationally recognized government for more than a decade.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Saudi-led coalition has regularly bombed Houthi positions.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Houthis have fired multiple missiles at targets inside Saudi Arabia, including airports and oil facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Houthi leader Mahdi al-Mashat has vowed the group will take revenge for the latest attacks in Yemen.",
+                "status": "supported",
+                "source_ids": [
+                  "Houthi leader Mahdi al-Mashat"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-israel-s-president-tasks-opposition-leader-eisen",
+          "section": "world",
+          "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
+          "beat_label": "Israel Politics",
+          "byline": "International & World desk",
+          "body": [
+            "Israeli President Isaac Herzog on Saturday tasked opposition leader Gadi Eisenkot with forming a new coalition government, following last week's inconclusive parliamentary election in which neither Prime Minister Benjamin Netanyahu's bloc nor Eisenkot's secured a majority. Eisenkot, a former military chief and leader of the centrist Yashar party, now has 28 days to cobble together a government, with a possible 14-day extension. 'Now is the time to form a national emergency government. I will do everything to ensure we are worthy,' Eisenkot wrote on X.",
+            "In the 120-seat Knesset, Netanyahu's right-wing Likud party and its far-right and ultra-Orthodox Jewish allies won 53 seats, while Eisenkot's bloc — comprising Yashar, the centre-left Democrats, Naftali Bennett's Together party, and Avigdor Lieberman's Yisrael Beiteinu — won 48. Two Arab-led alliances, the United Arab List (Ra'am) and the Joint List (Hadash, Ta'al, Balad), together won an unprecedented 19 seats, positioning them as potential kingmakers. However, all but one Jewish party pledged before the election not to work with them to form a government. Herzog's office said Eisenkot received 67 recommendations for the premiership during consultations, while Netanyahu received 46.",
+            "Eisenkot faces a difficult challenge in uniting a deeply divided opposition. His potential coalition partners hold sharply conflicting positions on national security, religion, and the Israeli occupation of Palestinian territory. He has ruled out bringing Arab parties into his government, while Lieberman has repeatedly rejected forming a minority administration dependent on their support. The Democrats' Yair Golan has been more willing to partner with Arab parties, saying after the election: 'We must no longer accept Netanyahu's racist division between Jewish votes and Arab votes.'",
+            "Several possible paths to power exist. Eisenkot could attempt a minority government with his four-party bloc relying on external parliamentary support from Ra'am and the Joint List, without giving them cabinet positions. Alternatively, he could try to bring the ultra-Orthodox parties Shas and United Torah Judaism — which together hold 13 seats — into his coalition, though that would require compromise over military conscription exemptions for ultra-Orthodox students, a deeply divisive issue. Another option is a unity government including Netanyahu's Likud, but that would require Eisenkot and his partners to abandon their central election pledge to remove Netanyahu from power.",
+            "If Eisenkot fails to form a government within the allotted time, Herzog could give Netanyahu an opportunity. Should both leaders fail, the Knesset could nominate another candidate. If no government emerges after 100 days, Israelis could face another election — the sixth since 2019, one of the most politically fractured periods in Israeli politics. The negotiations will determine not only who becomes prime minister but also which parties control key ministries and shape policies on the economy, military conscription, and the occupied Palestinian territory. There is precedent for a unity government: in 2020, after three deadlocked elections, Netanyahu and centrist rival Benny Gantz agreed a power-sharing deal with rotating leadership."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Al Jazeera",
+            "DW",
+            "NPR",
+            "Sky News",
+            "France 24"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "NPR",
+              "url": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Sky News",
+              "url": "https://news.sky.com/story/middle-east-latest-saudi-arabia-intercepts-houthi-missiles-after-two-days-of-deadly-attacks-in-yemen-13509565"
+            },
+            {
+              "outlet": "France 24",
+              "url": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Israeli President Isaac Herzog on Saturday tasked opposition leader Gadi Eisenkot with forming a new coalition government.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Last week's parliamentary election was inconclusive.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Neither Prime Minister Benjamin Netanyahu's bloc nor Eisenkot's secured a majority in the election.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Gadi Eisenkot is a former military chief and leader of the centrist Yashar party.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot now has 28 days to form a government, with a possible 14-day extension.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot wrote on X: 'Now is the time to form a national emergency government. I will do everything to ensure we are worthy.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Knesset has 120 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Netanyahu's right-wing Likud party and its far-right and ultra-Orthodox Jewish allies won 53 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot's bloc comprised Yashar, the centre-left Democrats, Naftali Bennett's Together party, and Avigdor Lieberman's Yisrael Beiteinu.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot's bloc won 48 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Two Arab-led alliances, the United Arab List (Ra'am) and the Joint List (Hadash, Ta'al, Balad), together won an unprecedented 19 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "All but one Jewish party pledged before the election not to work with the Arab-led alliances to form a government.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Herzog's office said Eisenkot received 67 recommendations for the premiership during consultations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Herzog's office said Netanyahu received 46 recommendations for the premiership during consultations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot has ruled out bringing Arab parties into his government.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Lieberman has repeatedly rejected forming a minority administration dependent on Arab party support.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Democrats' Yair Golan has been more willing to partner with Arab parties.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Yair Golan said after the election: 'We must no longer accept Netanyahu's racist division between Jewish votes and Arab votes.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot could attempt a minority government with his four-party bloc relying on external parliamentary support from Ra'am and the Joint List, without giving them cabinet positions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Eisenkot could try to bring the ultra-Orthodox parties Shas and United Torah Judaism into his coalition.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Shas and United Torah Judaism together hold 13 seats.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bringing ultra-Orthodox parties into the coalition would require compromise over military conscription exemptions for ultra-Orthodox students.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Another option is a unity government including Netanyahu's Likud.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A unity government with Likud would require Eisenkot and his partners to abandon their central election pledge to remove Netanyahu from power.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "If Eisenkot fails to form a government within the allotted time, Herzog could give Netanyahu an opportunity.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Should both leaders fail, the Knesset could nominate another candidate.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "If no government emerges after 100 days, Israelis could face another election.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "This would be the sixth election since 2019.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In 2020, after three deadlocked elections, Netanyahu and centrist rival Benny Gantz agreed a power-sharing deal with rotating leadership.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-democrats-midterm-win-could-boost-ukraine-aid-bu",
+          "section": "world",
+          "headline": "Democrats' midterm win could boost Ukraine aid, but uncertainty remains",
+          "beat_label": "US Politics",
+          "byline": "International & World desk",
+          "body": [
+            "The Democratic Party secured a decisive victory in the November 3 midterm elections, winning majorities in both the US House of Representatives and the Senate, as well as gubernatorial races in former Republican strongholds such as Texas. The result, described by some as a \"blue wave\" or \"blue tsunami,\" will give Democrats control of Congress when the new session begins on January 3, 2027, providing a check on President Donald Trump, who remains in office with veto power and the ability to ignore congressional decisions.",
+            "For Ukraine, the shift raises hopes of renewed US military and financial aid, which has slowed dramatically under Trump. From Russia's full-scale invasion in 2022 to late 2024, Washington provided nearly $200 billion in assistance, but from October 2025 to March 2026, Kyiv received only $8.2 billion in military aid through \"legacy pipelines\" from the Biden administration, with another $13 billion in deals still being fulfilled. Europe has taken over most of the financial burden, contributing $83 billion in 2025 alone, but the Kiel Institute reports that almost a third of all weaponry still comes from US companies.",
+            "Democrats have pledged to scrutinize Trump's ties to Russia and investigate alleged corruption within the Trump family, including ties to Russian politicians, intelligence, and oligarchs such as Umar Kremlev, who reportedly paid hundreds of thousands of dollars for Donald Trump Jr.'s wedding in the Bahamas in May. They have signaled readiness to issue subpoenas and force disclosure of executive branch records related to Ukraine once they take control of Congress. However, several pro-Ukraine Republicans lost their seats, including Brian Fitzpatrick of Pennsylvania, who co-chaired the Congressional Ukraine Caucus.",
+            "Ukrainian President Volodymyr Zelenskyy said of the results, \"We have bipartisan support,\" adding that he was \"thankful to the Republicans, but Democrats very clearly state their support of Ukraine and providing aid to it.\" Volodymyr Fesenko, head of the Kyiv-based Penta think tank, told Al Jazeera, \"Ukraine's positions may become stronger. But we need to keep bipartisan support.\" He also stressed the need for Kyiv to appoint a new ambassador to Washington after Olha Stefanishyna was fired in August during a probe into alleged illegal enrichment.",
+            "Analysts warn that the next two months before the new Congress takes office could be difficult for Ukraine. Kyiv-based analyst Igar Tyshkevych told Al Jazeera that Trump, who currently has Republican majorities in both houses, will likely pressure Ukraine to accept a fast-tracked peace deal with Russia. \"Because when Russia isn't willing to concede, the fastest way to solve the matter – either through a truce or through freezing the war – is only possible if [Trump] twists Kyiv's arms,\" he said. The new Congress will also face a dilemma over corruption allegations involving top Ukrainian officials and purported embezzlement of US aid.",
+            "In Russia, pro-Kremlin analysts predicted the Democrats would push for renewed military aid and sanctions. Moscow-based analyst Andrey Kortunov wrote in Kommersant that Democrats will \"double down on their efforts to prevent Trump from establishing a dialogue with Moscow, demand the resumption of direct US military aid to Kyiv, insist on the restoration of transatlantic unity on the Ukrainian issue and propose new sanctions against Russia.\" The Russian Ministry of Foreign Affairs dismissed the concerns, saying Moscow's foreign policies \"don't depend on the fluctuations of the political barometer in other nations,\" while Kremlin spokesman Dmitry Peskov said, \"President Trump continues to exercise his powers. We sincerely hope that he will continue his peacemaking efforts.\""
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Al Jazeera",
+            "DW",
+            "UNITED24 Media"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss"
+            },
+            {
+              "outlet": "DW",
+              "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf"
+            },
+            {
+              "outlet": "UNITED24 Media",
+              "url": "https://united24media.com/war-in-ukraine/us-democrats-reportedly-prepare-15-billion-ukraine-aid-package-after-winning-control-of-congress-24168"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Democratic Party secured a decisive victory in the November 3 midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Democratic Party won majorities in both the US House of Representatives and the Senate.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Democratic Party won gubernatorial races in former Republican strongholds such as Texas.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The result was described by some as a 'blue wave' or 'blue tsunami'.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The new session of Congress begins on January 3, 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "President Donald Trump remains in office with veto power and the ability to ignore congressional decisions.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "From Russia's full-scale invasion in 2022 to late 2024, Washington provided nearly $200 billion in assistance to Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "From October 2025 to March 2026, Kyiv received only $8.2 billion in military aid through 'legacy pipelines' from the Biden administration.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Another $13 billion in deals from the Biden administration are still being fulfilled.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Europe contributed $83 billion in aid to Ukraine in 2025 alone.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Kiel Institute reports that almost a third of all weaponry for Ukraine still comes from US companies.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Democrats have pledged to scrutinize Trump's ties to Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Democrats have pledged to investigate alleged corruption within the Trump family, including ties to Russian politicians, intelligence, and oligarchs such as Umar Kremlev.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Umar Kremlev reportedly paid hundreds of thousands of dollars for Donald Trump Jr.'s wedding in the Bahamas in May.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Democrats have signaled readiness to issue subpoenas and force disclosure of executive branch records related to Ukraine once they take control of Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Several pro-Ukraine Republicans lost their seats, including Brian Fitzpatrick of Pennsylvania.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Brian Fitzpatrick co-chaired the Congressional Ukraine Caucus.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelenskyy said, 'We have bipartisan support.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Zelenskyy added that he was 'thankful to the Republicans, but Democrats very clearly state their support of Ukraine and providing aid to it.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Volodymyr Fesenko, head of the Kyiv-based Penta think tank, told Al Jazeera, 'Ukraine's positions may become stronger. But we need to keep bipartisan support.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Fesenko stressed the need for Kyiv to appoint a new ambassador to Washington after Olha Stefanishyna was fired in August during a probe into alleged illegal enrichment.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Olha Stefanishyna was fired in August during a probe into alleged illegal enrichment.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Analysts warn that the next two months before the new Congress takes office could be difficult for Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Kyiv-based analyst Igar Tyshkevych told Al Jazeera that Trump, who currently has Republican majorities in both houses, will likely pressure Ukraine to accept a fast-tracked peace deal with Russia.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Tyshkevych said, 'Because when Russia isn't willing to concede, the fastest way to solve the matter – either through a truce or through freezing the war – is only possible if [Trump] twists Kyiv's arms.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The new Congress will face a dilemma over corruption allegations involving top Ukrainian officials and purported embezzlement of US aid.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "In Russia, pro-Kremlin analysts predicted the Democrats would push for renewed military aid and sanctions.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Moscow-based analyst Andrey Kortunov wrote in Kommersant that Democrats will 'double down on their efforts to prevent Trump from establishing a dialogue with Moscow, demand the resumption of direct US military aid to Kyiv, insist on the restoration of transatlantic unity on the Ukrainian issue and propose new sanctions against Russia.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Russian Ministry of Foreign Affairs dismissed the concerns, saying Moscow's foreign policies 'don't depend on the fluctuations of the political barometer in other nations.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Kremlin spokesman Dmitry Peskov said, 'President Trump continues to exercise his powers. We sincerely hope that he will continue his peacemaking efforts.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-berkshire-hathaway-buybacks-surge-to-9-6-billion",
+          "section": "markets",
+          "headline": "Berkshire Hathaway buybacks surge to $9.6 billion in Q3 as earnings decline",
+          "beat_label": "Earnings",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Berkshire Hathaway said Saturday it accelerated share repurchases during the third quarter, spending $9.6 billion to buy back its own stock — more than double the $4.5 billion repurchased in the second quarter and bringing total buybacks for 2026 to about $14.4 billion. The increase came as both operating and overall profits declined. The conglomerate, led by Greg Abel after the board formalized his succession as Warren Buffett's successor in day-to-day oversight, reported operating earnings of $12.705 billion, down 5.8% from $13.485 billion a year earlier.",
+            "The drop in operating profit was driven largely by a pullback in insurance results. Insurance underwriting tumbled 43% year over year to $1.352 billion, while insurance investment income declined 14% to $2.734 billion. The railroad, energy and manufacturing businesses all posted year-over-year earnings growth. Overall net earnings, which include gains from Berkshire's sprawling stock portfolio, fell 28% to $22.112 billion from $30.796 billion a year prior, as investment gains dropped nearly 50% to $9.407 billion.",
+            "Berkshire's cash hoard grew 3% in the quarter to $377.435 billion from $365.514 billion in the second quarter. However, excluding rail and utility cash along with T-bill payables, cash totaled $352.3 billion, down 1.9% quarter over quarter. The company's five largest equity holdings remained unchanged: Alphabet, American Express, Apple, Bank of America and Coca-Cola.",
+            "Despite the earnings pullback, Berkshire stock has outperformed recently amid a broad rotation out of technology stocks. Class A shares are up more than 12% over the past month, while the S&P 500 has dropped 5.5% in that period. Year to date, Berkshire has gained 13%, compared with a 7.8% rise for the broad market index.",
+            "Morningstar, which rates Berkshire with a Narrow Economic Moat and Low Uncertainty, said adjusted third-quarter operating results came in slightly above its expectations. The research firm noted that insurance underwriting remained solid despite declining prices, and that the manufacturing, service and retailing division posted a decent top-line gain aided by the OxyChem acquisition and the Taylor Morrison deal. Morningstar said it is likely to modestly increase its current fair value estimate of $765,000 for Class A shares and $510 for Class B, but still views the shares as modestly overvalued, trading at about a 12% premium to that estimate. Book value per share rose 10.5% year over year to $536,590."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "Yahoo Finance",
+            "Forbes",
+            "TipRanks",
+            "Morningstar"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-formalizes-greg-021120535.html"
+            },
+            {
+              "outlet": "Forbes",
+              "url": "https://www.forbes.com/sites/bill_stone/2026/11/07/berkshire-hathaway-q3-earnings-miss-on-insurance-not-on-strategy/"
+            },
+            {
+              "outlet": "TipRanks",
+              "url": "https://www.tipranks.com/news/berkshire-hathaway-brk-b-q3-earnings-revenue-beats-but-profits-fall-28"
+            },
+            {
+              "outlet": "Morningstar",
+              "url": "https://www.morningstar.com/stocks/berkshire-hathaway-earnings-cash-levels-retreat-again-acquisitions-share-buybacks-pick-up"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Berkshire Hathaway said Saturday it accelerated share repurchases during the third quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Berkshire Hathaway spent $9.6 billion to buy back its own stock in the third quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The $9.6 billion in buybacks in the third quarter is more than double the $4.5 billion repurchased in the second quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Total buybacks for 2026 are about $14.4 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The increase in buybacks came as both operating and overall profits declined.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The conglomerate is led by Greg Abel after the board formalized his succession as Warren Buffett's successor in day-to-day oversight.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Berkshire Hathaway reported operating earnings of $12.705 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Operating earnings of $12.705 billion are down 5.8% from $13.485 billion a year earlier.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The drop in operating profit was driven largely by a pullback in insurance results.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Insurance underwriting tumbled 43% year over year to $1.352 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Insurance investment income declined 14% to $2.734 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The railroad, energy and manufacturing businesses all posted year-over-year earnings growth.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Overall net earnings fell 28% to $22.112 billion from $30.796 billion a year prior.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Investment gains dropped nearly 50% to $9.407 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Berkshire's cash hoard grew 3% in the quarter to $377.435 billion from $365.514 billion in the second quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Excluding rail and utility cash along with T-bill payables, cash totaled $352.3 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Excluding rail and utility cash along with T-bill payables, cash was down 1.9% quarter over quarter.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "The company's five largest equity holdings remained unchanged: Alphabet, American Express, Apple, Bank of America and Coca-Cola.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              },
+              {
+                "text": "Berkshire Class A shares are up more than 12% over the past month.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "The S&P 500 has dropped 5.5% in the past month.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "Year to date, Berkshire has gained 13%.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "Year to date, the S&P 500 has risen 7.8%.",
+                "status": "supported",
+                "source_ids": [
+                  "market data"
+                ]
+              },
+              {
+                "text": "Morningstar rates Berkshire with a Narrow Economic Moat and Low Uncertainty.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Morningstar said adjusted third-quarter operating results came in slightly above its expectations.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Morningstar noted that insurance underwriting remained solid despite declining prices.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Morningstar noted that the manufacturing, service and retailing division posted a decent top-line gain aided by the OxyChem acquisition and the Taylor Morrison deal.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Morningstar said it is likely to modestly increase its current fair value estimate of $765,000 for Class A shares and $510 for Class B.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Morningstar views the shares as modestly overvalued, trading at about a 12% premium to that estimate.",
+                "status": "supported",
+                "source_ids": [
+                  "Morningstar"
+                ]
+              },
+              {
+                "text": "Book value per share rose 10.5% year over year to $536,590.",
+                "status": "supported",
+                "source_ids": [
+                  "Berkshire Hathaway"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7,
+          "significance": 0.6
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,376.86",
+            "chg": "−4.74%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.7 15.2,6.9 22.0,6.0 28.8,2.5 35.7,12.5 42.5,11.8"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "24,579.42",
+            "chg": "−7.42%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.9 15.2,7.5 22.0,6.3 28.8,4.1 35.7,12.5 42.5,10.9"
+          },
+          {
+            "sym": "Dow",
+            "val": "51,285.73",
+            "chg": "−2.27%",
+            "dir": "down",
+            "spark": "1.5,6.9 8.3,9.9 15.2,8.8 22.0,9.8 28.8,1.5 35.7,11.2 42.5,12.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,754.11",
+            "chg": "−2.70%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.5 15.2,6.0 22.0,5.5 28.8,1.7 35.7,12.5 42.5,10.4"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.86%",
+            "chg": "-13 bp",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.8 15.2,8.4 22.0,4.2 28.8,8.4 35.7,12.5 42.5,10.9"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$90.83",
+            "chg": "−5.84%",
+            "dir": "down",
+            "spark": "1.5,1.5 11.8,2.0 22.0,12.5 32.2,9.3 42.5,8.9"
+          },
+          {
+            "sym": "Gold",
+            "val": "$4,074.90",
+            "chg": "+2.65%",
+            "dir": "up",
+            "spark": "1.5,10.6 11.8,12.5 22.0,4.1 32.2,1.5 42.5,4.0"
+          },
+          {
+            "sym": "BTC",
+            "val": "$75,902",
+            "chg": "−1.01%",
+            "dir": "down",
+            "spark": "1.5,10.3 8.3,8.7 15.2,1.5 22.0,12.0 28.8,12.5 35.7,12.5 42.5,12.1"
+          },
+          {
+            "sym": "VIX",
+            "val": "25.6",
+            "chg": "+49.1%",
+            "dir": "up",
+            "spark": "1.5,11.9 8.3,9.8 15.2,8.2 22.0,8.5 28.8,12.5 35.7,1.5 42.5,3.9"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−22.4%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−16.5%",
+            "dir": "down"
+          },
+          {
+            "sym": "NVDA",
+            "chg": "−13.3%",
+            "dir": "down"
+          },
+          {
+            "sym": "GOOGL",
+            "chg": "−12.3%",
+            "dir": "down"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "−11.4%",
+            "dir": "down"
+          },
+          {
+            "sym": "XOM",
+            "chg": "−8.87%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "11:46 AM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-nfl-trade-deadline-rumors-swirl-as-deadline-appr",
+          "section": "sports",
+          "headline": "NFL trade deadline rumors swirl as Nov. 10 cutoff approaches",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "With the NFL trade deadline set for 4 p.m. ET on Tuesday, Nov. 10, a flurry of activity has already reshaped rosters across the league. Six trades have been completed during the regular season, including the Oct. 29 blockbuster that sent Tennessee Titans defensive tackle Jeffery Simmons and a 2028 fifth-round pick to the Chicago Bears for two first-round picks and a 2027 fourth-round pick. Other notable deals include the Indianapolis Colts trading defensive tackle DeForest Buckner to the San Francisco 49ers for a fourth-round pick and guard Quenton Nelson to the Seattle Seahawks for third- and fifth-round picks, both on Oct. 27. The Arizona Cardinals traded wide receiver Marvin Harrison Jr. to the Houston Texans for second- and sixth-round picks on Oct. 11, and quarterback Jacoby Brissett along with a fifth-round pick to the Baltimore Ravens for a fourth- and seventh-round pick on Nov. 4. The Philadelphia Eagles sent guard Cam Jurgens and a seventh-round pick to the Ravens on Oct. 7 for a 2028 second-round pick and 2027 fifth-round pick, and the Pittsburgh Steelers traded cornerback Joey Porter Jr. to the Dallas Cowboys on Sept. 30 for a 2028 second-round pick and 2027 sixth-round pick.",
+            "The top name on the trade market remains Indianapolis Colts running back Jonathan Taylor, who has told the team he does not want to be traded but may have little choice as the Colts' season falters. According to ESPN's Jeremy Fowler, the Colts are still asking for a first-round pick for Taylor and maintain they do not have to trade him, while suitors believe a second-round pick plus another asset should suffice. Jordan Schultz reports that the Broncos, Vikings, Packers, Bengals and Giants are among teams that have reached out to the Colts about Taylor, and Schultz believes a trade is 'more likely than not' despite the high asking price. However, on Nov. 8, Josina Anderson reported that the Giants have 'cooled' on Taylor talks due to the Colts' high asking price, and SNY's Connor Hughes noted conflicting reports about the Giants' willingness to meet Indianapolis's demands. The Colts have said they plan to wait until after their Week 9 game against the Cowboys before exploring trades for Taylor and others, per insider Jordan Schultz.",
+            "Several other players have drawn trade interest. Baltimore Ravens running back Derrick Henry, a free agent after the season, is 'not available' according to Adam Schefter, as the team is turning down trade requests despite a recent losing streak and the absence of quarterback Lamar Jackson for most of the season. The Colts have received multiple calls about quarterback Daniel Jones but have told interested teams they are not trading him, per Tom Pelissero. The Denver Broncos checked in on Arizona Cardinals tight end Trey McBride, a Colorado native, but the Cardinals summarily declined, per Schefter. The Washington Commanders have not completely abandoned the idea of adding San Francisco 49ers wide receiver Brandon Aiyuk, according to Schefter and Ian Rapoport, though any deal would require discussions with multiple people and is not a certainty. Aiyuk has not played since the 2024 season due to a serious knee injury and missed team meetings, leading the 49ers to void roughly $27 million in guarantees on his contract. ESPN's Jeremy Fowler is skeptical Aiyuk will be reinstated to play anytime soon.",
+            "Other potential trade candidates include Arizona Cardinals pass-rusher Josh Sweat, who is open to a trade according to Schultz, and Dallas Cowboys wide receiver George Pickens, whose expiring contract and the team's lack of success could make him available, though there is no firm indication Dallas is looking to trade him. Teams are also watching the New York Jets, wondering whether another loss might open the door for players such as Will McDonald IV or running back Breece Hall to become available, per ESPN's Dan Graziano. The Los Angeles Chargers, the last winless team in the league, are not expected to trade players like Khalil Mack, Ladd McConkey or Justin Herbert, as Adam Schefter reports the team does not like the optics of giving up on the season. Insiders have told NFLTradeRumors.co that there could be anywhere from 12 to 20 trades total during the regular season, with six filed so far, and a similar volume to the 10 trades on deadline day in 2022 is possible.",
+            "The deadline arrives as contenders look to position themselves for a playoff run and rebuilding teams seek to maximize value. The Bears, coming off the Simmons trade, are considered one of the two or three best teams in the NFL and could add further to their defense, with cornerback Riq Woolen of the Philadelphia Eagles mentioned as a potential target in mock trade proposals. The Commanders, at 2-4-1, remain alive in the NFC East and have a need at wide receiver with Terry McLaurin on injured reserve, making Aiyuk a possible solution if he is reinstated. All trades must be finalized by 4 p.m. ET on Tuesday, Nov. 10."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Yahoo Sports",
+            "ESPN",
+            "NFLTradeRumors.co",
+            "Bleacher Nation",
+            "NFL.com",
+            "Arrowhead Addict",
+            "Star Tribune",
+            "Boston.com",
+            "Broncos Wire",
+            "FOX Sports",
+            "Commanders Wire",
+            "CBS Sports"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/nfl-trade-rumors-tracker-live-195440669.html"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nfl/story/_/id/50389499/2026-nfl-trade-deadline-offers-experts-taylor-woolen-pollard"
+            },
+            {
+              "outlet": "NFLTradeRumors.co",
+              "url": "https://nfltraderumors.co/10-mock-trades-before-tuesdays-nfl-trade-deadline/"
+            },
+            {
+              "outlet": "Bleacher Nation",
+              "url": "https://www.bleachernation.com/bears/2026/11/08/vikings-rumors-qb-taylor/"
+            },
+            {
+              "outlet": "NFL.com",
+              "url": "https://www.nfl.com/news/trade-talk-latest-on-colts-qb-daniel-jones-chargers-lb-khalil-mack-ahead-of-deadline"
+            },
+            {
+              "outlet": "Arrowhead Addict",
+              "url": "https://arrowheadaddict.com/chiefs-should-consider-surprising-two-for-one-approach-nfl-trade-deadline"
+            },
+            {
+              "outlet": "Star Tribune",
+              "url": "https://www.startribune.com/minnesota-vikings-nfl-trade-deadline-moves-2026-jonathan-taylor-budda-baker-gm-nolan-teasley-targets/601908775"
+            },
+            {
+              "outlet": "Boston.com",
+              "url": "https://www.boston.com/sports/new-england-patriots/2026/11/07/nfl-trade-deadline-rumors-patriots/"
+            },
+            {
+              "outlet": "Broncos Wire",
+              "url": "https://broncoswire.usatoday.com/story/sports/nfl/broncos/2026/11/07/nfl-trade-rumors-broncos-interested-trey-mcbride/92667353007/"
+            },
+            {
+              "outlet": "FOX Sports",
+              "url": "https://www.foxsports.com/stories/nfl/nfl-trade-deadline-rumors-colts-jonathan-taylor-ravens-derrick-henry"
+            },
+            {
+              "outlet": "Commanders Wire",
+              "url": "https://commanderswire.usatoday.com/story/sports/nfl/commanders/2026/11/08/nfl-trade-deadline-2-potential-trades-commanders/92674056007/"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nfl/news/nfl-trade-deadline-rumors-giants-john-harbaugh-reunite-former-running-back/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The NFL trade deadline is set for 4 p.m. ET on Tuesday, Nov. 10.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Six trades have been completed during the regular season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Oct. 29 trade sent Tennessee Titans defensive tackle Jeffery Simmons and a 2028 fifth-round pick to the Chicago Bears for two first-round picks and a 2027 fourth-round pick.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Indianapolis Colts traded defensive tackle DeForest Buckner to the San Francisco 49ers for a fourth-round pick on Oct. 27.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Indianapolis Colts traded guard Quenton Nelson to the Seattle Seahawks for third- and fifth-round picks on Oct. 27.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Arizona Cardinals traded wide receiver Marvin Harrison Jr. to the Houston Texans for second- and sixth-round picks on Oct. 11.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Arizona Cardinals traded quarterback Jacoby Brissett along with a fifth-round pick to the Baltimore Ravens for a fourth- and seventh-round pick on Nov. 4.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Philadelphia Eagles sent guard Cam Jurgens and a seventh-round pick to the Ravens on Oct. 7 for a 2028 second-round pick and 2027 fifth-round pick.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Pittsburgh Steelers traded cornerback Joey Porter Jr. to the Dallas Cowboys on Sept. 30 for a 2028 second-round pick and 2027 sixth-round pick.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Indianapolis Colts running back Jonathan Taylor has told the team he does not want to be traded.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to ESPN's Jeremy Fowler, the Colts are still asking for a first-round pick for Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "According to ESPN's Jeremy Fowler, the Colts maintain they do not have to trade Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "According to ESPN's Jeremy Fowler, suitors believe a second-round pick plus another asset should suffice for Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "Jordan Schultz reports that the Broncos, Vikings, Packers, Bengals and Giants are among teams that have reached out to the Colts about Taylor.",
+                "status": "supported",
+                "source_ids": [
+                  "Jordan Schultz"
+                ]
+              },
+              {
+                "text": "Jordan Schultz believes a trade is 'more likely than not' despite the high asking price.",
+                "status": "supported",
+                "source_ids": [
+                  "Jordan Schultz"
+                ]
+              },
+              {
+                "text": "On Nov. 8, Josina Anderson reported that the Giants have 'cooled' on Taylor talks due to the Colts' high asking price.",
+                "status": "supported",
+                "source_ids": [
+                  "Josina Anderson"
+                ]
+              },
+              {
+                "text": "SNY's Connor Hughes noted conflicting reports about the Giants' willingness to meet Indianapolis's demands.",
+                "status": "supported",
+                "source_ids": [
+                  "SNY"
+                ]
+              },
+              {
+                "text": "The Colts have said they plan to wait until after their Week 9 game against the Cowboys before exploring trades for Taylor and others, per insider Jordan Schultz.",
+                "status": "supported",
+                "source_ids": [
+                  "Jordan Schultz"
+                ]
+              },
+              {
+                "text": "Baltimore Ravens running back Derrick Henry is a free agent after the season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Derrick Henry is 'not available' according to Adam Schefter.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter"
+                ]
+              },
+              {
+                "text": "The Ravens are turning down trade requests for Derrick Henry despite a recent losing streak and the absence of quarterback Lamar Jackson for most of the season, per Adam Schefter.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter"
+                ]
+              },
+              {
+                "text": "The Colts have received multiple calls about quarterback Daniel Jones but have told interested teams they are not trading him, per Tom Pelissero.",
+                "status": "supported",
+                "source_ids": [
+                  "Tom Pelissero"
+                ]
+              },
+              {
+                "text": "The Denver Broncos checked in on Arizona Cardinals tight end Trey McBride, a Colorado native, but the Cardinals summarily declined, per Schefter.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter"
+                ]
+              },
+              {
+                "text": "The Washington Commanders have not completely abandoned the idea of adding San Francisco 49ers wide receiver Brandon Aiyuk, according to Schefter and Ian Rapoport.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter",
+                  "Ian Rapoport"
+                ]
+              },
+              {
+                "text": "Any deal for Brandon Aiyuk would require discussions with multiple people and is not a certainty, per Schefter and Rapoport.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter",
+                  "Ian Rapoport"
+                ]
+              },
+              {
+                "text": "Brandon Aiyuk has not played since the 2024 season due to a serious knee injury.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Brandon Aiyuk missed team meetings, leading the 49ers to void roughly $27 million in guarantees on his contract.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "ESPN's Jeremy Fowler is skeptical Aiyuk will be reinstated to play anytime soon.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "Arizona Cardinals pass-rusher Josh Sweat is open to a trade according to Schultz.",
+                "status": "supported",
+                "source_ids": [
+                  "Jordan Schultz"
+                ]
+              },
+              {
+                "text": "Dallas Cowboys wide receiver George Pickens has an expiring contract.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Dallas Cowboys' lack of success could make George Pickens available, though there is no firm indication Dallas is looking to trade him.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Teams are watching the New York Jets, wondering whether another loss might open the door for players such as Will McDonald IV or running back Breece Hall to become available, per ESPN's Dan Graziano.",
+                "status": "supported",
+                "source_ids": [
+                  "ESPN"
+                ]
+              },
+              {
+                "text": "The Los Angeles Chargers are the last winless team in the league.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Los Angeles Chargers are not expected to trade players like Khalil Mack, Ladd McConkey or Justin Herbert, as Adam Schefter reports the team does not like the optics of giving up on the season.",
+                "status": "supported",
+                "source_ids": [
+                  "Adam Schefter"
+                ]
+              },
+              {
+                "text": "Insiders have told NFLTradeRumors.co that there could be anywhere from 12 to 20 trades total during the regular season.",
+                "status": "supported",
+                "source_ids": [
+                  "NFLTradeRumors.co"
+                ]
+              },
+              {
+                "text": "Six trades have been filed so far during the regular season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A similar volume to the 10 trades on deadline day in 2022 is possible.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Bears, coming off the Simmons trade, are considered one of the two or three best teams in the NFL.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Cornerback Riq Woolen of the Philadelphia Eagles has been mentioned as a potential target for the Bears in mock trade proposals.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Commanders are at 2-4-1.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Commanders remain alive in the NFC East.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Commanders have a need at wide receiver with Terry McLaurin on injured reserve.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Brandon Aiyuk is a possible solution for the Commanders if he is reinstated.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "All trades must be finalized by 4 p.m. ET on Tuesday, Nov. 10.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-stephen-curry-leads-warriors-to-seventh-straight",
+          "section": "sports",
+          "headline": "Stephen Curry leads Warriors to seventh straight win, makes clutch history",
+          "beat_label": "NBA",
+          "byline": "Sports desk",
+          "body": [
+            "Stephen Curry scored 41 points, including a perfect 4-for-4 on go-ahead shots in the final two minutes of regulation and overtime, as the Golden State Warriors defeated the Orlando Magic 126-119 on Saturday night at Chase Center. The win extended the Warriors' winning streak to seven games after they opened the season 0-3, making them the first team since the 1950-51 Boston Celtics—before the Bill Russell era—to start 0-3 and then win seven straight, according to BasketNews.com.",
+            "Curry finished 13-of-19 from the field, 5-of-10 from three-point range, and a perfect 10-of-10 from the free-throw line, adding six rebounds and six assists. The 38-year-old guard broke LeBron James' record for the most 40-point games after turning 35, now with 16 such games. He also became the third point guard in NBA history—joining Oscar Robertson and Russell Westbrook—to reach 25,000 points and 5,000 rebounds, per NBC Sports Bay Area & California. Curry's 4-for-4 mark on go-ahead shots in the final two minutes of regulation and overtime is the first such perfect performance in the tracking era (since 1996-97), according to NBC Sports.",
+            "The Warriors' bench contributed 42 points, with Georges Niang scoring 11. Head coach Steve Kerr opted to start overtime with Curry and Draymond Green on the bench to manage minutes, a decision that initially puzzled the veterans. \"No, we're good. We're alright, that ain't changing nothing,\" Green recalled saying, but they ultimately trusted Kerr. Backup center Charles Bassey scored the first four points of overtime before Curry and Green re-entered with 3:48 left. \"The conversation and the energy was more frustration for us, not doubt in the (bench) unit that was going out there,\" Curry said, per The Mercury News.",
+            "The Magic, missing starters Paolo Banchero, Desmond Bane, and Jalen Suggs, grabbed 24 offensive rebounds and attempted 33 more shots than the Warriors. \"We got totally outplayed that whole second half,\" Kerr said. \"They were amazing, 33 more field goal attempts. It's almost impossible to win a game but I'm proud of our guys because they gutted it out.\" Orlando tied the game late in regulation and forced overtime, but Curry's clutch layups and free throws sealed the win.",
+            "In his postgame interview, Curry addressed the team's early-season doubters: \"I just love the resiliency, attitude, and commitment from everybody. When you set foot on the floor, just play hard, and good things will happen. We don't forget where people thought we were at the beginning of the year.\" He acknowledged the difficulty of ignoring criticism but said the team has learned to block it out. Social media reactions were mixed, with some users noting the Warriors needed overtime against a depleted Magic team and others predicting Curry's comments could \"age horribly\" if the team falters later in the season.",
+            "The Warriors improved to 7-3, standing strong in the Western Conference after their first 10 games. Curry is averaging 31.3 points, 4.6 assists, and 4 rebounds while shooting 50% from the field, 45% from three, and 99% from the free-throw line. The team will look to extend its streak as they continue to build on their remarkable turnaround."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BasketNews.com",
+            "Yahoo Sports",
+            "ESPN",
+            "NBC Sports Bay Area & California",
+            "The Mercury News"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "BasketNews.com",
+              "url": "https://basketnews.com/news-259034-curry-leads-warriors-to-pre-bill-russell-celtics-feat-unseen-in-nba-for-over-75-years.html"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/articles/let-not-carried-away-now-144423709.html"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/nba/story/_/id/50417316/remarkable-curry-latest-history-making-night-keeps-warriors-rolling"
+            },
+            {
+              "outlet": "NBC Sports Bay Area & California",
+              "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-history-overtime-win-magic/1977857/"
+            },
+            {
+              "outlet": "The Mercury News",
+              "url": "https://www.mercurynews.com/2026/11/07/warriors-magic-steph-curry-yaxel-ldendeborg-wagner/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Stephen Curry scored 41 points in the game.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews.com",
+                  "NBC Sports Bay Area & California",
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Curry was 4-for-4 on go-ahead shots in the final two minutes of regulation and overtime.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "The Golden State Warriors defeated the Orlando Magic 126-119 on Saturday night at Chase Center.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews.com",
+                  "NBC Sports Bay Area & California",
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "The win extended the Warriors' winning streak to seven games after they opened the season 0-3.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews.com"
+                ]
+              },
+              {
+                "text": "The Warriors are the first team since the 1950-51 Boston Celtics to start 0-3 and then win seven straight, according to BasketNews.com.",
+                "status": "supported",
+                "source_ids": [
+                  "BasketNews.com"
+                ]
+              },
+              {
+                "text": "Curry finished 13-of-19 from the field.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry finished 5-of-10 from three-point range.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry finished a perfect 10-of-10 from the free-throw line.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry added six rebounds and six assists.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry is 38 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry broke LeBron James' record for the most 40-point games after turning 35, now with 16 such games.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry became the third point guard in NBA history—joining Oscar Robertson and Russell Westbrook—to reach 25,000 points and 5,000 rebounds, per NBC Sports Bay Area & California.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "Curry's 4-for-4 mark on go-ahead shots in the final two minutes of regulation and overtime is the first such perfect performance in the tracking era (since 1996-97), according to NBC Sports.",
+                "status": "supported",
+                "source_ids": [
+                  "NBC Sports Bay Area & California"
+                ]
+              },
+              {
+                "text": "The Warriors' bench contributed 42 points.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Georges Niang scored 11 points for the Warriors.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Head coach Steve Kerr opted to start overtime with Curry and Draymond Green on the bench to manage minutes.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Draymond Green recalled saying, 'No, we're good. We're alright, that ain't changing nothing,' but they ultimately trusted Kerr.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Backup center Charles Bassey scored the first four points of overtime before Curry and Green re-entered with 3:48 left.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Curry said, 'The conversation and the energy was more frustration for us, not doubt in the (bench) unit that was going out there,' per The Mercury News.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "The Magic were missing starters Paolo Banchero, Desmond Bane, and Jalen Suggs.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "The Magic grabbed 24 offensive rebounds.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "The Magic attempted 33 more shots than the Warriors.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Kerr said, 'We got totally outplayed that whole second half.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Kerr said, 'They were amazing, 33 more field goal attempts. It's almost impossible to win a game but I'm proud of our guys because they gutted it out.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Orlando tied the game late in regulation and forced overtime.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Curry's clutch layups and free throws sealed the win.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "In his postgame interview, Curry said, 'I just love the resiliency, attitude, and commitment from everybody. When you set foot on the floor, just play hard, and good things will happen. We don't forget where people thought we were at the beginning of the year.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Curry acknowledged the difficulty of ignoring criticism but said the team has learned to block it out.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Social media reactions were mixed, with some users noting the Warriors needed overtime against a depleted Magic team and others predicting Curry's comments could 'age horribly' if the team falters later in the season.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "The Warriors improved to 7-3.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              },
+              {
+                "text": "Curry is averaging 31.3 points, 4.6 assists, and 4 rebounds while shooting 50% from the field, 45% from three, and 99% from the free-throw line.",
+                "status": "supported",
+                "source_ids": [
+                  "The Mercury News"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": []
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-us-intelligence-memo-alleges-nvidia-ceo-had-affa",
+          "section": "tech-ai",
+          "headline": "US intelligence memo alleges Nvidia CEO had affair with suspected Chinese spy; Chinese firms cleared to buy banned chips have empty offices",
+          "beat_label": "National Security / Tech",
+          "byline": "Tech / AI desk",
+          "body": [
+            "A classified U.S. intelligence memo circulated among intelligence agencies and senior Trump administration officials alleges that Nvidia CEO Jensen Huang was targeted in a Chinese industrial espionage operation, according to multiple media reports. The memo, first reported by The New York Times and confirmed by the Financial Times, claims that Alice Huang, also known as Huang Le, a former senior executive at Singapore-based data center company Megaspeed, was recruited by China's Ministry of State Security to gather information about Nvidia's AI chips and influence export policy. The assessment further alleges that the relationship between Jensen Huang and Alice Huang, who are not related, extended beyond business and became romantic, and was monitored by U.S. intelligence for more than a year.",
+            "The two were photographed together at a bar in Taipei in June 2024, around the same period that Megaspeed began purchasing billions of dollars' worth of advanced Nvidia chips. Intelligence investigations found that Megaspeed established data centers across Southeast Asia and rented their computing power to Chinese tech giant Alibaba, creating an indirect route for Chinese companies to access advanced computing power despite U.S. restrictions on direct sales of sophisticated processors to China. The network of companies and investors associated with Alice Huang also has financial links to China Electronics Technology Group Corporation (CETC), one of China's major military technology conglomerates, through an investment in one of its cybersecurity subsidiaries.",
+            "Separately, an investigation by The New York Times found that two Chinese companies approved by the U.S. Commerce Department to purchase Nvidia's H200 AI chips—New Matrix and Maginfra—have empty offices with no evidence of actual operations. At the address listed by New Matrix, reporters found 'a hollow gray shell with wires dangling from the ceiling where lights should be.' A company directory at the building did not include the firm, and property management staff said they had no record of it. New Matrix was created 17 months ago and has scant online presence. Its owners have ties to Wise Road, a Chinese private equity firm blacklisted by the U.S. since 2024. Maginfra is suspected of being linked to Inspur, which Washington blacklisted in 2023 for supporting the People's Liberation Army, with both companies sharing personnel, patents, and a similar government ownership structure.",
+            "The approvals raise concerns about due diligence. 'I have a ton of concerns that neither the Commerce Department or Nvidia is doing the due diligence needed to ensure that the licensing terms are being followed,' Liza Tobin, former China director for the White House National Security Council, told the Times. The Commerce Department has also approved licenses for well-known entities such as Baidu, BYD, Tesla Shanghai, ZTE, Alibaba, Tencent, and ByteDance, as well as Zhejiang Yindun Cloud Technology, whose executives are reportedly related to the founder of Range Intelligent Computing Technology Group, a data center operator that has sold compute capacity to Chinese military contractors.",
+            "President Donald Trump banned the export of Nvidia AI GPUs in April 2025, but reversed the decision late last year in exchange for a 25% cut of sales. It took more than eight months for the first H200 shipments to arrive in China, partly due to Beijing's initial refusal to allow Chinese tech companies to buy the chips. Around two dozen firms have since received approval. An Nvidia spokesperson told the Times that Jensen Huang's interactions with Alice Huang were 'not unusual,' and that the company does not share classified information with customers. The spokesperson also said Nvidia sells 'the first, best and most of our technology in America.' China has rejected the espionage allegations as baseless smears. The chairs of three House committees have asked Jensen Huang to appear for a closed-door briefing, and President Trump was reportedly briefed on the matter last year and chose not to intervene."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 4,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Verge",
+            "TechCrunch",
+            "Tom's Hardware",
+            "ynetnews"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+            },
+            {
+              "outlet": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers"
+            },
+            {
+              "outlet": "ynetnews",
+              "url": "https://www.ynetnews.com/tech-and-digital/article/rklak02tfx"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A classified U.S. intelligence memo was circulated among intelligence agencies and senior Trump administration officials.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The memo alleges that Nvidia CEO Jensen Huang was targeted in a Chinese industrial espionage operation.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The memo was first reported by The New York Times and confirmed by the Financial Times.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The memo claims that Alice Huang, also known as Huang Le, a former senior executive at Singapore-based data center company Megaspeed, was recruited by China's Ministry of State Security to gather information about Nvidia's AI chips and influence export policy.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The assessment alleges that the relationship between Jensen Huang and Alice Huang, who are not related, extended beyond business and became romantic.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The relationship was monitored by U.S. intelligence for more than a year.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Jensen Huang and Alice Huang were photographed together at a bar in Taipei in June 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Around the same period as the June 2024 photograph, Megaspeed began purchasing billions of dollars' worth of advanced Nvidia chips.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "Intelligence investigations found that Megaspeed established data centers across Southeast Asia and rented their computing power to Chinese tech giant Alibaba.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "This arrangement created an indirect route for Chinese companies to access advanced computing power despite U.S. restrictions on direct sales of sophisticated processors to China.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "The network of companies and investors associated with Alice Huang has financial links to China Electronics Technology Group Corporation (CETC), one of China's major military technology conglomerates, through an investment in one of its cybersecurity subsidiaries.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times",
+                  "Financial Times"
+                ]
+              },
+              {
+                "text": "An investigation by The New York Times found that two Chinese companies approved by the U.S. Commerce Department to purchase Nvidia's H200 AI chips—New Matrix and Maginfra—have empty offices with no evidence of actual operations.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "At the address listed by New Matrix, reporters found 'a hollow gray shell with wires dangling from the ceiling where lights should be.'",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "A company directory at the building did not include New Matrix.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Property management staff said they had no record of New Matrix.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "New Matrix was created 17 months ago.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "New Matrix has scant online presence.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "New Matrix's owners have ties to Wise Road, a Chinese private equity firm blacklisted by the U.S. since 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Maginfra is suspected of being linked to Inspur, which Washington blacklisted in 2023 for supporting the People's Liberation Army.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Maginfra and Inspur share personnel, patents, and a similar government ownership structure.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Liza Tobin, former China director for the White House National Security Council, told the Times: 'I have a ton of concerns that neither the Commerce Department or Nvidia is doing the due diligence needed to ensure that the licensing terms are being followed.'",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The Commerce Department has approved licenses for well-known entities such as Baidu, BYD, Tesla Shanghai, ZTE, Alibaba, Tencent, and ByteDance.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The Commerce Department has also approved licenses for Zhejiang Yindun Cloud Technology.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Executives of Zhejiang Yindun Cloud Technology are reportedly related to the founder of Range Intelligent Computing Technology Group, a data center operator that has sold compute capacity to Chinese military contractors.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "President Donald Trump banned the export of Nvidia AI GPUs in April 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Trump reversed the ban late last year in exchange for a 25% cut of sales.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "It took more than eight months for the first H200 shipments to arrive in China.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The delay was partly due to Beijing's initial refusal to allow Chinese tech companies to buy the chips.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "Around two dozen firms have since received approval.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "An Nvidia spokesperson told the Times that Jensen Huang's interactions with Alice Huang were 'not unusual.'",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The spokesperson said that the company does not share classified information with customers.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The spokesperson also said Nvidia sells 'the first, best and most of our technology in America.'",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "China has rejected the espionage allegations as baseless smears.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "The chairs of three House committees have asked Jensen Huang to appear for a closed-door briefing.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              },
+              {
+                "text": "President Trump was reportedly briefed on the matter last year and chose not to intervene.",
+                "status": "supported",
+                "source_ids": [
+                  "The New York Times"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.85,
+          "significance": 0.75,
+          "image": {
+            "url": "static/img/2026-09-28/tech-ai-nvidia-launches-ai-safety-platform-to-contain-ro.jpg",
+            "alt": "Photograph of Nvidia corporate headquarters building",
+            "credit": "Photo: VQTCS / Wikimedia Commons (CC BY 4.0)",
+            "license": "CC BY 4.0",
+            "width": 1000,
+            "height": 562
+          }
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "world",
+      "story_id": "world-poland-mourns-six-killed-in-krakow-shooting-terr"
+    },
+    {
+      "section": "tech-ai",
+      "story_id": "tech-ai-us-intelligence-memo-alleges-nvidia-ceo-had-affa"
+    },
+    {
+      "section": "world",
+      "story_id": "world-russian-strikes-leave-hundreds-of-thousands-with"
+    },
+    {
+      "section": "markets",
+      "story_id": "markets-berkshire-hathaway-buybacks-surge-to-9-6-billion"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Trump promotes Stephen Miller as chief of staff after GOP midterm losses; House Republicans react",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Democratic state legislative gains reshape policy agendas in North Carolina, Arizona, Texas, Iowa, Georgia",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Novartis Lp(a) drug fails to reduce heart attacks despite lowering risk marker",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Iowa measles cases rise to 50 amid ongoing outbreak",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
