@@ -1,0 +1,3823 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-24",
+  "edition": "Morning edition",
+  "generated_at": "2026-11-24T20:46:55+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-court-unseals-heavily-redacted-records-on-ilhan-",
+          "section": "politics",
+          "headline": "Court unseals heavily redacted records on Ilhan Omar home search; judge warns of White House weaponization",
+          "beat_label": "Politics",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.2,
+            "tilt_pill": "Coverage tilts slightly center-right",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Fox News",
+            "ABC News - Breaking News, Latest News and Videos"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/politics/ilhan-omar-records-show-judge-doj-officials-debating-before-raid-home",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "ABC News - Breaking News, Latest News and Videos",
+              "url": "https://abcnews.com/US/threat-finally-real-judge-rips-white-house-weaponization/story?id=138417990"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "A federal court unsealed roughly 169-170 pages of heavily redacted documents on Nov. (Monday).",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The unsealing was related to the Oct. 12 search of Rep. Ilhan Omar's Washington, D.C. home.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The unsealing occurred over the objection of DOJ prosecutors.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The order to unseal came from Chief U.S. District Judge James Boasberg.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ applied for the search warrant on Oct. 2.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Homeland Security Investigations executed the search warrant on Oct. 12.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The warrant sought evidence of crimes 'involving Ilhan Nur Said Elmi a/k/a Ilhan Abdullahi Omar... occurring between 1980 to the present'.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The specific offenses alleged in the warrant remain redacted.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "U.S. Magistrate Judge Matthew Sharbaugh raised concerns that the search could implicate the Constitution's Speech or Debate Clause.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Judge Sharbaugh ultimately granted the warrant.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The warrant included a caveat that Omar could invoke congressional privilege over any seized materials related to legislative activity.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Items seized in the search included Omar's personal phone, computer and passport.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Investigators obtained Omar's DNA.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar's sister, Sahra Noor, voluntarily answered questions from investigators that week.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar was born in Somalia around 1981-1982.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar moved to the U.S. in 1995.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar became a naturalized U.S. citizen in 2000.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar has not been charged with a crime.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar denies any wrongdoing.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Fifteen media outlets led by The New York Times, along with Judicial Watch, sued the DOJ to obtain the warrant materials.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ argued unsealing could risk flight, evidence destruction or witness tampering.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The DOJ sought to keep the records sealed.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Boasberg excluded the 67-page search warrant affidavit from the release.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Boasberg excluded the warrant itself from the release.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Boasberg excluded a list of seized items from the release.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Boasberg cited the ongoing investigation for the exclusions.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Boasberg signaled further materials could be released later with fewer redactions.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The raid occurred 22 days before the November midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "Omar won reelection in the November midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "DOJ policy generally advises against enforcement actions that could be perceived as affecting an election.",
+                "status": "supported",
+                "source_ids": [
+                  "Facts"
+                ]
+              },
+              {
+                "text": "The case centers on a rare federal search of a sitting member of Congress's home.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The redacted records show the warrant's scope reaching back to 1980.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Prosecutors described the warrant as unrelated to Omar's congressional work.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The court itself questioned the claim that the warrant was unrelated to Omar's congressional work before granting the warrant with safeguards.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "The unsealing followed litigation by major news organizations and a watchdog group against the DOJ.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Rep. Ilhan Omar said the search was 'an attempt to target political enemies and weaponize federal law enforcement'.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Rep. Ilhan Omar called the investigations 'complete shams'.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "Omar's fellow Democrats expressed concern over the timing of the raid, coming 22 days before the midterm elections.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Democratic positions"
+                ]
+              },
+              {
+                "text": "President Trump referenced the search of Omar's home.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "President Trump said of Omar: 'I don't know what they're doing with it, but I can tell you this: she's a disaster.'",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Homeland Security Secretary Markwayne Mullin said in September 'something is going to happen'.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "Homeland Security Secretary Markwayne Mullin alleged marital fraud by Omar.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "White House border czar Tom Homan told Fox News that Omar was being investigated for unspecified immigration violations.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "DOJ prosecutors argued the warrant was unrelated to Omar's congressional duties.",
+                "status": "supported",
+                "source_ids": [
+                  "Attributed Republican positions"
+                ]
+              },
+              {
+                "text": "A federal judge independently flagged constitutional concerns about searching a sitting lawmaker's home and devices.",
+                "status": "supported",
+                "source_ids": [
+                  "Steelman"
+                ]
+              },
+              {
+                "text": "The investigation remains open and uncharged.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              },
+              {
+                "text": "Additional, less-redacted documents potentially still to come.",
+                "status": "supported",
+                "source_ids": [
+                  "Implications"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "A federal court, acting on an order from Chief U.S. District Judge James Boasberg, unsealed roughly 169-170 pages of heavily redacted documents on Nov. (Monday) related to the Oct. 12 search of Rep. Ilhan Omar's Washington, D.C. home, over the objection of DOJ prosecutors.",
+              "The DOJ applied for the search warrant on Oct. 2, and Homeland Security Investigations executed it on Oct. 12, seeking evidence of crimes 'involving Ilhan Nur Said Elmi a/k/a Ilhan Abdullahi Omar... occurring between 1980 to the present'; the specific offenses alleged remain redacted.",
+              "U.S. Magistrate Judge Matthew Sharbaugh raised concerns that the search could implicate the Constitution's Speech or Debate Clause before ultimately granting the warrant, with the caveat that Omar could invoke congressional privilege over any seized materials related to legislative activity.",
+              "Items seized in the search included Omar's personal phone, computer and passport; investigators also obtained her DNA, and her sister, Sahra Noor, voluntarily answered questions from investigators that week.",
+              "Omar, born in Somalia around 1981-1982, moved to the U.S. in 1995 and became a naturalized citizen in 2000; she has not been charged with a crime and denies any wrongdoing.",
+              "Fifteen media outlets led by The New York Times, along with Judicial Watch, sued the DOJ to obtain the warrant materials; the DOJ argued unsealing could risk flight, evidence destruction or witness tampering and sought to keep the records sealed.",
+              "Boasberg excluded the 67-page search warrant affidavit, the warrant itself, and a list of seized items from the release, citing the ongoing investigation, and signaled further materials could be released later with fewer redactions.",
+              "The raid occurred 22 days before the November midterm elections, in which Omar won reelection; DOJ policy generally advises against enforcement actions that could be perceived as affecting an election."
+            ],
+            "analysis": "The case centers on a rare federal search of a sitting member of Congress's home, raising two distinct legal questions: whether the underlying immigration/citizenship-related allegations against Omar have merit, and whether the search itself improperly intruded on constitutionally protected legislative activity under the Speech or Debate Clause. The redacted records show the warrant's scope reaching back to 1980 — before Omar was a U.S. citizen or lawmaker — and prosecutors described it as unrelated to her congressional work, a claim the court itself questioned before granting the warrant with safeguards. The unsealing followed litigation by major news organizations and a watchdog group against a DOJ that sought to keep the records confidential, adding a secondary dispute over transparency to the underlying criminal inquiry.",
+            "debate": {
+              "dem": [
+                "Rep. Ilhan Omar said the search was 'an attempt to target political enemies and weaponize federal law enforcement' and called the investigations 'complete shams.'",
+                "Omar's fellow Democrats expressed concern over the timing of the raid, coming 22 days before the midterm elections."
+              ],
+              "rep": [
+                "President Trump referenced the search of Omar's home, saying 'I don't know what they're doing with it, but I can tell you this: she's a disaster.'",
+                "Homeland Security Secretary Markwayne Mullin said in September 'something is going to happen' and alleged marital fraud by Omar.",
+                "White House border czar Tom Homan told Fox News that Omar was being investigated for unspecified immigration violations, and DOJ prosecutors argued the warrant was unrelated to Omar's congressional duties."
+              ]
+            },
+            "steelman": "Beyond the partisan framing, the unsealed records themselves reveal a genuine, court-acknowledged tension: a federal judge independently flagged constitutional concerns about searching a sitting lawmaker's home and devices, meaning the legal fight over the Speech or Debate Clause is a real, unresolved issue separate from whether the underlying allegations against Omar are true.",
+            "implications": "The investigation remains open and uncharged, with additional, less-redacted documents potentially still to come; further litigation is likely over both the Speech or Debate Clause protections for Omar's seized devices and the broader fight over transparency in politically sensitive federal investigations ahead of future elections."
+          },
+          "interestingness": 0.7,
+          "significance": 0.65,
+          "image": {
+            "url": "static/img/2026-11-24/politics-court-unseals-heavily-redacted-records-on-ilhan.jpg",
+            "alt": "Photograph of Ilhan Omar's home in Minnesota",
+            "credit": "Photo: Chad Davis / Wikimedia Commons (CC BY 4.0)",
+            "license": "CC BY 4.0",
+            "width": 1000,
+            "height": 667
+          }
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-trump-signals-possible-resumption-of-iran-strike",
+          "section": "world",
+          "headline": "Trump signals possible resumption of Iran strikes as Iran rebuilds and Israel faces growing threats",
+          "beat_label": "Middle East War",
+          "byline": "International & World desk",
+          "body": [
+            "President Donald Trump has signaled his willingness to resume military strikes against Iran next year following recent drone attacks, Fox News reported, as tensions in the Middle East escalate. The development comes as Iran rebuilds its military capabilities and Israel faces a growing strategic dilemma, according to analyses by the Jerusalem Post and Al Jazeera.",
+            "The Jerusalem Post reported that the Trump administration's stalling tactics have allowed Iranian hardliners to gain the upper hand. Iran now holds three strategic cards: control over the Strait of Hormuz, the vulnerability of some 50,000 US troops deployed across the Middle East, and the ability to threaten Gulf state oil facilities with its arsenal of missiles, rockets, drones, and UAVs. The analysis described Iran as \"a wounded, desperate, and dangerous animal that has laid a carefully planned ambush\" for the US.",
+            "The war with Iran, now in its 10th month, has cost more than $47 billion, according to Pentagon figures cited by Al Jazeera. Repairing damaged US bases could cost $9.4 billion, according to the Center for Strategic and International Studies. Hundreds of structures have been damaged since February 28. Naval Support Activity Bahrain, home to the Fifth Naval Fleet, sustained serious damage with repairs estimated at more than $400 million. Dozens of aircraft, including F-35A and F-15E fighter jets, have been lost.",
+            "Experts told Al Jazeera that the US may reduce its military footprint in the region after the war. Michael O'Hanlon of the Brookings Institution said, \"I think we will go smaller, more dispersed, more hardened, and generally further away from Iran.\" Mark Cancian of CSIS said rebuilding is unlikely until a ceasefire, and some bases may not be rebuilt. Kelly Grieco of the Stimson Center argued that access to a network of airstrips and temporary bases may matter more than permanent operating facilities.",
+            "New alliances could further reduce reliance on the US. In August, Saudi Arabia, Turkiye, and Pakistan signed the Mecca Joint Defence Agreement, committing to mutual defense. Their combined active military personnel exceeds 1.4 million, and their defense budgets total more than $124 billion. The pact is expected to expand to include Egypt and Syria.",
+            "Israel faces a critical decision as Washington is perceived to be walking into Iran's ambush, according to the Jerusalem Post. Jerusalem must choose between waiting for US action, risking a painful Iranian surprise, or launching its own preemptive move to reshuffle the strategic landscape across the Middle East."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.5,
+            "tilt_pill": "Coverage tilts right",
+            "spread": {
+              "liberal": 0,
+              "center": 6,
+              "conservative": 1
+            }
+          },
+          "covered_by": [
+            "Fox News",
+            "The Jerusalem Post",
+            "Al Jazeera",
+            "Institute for the Study of War",
+            "Navy Times",
+            "WISH-TV",
+            "Tulsa World"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "Fox News",
+              "url": "https://www.foxnews.com/video/6408772062112",
+              "lean": 0.5,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "The Jerusalem Post",
+              "url": "https://www.jpost.com/middle-east/iran-news/article-915930"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east"
+            },
+            {
+              "outlet": "Institute for the Study of War",
+              "url": "https://understandingwar.org/research/middle-east/iran-update-november-23-2026/"
+            },
+            {
+              "outlet": "Navy Times",
+              "url": "https://www.navytimes.com/news/2026/11/23/uss-theodore-roosevelt-replaces-uss-george-washington-in-the-middle-east/"
+            },
+            {
+              "outlet": "WISH-TV",
+              "url": "https://www.wishtv.com/news/international/houthis-advance-toward-aden-as-conflict-widens-across-middle-east/"
+            },
+            {
+              "outlet": "Tulsa World",
+              "url": "https://tulsaworld.com/image_fa551594-a50a-5905-8a70-ad58928bd77f.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "President Donald Trump has signaled his willingness to resume military strikes against Iran next year following recent drone attacks.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Tensions in the Middle East escalate.",
+                "status": "supported",
+                "source_ids": [
+                  "Fox News"
+                ]
+              },
+              {
+                "text": "Iran rebuilds its military capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post",
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Israel faces a growing strategic dilemma.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post",
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The Trump administration's stalling tactics have allowed Iranian hardliners to gain the upper hand.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "Iran holds control over the Strait of Hormuz as a strategic card.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "Iran holds the vulnerability of some 50,000 US troops deployed across the Middle East as a strategic card.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "Iran holds the ability to threaten Gulf state oil facilities with its arsenal of missiles, rockets, drones, and UAVs as a strategic card.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "The Jerusalem Post analysis described Iran as 'a wounded, desperate, and dangerous animal that has laid a carefully planned ambush' for the US.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "The war with Iran is now in its 10th month.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "The war with Iran has cost more than $47 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Pentagon",
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Repairing damaged US bases could cost $9.4 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "CSIS"
+                ]
+              },
+              {
+                "text": "Hundreds of structures have been damaged since February 28.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Naval Support Activity Bahrain sustained serious damage with repairs estimated at more than $400 million.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Dozens of aircraft, including F-35A and F-15E fighter jets, have been lost.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Experts told Al Jazeera that the US may reduce its military footprint in the region after the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Michael O'Hanlon of the Brookings Institution said: 'I think we will go smaller, more dispersed, more hardened, and generally further away from Iran.'",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Mark Cancian of CSIS said rebuilding is unlikely until a ceasefire, and some bases may not be rebuilt.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "Kelly Grieco of the Stimson Center argued that access to a network of airstrips and temporary bases may matter more than permanent operating facilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Al Jazeera"
+                ]
+              },
+              {
+                "text": "New alliances could further reduce reliance on the US.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In August, Saudi Arabia, Turkiye, and Pakistan signed the Mecca Joint Defence Agreement.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The agreement commits to mutual defense.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Their combined active military personnel exceeds 1.4 million.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Their defense budgets total more than $124 billion.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The pact is expected to expand to include Egypt and Syria.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to the Jerusalem Post, Washington is perceived to be walking into Iran's ambush.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              },
+              {
+                "text": "Jerusalem must choose between waiting for US action, risking a painful Iranian surprise, or launching its own preemptive move to reshuffle the strategic landscape across the Middle East.",
+                "status": "supported",
+                "source_ids": [
+                  "Jerusalem Post"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-11-24/world-trump-signals-possible-resumption-of-iran-strike.jpg",
+            "alt": "Photograph of Iranian military installation",
+            "credit": "Photo: Levi Blevins / Wikimedia Commons (CC0)",
+            "license": "CC0",
+            "width": 1000,
+            "height": 574
+          }
+        },
+        {
+          "id": "world-over-700-000-russian-soldiers-killed-in-ukraine-",
+          "section": "world",
+          "headline": "Over 700,000 Russian soldiers killed in Ukraine, new data shows",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "More than 700,000 Russian soldiers have died in Vladimir Putin's full-scale invasion of Ukraine, according to a new analysis of death certificates obtained by the hacking group Cyber Partisans, linked to the Belarusian opposition, and the Ukrainian hacker collective Silent Crow. The Guardian identified more than 460,000 war-related deaths among a cache of over 11 million death certificates from Russia's state statistics agency, Rosstat, covering the period from the invasion's start in February 2022 through September 2026. The analysis indicates that the Russian army was losing a staggering 720 men every 24 hours in the spring of 2025, the highest rate of the war, with at least a third of those killed around the eastern Ukrainian city of Pokrovsk. The real toll is likely higher, as deaths of missing soldiers are often registered months or years later, and the database does not capture every death.",
+            "The data shows a war that grew steadily more lethal, with little territorial gain for Moscow. Almost 20,000 deaths were recorded in the first year, 50,000 in 2023, more than 134,000 in 2024, and close to 200,000 in 2025 — the deadliest year, with about 548 men dying per day. The scale dwarfs any Russian or Soviet conflict since World War II; in the single week beginning May 5, 2025, Russia lost more men than the U.S. did in eight years in Iraq. Since the start of 2023, Russia has gained about 8,000 square kilometers, less than 1.5% of Ukraine's territory, according to the Ukrainian monitoring group DeepState. The losses are eroding Russia's ability to mount new offensives, helping explain why its army appears set to fail to capture the entire Donbas region by year's end, as Putin ordered.",
+            "The records reveal that the average age of Russian soldiers killed has risen from 34 in 2022 to nearly 40 in 2026, with almost a fifth of those killed in 2026 over 50, compared to 6% in the first year. Rather than order a second mobilization after the deeply unpopular first call-up in September 2022, the Kremlin has relied on cash bonuses to attract volunteers. The eight Russian regions with the most poverty recorded a military death rate four times higher than those with the least, with more than 10 deaths per 1,000 men aged 18-69. In at least 19 regions, mostly in the far east, war was the cause of more than half of deaths of men under 50 in 2025. The highest death rate was in Zabaykalsky Krai, where 32 men per 1,000 have died since the war began, compared to one per 1,000 in Moscow and St. Petersburg.",
+            "The analysis also identified more than 7,300 probable foreign soldiers among the dead, not counting Ukrainians, including 2,700 born abroad with no recorded citizenship. More than three-quarters came from former Soviet republics such as Kazakhstan, Uzbekistan, Tajikistan, and Belarus, but fighters from 78 other countries were also identified, including 440 from African nations and about 200 from Latin America, mostly Colombia and Cuba. The records miss what is likely the deadliest foreign contingent: North Korea, which sent more than 10,000 troops to help Russia in the Kursk region in late 2024 and 2025; South Korea's intelligence service estimates about 2,000 have been killed and 6,000 killed or wounded in total.",
+            "The losses are deepening a demographic crisis the Kremlin has struggled to reverse. In 2025, war became the leading cause of death for Russian men under 65, accounting for 29% of deaths with a recorded cause, ahead of circulatory diseases at 26%. More than half a million Russians have also left the country since the invasion. \"We've been predicting demographic doom for Russia for a few decades, and somehow the catastrophe never materialised,\" said Judyth Twigg, a professor of global health at Virginia Commonwealth University. \"But the current situation really does look qualitatively different.\" Janis Kluge, a Russia expert at the German Institute for International and Security Affairs, said the data suggests Russia could have more soldiers killed in action than severely wounded, a ratio that \"tells you something about this war and the way that it's fought.\" Russia's defense ministry has not updated its official death toll since September 2022, when it said 5,937 servicemen had been killed, and Moscow treats its casualty numbers as a military secret."
+          ],
+          "contested": false,
+          "covered_by": [
+            "NYT",
+            "The Guardian",
+            "CNN"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "More than 700,000 Russian soldiers have died in Vladimir Putin's full-scale invasion of Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "Cyber Partisans",
+                  "Silent Crow",
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "The Guardian identified more than 460,000 war-related deaths among a cache of over 11 million death certificates from Rosstat covering February 2022 to September 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "The Russian army was losing 720 men every 24 hours in spring 2025, the highest rate of the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Cyber Partisans",
+                  "Silent Crow",
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "At least a third of those killed were around the eastern Ukrainian city of Pokrovsk.",
+                "status": "supported",
+                "source_ids": [
+                  "Cyber Partisans",
+                  "Silent Crow",
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The real toll is likely higher because deaths of missing soldiers are often registered months or years later and the database does not capture every death.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Almost 20,000 deaths were recorded in the first year of the invasion.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "50,000 deaths were recorded in 2023.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "More than 134,000 deaths were recorded in 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Close to 200,000 deaths were recorded in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "2025 was the deadliest year with about 548 men dying per day.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The scale of deaths dwarfs any Russian or Soviet conflict since World War II.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "In the week beginning May 5, 2025, Russia lost more men than the U.S. did in eight years in Iraq.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Since the start of 2023, Russia has gained about 8,000 square kilometers, less than 1.5% of Ukraine's territory, according to DeepState.",
+                "status": "supported",
+                "source_ids": [
+                  "DeepState"
+                ]
+              },
+              {
+                "text": "The losses are eroding Russia's ability to mount new offensives.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Russia's army appears set to fail to capture the entire Donbas region by year's end, as Putin ordered.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Cyber Partisans",
+                  "Silent Crow"
+                ]
+              },
+              {
+                "text": "The average age of Russian soldiers killed has risen from 34 in 2022 to nearly 40 in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "Almost a fifth of those killed in 2026 were over 50, compared to 6% in the first year.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "Rather than order a second mobilization after the deeply unpopular first call-up in September 2022, the Kremlin has relied on cash bonuses to attract volunteers.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "The eight Russian regions with the most poverty recorded a military death rate four times higher than those with the least.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "In those high-poverty regions, the military death rate was more than 10 deaths per 1,000 men aged 18-69.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "In at least 19 regions, mostly in the far east, war was the cause of more than half of deaths of men under 50 in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "The highest death rate was in Zabaykalsky Krai, where 32 men per 1,000 have died since the war began.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "In Moscow and St. Petersburg, the death rate was one per 1,000.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "The analysis identified more than 7,300 probable foreign soldiers among the dead, not counting Ukrainians.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Cyber Partisans",
+                  "Silent Crow"
+                ]
+              },
+              {
+                "text": "Among the foreign dead, 2,700 were born abroad with no recorded citizenship.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Cyber Partisans",
+                  "Silent Crow"
+                ]
+              },
+              {
+                "text": "More than three-quarters of the foreign soldiers came from former Soviet republics Kazakhstan, Uzbekistan, Tajikistan, and Belarus.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Cyber Partisans",
+                  "Silent Crow"
+                ]
+              },
+              {
+                "text": "Fighters from 78 other countries were identified, including 440 from African nations and about 200 from Latin America, mostly Colombia and Cuba.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Cyber Partisans",
+                  "Silent Crow"
+                ]
+              },
+              {
+                "text": "The records miss what is likely the deadliest foreign contingent: North Korea.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "North Korea sent more than 10,000 troops to help Russia in the Kursk region in late 2024 and 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "South Korea's intelligence service"
+                ]
+              },
+              {
+                "text": "South Korea's intelligence service estimates about 2,000 North Korean troops have been killed and 6,000 killed or wounded in total.",
+                "status": "supported",
+                "source_ids": [
+                  "South Korea's intelligence service"
+                ]
+              },
+              {
+                "text": "The losses are deepening a demographic crisis the Kremlin has struggled to reverse.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "In 2025, war became the leading cause of death for Russian men under 65, accounting for 29% of deaths with a recorded cause, ahead of circulatory diseases at 26%.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian",
+                  "Rosstat"
+                ]
+              },
+              {
+                "text": "More than half a million Russians have left the country since the invasion.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              },
+              {
+                "text": "Janis Kluge said the data suggests Russia could have more soldiers killed in action than severely wounded.",
+                "status": "supported",
+                "source_ids": [
+                  "Janis Kluge",
+                  "German Institute for International and Security Affairs"
+                ]
+              },
+              {
+                "text": "Russia's defense ministry has not updated its official death toll since September 2022, when it said 5,937 servicemen had been killed.",
+                "status": "supported",
+                "source_ids": [
+                  "Russia's defense ministry"
+                ]
+              },
+              {
+                "text": "Moscow treats its casualty numbers as a military secret.",
+                "status": "supported",
+                "source_ids": [
+                  "The Guardian"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.75
+        },
+        {
+          "id": "world-israeli-drone-strike-kills-hamas-internal-securi",
+          "section": "world",
+          "headline": "Israeli drone strike kills Hamas internal security chief in Gaza",
+          "beat_label": "Gaza/Israel",
+          "byline": "International & World desk",
+          "body": [
+            "An Israeli drone strike in western Gaza City has killed Naeem Abu Nahel, the head of Hamas's internal security service, according to Gaza's Hamas-run interior ministry and the Israeli military. The 50-year-old had held the position since September, when his predecessor was captured by Israeli special forces. Witnesses reported that Abu Nahel was targeted as he walked on a side street near a tent camp for displaced people.",
+            "At least seven Palestinians were killed in the series of Israeli air strikes across Gaza, health officials and first responders said. In addition to Abu Nahel, three people including a teenage boy were killed in the Wadi Gaza area south of Gaza City, and three others died at a police station in the al-Mawasi area west of Khan Younis. Gaza's police force said two of its officers were among those killed in the second attack and accused Israel of an ongoing campaign targeting the police apparatus to sow chaos. The Israeli military said it struck military operatives in both areas.",
+            "The Israeli military said Abu Nahel possessed extensive institutional knowledge about the internal security service, which is responsible for enforcing discipline, protecting infrastructure, and rooting out informants. It alleged he had advanced attacks on Israeli troops and civilians during the war and that his death constituted a blow to the apparatus's management capabilities. Gaza's interior ministry said the killing followed what it described as important achievements by the internal security service in combating gangs collaborating with Israel.",
+            "Violence has continued in Gaza since a US-brokered ceasefire was agreed in October last year. Israeli strikes occur almost daily in areas under Hamas's control, home to 2.1 million people, most of them displaced. Over the past 13 months, at least 1,679 people have been killed in Gaza, according to the territory's Hamas-run health ministry, whose figures are considered reliable by the UN. Israel says six of its soldiers have been killed in the same period.",
+            "The humanitarian situation remains dire, with heavy rainfall earlier this month causing flooding and damage to thousands of shelters. The UN and its partners have called on Israel, which controls Gaza's crossings, to allow in more supplies for winter, including tents, heaters, water pumps, vaccines, and medicines. The health ministry warned of a rapid rise in meningitis cases, with 272 reported in October, about eight times the usual monthly average, and 15 deaths attributed to the infection so far this year. The Israeli military body Cogat said it was working to provide a dedicated humanitarian response and had presented a newly approved package of equipment to UN agencies.",
+            "The Gaza war was triggered by the Hamas-led attack on southern Israel on 7 October 2023, in which about 1,200 people were killed and 251 taken hostage. Since then, more than 74,740 people have been killed in Israeli attacks in Gaza, the health ministry says."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.1,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "Al Jazeera"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Al Jazeera",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "An Israeli drone strike in western Gaza City killed Naeem Abu Nahel.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's Hamas-run interior ministry",
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "Naeem Abu Nahel was the head of Hamas's internal security service.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's Hamas-run interior ministry",
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "Naeem Abu Nahel was 50 years old.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's Hamas-run interior ministry",
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "Abu Nahel had held the position since September.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's Hamas-run interior ministry",
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "His predecessor was captured by Israeli special forces in September.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "Witnesses reported that Abu Nahel was targeted as he walked on a side street near a tent camp for displaced people.",
+                "status": "supported",
+                "source_ids": [
+                  "Witnesses"
+                ]
+              },
+              {
+                "text": "At least seven Palestinians were killed in the series of Israeli air strikes across Gaza.",
+                "status": "supported",
+                "source_ids": [
+                  "health officials",
+                  "first responders"
+                ]
+              },
+              {
+                "text": "Three people including a teenage boy were killed in the Wadi Gaza area south of Gaza City.",
+                "status": "supported",
+                "source_ids": [
+                  "health officials",
+                  "first responders"
+                ]
+              },
+              {
+                "text": "Three people died at a police station in the al-Mawasi area west of Khan Younis.",
+                "status": "supported",
+                "source_ids": [
+                  "health officials",
+                  "first responders"
+                ]
+              },
+              {
+                "text": "Gaza's police force said two of its officers were among those killed in the second attack.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's police force"
+                ]
+              },
+              {
+                "text": "Gaza's police force accused Israel of an ongoing campaign targeting the police apparatus to sow chaos.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's police force"
+                ]
+              },
+              {
+                "text": "The Israeli military said it struck military operatives in both areas.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "The Israeli military said Abu Nahel possessed extensive institutional knowledge about the internal security service.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "The internal security service is responsible for enforcing discipline, protecting infrastructure, and rooting out informants.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "The Israeli military alleged Abu Nahel had advanced attacks on Israeli troops and civilians during the war.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "The Israeli military alleged his death constituted a blow to the apparatus's management capabilities.",
+                "status": "supported",
+                "source_ids": [
+                  "Israeli military"
+                ]
+              },
+              {
+                "text": "Gaza's interior ministry said the killing followed important achievements by the internal security service in combating gangs collaborating with Israel.",
+                "status": "supported",
+                "source_ids": [
+                  "Gaza's interior ministry"
+                ]
+              },
+              {
+                "text": "Violence has continued in Gaza since a US-brokered ceasefire was agreed in October last year.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Israeli strikes occur almost daily in areas under Hamas's control.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Areas under Hamas's control are home to 2.1 million people, most of them displaced.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Over the past 13 months, at least 1,679 people have been killed in Gaza.",
+                "status": "supported",
+                "source_ids": [
+                  "Hamas-run health ministry"
+                ]
+              },
+              {
+                "text": "The health ministry's figures are considered reliable by the UN.",
+                "status": "supported",
+                "source_ids": [
+                  "UN"
+                ]
+              },
+              {
+                "text": "Israel says six of its soldiers have been killed in the same period.",
+                "status": "supported",
+                "source_ids": [
+                  "Israel"
+                ]
+              },
+              {
+                "text": "Heavy rainfall earlier this month caused flooding and damage to thousands of shelters.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The UN and its partners have called on Israel to allow in more supplies for winter.",
+                "status": "supported",
+                "source_ids": [
+                  "UN",
+                  "its partners"
+                ]
+              },
+              {
+                "text": "Israel controls Gaza's crossings.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The health ministry warned of a rapid rise in meningitis cases.",
+                "status": "supported",
+                "source_ids": [
+                  "health ministry"
+                ]
+              },
+              {
+                "text": "272 meningitis cases were reported in October.",
+                "status": "supported",
+                "source_ids": [
+                  "health ministry"
+                ]
+              },
+              {
+                "text": "That is about eight times the usual monthly average.",
+                "status": "supported",
+                "source_ids": [
+                  "health ministry"
+                ]
+              },
+              {
+                "text": "15 deaths have been attributed to the infection so far this year.",
+                "status": "supported",
+                "source_ids": [
+                  "health ministry"
+                ]
+              },
+              {
+                "text": "The Israeli military body Cogat said it was working to provide a dedicated humanitarian response.",
+                "status": "supported",
+                "source_ids": [
+                  "Cogat"
+                ]
+              },
+              {
+                "text": "Cogat had presented a newly approved package of equipment to UN agencies.",
+                "status": "supported",
+                "source_ids": [
+                  "Cogat"
+                ]
+              },
+              {
+                "text": "The Gaza war was triggered by the Hamas-led attack on southern Israel on 7 October 2023.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In that attack, about 1,200 people were killed and 251 taken hostage.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Since then, more than 74,740 people have been killed in Israeli attacks in Gaza, the health ministry says.",
+                "status": "supported",
+                "source_ids": [
+                  "health ministry"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "world-trump-s-role-in-nvidia-ceo-reinstatement-sparks-",
+          "section": "world",
+          "headline": "Trump's role in Nvidia CEO reinstatement sparks political backlash",
+          "beat_label": "Tech/Politics",
+          "byline": "International & World desk",
+          "body": [
+            "US Attorney General Todd Blanche on Tuesday declined to comment on whether Nvidia or its reinstated CEO Jensen Huang is under federal investigation, calling the company a 'good corporate citizen' while saying he had 'no information' about Huang's security clearance status. The remarks came as lawmakers from both parties demanded answers about President Donald Trump's involvement in Huang's return to the helm of the AI chipmaker less than two weeks after he was forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy.",
+            "Nvidia's board unanimously voted to reinstate Huang as CEO and president on Monday, reversing its earlier position. Board chairman Harvey Jones said the decision was in the 'best interests of our stockholders, employees, partners and customers'. The board added that it had received input from senior levels of the US government and was confident Huang's reinstatement posed no national security risk. Trump said Monday he spoke to the company's directors and convinced them to bring back Huang. The White House has emphasized that Trump has placed his businesses in a trust managed by his sons, though the president has personally invested in Nvidia.",
+            "The controversy centers on Huang's relationship with Alice Huang (no blood relation), a former executive for Singapore-based tech company Megaspeed, which is suspected of helping divert advanced Nvidia AI chips to China in violation of US export restrictions. The US commerce department has announced it is preparing to blacklist Megaspeed. In a joint statement last week, the commerce and justice departments said they began investigating Megaspeed in 2024 'for potential export control violations.' Blanche said the justice department has 'hundreds, if not more' export investigations at any one time, adding: 'I have no reason to stand up here and say Nvidia is anything but a good corporate citizen.'",
+            "The reinstatement has drawn bipartisan political anger. Republican Representative Don Bacon said Nvidia should have 'ignored the Administration's inexplicable desire to save Huang.' Republican Senator Pete Ricketts said Huang's behavior 'doesn't absolve Nvidia of answering for national security concerns and unaccounted-for chips.' Democratic Representative Robert Garcia, incoming chairman of the House oversight committee, said Trump's 'direct involvement' raises 'serious national security and corruption questions.' Democratic Senator Ruben Gallego called for Congress to 'investigate what stock positions took place before the announcement.' Huang is set to testify before Congress, where he will be questioned over his relationship with the Megaspeed executive due to national security concerns.",
+            "In China, Huang's reinstatement became the top trending post on Weibo, with many users pleased to see the return of the influential billionaire who declared he loved China. Beijing has dismissed claims that Alice Huang was recruited by China's Ministry of State Security as a spy, with state media framing the saga as a smear campaign. The episode has reinforced views among Chinese officials that Washington is divided between those favoring restricting Chinese access to cutting-edge tech and those like Huang who argue such restrictions will force Chinese firms to build independent alternatives. New US rules are tightening restrictions on advanced chip exports and targeting Chinese firms' ability to use computing power in overseas data centers, while China has yet to retaliate.",
+            "Former CIA officer Julia Curlee, who worked on the White House national security council during Trump's first term, said the president was warned about the risks posed by Huang's relationship but failed to act, calling it 'the latest episode of the president ignoring or not believing the intelligence that's being provided to him.' Arkansas Senator Tom Cotton wrote on X that the Nvidia controversy 'is just the tip of the iceberg and it's not resolved because Jensen Huang has his job back.' Nvidia's stock market value surged on the announcement of Huang's reappointment but reversed some gains in volatile Tuesday trading, with shares down more than 7% in early afternoon trading, though still above Friday's close before the return was announced."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.25,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "BBC",
+            "The Guardian"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "The Guardian",
+              "url": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
+              "lean": -0.4,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "US Attorney General Todd Blanche declined to comment on whether Nvidia is under federal investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "US Attorney General Todd Blanche declined to comment on whether Jensen Huang is under federal investigation.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Todd Blanche called Nvidia a 'good corporate citizen'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Todd Blanche said he had 'no information' about Jensen Huang's security clearance status.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Lawmakers from both parties demanded answers about President Donald Trump's involvement in Huang's return to the helm of Nvidia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Jensen Huang was forced to resign over revelations of extramarital affairs.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "One of Huang's extramarital affairs was with an alleged Chinese spy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang's reinstatement occurred less than two weeks after he was forced to resign.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's board unanimously voted to reinstate Huang as CEO and president on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The board's vote reversed its earlier position.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Board chairman Harvey Jones said the decision was in the 'best interests of our stockholders, employees, partners and customers'.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The board said it had received input from senior levels of the US government.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The board said it was confident Huang's reinstatement posed no national security risk.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Trump said Monday he spoke to the company's directors and convinced them to bring back Huang.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The White House has emphasized that Trump has placed his businesses in a trust managed by his sons.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The president has personally invested in Nvidia.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The controversy centers on Huang's relationship with Alice Huang.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Alice Huang is a former executive for Singapore-based tech company Megaspeed.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Megaspeed is suspected of helping divert advanced Nvidia AI chips to China in violation of US export restrictions.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The US commerce department has announced it is preparing to blacklist Megaspeed.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In a joint statement last week, the commerce and justice departments said they began investigating Megaspeed in 2024 for potential export control violations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Blanche said the justice department has 'hundreds, if not more' export investigations at any one time.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Blanche said: 'I have no reason to stand up here and say Nvidia is anything but a good corporate citizen.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Republican Representative Don Bacon said Nvidia should have 'ignored the Administration's inexplicable desire to save Huang.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Republican Senator Pete Ricketts said Huang's behavior 'doesn't absolve Nvidia of answering for national security concerns and unaccounted-for chips.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Democratic Representative Robert Garcia, incoming chairman of the House oversight committee, said Trump's 'direct involvement' raises 'serious national security and corruption questions.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Democratic Senator Ruben Gallego called for Congress to 'investigate what stock positions took place before the announcement.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang is set to testify before Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Huang will be questioned over his relationship with the Megaspeed executive due to national security concerns.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In China, Huang's reinstatement became the top trending post on Weibo.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Many Chinese users were pleased to see the return of the influential billionaire who declared he loved China.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Beijing has dismissed claims that Alice Huang was recruited by China's Ministry of State Security as a spy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Chinese state media framed the saga as a smear campaign.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The episode has reinforced views among Chinese officials that Washington is divided between those favoring restricting Chinese access to cutting-edge tech and those like Huang who argue such restrictions will force Chinese firms to build independent alternatives.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "New US rules are tightening restrictions on advanced chip exports.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "New US rules are targeting Chinese firms' ability to use computing power in overseas data centers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "China has yet to retaliate against the new US rules.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Former CIA officer Julia Curlee worked on the White House national security council during Trump's first term.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Julia Curlee said the president was warned about the risks posed by Huang's relationship but failed to act.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Julia Curlee called it 'the latest episode of the president ignoring or not believing the intelligence that's being provided to him.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Arkansas Senator Tom Cotton wrote on X that the Nvidia controversy 'is just the tip of the iceberg and it's not resolved because Jensen Huang has his job back.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's stock market value surged on the announcement of Huang's reappointment.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's stock reversed some gains in volatile Tuesday trading.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's shares were down more than 7% in early afternoon trading on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Nvidia's shares were still above Friday's close before the return was announced.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-nvidia-stock-surges-after-jensen-huang-s-reinsta",
+          "section": "markets",
+          "headline": "Nvidia stock surges 30% after Huang reinstatement, adding nearly $1 trillion in market cap; analysts question durability of rally",
+          "beat_label": "Markets",
+          "byline": "Financial & Markets desk",
+          "body": [
+            "Nvidia shares rocketed more than 30% on Monday, posting their best single-day gain since May 2003 and adding nearly $1 trillion in market capitalization, after the company's board reinstated Jensen Huang as CEO and president. The surge lifted major U.S. stock indexes, which had closed Friday in correction territory — the S&P 500 alone tumbled more than 9% in the weeks following Huang's Nov. 12 resignation over an alleged affair with a woman reported to be a Chinese intelligence asset.",
+            "Nvidia's board said it had held discussions with Huang and was satisfied with his candor and ability to lead. \"The board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers,\" chair Harvey Jones said in a statement. Jones, who will remain chair, thanked interim CEO Colette Kress. Huang said he was \"honored to return.\" The board said it had received input from senior U.S. government officials and concluded that Huang's reinstatement poses no national security risk.",
+            "The relief rally also boosted AI-related stocks: shares of neoclouds CoreWeave and Nebius each climbed more than 30%. But Wall Street strategists cautioned that the bounce may not last. \"I think the rally will probably fizzle out because now people will pull back and still have the same questions we had before he was replaced,\" said Jay Woods, chief market strategist at Freedom Capital Markets. Mark Gibbens of Gibbens Capital Management called the reinstatement \"a bottom and a floor in the AI trade,\" while Art Hogan of B. Riley Wealth Management noted that Friday's indiscriminate selling had already signaled a possible bottom before the Nvidia news.",
+            "The sell-off that preceded Huang's return stemmed from broader concerns: worries about data center approvals after the midterms, fears that hyperscaler capital expenditure may have peaked, and the national security implications of Huang's relationship. Treasury Secretary Scott Bessent initially urged the board to find an outside CEO, but reversed course after President Donald Trump intervened. Trump told CNBC on Monday that he felt compelled to act because \"I watched our country lose $5 trillion because of a bad election\" and that if he had not gotten involved, \"you'd probably have a very sad Nvidia.\" Bessent downplayed market risks, saying Nvidia \"continues to be fantastically profitable.\"",
+            "Despite the rally, lingering questions remain. Peter Boockvar, chief investment officer at One Point BFG Wealth Partners, said the \"picks and shovels\" trade, including Nvidia, depends on the rate of capex spending. Goldman Sachs traders summed up the uncertainty: \"Not sure yet whether good or bad that the fate of the market is almost equal to the fate of one person.\" On Capitol Hill, Sen. Tom Cotton told The Wall Street Journal that \"we need to catalog the damage that's been done\" and accused Commerce Secretary Howard Lutnick of not responding to letters about China threats. Congress is expected to investigate the episode, including whether China used the affair to divert advanced chips for military use."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CNBC",
+            "Yahoo Finance",
+            "NYT",
+            "24/7 Wall St.",
+            "Barron's"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
+            },
+            {
+              "outlet": "Yahoo Finance",
+              "url": "https://finance.yahoo.com/technology/article/nvidia-stock-has-best-day-since-may-2003-gaining-nearly-1t-in-market-cap-after-jensen-huang-is-reinstated-as-ceo-212735744.html"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+              "lean": -0.3,
+              "reliability": "high"
+            },
+            {
+              "outlet": "24/7 Wall St.",
+              "url": "https://247wallst.com/investing/2026/11/24/stock-market-today-jensens-return-to-nvidia-is-causing-index-indigestion/"
+            },
+            {
+              "outlet": "Barron's",
+              "url": "https://www.barrons.com/articles/amd-broadcom-stock-market-huang-return-bbaadf20"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Nvidia shares rose more than 30% on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "That was their best single-day gain since May 2003.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The gain added nearly $1 trillion in market capitalization.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The company's board reinstated Jensen Huang as CEO and president.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The surge lifted major U.S. stock indexes.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Major U.S. stock indexes had closed Friday in correction territory.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The S&P 500 tumbled more than 9% in the weeks following Huang's Nov. 12 resignation.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Huang resigned on Nov. 12 over an alleged affair with a woman reported to be a Chinese intelligence asset.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Nvidia's board said it had held discussions with Huang.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The board was satisfied with his candor and ability to lead.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Chair Harvey Jones said the board believes Jensen is the right person to lead Nvidia and that his reinstatement is in the best interests of stockholders, employees, partners, and customers.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Harvey Jones will remain chair.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Harvey Jones thanked interim CEO Colette Kress.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Huang said he was 'honored to return.'",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The board said it had received input from senior U.S. government officials.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The board concluded that Huang's reinstatement poses no national security risk.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The relief rally boosted AI-related stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Shares of CoreWeave climbed more than 30%.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Shares of Nebius climbed more than 30%.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Jay Woods said the rally will probably fizzle out because people will pull back and still have the same questions as before Huang was replaced.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Mark Gibbens called the reinstatement 'a bottom and a floor in the AI trade.'",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Art Hogan noted that Friday's indiscriminate selling had already signaled a possible bottom before the Nvidia news.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "The sell-off that preceded Huang's return stemmed from broader concerns: worries about data center approvals after the midterms, fears that hyperscaler capital expenditure may have peaked, and the national security implications of Huang's relationship.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Treasury Secretary Scott Bessent initially urged the board to find an outside CEO.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Bessent reversed course after President Donald Trump intervened.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Trump told CNBC that he felt compelled to act because 'I watched our country lose $5 trillion because of a bad election.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Trump told CNBC that if he had not gotten involved, 'you'd probably have a very sad Nvidia.'",
+                "status": "supported",
+                "source_ids": [
+                  "CNBC"
+                ]
+              },
+              {
+                "text": "Bessent downplayed market risks, saying Nvidia 'continues to be fantastically profitable.'",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Peter Boockvar said the 'picks and shovels' trade, including Nvidia, depends on the rate of capex spending.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Goldman Sachs traders said: 'Not sure yet whether good or bad that the fate of the market is almost equal to the fate of one person.'",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              },
+              {
+                "text": "Sen. Tom Cotton told The Wall Street Journal that 'we need to catalog the damage that's been done.'",
+                "status": "supported",
+                "source_ids": [
+                  "The Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Sen. Tom Cotton accused Commerce Secretary Howard Lutnick of not responding to letters about China threats.",
+                "status": "supported",
+                "source_ids": [
+                  "The Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Congress is expected to investigate the episode, including whether China used the affair to divert advanced chips for military use.",
+                "status": "supported",
+                "source_ids": [
+                  "the article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.65
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,191.25",
+            "chg": "−4.90%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,3.2 15.2,3.5 22.0,6.7 28.8,12.5 35.7,5.4 42.5,6.4"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "23,682.94",
+            "chg": "−5.78%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,2.6 15.2,2.0 22.0,5.2 28.8,12.5 35.7,3.9 42.5,6.3"
+          },
+          {
+            "sym": "Dow",
+            "val": "49,969.45",
+            "chg": "−4.54%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,4.2 15.2,6.0 22.0,9.5 28.8,12.5 35.7,7.9 42.5,6.7"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,683.05",
+            "chg": "−3.85%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,4.3 15.2,3.5 22.0,7.5 28.8,12.5 35.7,6.5 42.5,5.6"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.90%",
+            "chg": "-22 bp",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,2.4 15.2,4.3 22.0,5.0 28.8,12.1 35.7,11.8 42.5,12.5"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$81.41",
+            "chg": "−5.35%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,6.7 17.9,6.8 26.1,5.3 34.3,12.5 42.5,10.2"
+          },
+          {
+            "sym": "Gold",
+            "val": "$3,546.90",
+            "chg": "−8.21%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,5.4 17.9,7.1 26.1,12.5 34.3,8.2 42.5,11.5"
+          },
+          {
+            "sym": "BTC",
+            "val": "$59,589",
+            "chg": "−5.40%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,4.4 15.2,12.5 22.0,9.1 28.8,6.3 35.7,6.2 42.5,10.4"
+          },
+          {
+            "sym": "VIX",
+            "val": "27.1",
+            "chg": "+18.4%",
+            "dir": "up",
+            "spark": "1.5,12.5 8.3,10.3 15.2,11.1 22.0,7.8 28.8,1.5 35.7,9.4 42.5,8.9"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−22.6%",
+            "dir": "down"
+          },
+          {
+            "sym": "UNH",
+            "chg": "−15.6%",
+            "dir": "down"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−12.9%",
+            "dir": "down"
+          },
+          {
+            "sym": "JPM",
+            "chg": "−8.55%",
+            "dir": "down"
+          },
+          {
+            "sym": "META",
+            "chg": "−8.12%",
+            "dir": "down"
+          },
+          {
+            "sym": "XOM",
+            "chg": "−6.88%",
+            "dir": "down"
+          }
+        ],
+        "as_of": "3:48 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-senegal-reinstated-as-2025-africa-cup-of-nations",
+          "section": "sports",
+          "headline": "Senegal reinstated as Africa Cup of Nations 2025 champions by CAS ruling",
+          "beat_label": "Soccer",
+          "byline": "Sports desk",
+          "body": [
+            "Senegal have been reinstated as winners of the 2025 Africa Cup of Nations after the Court of Arbitration for Sport overturned a previous decision that had stripped the West Africans of the title they won on the pitch during a chaotic final against host nation Morocco in January. The CAS panel ruled unanimously that the referee's decision to resume the match after Senegal's walk-off fell within his sole authority, upholding the original result of a 1-0 victory for Senegal after extra time. The ruling comes 10 months after the tournament and more than six weeks after a closed-door hearing in Lausanne on 8 October.",
+            "In its verdict, CAS stated that 'the referee's decision to resume the match or to stop it fell definitively within his sole authority' and that 'by blowing his whistle to restart play, the referee considered that the conditions for resuming the match had been met'. Senegal's football federation (FSF) said it 'welcomes this ruling with deep satisfaction', adding that it 'affirms the triumph of sporting fairness and reaffirms a fundamental principle: the true outcome of a match is determined exclusively on the field of play'. The federation posted a picture of the team lifting the trophy with the caption 'again and always champions of Africa'.",
+            "The drama in the final erupted in second-half stoppage time when referee Jean-Jacques Ndala awarded Morocco a penalty after consulting his pitchside monitor. Senegal coach Pape Thiaw led several players off the field in protest, causing a delay of over 15 minutes before Brahim Diaz's Panenka-style spot-kick was saved by Edouard Mendy. Pape Gueye scored the winning goal in extra time. In March, a Confederation of African Football appeals board ruled that Senegal had forfeited the match by breaching competition regulations when they left the field, awarding Morocco a 3-0 victory. Senegal swiftly appealed to CAS. The three-man panel was chaired by French lawyer Gerald Simon, with Italian professor Luigi Fumagalli nominated by Morocco and German professor Ulrich Haas nominated by Senegal.",
+            "Morocco's football federation (FRMF) expressed 'surprise' at the ruling and said it would 'pursue all available legal avenues to challenge the decision'. It has raised a grievance alleging that Haas held a telephone call with FSF president Abdoulaye Fall on Sunday, which Fall 'categorically' denies. The FRMF could appeal to the Swiss Federal Tribunal, which has the power to set aside a CAS award; a precedent exists in the case of Chinese swimmer Sun Yang, whose doping ban was later reduced after a new CAS hearing. Meanwhile, CAF said it respects the award and 'will take all the necessary measures to implement it'.",
+            "The walk-off during the final has already prompted a change in football's rules. In April, the International Football Association Board (Ifab) introduced a rule allowing referees to issue red cards to players who leave the field in protest, stating that 'a team that causes a match to be abandoned will, in principle, forfeit the match'. Both Morocco and Senegal have since changed coaches and secured qualification for the 2027 Afcon with two rounds of qualifying remaining. The full grounds for the CAS decision will be published unless the parties request confidentiality, and the debate over the incident's impact on African football's reputation is expected to persist."
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Senegal have been reinstated as winners of the 2025 Africa Cup of Nations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Court of Arbitration for Sport overturned a previous decision that had stripped the West Africans of the title they won on the pitch during a chaotic final against host nation Morocco in January.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The CAS panel ruled unanimously that the referee's decision to resume the match after Senegal's walk-off fell within his sole authority.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The original result was a 1-0 victory for Senegal after extra time.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ruling comes 10 months after the tournament.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The ruling comes more than six weeks after a closed-door hearing in Lausanne on 8 October.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In its verdict, CAS stated that 'the referee's decision to resume the match or to stop it fell definitively within his sole authority'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "CAS also stated that 'by blowing his whistle to restart play, the referee considered that the conditions for resuming the match had been met'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Senegal's football federation (FSF) said it 'welcomes this ruling with deep satisfaction'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "FSF added that it 'affirms the triumph of sporting fairness and reaffirms a fundamental principle: the true outcome of a match is determined exclusively on the field of play'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The federation posted a picture of the team lifting the trophy with the caption 'again and always champions of Africa'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The drama in the final erupted in second-half stoppage time when referee Jean-Jacques Ndala awarded Morocco a penalty after consulting his pitchside monitor.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Senegal coach Pape Thiaw led several players off the field in protest, causing a delay of over 15 minutes.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Brahim Diaz's Panenka-style spot-kick was saved by Edouard Mendy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Pape Gueye scored the winning goal in extra time.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In March, a Confederation of African Football appeals board ruled that Senegal had forfeited the match by breaching competition regulations when they left the field, awarding Morocco a 3-0 victory.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Senegal swiftly appealed to CAS.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The three-man panel was chaired by French lawyer Gerald Simon, with Italian professor Luigi Fumagalli nominated by Morocco and German professor Ulrich Haas nominated by Senegal.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Morocco's football federation (FRMF) expressed 'surprise' at the ruling.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "FRMF said it would 'pursue all available legal avenues to challenge the decision'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "FRMF has raised a grievance alleging that Haas held a telephone call with FSF president Abdoulaye Fall on Sunday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Fall 'categorically' denies the allegation.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The FRMF could appeal to the Swiss Federal Tribunal, which has the power to set aside a CAS award.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "A precedent exists in the case of Chinese swimmer Sun Yang, whose doping ban was later reduced after a new CAS hearing.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "CAF said it respects the award and 'will take all the necessary measures to implement it'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The walk-off during the final has prompted a change in football's rules.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In April, the International Football Association Board (Ifab) introduced a rule allowing referees to issue red cards to players who leave the field in protest.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The rule states that 'a team that causes a match to be abandoned will, in principle, forfeit the match'.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both Morocco and Senegal have since changed coaches and secured qualification for the 2027 Afcon with two rounds of qualifying remaining.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The full grounds for the CAS decision will be published unless the parties request confidentiality.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The debate over the incident's impact on African football's reputation is expected to persist.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ]
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "sports-freddy-peralta-signs-5-year-125m-deal-with-oriol",
+          "section": "sports",
+          "headline": "Freddy Peralta signs 5-year, $125M deal with Orioles",
+          "beat_label": "MLB",
+          "byline": "Sports desk",
+          "body": [
+            "The Baltimore Orioles signed right-handed starter Freddy Peralta to a five-year, $125 million contract, the team announced Tuesday. The deal includes a $10 million signing bonus and equal annual salaries of $23 million, with no deferred money or opt-outs, per Noah Trister of the Associated Press. Peralta, who turns 31 in the 2027 season, was ineligible for a qualifying offer after being traded during the 2026 season, so Baltimore will not forfeit a draft pick.",
+            "Peralta arrives after a turbulent 2026 campaign. He struggled with the New York Mets, posting a nearly 5.00 ERA over 22 starts, but was traded to the Tampa Bay Rays at the deadline and rebounded, throwing 55 1/3 innings of 3.25 ERA ball in the regular season and earning ALCS MVP honors in the postseason. His turnaround stemmed from adjustments made by the Rays, including raising his arm angle and pitching exclusively from the stretch, which boosted his fastball velocity and command, though his strikeout rate did not fully return to Milwaukee levels.",
+            "The signing comes a day after the Orioles lost left-hander Trevor Rogers to the Chicago Cubs on a five-year, $120 million contract. Rogers' departure netted Baltimore a compensatory draft pick after the first round. Orioles president of baseball operations Mike Elias said in a statement, \"Freddy has proven to be a winning player who understands what it takes to compete and succeed on the biggest stage. His professionalism, preparation, and commitment to winning will set a strong example for our organization.\"",
+            "Peralta's $125 million guarantee places him between Rogers and left-hander Ranger Suarez, who signed for five years and $130 million. Peralta was considered a potential $200 million-plus free agent before his Mets struggles, but his late-season rebound allowed him to secure a deal reflecting a No. 2 starter's value. He has not been on the injured list since 2022 and is one of two pitchers—along with Kevin Gausman—to make at least 30 starts in each of the past four seasons.",
+            "Peralta joins a Baltimore rotation fronted by Kyle Bradish and Shane Baz, with Brandon Young slotting in as the No. 4 starter. The team will hold a competition for the final spot among Trey Gibson, Cade Povich, and several upper-minors prospects. The Orioles entered the day with an estimated 2027 payroll around $127 million, giving them room to add another mid-level salary after adding Peralta's $25 million average annual value.",
+            "The Orioles' fourth-place finish in the AL East in 2026 raised questions about the state of their rebuild, particularly amid stalled development from young position players like Jackson Holliday, Gunnar Henderson, and Colton Cowser, and the trade of catcher Adley Rutschman. Peralta is expected to be a frontline starter for a club that may still seek a true No. 1 arm via trade, with candidates such as Reid Detmers or Logan Webb mentioned in reports."
+          ],
+          "contested": false,
+          "covered_by": [
+            "CBS Sports",
+            "MLB Trade Rumors",
+            "ESPN",
+            "USA Today"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/mlb/news/freddy-peralta-orioles-free-agency-contract/"
+            },
+            {
+              "outlet": "MLB Trade Rumors",
+              "url": "https://www.mlbtraderumors.com/2026/11/orioles-sign-freddy-peralta.html"
+            },
+            {
+              "outlet": "ESPN",
+              "url": "https://www.espn.com/mlb/story/_/id/50583512/sources-freddy-peralta-orioles-5-years-125-million"
+            },
+            {
+              "outlet": "USA Today",
+              "url": "https://www.usatoday.com/story/sports/mlb/2026/11/24/mlb-rumors-trade-free-agent-news-latest--live/92941260007/",
+              "lean": -0.1,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Baltimore Orioles signed right-handed starter Freddy Peralta.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The signing was announced on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The contract is for five years.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The contract is for $125 million.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The deal includes a $10 million signing bonus.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The deal includes equal annual salaries of $23 million.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The deal has no deferred money.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "The deal has no opt-outs.",
+                "status": "supported",
+                "source_ids": [
+                  "Associated Press"
+                ]
+              },
+              {
+                "text": "Freddy Peralta turns 31 in the 2027 season.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Peralta was ineligible for a qualifying offer after being traded during the 2026 season.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Baltimore will not forfeit a draft pick because of the ineligibility.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Peralta struggled with the New York Mets in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He posted a nearly 5.00 ERA over 22 starts for the Mets.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He was traded to the Tampa Bay Rays at the deadline.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He rebounded with the Rays.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He threw 55 1/3 innings of 3.25 ERA ball in the regular season for the Rays.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He earned ALCS MVP honors in the postseason.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "His turnaround stemmed from adjustments made by the Rays.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The adjustments included raising his arm angle.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The adjustments included pitching exclusively from the stretch.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "These adjustments boosted his fastball velocity.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "These adjustments boosted his command.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "His strikeout rate did not fully return to Milwaukee levels.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The Orioles lost left-hander Trevor Rogers to the Chicago Cubs.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The loss occurred a day before the Peralta signing.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Trevor Rogers signed a five-year, $120 million contract with the Cubs.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Rogers' departure netted Baltimore a compensatory draft pick after the first round.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Orioles president of baseball operations Mike Elias said: 'Freddy has proven to be a winning player who understands what it takes to compete and succeed on the biggest stage. His professionalism, preparation, and commitment to winning will set a strong example for our organization.'",
+                "status": "supported",
+                "source_ids": [
+                  "Orioles statement"
+                ]
+              },
+              {
+                "text": "Peralta's $125 million guarantee places him between Rogers' $120M and Suarez's $130M.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Ranger Suarez signed for five years and $130 million.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Peralta was considered a potential $200 million-plus free agent before his Mets struggles.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "His late-season rebound allowed him to secure a deal reflecting a No. 2 starter's value.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He has not been on the injured list since 2022.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "He is one of two pitchers—along with Kevin Gausman—to make at least 30 starts in each of the past four seasons.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Peralta joins a Baltimore rotation fronted by Kyle Bradish and Shane Baz.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Brandon Young slots in as the No. 4 starter.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The team will hold a competition for the final spot among Trey Gibson, Cade Povich, and several upper-minors prospects.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The Orioles entered the day with an estimated 2027 payroll around $127 million.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "They have room to add another mid-level salary after adding Peralta's $25 million average annual value.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The Orioles finished fourth in the AL East in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "There was stalled development from young position players like Jackson Holliday, Gunnar Henderson, and Colton Cowser.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The trade of catcher Adley Rutschman occurred.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Peralta is expected to be a frontline starter for a club that may still seek a true No. 1 arm via trade.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Candidates such as Reid Detmers or Logan Webb were mentioned in reports.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-sanofi-to-acquire-insmed-for-41b-gaining-two-lun",
+          "section": "health-science",
+          "headline": "Sanofi to buy Insmed for $41 billion, gaining two lung disease drugs",
+          "beat_label": "Pharmaceutical M&A",
+          "byline": "Health & Science desk",
+          "body": [
+            "Sanofi is buying the biotech Insmed for $41 billion, the companies said Tuesday, in the largest biopharma acquisition in years. The deal will give the French pharmaceutical company two approved lung disease drugs and an additional medicine in Phase 3 trials.",
+            "The acquisition reflects pressure Sanofi faces from looming revenue losses due to its blockbuster inflammatory drug Dupixent, which is approved in nine indications. Sanofi had been vocal about seeking takeover targets with late-stage or commercial assets that fit its focus on immunology and rare diseaes.",
+            "Under new CEO Belén Garijo, who took over earlier this year, Sanofi is paying $175 per share for New Jersey-based Insmed. The purchase price, funded through debt and cash, represented a premium over Insmed's share price of roughly $120 before Bloomberg reported the deal was in the works, sending the stock up.",
+            "The purchase includes Insmed's two approved lung disease drugs and an additional medicine in Phase 3 development."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/pharmalot/2026/11/24/sanofi-buying-insmed-roche-breast-cancer-pill/?utm_campaign=rss"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Sanofi is buying Insmed.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The purchase price is $41 billion.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The deal was announced on Tuesday.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The acquisition is the largest biopharma acquisition in years.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The deal will give Sanofi two approved lung disease drugs.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The deal will give Sanofi an additional medicine in Phase 3 trials.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "Sanofi faces pressure from looming revenue losses due to its blockbuster inflammatory drug Dupixent.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dupixent is a blockbuster drug.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Dupixent is approved in nine indications.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Sanofi had been vocal about seeking takeover targets with late-stage or commercial assets that fit its focus on immunology and rare diseases.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi"
+                ]
+              },
+              {
+                "text": "Belén Garijo is the new CEO of Sanofi.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi"
+                ]
+              },
+              {
+                "text": "She took over earlier this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi"
+                ]
+              },
+              {
+                "text": "Sanofi is paying $175 per share for Insmed.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "Insmed is based in New Jersey.",
+                "status": "supported",
+                "source_ids": [
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The purchase price is funded through debt and cash.",
+                "status": "supported",
+                "source_ids": [
+                  "Sanofi",
+                  "Insmed"
+                ]
+              },
+              {
+                "text": "The purchase price represented a premium over Insmed's share price of roughly $120.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Bloomberg reported the deal was in the works.",
+                "status": "supported",
+                "source_ids": [
+                  "Bloomberg"
+                ]
+              },
+              {
+                "text": "That report sent the stock up.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "health-science-roche-wins-second-fda-nod-for-breast-cancer-pill",
+          "section": "health-science",
+          "headline": "Roche breast cancer pill wins second FDA nod, expanding use to early-stage disease",
+          "beat_label": "FDA Approvals",
+          "byline": "Health & Science desk",
+          "body": [
+            "Roche’s oral breast cancer drug giredestrant (Wilserdly) received its second U.S. Food and Drug Administration approval in a week on Monday, November 23, 2026, clearing it for use as a monotherapy in adults with early-stage, estrogen receptor (ER)-positive, HER2-negative breast cancer following surgery. The approval covers patients with stage I, II, or III disease who have an intermediate to high risk of recurrence, making giredestrant the first new endocrine therapy for early-stage breast cancer in more than 20 years.",
+            "The decision follows a November 18 approval of giredestrant in combination with everolimus for ER-positive, HER2-negative, ESR1-mutated locally advanced or metastatic breast cancer. With the two approvals, giredestrant becomes the first selective estrogen receptor degrader (SERD) indicated for both early- and advanced-stage breast cancer. ER antagonists like giredestrant block estrogen from binding to receptors on cancer cells and promote degradation of the receptors, cutting off a key driver of tumor growth.",
+            "The early-stage approval was supported by the Phase 3 lidERA trial, the first Phase 3 study to show a benefit with an oral ER antagonist in early-stage breast cancer. Compared with standard hormone therapy, giredestrant reduced the risk of invasive breast cancer recurrence or death by 30% (hazard ratio 0.70; 95% confidence interval 0.57–0.87; p=0.0014). At three years, 92.4% of patients receiving giredestrant were alive and free of invasive breast cancer versus 89.6% on standard therapy, corresponding to about 28 additional patients per 1,000 remaining free of invasive disease. Patients on giredestrant also had a lower risk of distant recurrence. Overall survival data were immature but showed a positive trend. Fewer patients discontinued giredestrant due to adverse events than those on standard therapy (5.3% vs. 8.2%). Common side effects include muscle and joint pain, hot flashes, fatigue, headache, and nausea; laboratory abnormalities include elevated liver enzymes, decreased blood cell counts, and high blood lipid levels. Women who have not completed menopause are instructed to take an additional hormone-suppressing medicine with giredestrant.",
+            "“By addressing a critical need in early-stage disease, where the chance for cure is greatest, [giredestrant] has the potential to establish an important new standard of care for patients and physicians,” said Levi Garraway, MD, PhD, chief medical officer and head of global product development at Genentech, in a news release. Teresa Graham, chief executive officer of Roche Pharmaceuticals, said the company will continue to invest in the broad development of giredestrant, exploring its potential across different stages of the disease and in new combinations. Participants in the lidERA trial will be followed to assess overall survival, and Genentech agreed to submit those data to the FDA as a postmarketing commitment."
+          ],
+          "contested": false,
+          "covered_by": [
+            "STAT",
+            "Medical Xpress",
+            "The American Journal of Managed Care® (AJMC®)",
+            "Endpoints News"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "STAT",
+              "url": "https://www.statnews.com/2026/11/24/biotech-news-roche-potential-breast-cancer-blockbluster-drug-wins-second-fda-nod/?utm_campaign=rss"
+            },
+            {
+              "outlet": "Medical Xpress",
+              "url": "https://medicalxpress.com/news/2026-11-fda-endocrine-therapy-option-people.html"
+            },
+            {
+              "outlet": "The American Journal of Managed Care® (AJMC®)",
+              "url": "https://www.ajmc.com/view/fda-approves-first-new-early-stage-bc-hormone-therapy-in-over-20-years"
+            },
+            {
+              "outlet": "Endpoints News",
+              "url": "https://endpoints.news/roche-wins-second-fda-approval-for-breast-cancer-pill-opening-up-bigger-market/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Roche’s oral breast cancer drug giredestrant (Wilserdly) received its second U.S. Food and Drug Administration approval in a week on Monday, November 23, 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The approval cleared giredestrant for use as a monotherapy in adults with early-stage, estrogen receptor (ER)-positive, HER2-negative breast cancer following surgery.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The approval covers patients with stage I, II, or III disease who have an intermediate to high risk of recurrence.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Giredestrant is the first new endocrine therapy for early-stage breast cancer in more than 20 years.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The decision follows a November 18 approval of giredestrant in combination with everolimus for ER-positive, HER2-negative, ESR1-mutated locally advanced or metastatic breast cancer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "With the two approvals, giredestrant becomes the first selective estrogen receptor degrader (SERD) indicated for both early- and advanced-stage breast cancer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "ER antagonists like giredestrant block estrogen from binding to receptors on cancer cells and promote degradation of the receptors, cutting off a key driver of tumor growth.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The early-stage approval was supported by the Phase 3 lidERA trial.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The lidERA trial was the first Phase 3 study to show a benefit with an oral ER antagonist in early-stage breast cancer.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Compared with standard hormone therapy, giredestrant reduced the risk of invasive breast cancer recurrence or death by 30% (hazard ratio 0.70; 95% confidence interval 0.57–0.87; p=0.0014).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "At three years, 92.4% of patients receiving giredestrant were alive and free of invasive breast cancer versus 89.6% on standard therapy.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The three-year results correspond to about 28 additional patients per 1,000 remaining free of invasive disease.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Patients on giredestrant also had a lower risk of distant recurrence.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Overall survival data were immature but showed a positive trend.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Fewer patients discontinued giredestrant due to adverse events than those on standard therapy (5.3% vs. 8.2%).",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Common side effects include muscle and joint pain, hot flashes, fatigue, headache, and nausea.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Laboratory abnormalities include elevated liver enzymes, decreased blood cell counts, and high blood lipid levels.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Women who have not completed menopause are instructed to take an additional hormone-suppressing medicine with giredestrant.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Levi Garraway, MD, PhD, chief medical officer and head of global product development at Genentech, said in a news release: 'By addressing a critical need in early-stage disease, where the chance for cure is greatest, [giredestrant] has the potential to establish an important new standard of care for patients and physicians.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Teresa Graham, chief executive officer of Roche Pharmaceuticals, said the company will continue to invest in the broad development of giredestrant, exploring its potential across different stages of the disease and in new combinations.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Participants in the lidERA trial will be followed to assess overall survival.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Genentech agreed to submit those overall survival data to the FDA as a postmarketing commitment.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        },
+        {
+          "id": "health-science-measles-cases-surge-in-u-s-raising-questions-abo",
+          "section": "health-science",
+          "headline": "Measles cases surge in U.S., raising questions about boosters and public health system",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "On Nov. 17, the Pan American Health Organization declared that measles is no longer considered \"eliminated\" in the United States, after the Centers for Disease Control and Prevention recorded more than 5,800 cases in the past year — the highest caseload since 1991. The CDC reports that 47 states have seen at least one case, and wastewater detections have increased in recent months. Unlike sporadic cases linked to travel, public-health officials say the current outbreak involves sustained community transmission. \"What makes this different from pop-up cases that we expect year to year is that we failed to interrupt the chain of transmission of the virus,\" said Steph Batalis, a research fellow at Georgetown University's Center for Security and Emerging Technology. \"That should raise serious questions about the conditions that allowed that to happen.\"",
+            "The U.S. had eliminated measles in 2000 through high vaccination coverage and monitoring, meaning no continuous spread for more than a year. Health and Human Services Secretary Robert F. Kennedy Jr., a longtime vaccine skeptic, posted on X that HHS will \"work to regain U.S. measles elimination status\" and continues to recommend the MMR vaccine. He blamed the COVID-19 pandemic for interrupting childhood vaccinations. But public-health officials point to recent actions by Kennedy: in 2025, he dismissed the CDC's independent Advisory Committee on Immunization Practices, replacing it with members who share his skepticism. HHS then attempted to revise the childhood immunization schedule, removing annual flu and COVID shot recommendations for most children and emphasizing shared decision-making. Professional health organizations — including the American Academy of Pediatrics, the American College of Physicians, and the Infectious Diseases Society of America — sued HHS over these changes. A court suspended the new committee and reverted the schedule to its original recommendations.",
+            "Dr. Jon Andrus, professor of global health at the Milken Institute School of Public Health at George Washington University, said such confusion has likely played a significant role in the outbreaks. \"Any successful public-health program requires excellence in scientific and operational strategies about how you are vaccinating, when you vaccinate them, and what vaccines you use, all based on evidence,\" he said. \"And none of that works without political commitment. If that is undermined, and if the messages coming from the highest level sows seeds of doubt, then you have people doubting the strategies and not vaccinating their child.\" Experts warn that the loss of elimination status is not merely symbolic; it signals a weakened public-health system amid eroding trust in scientific authorities.",
+            "Measles causes pneumonia, ear infections, encephalitis, and can lead to deafness, blindness, and permanent disability. Even after recovery, the virus can attack immune cells, making children more susceptible to other infections for three years or longer, according to public health experts quoted by Time. A rare but fatal brain condition called subacute sclerosing panencephalitis (SSPE) can develop years after infection, especially in children under two. The MMR vaccine provides 97% protection with two doses, according to the CDC. Most adults do not need a booster, but people born between 1963 and 1967 — who may have received a less effective version of the vaccine — as well as those who are immunocompromised or unsure of their vaccination status should consult a health care provider about a booster.",
+            "\"Measles is the canary in the coal mine,\" said Dr. Andrew Racine, president of the American Academy of Pediatrics. Because measles is more contagious than any other infectious disease, it often appears first when vaccination rates fall. \"It's as if measles is knocking on the door of every household in the country saying, 'Guess what, I’m here. I’m back.'\" Dr. Wendy Armstrong, president of the Infectious Diseases Society of America, said she would be surprised if they do not start to see more cases of congenital rubella and mumps. Dr. William Moss of the Johns Hopkins Bloomberg School of Public Health called the outbreak \"a red flag\" for a weaker immunization system. Batalis warned that disinformation filling the information vacuum — including from bots — raises biosecurity concerns. To regain elimination status, Racine said the first step is \"a recognition that an error has been made\" and a unified message supporting vaccination."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Time Magazine",
+            "The Baltimore Banner"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Time Magazine",
+              "url": "https://time.com/article/2026/11/24/measles-elimination-status-disease-returns/"
+            },
+            {
+              "outlet": "The Baltimore Banner",
+              "url": "https://www.thebanner.com/community/public-health/measles-booster-children-WVQQHT4G4ZBKFNYDLWQPICFJXQ/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "The Pan American Health Organization declared that measles is no longer considered 'eliminated' in the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "Pan American Health Organization"
+                ]
+              },
+              {
+                "text": "The Centers for Disease Control and Prevention recorded more than 5,800 measles cases in the past year — the highest caseload since 1991.",
+                "status": "supported",
+                "source_ids": [
+                  "CDC"
+                ]
+              },
+              {
+                "text": "The CDC reports that 47 states have seen at least one measles case.",
+                "status": "supported",
+                "source_ids": [
+                  "CDC"
+                ]
+              },
+              {
+                "text": "Wastewater detections of measles have increased in recent months.",
+                "status": "supported",
+                "source_ids": [
+                  "CDC"
+                ]
+              },
+              {
+                "text": "Public-health officials say the current outbreak involves sustained community transmission.",
+                "status": "supported",
+                "source_ids": [
+                  "public-health officials"
+                ]
+              },
+              {
+                "text": "Steph Batalis said that what makes this outbreak different is that we failed to interrupt the chain of transmission of the virus.",
+                "status": "supported",
+                "source_ids": [
+                  "Steph Batalis"
+                ]
+              },
+              {
+                "text": "The U.S. had eliminated measles in 2000 through high vaccination coverage and monitoring, meaning no continuous spread for more than a year.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Health and Human Services Secretary Robert F. Kennedy Jr. posted on X that HHS will 'work to regain U.S. measles elimination status' and continues to recommend the MMR vaccine.",
+                "status": "supported",
+                "source_ids": [
+                  "Robert F. Kennedy Jr."
+                ]
+              },
+              {
+                "text": "Robert F. Kennedy Jr. blamed the COVID-19 pandemic for interrupting childhood vaccinations.",
+                "status": "supported",
+                "source_ids": [
+                  "Robert F. Kennedy Jr."
+                ]
+              },
+              {
+                "text": "In 2025, Robert F. Kennedy Jr. dismissed the CDC's independent Advisory Committee on Immunization Practices, replacing it with members who share his skepticism.",
+                "status": "supported",
+                "source_ids": [
+                  "public-health officials"
+                ]
+              },
+              {
+                "text": "HHS attempted to revise the childhood immunization schedule, removing annual flu and COVID shot recommendations for most children and emphasizing shared decision-making.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Professional health organizations — including the American Academy of Pediatrics, the American College of Physicians, and the Infectious Diseases Society of America — sued HHS over these changes.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "A court suspended the new committee and reverted the schedule to its original recommendations.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Dr. Jon Andrus said such confusion has likely played a significant role in the outbreaks.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jon Andrus"
+                ]
+              },
+              {
+                "text": "Dr. Jon Andrus said that any successful public-health program requires excellence in scientific and operational strategies about how you are vaccinating, when you vaccinate them, and what vaccines you use, all based on evidence.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jon Andrus"
+                ]
+              },
+              {
+                "text": "Dr. Jon Andrus said that without political commitment, and if messages from the highest level sow seeds of doubt, then people doubt strategies and do not vaccinate their child.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Jon Andrus"
+                ]
+              },
+              {
+                "text": "Experts warn that the loss of elimination status signals a weakened public-health system amid eroding trust in scientific authorities.",
+                "status": "supported",
+                "source_ids": [
+                  "experts"
+                ]
+              },
+              {
+                "text": "Measles causes pneumonia, ear infections, encephalitis, and can lead to deafness, blindness, and permanent disability.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "After recovery, measles virus can attack immune cells, making children more susceptible to other infections for three years or longer.",
+                "status": "supported",
+                "source_ids": [
+                  "public health experts quoted by Time"
+                ]
+              },
+              {
+                "text": "A rare but fatal brain condition called subacute sclerosing panencephalitis (SSPE) can develop years after infection, especially in children under two.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "The MMR vaccine provides 97% protection with two doses, according to the CDC.",
+                "status": "supported",
+                "source_ids": [
+                  "CDC"
+                ]
+              },
+              {
+                "text": "People born between 1963 and 1967 may have received a less effective version of the measles vaccine.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Dr. Andrew Racine said 'Measles is the canary in the coal mine.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Andrew Racine"
+                ]
+              },
+              {
+                "text": "Measles is more contagious than any other infectious disease.",
+                "status": "supported",
+                "source_ids": [
+                  "the text"
+                ]
+              },
+              {
+                "text": "Dr. Andrew Racine said that it's as if measles is knocking on the door of every household saying, 'Guess what, I'm here. I'm back.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Andrew Racine"
+                ]
+              },
+              {
+                "text": "Dr. Wendy Armstrong said she would be surprised if they do not start to see more cases of congenital rubella and mumps.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Wendy Armstrong"
+                ]
+              },
+              {
+                "text": "Dr. William Moss called the outbreak 'a red flag' for a weaker immunization system.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. William Moss"
+                ]
+              },
+              {
+                "text": "Steph Batalis warned that disinformation filling the information vacuum — including from bots — raises biosecurity concerns.",
+                "status": "supported",
+                "source_ids": [
+                  "Steph Batalis"
+                ]
+              },
+              {
+                "text": "Dr. Andrew Racine said to regain elimination status, the first step is 'a recognition that an error has been made' and a unified message supporting vaccination.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Andrew Racine"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-11-24/health-science-measles-cases-surge-in-u-s-raising-questions-abo.jpg",
+            "alt": "Photograph of Centers for Disease Control and Prevention building",
+            "credit": "Photo: CDC Global / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 583
+          }
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": [
+        {
+          "id": "tech-ai-jensen-huang-reinstated-as-nvidia-ceo-amid-scand",
+          "section": "tech-ai",
+          "headline": "Jensen Huang reinstated as Nvidia CEO amid scandal after Trump, tech allies pressure board",
+          "beat_label": "Corporate Governance",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Nvidia CEO Jensen Huang returned to his post on Monday, less than two weeks after resigning over a scandal involving an affair with a customer and suspected Chinese spy, as well as a second reported affair with a subordinate. The board's abrupt reversal was spurred by President Donald Trump, who applied pressure over the weekend after the company and the wider tech sector lost value. Huang received a hero’s welcome at Nvidia’s Santa Clara headquarters, with employees lining walkways to applaud him.",
+            "The reinstatement followed frenetic lobbying by a war room of Huang's Silicon Valley allies, who argued to Trump and Vice President JD Vance that the founder was integral to the health of the U.S. AI industry and the broader economy. \"Great men make great mistakes. But nobody has ever been like this, not Elon Musk, not anyone. All the success we’re enjoying, all the tech gains, that’s all down to one guy,\" said an ally of Huang. Nvidia gained nearly $1 trillion in market value on the news, though it remains about a fifth less valuable than a month ago.",
+            "During his first all-hands meeting since returning, Huang called claims that Trump was directly involved in his reinstatement — a narrative promoted by Trump himself — \"completely untrue.\" He added, \"Don’t think for a second politics played a role in the company. We are the most apolitical company,\" according to attendees. Huang said he did not return because he was a tech bro \"above the law\" or the code of conduct. He apologized, saying, \"I made some terrible mistakes. I was unfaithful to Lori, and I hurt my kids and of course, I hurt all of you.\" He also said he does not believe in succession planning and is attending therapy daily.",
+            "Huang admitted to more affairs beyond the two publicly reported — with Megaspeed executive Alice Huang (an alleged Chinese spy) and Nvidia VP of health Kimberly Powell. During a meeting with he board before his reinstatement, he acknowledged additional affairs, according to The Wall Street Journal. Nvidia faces probes by the FBI and SEC, congressional investigations, and questions about his personal connections to the suspected spy involved in chip smuggling. The Commerce Department has added Megaspeed and its affiliates to its Entity List, citing national security risks and suspicions of smuggling advanced AI chips to China. The DOJ has taken over the investigation but says it is ongoing.",
+            "Tech leaders celebrated Huang’s return. Elon Musk posted on X, \"The mistake has been corrected,\" after earlier saying it was like kicking Michael Jordan off a team on a winning streak. Sam Altman simply posted \"Jensen!\" Binance co-founder Changpeng Zhao expressed support, as did Epic Games CEO Tim Sweeney, who called it \"a demonstration of American resiliency.\" Former Uber CEO Travis Kalanick also voiced support. Hedge fund manager Bill Ackman wrote, \"The wisdom of the crowd prevails.\"",
+            "Political skepticism remains. Senators John Cornyn (R-TX) asked, \"No national security risk? Based on what?\" and Pete Ricketts (R-NB) said the decision doesn't excuse Huang from testifying before Congress. Huang is still expected to testify publicly before the Senate Banking Committee on December 3 and privately before Congress on December 1. The Trump administration backed Huang's return while restricting trade with Megaspeed, after facing accusations that Commerce Secretary Howard Lutnick was too close to Huang and failed to police chip sales to China."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.3,
+            "tilt_pill": "Coverage tilts slightly center-left",
+            "spread": {
+              "liberal": 1,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Ars Technica",
+            "The Verge",
+            "TechCrunch",
+            "NYT"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/"
+            },
+            {
+              "outlet": "The Verge",
+              "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+            },
+            {
+              "outlet": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/"
+            },
+            {
+              "outlet": "NYT",
+              "url": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
+              "lean": -0.3,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Nvidia CEO Jensen Huang returned to his post on Monday.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Jensen Huang resigned less than two weeks ago.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The resignation was over a scandal involving an affair with a customer who is a suspected Chinese spy.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The scandal also involved a second reported affair with a subordinate.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The board's abrupt reversal was spurred by President Donald Trump.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Trump applied pressure over the weekend after the company and the wider tech sector lost value.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang received a hero’s welcome at Nvidia’s Santa Clara headquarters with employees lining walkways to applaud him.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The reinstatement followed frenetic lobbying by a war room of Huang's Silicon Valley allies.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The allies argued to Trump and Vice President JD Vance that the founder was integral to the health of the U.S. AI industry and the broader economy.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "An ally of Huang said: \"Great men make great mistakes. But nobody has ever been like this, not Elon Musk, not anyone. All the success we’re enjoying, all the tech gains, that’s all down to one guy.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Nvidia gained nearly $1 trillion in market value on the news.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Nvidia's market value remains about a fifth less valuable than a month ago.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "During his first all-hands meeting since returning, Huang called claims that Trump was directly involved in his reinstatement \"completely untrue.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang said the narrative that Trump was directly involved was promoted by Trump himself.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang added, \"Don’t think for a second politics played a role in the company. We are the most apolitical company,\" according to attendees.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang said he did not return because he was a tech bro \"above the law\" or the code of conduct.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang apologized, saying, \"I made some terrible mistakes. I was unfaithful to Lori, and I hurt my kids and of course, I hurt all of you.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang said he does not believe in succession planning.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang said he is attending therapy daily.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang admitted to more affairs beyond the two publicly reported.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The two publicly reported affairs are with Megaspeed executive Alice Huang (an alleged Chinese spy) and Nvidia VP of health Kimberly Powell.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "During a meeting with the board before his reinstatement, Huang acknowledged additional affairs, according to The Wall Street Journal.",
+                "status": "supported",
+                "source_ids": [
+                  "The Wall Street Journal"
+                ]
+              },
+              {
+                "text": "Nvidia faces probes by the FBI and SEC.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Nvidia faces congressional investigations.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "There are questions about his personal connections to the suspected spy involved in chip smuggling.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The Commerce Department has added Megaspeed and its affiliates to its Entity List.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Commerce Department"
+                ]
+              },
+              {
+                "text": "The Commerce Department cited national security risks and suspicions of smuggling advanced AI chips to China.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Commerce Department"
+                ]
+              },
+              {
+                "text": "The DOJ has taken over the investigation but says it is ongoing.",
+                "status": "supported",
+                "source_ids": [
+                  "U.S. Department of Justice"
+                ]
+              },
+              {
+                "text": "Tech leaders celebrated Huang’s return.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Elon Musk posted on X, \"The mistake has been corrected,\" after earlier saying it was like kicking Michael Jordan off a team on a winning streak.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Sam Altman posted \"Jensen!\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Binance co-founder Changpeng Zhao expressed support.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Epic Games CEO Tim Sweeney called it \"a demonstration of American resiliency.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Former Uber CEO Travis Kalanick voiced support.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Hedge fund manager Bill Ackman wrote, \"The wisdom of the crowd prevails.\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Political skepticism remains.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Senator John Cornyn (R-TX) asked, \"No national security risk? Based on what?\"",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Senator Pete Ricketts (R-NB) said the decision doesn't excuse Huang from testifying before Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang is still expected to testify publicly before the Senate Banking Committee on December 3.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "Huang is expected to testify privately before Congress on December 1.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The Trump administration backed Huang's return while restricting trade with Megaspeed.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              },
+              {
+                "text": "The Trump administration faced accusations that Commerce Secretary Howard Lutnick was too close to Huang and failed to police chip sales to China.",
+                "status": "supported",
+                "source_ids": [
+                  "the provided news article"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.9,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-11-24/tech-ai-jensen-huang-reinstated-as-nvidia-ceo-amid-scand.jpg",
+            "alt": "Photograph of Nvidia headquarters in Santa Clara",
+            "credit": "Photo: VQTCS / Wikimedia Commons (CC BY 4.0)",
+            "license": "CC BY 4.0",
+            "width": 1000,
+            "height": 562
+          }
+        },
+        {
+          "id": "tech-ai-ukraine-sinks-russian-warship-strikes-cargo-ship",
+          "section": "tech-ai",
+          "headline": "Ukraine sinks Russian warship, strikes cargo ships in widening sea campaign",
+          "beat_label": "War",
+          "byline": "Tech / AI desk",
+          "body": [
+            "Ukrainian explosive naval drones sank a Russian missile corvette docked in the Libyan port city of Benghazi and struck a Russian cargo ship it was escorting, according to reports from The Associated Press and statements from Ukrainian officials. The attack, which occurred on November 22, used at least two drone strikes to sink the Russian Navy’s Merkury, with Ukraine’s Security Service describing a total of seven naval drones launched from a mother ship. Ukrainian President Volodymyr Zelenskyy released video footage showing the drone boats approaching and exploding against both the burning warship and the dry cargo vessel MV Angara.",
+            "Zelenskyy noted that a Ka-27 combat helicopter aboard the Merkury was also destroyed in the strikes. He described the MV Angara as transporting weapons. Casualties included at least 10 people, among them Libyan and Russian nationals, according to Libyan National Army officials who also reported that some wounded crew members from the warship were transferred to local hospitals.",
+            "The Merkury was a Steregushchiy-class missile corvette, designated by Russia as Project 20380. This class carries both anti-ship and air-defense missiles, is armed with torpedoes for counter-submarine operations, and mounts a naval cannon on deck. Although corvettes are typically smaller than destroyers or frigates, NATO classifies Russian missile corvettes like the Merkury as equivalent to frigates.",
+            "Originally intended to join Russia’s Black Sea Fleet, the Merkury was unable to enter the Black Sea after Russia’s full-scale invasion of Ukraine in 2022 because Turkey invoked the 1936 Montreux Convention to restrict warship passage. Instead, the vessel mainly operated from Russia’s Northern Fleet bases in Arctic waters, according to naval analyst HI Sutton."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Ars Technica"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Ars Technica",
+              "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Ukrainian explosive naval drones sank a Russian missile corvette docked in the Libyan port city of Benghazi.",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press",
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "The Ukrainian naval drones struck a Russian cargo ship that the corvette was escorting.",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press",
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "The attack occurred on November 22.",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press",
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "At least two drone strikes were used to sink the Russian Navy’s Merkury.",
+                "status": "supported",
+                "source_ids": [
+                  "The Associated Press",
+                  "Ukrainian officials"
+                ]
+              },
+              {
+                "text": "Ukraine’s Security Service described a total of seven naval drones launched from a mother ship.",
+                "status": "supported",
+                "source_ids": [
+                  "Ukraine’s Security Service"
+                ]
+              },
+              {
+                "text": "Ukrainian President Volodymyr Zelenskyy released video footage showing the drone boats approaching and exploding against the burning warship and the dry cargo vessel MV Angara.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Zelenskyy noted that a Ka-27 combat helicopter aboard the Merkury was destroyed in the strikes.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Zelenskyy described the MV Angara as transporting weapons.",
+                "status": "supported",
+                "source_ids": [
+                  "Volodymyr Zelenskyy"
+                ]
+              },
+              {
+                "text": "Casualties included at least 10 people, among them Libyan and Russian nationals.",
+                "status": "supported",
+                "source_ids": [
+                  "Libyan National Army officials"
+                ]
+              },
+              {
+                "text": "Libyan National Army officials reported that some wounded crew members from the warship were transferred to local hospitals.",
+                "status": "supported",
+                "source_ids": [
+                  "Libyan National Army officials"
+                ]
+              },
+              {
+                "text": "The Merkury was a Steregushchiy-class missile corvette, designated by Russia as Project 20380.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "This class carries both anti-ship and air-defense missiles.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "This class is armed with torpedoes for counter-submarine operations.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "This class mounts a naval cannon on deck.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "NATO classifies Russian missile corvettes like the Merkury as equivalent to frigates.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Merkury was originally intended to join Russia’s Black Sea Fleet.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Merkury was unable to enter the Black Sea after Russia’s full-scale invasion of Ukraine in 2022 because Turkey invoked the 1936 Montreux Convention to restrict warship passage.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The Merkury mainly operated from Russia’s Northern Fleet bases in Arctic waters.",
+                "status": "supported",
+                "source_ids": [
+                  "naval analyst HI Sutton"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ]
+    }
+  },
+  "front_page": [
+    {
+      "section": "tech-ai",
+      "story_id": "tech-ai-jensen-huang-reinstated-as-nvidia-ceo-amid-scand"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-measles-cases-surge-in-u-s-raising-questions-abo"
+    },
+    {
+      "section": "world",
+      "story_id": "world-trump-signals-possible-resumption-of-iran-strike"
+    },
+    {
+      "section": "politics",
+      "story_id": "politics-court-unseals-heavily-redacted-records-on-ilhan-"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Congress escalates scrutiny of Nvidia CEO Jensen Huang's reinstatement amid national security concerns",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Rep. Jimmy Gomez resigns after House Ethics report details sexual misconduct allegations",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "world",
+      "headline": "Ukraine strikes Russian warship in Libya, Russian missiles hit Poland as war widens",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Fed's Williams says rates likely higher over time; most regional boards wanted October hike",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "MLB free agency: Blue Jays add Taira, Cubs land Satō in busy day of deals",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "MLB CBA negotiations intensify with lockout looming; league and union trade proposals",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Medicare estimates $9.2 billion in savings from third round of drug price negotiations",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "Only 3 of 1,614 FDA-Cleared AI Devices Have Been Tested for Patient Outcomes, Study Finds",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Virginia and Oregon sue SpaceX, alleging Grok AI generates child sex abuse images and revenge porn",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    }
+  ]
+}
