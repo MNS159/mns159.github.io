@@ -1,0 +1,2235 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "edition": "Morning edition",
+  "generated_at": "2026-11-27T19:34:50+00:00",
+  "sections": {
+    "politics": {
+      "title": "Politics",
+      "stories": [
+        {
+          "id": "politics-supreme-court-to-weigh-bans-on-ar-15s-in-major-s",
+          "section": "politics",
+          "headline": "Supreme Court to weigh bans on AR-15s in major Second Amendment case",
+          "beat_label": "Supreme Court",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": -0.4,
+            "tilt_pill": "Coverage tilts left",
+            "spread": {
+              "liberal": 1,
+              "center": 1,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "CNN",
+            "KTTN"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "CNN",
+              "url": "https://www.cnn.com/2026/11/27/politics/supreme-court-ar-15-ban-second-amendment",
+              "lean": -0.4,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "KTTN",
+              "url": "https://www.kttn.com/us-supreme-court-to-weigh-bans-on-ar-15s-similar-firearms-in-second-amendment-case/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The Supreme Court heard oral arguments Wednesday, Dec. 2, in cases from Connecticut and Cook County, Illinois, over bans on AR-15s and similar semi-automatic 'assault-style' weapons.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Eleven states and the District of Columbia currently ban such weapons, per Everytown for Gun Safety: California, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia and Washington state.",
+                "status": "supported",
+                "source_ids": [
+                  "Everytown for Gun Safety"
+                ]
+              },
+              {
+                "text": "Several cities including Denver, Indianapolis, New York and Philadelphia also restrict them.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Cook County's ban dates to 1989, enacted after a gunman used a semiautomatic rifle to kill five children and wound dozens at a California elementary school.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Connecticut strengthened its ban after the 2012 Sandy Hook Elementary shooting, in which 20 first graders and six educators were killed.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "The cases apply the Supreme Court's 2022 Bruen precedent, which requires modern gun laws to be grounded in the nation's 'historical tradition of firearm regulation,' building on the 2008 Heller decision establishing an individual right to bear arms.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Lower courts — the 7th Circuit (Cook County) and 2nd Circuit (Connecticut) — upheld the bans before the Supreme Court agreed to review them.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Estimates of AR-15 ownership in the U.S. range from about 16 million (Washington Post-Ipsos, 2022) to 26 million (another cited survey).",
+                "status": "supported",
+                "source_ids": [
+                  "Washington Post-Ipsos, 2022",
+                  "another cited survey"
+                ]
+              },
+              {
+                "text": "The rifle was described by the Supreme Court last year as the 'most popular rifle in the country.'",
+                "status": "supported",
+                "source_ids": [
+                  "Supreme Court"
+                ]
+              },
+              {
+                "text": "A federal assault weapons ban expired in 2004 and has not been renewed by Congress.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "The Supreme Court currently has a 6-3 conservative majority.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Cook County State's Attorney Eileen O'Neill Burke (Democrat) argues the bans are necessary for public safety, noting the AR-15's military-derived design and lethality, and says 'there is absolutely no reason' weapons like the AR-15 and AK-47 should be publicly available.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Connecticut officials argue there is an extensive historical tradition — dating to medieval English law — of banning unusually dangerous weapons, which justifies modern assault-weapon bans.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Democratic state officials generally have urged the Supreme Court to uphold the bans, according to the Missouri Independent/KTTN report.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "The Trump administration is backing the gun-rights groups challenging the bans, invoking the 'common use' doctrine from Heller in its brief.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Republican state officials, per the KTTN report, say the bans must be invalidated under the Second Amendment.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              },
+              {
+                "text": "Kostas Moros of the Second Amendment Foundation, a plaintiff group, argues the Constitution gives 'the people' — not states or government — the right to decide on owning weapons like the AR-15, and that focus should be on hardening targets rather than restricting firearms.",
+                "status": "supported",
+                "source_ids": [
+                  "Missouri Independent/KTTN report"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "The Supreme Court heard oral arguments Wednesday, Dec. 2, in cases from Connecticut and Cook County, Illinois, over bans on AR-15s and similar semi-automatic 'assault-style' weapons.",
+              "Eleven states and the District of Columbia currently ban such weapons, per Everytown for Gun Safety: California, Connecticut, Delaware, Illinois, Maryland, Massachusetts, New Jersey, New York, Rhode Island, Virginia and Washington state; several cities including Denver, Indianapolis, New York and Philadelphia also restrict them.",
+              "Cook County's ban dates to 1989, enacted after a gunman used a semiautomatic rifle to kill five children and wound dozens at a California elementary school; Connecticut strengthened its ban after the 2012 Sandy Hook Elementary shooting, in which 20 first graders and six educators were killed.",
+              "The cases apply the Supreme Court's 2022 Bruen precedent, which requires modern gun laws to be grounded in the nation's 'historical tradition of firearm regulation,' building on the 2008 Heller decision establishing an individual right to bear arms.",
+              "Lower courts — the 7th Circuit (Cook County) and 2nd Circuit (Connecticut) — upheld the bans before the Supreme Court agreed to review them.",
+              "Estimates of AR-15 ownership in the U.S. range from about 16 million (Washington Post-Ipsos, 2022) to 26 million (another cited survey), with the rifle described by the Supreme Court last year as the 'most popular rifle in the country.'",
+              "A federal assault weapons ban expired in 2004 and has not been renewed by Congress.",
+              "The Supreme Court currently has a 6-3 conservative majority."
+            ],
+            "analysis": "This case tests how far the Supreme Court's recent expansion of Second Amendment rights — from Heller's 2008 recognition of an individual right to bear arms to Bruen's 2022 historical-tradition test — extends to semi-automatic rifles like the AR-15. Because Bruen requires modern gun laws to find analogues in historical regulation, both sides are litigating 18th-century and earlier English weapons law (crossbows, lances) to argue whether 'dangerous and unusual' weapons can be banned or whether 'common use' by law-abiding owners makes a weapon constitutionally protected. The outcome will determine whether the 11 states and various cities with existing bans can keep them, and could also constrain future congressional attempts to revive a national assault weapons ban.",
+            "debate": {
+              "dem": [
+                "Cook County State's Attorney Eileen O'Neill Burke (Democrat) argues the bans are necessary for public safety, noting the AR-15's military-derived design and lethality, and says 'there is absolutely no reason' weapons like the AR-15 and AK-47 should be publicly available.",
+                "Connecticut officials argue there is an extensive historical tradition — dating to medieval English law — of banning unusually dangerous weapons, which justifies modern assault-weapon bans.",
+                "Democratic state officials generally have urged the Supreme Court to uphold the bans, according to the Missouri Independent/KTTN report."
+              ],
+              "rep": [
+                "The Trump administration is backing the gun-rights groups challenging the bans, invoking the 'common use' doctrine from Heller in its brief.",
+                "Republican state officials, per the KTTN report, say the bans must be invalidated under the Second Amendment.",
+                "Kostas Moros of the Second Amendment Foundation, a plaintiff group, argues the Constitution gives 'the people' — not states or government — the right to decide on owning weapons like the AR-15, and that focus should be on hardening targets rather than restricting firearms."
+              ]
+            },
+            "steelman": "Both sides are arguing within the same Bruen historical-tradition framework established by the conservative majority itself — the dispute is less about whether history matters than about which historical analogues (crossbow bans vs. military-style weapon ownership) are relevant, meaning the case may turn on interpretive nuance among justices like Roberts and Barrett rather than a clean ideological split.",
+            "implications": "A ruling is expected to clarify whether states and localities retain authority to ban AR-15-style rifles, directly affecting laws in at least 11 states and several major cities, and could also shape whether Congress could revisit a federal assault weapons ban. Given signals of skepticism from several conservative justices, attention will center on Chief Justice Roberts and Justice Barrett as potential swing votes when a decision is issued."
+          },
+          "interestingness": 0.8,
+          "significance": 0.85,
+          "image": {
+            "url": "static/img/2026-11-27/politics-supreme-court-to-weigh-bans-on-ar-15s-in-major-s.jpg",
+            "alt": "Photograph of AR-15 semi-automatic rifle",
+            "credit": "Photo: Tony Webster / Wikimedia Commons (CC BY 2.0)",
+            "license": "CC BY 2.0",
+            "width": 1000,
+            "height": 655
+          }
+        },
+        {
+          "id": "politics-u-s-forces-disable-vessel-attempting-to-run-iran",
+          "section": "politics",
+          "headline": "U.S. forces disable vessel attempting to run Iran blockade as tensions escalate",
+          "beat_label": "Military/Iran",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 2,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "The Hill",
+            "Al-Monitor"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/",
+              "lean": 0.0,
+              "reliability": "medium"
+            },
+            {
+              "outlet": "Al-Monitor",
+              "url": "https://www.al-monitor.com/originals/2026/11/iran-ramps-hormuz-attacks-testing-white-house-patience"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "U.S. Central Command (Centcom) said Friday that American forces on Thursday disabled a commercial bulk carrier.",
+                "status": "supported",
+                "source_ids": [
+                  "Centcom"
+                ]
+              },
+              {
+                "text": "The bulk carrier attempted to run the U.S. naval blockade of Iranian ports.",
+                "status": "supported",
+                "source_ids": [
+                  "Centcom"
+                ]
+              },
+              {
+                "text": "Centcom said the vessel's crew attempted to bypass the blockade despite multiple warnings.",
+                "status": "supported",
+                "source_ids": [
+                  "Centcom"
+                ]
+              },
+              {
+                "text": "The vessel departed the southern Iranian port city of Bandar Abbas.",
+                "status": "supported",
+                "source_ids": [
+                  "Centcom"
+                ]
+              },
+              {
+                "text": "UK Maritime Trade Operations (UKMTO) data cited by ABC News shows reported attacks on commercial vessels in and around the Strait of Hormuz averaged roughly one per day from October to mid-November.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO",
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "Reported attacks on commercial vessels in and around the Strait of Hormuz averaged about one every four days between March and September.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO",
+                  "ABC News"
+                ]
+              },
+              {
+                "text": "UKMTO reported that at least three tankers were hit by projectiles in the Strait of Hormuz on a single Sunday during this period.",
+                "status": "supported",
+                "source_ids": [
+                  "UKMTO"
+                ]
+              },
+              {
+                "text": "Iranian statements have claimed that several tankers were struck by naval mines while under U.S. military escort.",
+                "status": "supported",
+                "source_ids": [
+                  "Iranian statements"
+                ]
+              },
+              {
+                "text": "Top Pentagon officials have said the strait's main commercial shipping lanes have been cleared of mines and remain open.",
+                "status": "supported",
+                "source_ids": [
+                  "Pentagon officials"
+                ]
+              },
+              {
+                "text": "The U.S. has imposed a naval blockade on Iranian ports.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Analysts and former officials attribute the increase in attacks on commercial shipping in the area to Iran's Revolutionary Guard Corps testing the limits of U.S. tolerance.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Washington insists shipping lanes are cleared of mines.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              },
+              {
+                "text": "Tehran suggests shipping lanes are not cleared of mines.",
+                "status": "supported",
+                "source_ids": [
+                  "Analysis"
+                ]
+              }
+            ]
+          },
+          "ladder": {
+            "facts": [
+              "U.S. Central Command (Centcom) said Friday that American forces on Thursday disabled a commercial bulk carrier that \"attempted to run the U.S. naval blockade\" of Iranian ports.",
+              "Centcom said the vessel's crew attempted to bypass the blockade \"despite multiple warnings\" after departing the southern Iranian port city of Bandar Abbas.",
+              "According to UK Maritime Trade Operations (UKMTO) data cited by ABC News, reported attacks on commercial vessels in and around the Strait of Hormuz averaged roughly one per day from October to mid-November, up from about one every four days between March and September.",
+              "UKMTO reported that at least three tankers were hit by projectiles in the Strait of Hormuz on a single Sunday during this period.",
+              "Iranian statements have claimed that several tankers were struck by naval mines while under U.S. military escort.",
+              "Top Pentagon officials have said the strait's main commercial shipping lanes have been cleared of mines and remain open."
+            ],
+            "analysis": "The incident fits into a broader standoff in the Strait of Hormuz, a critical global oil-shipping chokepoint where the U.S. has imposed a naval blockade on Iranian ports. Centcom's disabling of a vessel attempting to breach that blockade comes amid a marked increase in attacks on commercial shipping in the area, which analysts and former officials attribute to Iran's Revolutionary Guard Corps testing the limits of U.S. tolerance. The dispute over the strait's safety—Washington insisting shipping lanes are cleared of mines, Tehran suggesting otherwise—reflects competing narratives about who actually controls the waterway, with real economic stakes given its role in global oil transport.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            },
+            "steelman": "Both the blockade enforcement and the rising tanker attacks can be read as two sides of the same escalatory spiral: each U.S. interdiction invites an Iranian response, and each Iranian attack invites a firmer U.S. posture, raising the risk of miscalculation even if neither side currently seeks open conflict.",
+            "implications": "If the pattern of U.S. interdictions and Iranian attacks on shipping continues to intensify, both sides face pressure to either de-escalate or risk a more direct military confrontation in one of the world's most critical oil transit corridors, with potential ripple effects on global energy markets and shipping insurance costs."
+          },
+          "interestingness": 0.7,
+          "significance": 0.7,
+          "image": {
+            "url": "static/img/2026-11-27/politics-u-s-forces-disable-vessel-attempting-to-run-iran.jpg",
+            "alt": "Photograph of U.S. Navy warship in the Strait of Hormuz",
+            "credit": "Photo: NASA / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 1000
+          }
+        },
+        {
+          "id": "politics-hackers-break-into-u-s-air-force-cloud-computing",
+          "section": "politics",
+          "headline": "Hackers break into U.S. Air Force cloud computing platform",
+          "beat_label": "Cybersecurity",
+          "byline": "Politics desk",
+          "body": [],
+          "contested": false,
+          "covered_by": [
+            "The Hill"
+          ],
+          "anchored_on": [],
+          "reliability": "medium",
+          "sources": [
+            {
+              "outlet": "The Hill",
+              "url": "https://thehill.com/policy/defense/6245197-air-force-cloud-one-hack/",
+              "lean": 0.0,
+              "reliability": "medium"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Hackers breached the U.S. Air Force's main cloud computing platform known as Cloud One in recent weeks.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The Reuters report is based on three sources.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "Cloud One hosts sensitive Air Force data.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The breach risked exposure of that sensitive data.",
+                "status": "supported",
+                "source_ids": [
+                  "Reuters"
+                ]
+              },
+              {
+                "text": "The Hill described the incident as the latest in a string of recent cyber incidents and outages affecting government agencies.",
+                "status": "supported",
+                "source_ids": [
+                  "The Hill"
+                ]
+              },
+              {
+                "text": "No further details on the identity of the hackers, the scope of data accessed, or the Air Force's response were included in the available reporting.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "ladder": {
+            "facts": [
+              "Reuters reported on Friday that hackers breached the U.S. Air Force's main cloud computing platform, known as Cloud One, in recent weeks",
+              "The report is based on three sources cited by Reuters",
+              "Cloud One hosts sensitive Air Force data, according to the report",
+              "The breach risked exposure of that sensitive data",
+              "The Hill described the incident as the latest in a string of recent cyber incidents and outages affecting government agencies",
+              "No further details on the identity of the hackers, the scope of data accessed, or the Air Force's response were included in the available reporting"
+            ],
+            "analysis": "Cloud One is described as the Air Force's primary cloud computing platform, used to host sensitive information, making any unauthorized access a potential national-security concern. The report originates from Reuters and relies on three sources cited in the report. This incident is framed by The Hill as part of a broader pattern of cyber incidents and system outages hitting U.S. government agencies in recent weeks, suggesting it may be one data point in a larger ongoing trend of vulnerabilities in federal IT infrastructure rather than an isolated event.",
+            "debate": {
+              "dem": [],
+              "rep": []
+            }
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "world": {
+      "title": "International & World",
+      "stories": [
+        {
+          "id": "world-zelensky-criticizes-trump-s-strange-friendship-w",
+          "section": "world",
+          "headline": "Zelensky criticizes Trump's 'strange' friendship with Putin, urges more US pressure on Russia",
+          "beat_label": "Ukraine War",
+          "byline": "International & World desk",
+          "body": [
+            "Ukrainian President Volodymyr Zelensky has voiced deep frustration with the United States, criticizing President Donald Trump for calling Russian President Vladimir Putin 'my friend' and saying delays in delivering vital anti-ballistic missiles were costing Ukrainian lives. In an interview with the BBC at his central Kyiv office, Zelensky complained that the US was not pushing Russia hard enough in peace talks and called it 'strange' that Trump posted a photo of himself embracing Putin on Truth Social. 'Of course it's up to the president of the United States, but... it's strange,' Zelensky said, speaking in English. 'He's an aggressor, and a killer... He can't be a friend. Just cannot be,' he added, comparing it to saying one was friends with Adolf Hitler during World War Two.",
+            "Zelensky called for 'real helpful allies, who can push Russia' to achieve results and urged the US to live up to its reputation as a strong country with 'power and respect.' 'When you try to be very neutral with the aggressor... it means you support victims and you support also aggressor. It's not right,' he said. The US argues that it is neutral in the complex search for a peace deal between the two sides that can hold. Questioned again on Thursday about calling Putin a friend, Trump told reporters: 'We want to stop killing. I could say he's not a friend... I want to make a deal.' He added: 'I could walk in and say, I don't like you, and then we have the same problem that we have with Zelensky and Putin. You know... the biggest problem to that settlement is the fact that you have two leaders that really hate each other.'",
+            "Since a bruising encounter with Trump in the Oval Office in 2025, Zelensky has been careful how he handles relations with the US. Trump's two envoys, Jared Kushner and Steve Witkoff, have been trying to negotiate a peace deal between Russia and Ukraine, but they often seem more in tune with Moscow's position than that of Kyiv. Kushner, Trump's son-in-law, said on Wednesday that Putin had shown 'restraint' by not using nuclear weapons in Ukraine and described Putin as a 'grand master of politics.' The latest round of peace talks in Abu Dhabi earlier this month made no obvious progress: 'The more we know, the more problems,' Zelensky said. He said talks were expected to resume in December. On Thursday, Trump posted on Truth Social that at his own summit with Putin in China last week he had urged Russia to 'pull back all military aggression against territories throughout Europe' and said he believed a peace deal with Ukraine was 'a strong possibility.' But from its public statements, Russia appears to have regressed to its initial, hardline negotiating positions. Zelensky revealed that it was not clear whether European negotiators would be at the table, as the US envoys had announced.",
+            "Russian strikes across Ukraine have been growing more frequent and more deadly, with the number of civilians being killed at an all-time high. Zelensky said the military can now destroy about 70% of Russia's fastest drones, a statistic he said was improving. But there is a 'very, very big' deficit of interceptors to stop ballistic missiles, and he said the Americans were delaying deliveries of its Patriot systems. 'It's a pity they made a focus on Middle East and they help them more… It's a pity. We have huge questions with this,' Zelensky said. 'The deficit of these missiles - that is people's lives.' He also confirmed that the US satellite communications system, Starlink – and its military version, Starshield – were still being restricted in occupied areas of Ukraine. Asked whose decision that was, Zelensky replied: 'Technically SpaceX, politically - I don't know, I really don't know. It's like... ping pong. We are asking one side, they say it's the other.'",
+            "Ukraine's own long-range strikes against Russian targets have increased in recent weeks, including oil refineries and ships carrying weapons or fuel. On Thursday, Italy's Prime Minister Giorgia Meloni said an attack that sank a Russian warship docked in eastern Libya this week risked spreading war to the Mediterranean, which was unacceptable. Zelensky defended the move, calling the warship Merkury an 'absolutely fair goal.' He accepted that such strikes were 'very dangerous' but said Ukraine's forces 'never attack' without coordinating with its partners. He acknowledged that Ukraine was bracing for a difficult and dangerous winter. Recent attacks on Kyiv have targeted bridges over the Dnipro River, apparently trying to cut the city in two. Some residents have already left town for the winter and businesses closed, as power cuts and strikes on logistics networks have pushed operating costs unmanageably high. '[Russia] wants us to run away, of course,' Zelensky said. 'People can go, but we will try to defend our capital in any way. We need our capital. Without a capital, you don't have a country.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "PBS"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "PBS",
+              "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
+              "lean": -0.1,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Ukrainian President Volodymyr Zelensky voiced deep frustration with the United States.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky criticized President Donald Trump for calling Russian President Vladimir Putin 'my friend'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said delays in delivering vital anti-ballistic missiles were costing Ukrainian lives.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky gave an interview to the BBC at his central Kyiv office.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky complained that the US was not pushing Russia hard enough in peace talks.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky called it 'strange' that Trump posted a photo of himself embracing Putin on Truth Social.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said, speaking in English: 'Of course it's up to the president of the United States, but... it's strange.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'He's an aggressor, and a killer... He can't be a friend. Just cannot be.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky compared saying Putin was a friend to saying one was friends with Adolf Hitler during World War Two.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky called for 'real helpful allies, who can push Russia' to achieve results.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky urged the US to live up to its reputation as a strong country with 'power and respect.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'When you try to be very neutral with the aggressor... it means you support victims and you support also aggressor. It's not right.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The US argues that it is neutral in the complex search for a peace deal between the two sides that can hold.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Questioned again on Thursday about calling Putin a friend, Trump told reporters: 'We want to stop killing. I could say he's not a friend... I want to make a deal.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Trump added: 'I could walk in and say, I don't like you, and then we have the same problem that we have with Zelensky and Putin. You know... the biggest problem to that settlement is the fact that you have two leaders that really hate each other.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Since a bruising encounter with Trump in the Oval Office in 2025, Zelensky has been careful how he handles relations with the US.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Trump's two envoys, Jared Kushner and Steve Witkoff, have been trying to negotiate a peace deal between Russia and Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Kushner and Witkoff often seem more in tune with Moscow's position than that of Kyiv.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Kushner, Trump's son-in-law, said on Wednesday that Putin had shown 'restraint' by not using nuclear weapons in Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Kushner described Putin as a 'grand master of politics.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The latest round of peace talks in Abu Dhabi earlier this month made no obvious progress.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'The more we know, the more problems.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said talks were expected to resume in December.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "On Thursday, Trump posted on Truth Social that at his own summit with Putin in China last week he had urged Russia to 'pull back all military aggression against territories throughout Europe'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Trump said he believed a peace deal with Ukraine was 'a strong possibility.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "From its public statements, Russia appears to have regressed to its initial, hardline negotiating positions.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky revealed that it was not clear whether European negotiators would be at the table, as the US envoys had announced.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Russian strikes across Ukraine have been growing more frequent and more deadly.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "The number of civilians being killed is at an all-time high.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said the military can now destroy about 70% of Russia's fastest drones.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said the statistic of destroying 70% of drones was improving.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "There is a 'very, very big' deficit of interceptors to stop ballistic missiles.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said the Americans were delaying deliveries of its Patriot systems.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'It's a pity they made a focus on Middle East and they help them more… It's a pity. We have huge questions with this.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'The deficit of these missiles - that is people's lives.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky confirmed that the US satellite communications system, Starlink – and its military version, Starshield – were still being restricted in occupied areas of Ukraine.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Asked whose decision that was, Zelensky replied: 'Technically SpaceX, politically - I don't know, I really don't know. It's like... ping pong. We are asking one side, they say it's the other.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Ukraine's own long-range strikes against Russian targets have increased in recent weeks, including oil refineries and ships carrying weapons or fuel.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "On Thursday, Italy's Prime Minister Giorgia Meloni said an attack that sank a Russian warship docked in eastern Libya this week risked spreading war to the Mediterranean, which was unacceptable.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky defended the move, calling the warship Merkury an 'absolutely fair goal.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky accepted that such strikes were 'very dangerous'.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said Ukraine's forces 'never attack' without coordinating with its partners.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky acknowledged that Ukraine was bracing for a difficult and dangerous winter.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Recent attacks on Kyiv have targeted bridges over the Dnipro River, apparently trying to cut the city in two.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Some residents have already left town for the winter and businesses closed, as power cuts and strikes on logistics networks have pushed operating costs unmanageably high.",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: '[Russia] wants us to run away, of course.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              },
+              {
+                "text": "Zelensky said: 'People can go, but we will try to defend our capital in any way. We need our capital. Without a capital, you don't have a country.'",
+                "status": "supported",
+                "source_ids": [
+                  "BBC"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.7
+        }
+      ]
+    },
+    "markets": {
+      "title": "Financial & Markets",
+      "stories": [
+        {
+          "id": "markets-china-stocks-surge-most-in-two-years-as-beijing-",
+          "section": "markets",
+          "headline": "China Stocks Surge Most in Two Years as Beijing Vows Stronger Market Support",
+          "beat_label": "China",
+          "byline": "Financial & Markets desk · anchored on Reuters",
+          "body": [
+            "Chinese stocks surged on Friday, with the CSI 300 index climbing 4% in its biggest jump since October 2024, after Beijing issued a rare midday statement pledging stronger state-backed market support. The CSI Semiconductor index of 40 chip stocks rose 17.6%, its largest single-day gain on record, while the STAR index jumped 14%, led by Chinese chipmakers such as CXMT, Cambricon and SMIC. The Hang Seng index rose 2%. Full-day trading volume across the Shanghai, Shenzhen and Beijing exchanges was 52% higher than the previous session.",
+            "The rally followed a morning meeting of the State Council, China's top governing body, chaired by Premier Li Qiang. In a readout published around noon local time by state media Xinhua News — an unusual timing, as such statements are typically released after trading hours — officials pledged to strengthen the role of the \"National Team,\" referring to state-backed funds, to stabilize markets and ensure ample liquidity. The explicit reference to the \"national team\" was a first for a State Council meeting, said Bob Chen, a Shanghai-based venture capitalist and economist. Authorities also stressed that \"capital markets are crucial to the broader economy,\" a rare comment from a government that has not always looked favorably on the financial sector.",
+            "Policymakers vowed to expand the role of \"stabilization funds\" such as Central Huijin Investment, a state-owned firm that holds equity stakes on behalf of the State Council. The message \"effectively institutionalized Central Huijin's role as a state stabilization fund,\" said Hong Hao, managing partner of Lotus Asset Management, adding that he expects this rally to prove more durable than past \"fleeting bounces\" triggered by stimulus talks. The State Council also pledged better policies to steer medium- and long-term funds, such as insurance and social security funds, into equities, and encouraged listed companies to pay more dividends and step up share buybacks, while vowing a crackdown on financial fraud to protect investors.",
+            "Friday's surge came after the CSI 300 on Thursday sank to its lowest level since the escalation of the U.S.-China tariff war in spring 2025, according to Wind data. In recent months, investors have weighed the commercial feasibility of Chinese artificial intelligence developers and tighter U.S. restrictions on advanced chips. The U.S. unveiled a new rule last week to further restrict Chinese companies' access to advanced AI chips, including through overseas data centers, adding pressure on Beijing to accelerate its push for semiconductor self-sufficiency.",
+            "\"Stock market performance is now prioritized at the highest level for the Chinese government,\" Chen said, which is boosting investor confidence. \"That's very strong language from the top officials,\" said Zong Ke, a portfolio manager at a Shanghai-based quantitative fund. Ke said stock trading volumes surged rapidly after the readout was released around 1:00 p.m. local time, and that the national team will accelerate asset purchases. He expects more supportive policies to follow, such as further loosening institutional constraints that have limited long-term funds from investing in stocks. Ke added that Chinese AI-related stocks carry less downside risk than their U.S. counterparts, as the companies have spent less on AI so far and their shares have already been through a sharp correction, giving investors more confidence that the market may be nearing its bottom."
+          ],
+          "contested": false,
+          "covered_by": [
+            "Bloomberg",
+            "CNBC",
+            "Reuters"
+          ],
+          "anchored_on": [
+            "Reuters"
+          ],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "Bloomberg",
+              "url": "https://www.bloomberg.com/news/articles/2026-11-27/china-s-cabinet-stresses-market-support-in-midday-release",
+              "lean": 0.0,
+              "reliability": "high"
+            },
+            {
+              "outlet": "CNBC",
+              "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html"
+            },
+            {
+              "outlet": "Reuters",
+              "url": "https://www.reuters.com/markets/europe/china-stocks-shoot-up-after-beijing-vows-support-2026-11-27/",
+              "lean": 0.0,
+              "reliability": "high"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Chinese stocks surged on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The CSI 300 index climbed 4% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The CSI 300's 4% climb was its biggest jump since October 2024.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Beijing issued a rare midday statement on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The midday statement pledged stronger state-backed market support.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The CSI Semiconductor index of 40 chip stocks rose 17.6% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The CSI Semiconductor index's 17.6% rise was its largest single-day gain on record.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The STAR index jumped 14% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The STAR index was led by Chinese chipmakers such as CXMT, Cambricon and SMIC.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The Hang Seng index rose 2% on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Full-day trading volume across the Shanghai, Shenzhen and Beijing exchanges was 52% higher than the previous session on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The rally followed a morning meeting of the State Council, China's top governing body, chaired by Premier Li Qiang.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "A readout of the State Council meeting was published around noon local time by state media Xinhua News.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The timing of the readout was unusual, as such statements are typically released after trading hours.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In the readout, officials pledged to strengthen the role of the 'National Team,' referring to state-backed funds, to stabilize markets and ensure ample liquidity.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The explicit reference to the 'national team' was a first for a State Council meeting, according to Bob Chen, a Shanghai-based venture capitalist and economist.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Authorities stressed that 'capital markets are crucial to the broader economy' in the readout.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The comment that 'capital markets are crucial to the broader economy' was a rare comment from a government that has not always looked favorably on the financial sector.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Policymakers vowed to expand the role of 'stabilization funds' such as Central Huijin Investment.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Central Huijin Investment is a state-owned firm that holds equity stakes on behalf of the State Council.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The message 'effectively institutionalized Central Huijin's role as a state stabilization fund,' according to Hong Hao, managing partner of Lotus Asset Management.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Hong Hao expects this rally to prove more durable than past 'fleeting bounces' triggered by stimulus talks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The State Council also pledged better policies to steer medium- and long-term funds, such as insurance and social security funds, into equities.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The State Council encouraged listed companies to pay more dividends and step up share buybacks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The State Council vowed a crackdown on financial fraud to protect investors.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The CSI 300 on Thursday sank to its lowest level since the escalation of the U.S.-China tariff war in spring 2025, according to Wind data.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In recent months, investors have weighed the commercial feasibility of Chinese artificial intelligence developers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "In recent months, investors have weighed tighter U.S. restrictions on advanced chips.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The U.S. unveiled a new rule last week to further restrict Chinese companies' access to advanced AI chips, including through overseas data centers.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "The U.S. rule added pressure on Beijing to accelerate its push for semiconductor self-sufficiency.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bob Chen said 'Stock market performance is now prioritized at the highest level for the Chinese government.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Bob Chen said this is boosting investor confidence.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke, a portfolio manager at a Shanghai-based quantitative fund, said 'That's very strong language from the top officials.'",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said stock trading volumes surged rapidly after the readout was released around 1:00 p.m. local time.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said the national team will accelerate asset purchases.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke expects more supportive policies to follow, such as further loosening institutional constraints that have limited long-term funds from investing in stocks.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said Chinese AI-related stocks carry less downside risk than their U.S. counterparts.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said Chinese AI-related companies have spent less on AI so far.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said Chinese AI-related shares have already been through a sharp correction.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              },
+              {
+                "text": "Zong Ke said this gives investors more confidence that the market may be nearing its bottom.",
+                "status": "supported",
+                "source_ids": [
+                  "text"
+                ]
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.7
+        }
+      ],
+      "ticker": {
+        "indices": [
+          {
+            "sym": "S&P 500",
+            "val": "7,297.49",
+            "chg": "−0.59%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,5.4 15.2,12.5 22.0,3.8 28.8,4.8 35.7,5.2 42.5,2.2"
+          },
+          {
+            "sym": "Nasdaq",
+            "val": "24,129.50",
+            "chg": "−0.82%",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,4.8 15.2,12.5 22.0,3.6 28.8,5.7 35.7,6.6 42.5,3.3"
+          },
+          {
+            "sym": "Dow",
+            "val": "50,774.94",
+            "chg": "+0.03%",
+            "dir": "up",
+            "spark": "1.5,3.9 8.3,8.5 15.2,12.5 22.0,6.4 28.8,4.7 35.7,4.0 42.5,1.5"
+          },
+          {
+            "sym": "Russell 2000",
+            "val": "2,750.30",
+            "chg": "+1.79%",
+            "dir": "up",
+            "spark": "1.5,3.8 8.3,7.7 15.2,12.5 22.0,6.8 28.8,5.8 35.7,4.5 42.5,1.5"
+          },
+          {
+            "sym": "10-Yr",
+            "val": "4.93%",
+            "chg": "-13 bp",
+            "dir": "down",
+            "spark": "1.5,1.5 8.3,2.2 15.2,9.3 22.0,9.0 28.8,9.7 35.7,12.5 42.5,8.2"
+          },
+          {
+            "sym": "WTI Crude",
+            "val": "$82.97",
+            "chg": "−0.29%",
+            "dir": "down",
+            "spark": "1.5,3.7 9.7,1.5 17.9,12.5 26.1,7.1 34.3,2.4 42.5,4.4"
+          },
+          {
+            "sym": "Gold",
+            "val": "$3,668.50",
+            "chg": "−0.46%",
+            "dir": "down",
+            "spark": "1.5,1.5 9.7,12.5 17.9,3.7 26.1,9.5 34.3,11.2 42.5,2.6"
+          },
+          {
+            "sym": "BTC",
+            "val": "$59,926",
+            "chg": "−0.28%",
+            "dir": "down",
+            "spark": "1.5,9.9 8.3,1.9 15.2,1.5 22.0,12.5 28.8,7.8 35.7,6.9 42.5,11.2"
+          },
+          {
+            "sym": "VIX",
+            "val": "23.8",
+            "chg": "−16.3%",
+            "dir": "down",
+            "spark": "1.5,8.3 8.3,1.5 15.2,9.9 22.0,10.2 28.8,8.4 35.7,9.8 42.5,12.5"
+          }
+        ],
+        "movers": [
+          {
+            "sym": "AMD",
+            "chg": "−15.7%",
+            "dir": "down"
+          },
+          {
+            "sym": "UNH",
+            "chg": "−9.82%",
+            "dir": "down"
+          },
+          {
+            "sym": "DIS",
+            "chg": "+8.81%",
+            "dir": "up"
+          },
+          {
+            "sym": "AVGO",
+            "chg": "−8.57%",
+            "dir": "down"
+          },
+          {
+            "sym": "TSLA",
+            "chg": "+5.23%",
+            "dir": "up"
+          },
+          {
+            "sym": "WMT",
+            "chg": "+4.40%",
+            "dir": "up"
+          }
+        ],
+        "as_of": "2:35 PM ET"
+      }
+    },
+    "sports": {
+      "title": "Sports",
+      "stories": [
+        {
+          "id": "sports-marc-marquez-announces-retirement-from-motogp-al",
+          "section": "sports",
+          "headline": "Marc Marquez announces retirement from MotoGP; Aldeguer sees opportunity",
+          "beat_label": "MotoGP",
+          "byline": "Sports desk",
+          "body": [
+            "Marc Marquez, the eight-time MotoGP world champion, announced his retirement from the sport on Friday, days after clinching a record-equalling eighth premier-class title. The 10-time world champion across all classes had been hampered by physical issues and double vision, which returned on two occasions after he re-injured his shoulder in Indonesia last season. His departure leaves the most coveted seat on the grid vacant — the one he was due to occupy alongside Pedro Acosta in 2027.",
+            "Fermin Aldeguer, one of the leading candidates to replace Marquez at the factory Ducati MotoGP team, said the retirement took him by surprise but that he had partly expected it. \"At the end of the day, we see each other from time to time, we have a chat every now and then. And, obviously, you can tell he's struggled physically throughout the season,\" Aldeguer said. \"I think next year was one of the biggest challenges he could have set himself, with a new bike, new tyres. For that, as I'd already discussed with him, you have to push the limits, you have to crash, you might even get injured, and I don't think he's at that stage anymore, of going through that. It's the best way to retire – as world champion.\"",
+            "Motorsport.com understands that Ducati will turn to one of the riders from its satellite teams to fill the void left by Marquez, and that Aldeguer is the top choice on the Borgo Panigale-based manufacturer's list. Asked whether Marquez's retirement weighed more heavily on him than the prospect of a move to the Ducati factory team, Aldeguer said: \"Marc leaving opens the door for me to keep developing further and gives me the chance to join them. But this is a very self-centred world; I have to look out for myself, and if I have an opportunity to grow within the brand, I'd prefer that. Being able to battle with Marc over these past two years has been an honour.\"",
+            "Aldeguer finished eighth on Friday at the Valencia GP and said his target for the weekend is a top-five finish. \"Judging by today's performance, we're not that far off the rest. In the end, we're a tenth and a half – not quite two – behind second place. And we're eighth. The gap to Marc is a bit bigger, but we've got his benchmark lap time. We're going to try to learn as much as we can, copy what he does, and then tomorrow, depending on our grid position, we can set a clear target in terms of results. But a top-five finish would already be good.\""
+          ],
+          "contested": false,
+          "covered_by": [
+            "BBC",
+            "Yahoo Sports"
+          ],
+          "anchored_on": [],
+          "reliability": "high",
+          "sources": [
+            {
+              "outlet": "BBC",
+              "url": "https://www.bbc.co.uk/sport/motorsport/videos/c5n4e3pxnengo?at_medium=RSS&at_campaign=rss",
+              "lean": -0.1,
+              "reliability": "high"
+            },
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/f1/articles/fermin-aldeguer-expecting-marc-maquez-191515545.html"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "Marc Marquez is an eight-time MotoGP world champion.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez announced his retirement from MotoGP on Friday.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez clinched a record-equalling eighth premier-class title days before his retirement announcement.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez is a 10-time world champion across all classes.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez had been hampered by physical issues and double vision.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez's double vision returned on two occasions after he re-injured his shoulder in Indonesia last season.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez's departure leaves the most coveted seat on the grid vacant.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Marc Marquez was due to occupy a seat alongside Pedro Acosta in 2027.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer is one of the leading candidates to replace Marquez at the factory Ducati MotoGP team.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said the retirement took him by surprise.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said he partly expected Marquez's retirement.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said he and Marquez see each other from time to time and have chats.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said Marquez struggled physically throughout the season.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said next year was one of the biggest challenges Marquez could have set himself, with a new bike and new tyres.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said he had discussed with Marquez that to push limits, you have to crash and might get injured.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said he does not think Marquez is at the stage of going through that anymore.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said retiring as world champion is the best way to retire.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Motorsport.com understands that Ducati will turn to one of the riders from its satellite teams to fill the void left by Marquez.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Motorsport.com understands that Aldeguer is the top choice on Ducati's list.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said Marc leaving opens the door for him to keep developing further and gives him the chance to join them.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said this is a very self-centred world and he has to look out for himself.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said if he has an opportunity to grow within the brand, he'd prefer that.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said being able to battle with Marc over these past two years has been an honour.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer finished eighth on Friday at the Valencia GP.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said his target for the weekend is a top-five finish.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said judging by Friday's performance, they are not that far off the rest.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said they are a tenth and a half – not quite two – behind second place.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said they are eighth.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said the gap to Marc is a bit bigger, but they have his benchmark lap time.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said they are going to try to learn as much as they can, copy what Marquez does.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said tomorrow, depending on their grid position, they can set a clear target in terms of results.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              },
+              {
+                "text": "Fermin Aldeguer said a top-five finish would already be good.",
+                "status": "supported",
+                "source_ids": [
+                  "Motorsport.com"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8
+        },
+        {
+          "id": "sports-aaron-rodgers-clears-waivers-becomes-free-agent-",
+          "section": "sports",
+          "headline": "Aaron Rodgers clears waivers, becomes free agent after accusing Mike McCarthy of sleeping in meetings",
+          "beat_label": "NFL",
+          "byline": "Sports desk",
+          "body": [
+            "Former Pittsburgh Steelers quarterback Aaron Rodgers officially cleared waivers on Thursday and is now an unrestricted free agent, after the team released him following his public accusations against head coach Mike McCarthy. Rodgers, 42, had been benched earlier in the week and then aired his grievances during an appearance on The Pat McAfee Show. The team released him shortly after. In 10 games for the Steelers in 2026, he completed 60.9 percent of his passes for 2,241 yards, 16 touchdowns and six interceptions.",
+            "On Wednesday's McAfee Show, Rodgers accused McCarthy of sleeping during offensive meetings and arriving late to team meetings throughout the season, and said the behavior was present during their shared tenure with the Green Bay Packers as well as during McCarthy's run as head coach of the Dallas Cowboys. Rodgers claimed that Steelers tight end Pat Freiermuth informed him of the decision to make him inactive for Friday's game against the Denver Broncos. He gave the team an ultimatum to change play callers or release him.",
+            "Both Cowboys owner Jerry Jones and current Cowboys head coach Brian Schottenheimer refuted Rodgers' claims. Jones told reporters he had never seen such behavior and that he had tried to extend McCarthy's contract when it expired after the 2024 season, calling him 'outstanding' and 'one of the finest people around football.' Schottenheimer, who served as McCarthy's offensive coordinator in Dallas, said, 'Mike McCarthy is an incredible man. He's a damn good football coach. My experience with him here was awesome.'",
+            "Former NFL quarterback Cam Newton suggested on his YouTube channel that Rodgers may have been the reason wide receiver George Pickens left the Steelers for the Dallas Cowboys in May 2025. Newton pointed out that before Rodgers signed with Pittsburgh, he trained with DK Metcalf in California while Pickens was still on the roster, saying, 'Who's to say Aaron Rodgers isn't the reason why George Pickens isn't there?' Newton added that Rodgers exhibited 'bad teamship' and was not a 'stand-up citizen.'",
+            "Despite the release, Rodgers' NFL future remains uncertain. According to Kalshi odds, there is an 88% chance he retires or does not sign with a team. The New England Patriots hold a 6% chance, and the Baltimore Ravens—who recently traded for Jacoby Brissett—are at 3%. Dianna Russini reported there is currently no market for Rodgers, though injuries could change the situation quickly. Rodgers signed a one-year deal with the Steelers after being released by the New York Jets following the 2024 season, having previously played for the Green Bay Packers."
+          ],
+          "contested": true,
+          "spectrum": {
+            "centroid": 0.0,
+            "tilt_pill": "Coverage is balanced across the spectrum",
+            "spread": {
+              "liberal": 0,
+              "center": 3,
+              "conservative": 0
+            }
+          },
+          "covered_by": [
+            "Yahoo Sports",
+            "CBS Sports",
+            "NFLTradeRumors.co"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "Yahoo Sports",
+              "url": "https://sports.yahoo.com/betting/articles/aaron-rodgers-free-agency-odds-191511608.html"
+            },
+            {
+              "outlet": "CBS Sports",
+              "url": "https://www.cbssports.com/nfl/news/jerry-jones-calls-mike-mccarthy-outstanding-refutes-aaron-rodgers-accusations/"
+            },
+            {
+              "outlet": "NFLTradeRumors.co",
+              "url": "https://nfltraderumors.co/aaron-rogers-officially-clears-waivers-now-free-agent/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "revise",
+            "claims": [
+              {
+                "text": "Former Pittsburgh Steelers quarterback Aaron Rodgers officially cleared waivers on Thursday.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Aaron Rodgers is now an unrestricted free agent.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The team released him following his public accusations against head coach Mike McCarthy.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers, 42, had been benched earlier in the week.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers aired his grievances during an appearance on The Pat McAfee Show.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "The team released him shortly after his appearance on The Pat McAfee Show.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "In 10 games for the Steelers in 2026, he completed 60.9 percent of his passes for 2,241 yards, 16 touchdowns and six interceptions.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "On Wednesday's McAfee Show, Rodgers accused McCarthy of sleeping during offensive meetings and arriving late to team meetings throughout the season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers said the behavior was present during their shared tenure with the Green Bay Packers as well as during McCarthy's run as head coach of the Dallas Cowboys.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers claimed that Steelers tight end Pat Freiermuth informed him of the decision to make him inactive for Friday's game against the Denver Broncos.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers gave the team an ultimatum to change play callers or release him.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Both Cowboys owner Jerry Jones and current Cowboys head coach Brian Schottenheimer refuted Rodgers' claims.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jones told reporters he had never seen such behavior.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jones said he had tried to extend McCarthy's contract when it expired after the 2024 season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Jones called McCarthy 'outstanding' and 'one of the finest people around football.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Schottenheimer, who served as McCarthy's offensive coordinator in Dallas, said, 'Mike McCarthy is an incredible man. He's a damn good football coach. My experience with him here was awesome.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Former NFL quarterback Cam Newton suggested on his YouTube channel that Rodgers may have been the reason wide receiver George Pickens left the Steelers for the Dallas Cowboys in May 2025.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Newton pointed out that before Rodgers signed with Pittsburgh, he trained with DK Metcalf in California while Pickens was still on the roster.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Newton said, 'Who's to say Aaron Rodgers isn't the reason why George Pickens isn't there?'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Newton added that Rodgers exhibited 'bad teamship' and was not a 'stand-up citizen.'",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "According to Kalshi odds, there is an 88% chance he retires or does not sign with a team.",
+                "status": "supported",
+                "source_ids": [
+                  "Kalshi"
+                ]
+              },
+              {
+                "text": "The New England Patriots hold a 6% chance of signing Rodgers.",
+                "status": "supported",
+                "source_ids": [
+                  "Kalshi"
+                ]
+              },
+              {
+                "text": "The Baltimore Ravens—who recently traded for Jacoby Brissett—are at 3% chance of signing Rodgers.",
+                "status": "supported",
+                "source_ids": [
+                  "Kalshi"
+                ]
+              },
+              {
+                "text": "Dianna Russini reported there is currently no market for Rodgers.",
+                "status": "supported",
+                "source_ids": [
+                  "Dianna Russini"
+                ]
+              },
+              {
+                "text": "Rodgers signed a one-year deal with the Steelers after being released by the New York Jets following the 2024 season.",
+                "status": "supported",
+                "source_ids": []
+              },
+              {
+                "text": "Rodgers previously played for the Green Bay Packers.",
+                "status": "supported",
+                "source_ids": []
+              }
+            ],
+            "notes": "rewritten to drop unsupported claims"
+          },
+          "interestingness": 0.8
+        }
+      ]
+    },
+    "health-science": {
+      "title": "Health & Science",
+      "stories": [
+        {
+          "id": "health-science-u-s-loses-measles-elimination-status-virginia-re",
+          "section": "health-science",
+          "headline": "U.S. loses measles elimination status; Virginia reports uptick",
+          "beat_label": "Public Health",
+          "byline": "Health & Science desk",
+          "body": [
+            "The United States has lost its measles elimination status after 26 years, a shift that a University of Texas at El Paso public health expert said signals a serious erosion of herd immunity and could take months or years to reverse. The Pan American Health Organization determined last week that the country no longer meets the standards for elimination, which the U.S. had maintained since the Centers for Disease Control and Prevention declared measles eliminated in 2000. Dr. Gabriel Ibarra-Mejia, an associate professor in the Department of Public Health and Sciences at UTEP, said the change reflects sustained transmission nationwide over 12 consecutive months, tied to a higher rate of infection among the population.",
+            "Nationally, nearly 6,000 confirmed measles cases have been reported as of late November. In the Borderland, the City of El Paso Department of Public Health recorded 63 confirmed cases in 2025 and 24 cases in 2026, with no new cases documented since Oct. 16. Dr. Ibarra-Mejia said El Paso’s proximity to the border increases the risk of measles spread, noting that the busy border raises the chance of cases spilling over from one side to another. He emphasized that regaining elimination status will not be quick, saying, 'It's going to take months, probably years, in order to regain status,' until the community reaches herd immunity and a threshold of around two cases per month for every 100,000 persons.",
+            "In Virginia, health officials reported 230 cases so far this year, with the bulk occurring between May and June. After a summer outbreak that began in Buckingham County and spread into Cumberland County, statewide cases fell to between one and two per month from July through September. However, 51 cases were reported between mid-October and November, and Dr. Maria Almond, director of the Piedmont Health District, noted a 'current uptick' specifically in Charlotte County. She said holiday travel and gatherings could compound transmission in unvaccinated populations. The recent death of a child under age 4 who tested positive for measles was the first reported measles death in Virginia in nearly 50 years; the state has not released details of the child’s identity or location to protect the family.",
+            "Measles is a highly contagious virus spread through the air, causing high fever, runny nose, bloodshot eyes, and a rash. It weakens the immune system and can lead to dangerous complications such as pneumonia, brain swelling, or a nervous system infection, all possibly deadly. About 90% of cases affect people who are not vaccinated. In Virginia, 67% of cases have been in minors under 18, and 52% of those have been children under 12. Experts say a 95% community vaccination rate is needed to prevent outbreaks, and Dr. Ibarra-Mejia said declining immunization may be contributing to the spikes, adding, 'The figures are showing themselves the benefits of vaccinations.'",
+            "Health officials in Virginia said communities with higher unvaccinated populations have responded with increased requests for vaccination. Dr. Almond said her staff conducted outreach and vaccinations throughout the summer to tame the outbreak, and that 'the Charlotte County community has stepped up with increased requests for vaccination over the past several months.' The resurgence of measles has followed several years of anti-vaccine rhetoric on social media and from within the federal government, including U.S. Secretary of State Robert F. Kennedy Jr., leading to confusion and hesitancy for some parents. For nearly 20 years, the U.S. had averaged 150 measles cases nationwide per year and only three deaths between 2001 and 2018.",
+            "The Virginia Department of Health suggests people unsure of their vaccination status check through a records request in a VDH portal. Vaccines are widely available at pediatrician offices, pharmacies, and local health departments, which also offer free or low-cost options for eligible people. The process for children entails two doses spaced 28 days apart. Health officials consider people born before 1957 who have had measles as a child to be immune, but any adult or child born after that who has not had the disease and has not been vaccinated should seek doses. Blood tests can also determine immunity. In El Paso, free measles vaccination clinics are available; insurance is not needed. Dr. Almond emphasized how 'incredibly contagious' measles is, noting that 'nine out of 10 people without immunity will become ill if in close contact with someone with measles.'"
+          ],
+          "contested": false,
+          "covered_by": [
+            "KFOX",
+            "Virginia Mercury"
+          ],
+          "anchored_on": [],
+          "sources": [
+            {
+              "outlet": "KFOX",
+              "url": "https://kfoxtv.com/news/local/us-loses-measles-free-status-after-26-years-utep-expert-warns-of-fading-immunity"
+            },
+            {
+              "outlet": "Virginia Mercury",
+              "url": "https://virginiamercury.com/2026/11/27/virginia-health-officials-say-communities-have-stepped-up-to-combat-measles-uptick/"
+            }
+          ],
+          "factcheck": {
+            "verdict": "pass",
+            "claims": [
+              {
+                "text": "The United States has lost its measles elimination status after 26 years.",
+                "status": "supported",
+                "source_ids": [
+                  "University of Texas at El Paso public health expert"
+                ]
+              },
+              {
+                "text": "The Pan American Health Organization determined last week that the country no longer meets the standards for elimination.",
+                "status": "supported",
+                "source_ids": [
+                  "Pan American Health Organization"
+                ]
+              },
+              {
+                "text": "The U.S. had maintained elimination status since the Centers for Disease Control and Prevention declared measles eliminated in 2000.",
+                "status": "supported",
+                "source_ids": [
+                  "Centers for Disease Control and Prevention"
+                ]
+              },
+              {
+                "text": "Dr. Gabriel Ibarra-Mejia is an associate professor in the Department of Public Health and Sciences at UTEP.",
+                "status": "supported",
+                "source_ids": [
+                  "University of Texas at El Paso"
+                ]
+              },
+              {
+                "text": "Dr. Gabriel Ibarra-Mejia said the change reflects sustained transmission nationwide over 12 consecutive months.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "The sustained transmission is tied to a higher rate of infection among the population.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Nationally, nearly 6,000 confirmed measles cases have been reported as of late November.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In the Borderland, the City of El Paso Department of Public Health recorded 63 confirmed cases in 2025.",
+                "status": "supported",
+                "source_ids": [
+                  "City of El Paso Department of Public Health"
+                ]
+              },
+              {
+                "text": "In the Borderland, the City of El Paso Department of Public Health recorded 24 cases in 2026.",
+                "status": "supported",
+                "source_ids": [
+                  "City of El Paso Department of Public Health"
+                ]
+              },
+              {
+                "text": "No new cases have been documented since Oct. 16.",
+                "status": "supported",
+                "source_ids": [
+                  "City of El Paso Department of Public Health"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said El Paso’s proximity to the border increases the risk of measles spread.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said the busy border raises the chance of cases spilling over from one side to another.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said regaining elimination status will take months, probably years.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said regaining status requires the community to reach herd immunity and a threshold of around two cases per month for every 100,000 persons.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "In Virginia, health officials reported 230 cases so far this year.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "The bulk of Virginia cases occurred between May and June.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "After a summer outbreak that began in Buckingham County and spread into Cumberland County, statewide cases fell to between one and two per month from July through September.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "51 cases were reported between mid-October and November.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "Dr. Maria Almond is director of the Piedmont Health District.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Dr. Maria Almond noted a 'current uptick' specifically in Charlotte County.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              },
+              {
+                "text": "Dr. Maria Almond said holiday travel and gatherings could compound transmission in unvaccinated populations.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              },
+              {
+                "text": "The recent death of a child under age 4 who tested positive for measles was the first reported measles death in Virginia in nearly 50 years.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "The state has not released details of the child’s identity or location to protect the family.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "Measles is a highly contagious virus spread through the air.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Measles causes high fever, runny nose, bloodshot eyes, and a rash.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Measles weakens the immune system.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Measles can lead to dangerous complications such as pneumonia, brain swelling, or a nervous system infection.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "These complications are possibly deadly.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "About 90% of cases affect people who are not vaccinated.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In Virginia, 67% of cases have been in minors under 18.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "In Virginia, 52% of those cases have been children under 12.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "Experts say a 95% community vaccination rate is needed to prevent outbreaks.",
+                "status": "supported",
+                "source_ids": [
+                  "Experts"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said declining immunization may be contributing to the spikes.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Dr. Ibarra-Mejia said 'The figures are showing themselves the benefits of vaccinations.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Gabriel Ibarra-Mejia"
+                ]
+              },
+              {
+                "text": "Health officials in Virginia said communities with higher unvaccinated populations have responded with increased requests for vaccination.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia health officials"
+                ]
+              },
+              {
+                "text": "Dr. Almond said her staff conducted outreach and vaccinations throughout the summer to tame the outbreak.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              },
+              {
+                "text": "Dr. Almond said 'the Charlotte County community has stepped up with increased requests for vaccination over the past several months.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              },
+              {
+                "text": "The resurgence of measles has followed several years of anti-vaccine rhetoric on social media and from within the federal government.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The anti-vaccine rhetoric includes U.S. Secretary of State Robert F. Kennedy Jr.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The anti-vaccine rhetoric has led to confusion and hesitancy for some parents.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "For nearly 20 years, the U.S. had averaged 150 measles cases nationwide per year.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The U.S. had only three deaths between 2001 and 2018.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The Virginia Department of Health suggests people unsure of their vaccination status check through a records request in a VDH portal.",
+                "status": "supported",
+                "source_ids": [
+                  "Virginia Department of Health"
+                ]
+              },
+              {
+                "text": "Vaccines are widely available at pediatrician offices, pharmacies, and local health departments.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Local health departments offer free or low-cost options for eligible people.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "The process for children entails two doses spaced 28 days apart.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Health officials consider people born before 1957 who have had measles as a child to be immune.",
+                "status": "supported",
+                "source_ids": [
+                  "Health officials"
+                ]
+              },
+              {
+                "text": "Any adult or child born after 1957 who has not had the disease and has not been vaccinated should seek doses.",
+                "status": "supported",
+                "source_ids": [
+                  "Health officials"
+                ]
+              },
+              {
+                "text": "Blood tests can also determine immunity.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "In El Paso, free measles vaccination clinics are available.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Insurance is not needed for El Paso free measles vaccination clinics.",
+                "status": "supported",
+                "source_ids": [
+                  "Text"
+                ]
+              },
+              {
+                "text": "Dr. Almond emphasized how 'incredibly contagious' measles is.",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              },
+              {
+                "text": "Dr. Almond noted that 'nine out of 10 people without immunity will become ill if in close contact with someone with measles.'",
+                "status": "supported",
+                "source_ids": [
+                  "Dr. Maria Almond"
+                ]
+              }
+            ]
+          },
+          "interestingness": 0.8,
+          "significance": 0.8,
+          "image": {
+            "url": "static/img/2026-10-17/health-science-cdc-sends-disease-detective-to-pennsylvania-as-m.jpg",
+            "alt": "Photograph of Centers for Disease Control and Prevention headquarters",
+            "credit": "Photo: U.S. Department of State / Wikimedia Commons (public domain)",
+            "license": "Public domain",
+            "width": 1000,
+            "height": 667
+          }
+        }
+      ]
+    },
+    "tech-ai": {
+      "title": "Tech / AI",
+      "stories": []
+    }
+  },
+  "front_page": [
+    {
+      "section": "politics",
+      "story_id": "politics-supreme-court-to-weigh-bans-on-ar-15s-in-major-s"
+    },
+    {
+      "section": "health-science",
+      "story_id": "health-science-u-s-loses-measles-elimination-status-virginia-re"
+    },
+    {
+      "section": "politics",
+      "story_id": "politics-u-s-forces-disable-vessel-attempting-to-run-iran"
+    }
+  ],
+  "held_stories": [
+    {
+      "section": "politics",
+      "headline": "Republicans rethink tariffs as Democrats see opening to challenge Trump",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "politics",
+      "headline": "Trump's asylum ban heads to Supreme Court as advocates seek due process",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Federal Reserve raises interest rates for first time since 2023",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "markets",
+      "headline": "Nvidia volatility tests Fed's Warsh as stock swings continue",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Tyson Fury medically cleared to fight Anthony Joshua in December",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "sports",
+      "headline": "Premier League clubs demand Man City owners be forced to sell",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "FDA withdraws approval of sickle cell drug Oxbryta after confirmatory trial review",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "California voters approve $8.4B bond for billionaire-backed immunology lab",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "health-science",
+      "headline": "mRNA Ebola vaccine trial begins in Uganda as WHO urges faster research and security improvements",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Nvidia halts chip shipments to Southeast Asia after finding its AI chips at Chinese data center tied to Alice Huang",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "Is Alice Huang a spy? Central claim in Nvidia scandal remains unproven",
+      "reason": "major or contested story needs two attributable sources",
+      "verdict": "hold"
+    },
+    {
+      "section": "tech-ai",
+      "headline": "SAP weighs cutting at least 10,000 positions in AI restructuring",
+      "reason": "still unsupported after one revise",
+      "verdict": "hold"
+    }
+  ]
+}
